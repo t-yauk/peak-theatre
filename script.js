@@ -24,7 +24,7 @@ function toggle_menu(){
 		menu_icon[1].style.transform = "rotate(0deg)";
 		menu_toggle = false;
 	}else{
-		the_menu[0].style.top = "187px";
+		the_menu[0].style.top = "180px";
 		menu_icon[0].style.transform = "rotate(180deg)";
 		menu_icon[1].style.transform = "rotate(180deg)";
 		menu_toggle = true;
