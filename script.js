@@ -7,6 +7,7 @@ const menu_icon = document.getElementsByClassName("control-wrapper");
 let menu_toggle = false;
 let menuItems;
 let data;
+let genre_block;
 
 function menu_01(){
 	toggle_menu();
@@ -97,6 +98,17 @@ setTimeout(function() {
 }, 100);
 
 setTimeout(function() {
+	genre_block = document.querySelectorAll('.genre');
+	genre_block.forEach(element => {
+		element.addEventListener('click', function(event) {
+			const genre = this.innerHTML;
+			localStorage.setItem('the_genre', genre);
+			window.location.reload();
+  		});
+	});
+}, 100);
+
+setTimeout(function() {
 	menuItems = document.querySelectorAll('.menu-item');
 	menuItems.forEach(element => {
 		element.addEventListener('click', function(event) {
@@ -106,3 +118,7 @@ setTimeout(function() {
 		});
 	});
 }, 10);
+
+window.addEventListener('load', function() {
+	window.scrollTo(0, 0);
+});
