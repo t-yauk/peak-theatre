@@ -83,9 +83,6 @@ function populateLibrary(){
 
 	}
 
-}
-
-setTimeout(function() {
 	movieItems = document.querySelectorAll('.item-wrapper');
 	movieItems.forEach(element => {
 		element.addEventListener('click', function(event) {
@@ -95,9 +92,7 @@ setTimeout(function() {
     		this.classList.add("selected");
   		});
 	});
-}, 12);
 
-setTimeout(function() {
 	genre_block = document.querySelectorAll('.genre');
 	genre_block.forEach(element => {
 		element.addEventListener('click', function(event) {
@@ -106,7 +101,8 @@ setTimeout(function() {
 			window.location.reload();
   		});
 	});
-}, 100);
+
+}
 
 setTimeout(function() {
 	menuItems = document.querySelectorAll('.menu-item');
