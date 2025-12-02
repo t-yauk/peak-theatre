@@ -26,7 +26,7 @@ function toggle_menu(){
 		site_wrapper[0].style.opacity = "1";
 		menu_toggle = false;
 	}else{
-		the_menu[0].style.top = "180px";
+		the_menu[0].style.top = "170px";
 		menu_icon[0].style.transform = "rotate(180deg)";
 		menu_icon[1].style.transform = "rotate(180deg)";
 		setTimeout(function(){
