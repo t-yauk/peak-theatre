@@ -9,11 +9,44 @@
 </head>
 <body onload="load_library()">
 
-	<h1>Peak Theatre</h1>
+	<h1 class="title">Peak Theatre</h1>
 
-	<div class="main"></div>
+	<div id="current-list">All Genres</div>
+
+	<div class="menu">
+		<div class="control-wrapper top" onclick="menu_01()"><span class="fa-solid fa-angle-down"></span></div>
+
+		<div class="menu-wrapper">
+			<span class="menu-item">All Genres</span>
+			<span class="menu-item">Action</span>
+			<span class="menu-item">Adventure</span>
+			<span class="menu-item">Comedy</span>
+			<span class="menu-item">Crime</span>
+			<span class="menu-item">Documentary</span>
+			<span class="menu-item">Drama</span>
+			<span class="menu-item">Family</span>
+			<span class="menu-item">Fantasy</span>
+			<span class="menu-item">Horror</span>
+			<span class="menu-item">Musical</span>
+			<span class="menu-item">Mystery</span>
+			<span class="menu-item">Noir</span>
+			<span class="menu-item">Romance</span>
+			<span class="menu-item">Sci-Fi</span>
+			<span class="menu-item">Sport</span>
+			<span class="menu-item">Thriller</span>
+			<span class="menu-item">War</span>
+			<span class="menu-item">Western</span>
+		</div>
+
+		<div class="control-wrapper bottom" onclick="menu_02()"><span class="fa-solid fa-angle-down"></span></div>
+	</div>
+
+	<div class="site-wrapper">
+		<div class="main"></div>
+	</div>
 
 	<script src="script.js"></script>
+	<script src="https://kit.fontawesome.com/5c9a0c6cfa.js" crossorigin="anonymous"></script>
 
 </body>
 </html>
