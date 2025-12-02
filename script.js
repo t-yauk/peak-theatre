@@ -1,192 +1,125 @@
-/*
+let library;
+const main_container = document.getElementsByClassName("main");
+let movieItems;
+let setGenre = localStorage.getItem('the_genre');
+const the_menu = document.getElementsByClassName("menu");
+const menu_icon = document.getElementsByClassName("control-wrapper");
+let menu_toggle = false;
+let menuItems;
+let data;
+let genre_block;
+const site_wrapper = document.getElementsByClassName("site-wrapper");
 
-Theme: Peak Theatre
-
-*/
-
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lexend+Deca:wght@100..900&display=swap');
-
-.bebas-neue-regular {
-  font-family: "Bebas Neue", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+function menu_01(){
+	toggle_menu();
 }
 
-.site-wrapper{
-	display: block;
-	margin-top: 200px;
-	opacity: 1;
-	transition: 1s;
+function menu_02(){
+	toggle_menu();
 }
 
-body{
-	background: black;
-	color: white;
-	text-align: center;
+function toggle_menu(){
+	if(menu_toggle == true){
+		the_menu[0].style.top = "-72vh";
+		menu_icon[0].style.transform = "rotate(0deg)";
+		menu_icon[1].style.transform = "rotate(0deg)";
+		site_wrapper[0].style.opacity = "1";
+		menu_toggle = false;
+	}else{
+		the_menu[0].style.top = "180px";
+		menu_icon[0].style.transform = "rotate(180deg)";
+		menu_icon[1].style.transform = "rotate(180deg)";
+		setTimeout(function(){
+			site_wrapper[0].style.opacity = "0";
+		}, 500);
+		menu_toggle = true;
+	}
 }
 
-h1.title{
-	display: block;
-	position: fixed;
-	width: 100%;
-	top: 0px;
-	font-family: "Bebas Neue", sans-serif;
-	font-size: 4rem;
-	padding: 25px 0px 15px 0px;
-	z-index: 2000;
-	background: black;
+function load_library(){
+
+	if(setGenre == null || setGenre == "All Genres"){
+		setGenre = "all";
+	}
+
+	document.getElementById("current-list").innerHTML = setGenre + " Movies";
+	
+	getMeta();
+
 }
 
-#current-list{
-	display: block;
-	position: fixed;
-	z-index: 2000;
-	width: 100%;
-	font-size: 1.3rem;
-	line-height: 1;
-	background: white;
-	color: rgb(44,112,244);
-	font-weight: bold;
-	padding: 12px 0px;
-	text-transform: uppercase;
-	top: 17%;
+async function getMeta(){
+
+	const requestURL = "https://t-yauk.github.io/peak-theatre/library.json";
+  	const request = new Request(requestURL);
+
+  	const response = await fetch(request);
+  	const movies = await response.json();
+  	data = movies.movies;
+
+  	if(setGenre == "all"){
+  		library = data;
+  	}else{
+  		library = data.filter(movies => movies.genre && movies.genre.includes(setGenre));
+  	}
+
+  	localStorage.clear();
+
+  	populateLibrary();
+
 }
 
-.menu{
-	display: block;
-	position: fixed;
-	width: 100%;
-	min-height: 100vh;
-	background: #0d3759;
-	top: -72vh;
-	left: 0px;
-	z-index: 1000;
-	transition: 1s;
-	padding-top: 60px;
-	overflow: auto;
+function populateLibrary(){
+
+	for(let i = 0;i < library.length;i++){
+
+		const movieItem = document.createElement("div");
+		movieItem.classList.add('item-wrapper');
+		if((library[i].genre).length > 1){
+			movieItem.innerHTML = "<div class='movie-item'><span class='title'>" + library[i].title + "<br><span class='year'>(" + library[i].year + ")</span></span></div><div class='movie-details'><span class='title'>" + library[i].title + " (" + library[i].year + ")</span><span class='director'>Directed By: " + library[i].director + "</span><p class='description'>" + library[i].description + "</p><span class='genre'>" + library[i].genre[0] + "</span><span class='genre'>" + library[i].genre[1] + "</span></div>";
+		}else{
+			movieItem.innerHTML = "<div class='movie-item'><span class='title'>" + library[i].title + "<br><span class='year'>(" + library[i].year + ")</span></span></div><div class='movie-details'><span class='title'>" + library[i].title + " (" + library[i].year + ")</span><span class='director'>Directed By: " + library[i].director + "</span><p class='description'>" + library[i].description + "</p><span class='genre'>" + library[i].genre[0] + "</span></div>";
+		}
+		main_container[0].appendChild(movieItem);
+		setTimeout(function() {
+			const imageItem = document.getElementsByClassName('movie-item');
+			imageItem[i].style.backgroundImage = "url('" + library[i].previewImage + "')";
+		}, 10);
+
+	}
+
+	movieItems = document.querySelectorAll('.item-wrapper');
+	movieItems.forEach(element => {
+		element.addEventListener('click', function(event) {
+			for(let i = 0;i < movieItems.length;i++){
+				movieItems[i].classList.remove("selected");
+			}
+    		this.classList.add("selected");
+  		});
+	});
+
+	genre_block = document.querySelectorAll('.genre');
+	genre_block.forEach(element => {
+		element.addEventListener('click', function(event) {
+			const genre = this.innerHTML;
+			localStorage.setItem('the_genre', genre);
+			window.location.reload();
+  		});
+	});
+
 }
 
-.menu .control-wrapper{
-	display: block;
-	width: 100%;
-	transform: rotate(0deg);
-	position: absolute;
-	font-size: 2rem;
-  	cursor: pointer;
-  	transition: 1s;
-}
+setTimeout(function() {
+	menuItems = document.querySelectorAll('.menu-item');
+	menuItems.forEach(element => {
+		element.addEventListener('click', function(event) {
+			const genre = this.innerHTML;
+			localStorage.setItem('the_genre', genre);
+			window.location.reload();
+		});
+	});
+}, 10);
 
-.menu .control-wrapper.top{
-  	top: 0%;
-}
-
-.menu .control-wrapper.bottom{
-  	bottom: 0;
-}
-
-.menu-wrapper{
-	display: block;
-	position: relative;
-	top: 15%;
-	height: 71vh;
-	overflow-y: scroll;
-}
-
-.menu-wrapper .menu-item{
-	display: block;
-	font-size: 1.5rem;
-	font-weight: bold;
-	text-transform: uppercase;
-	margin-bottom: 15px;
-	cursor: pointer;
-	transform: scale(1.0);
-	transition: 0.3s;
-}
-
-.menu-item:active{
-	transform: scale(1.3);
-}
-
-.movie-item{
-	display: flex;
-	width: 100%;
-	justify-content: center;
-  	align-items: center;
-	aspect-ratio: 2/1;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-	padding: 20px;
-	box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.2);
-	cursor: pointer;
-	filter: drop-shadow(0 0 0.7rem rgba(0,0,0,0.1));
-}
-
-.movie-item .title{
-	display: block;
-	font-family: "Bebas Neue", sans-serif;
-	font-size: 4em;
-	line-height: 1;
-	filter: drop-shadow(0 0 0.7rem rgba(0,0,0,0.2));
-}
-
-.movie-item .title .year{
-	display: block;
-	font-size: 0.5em;
-	line-height: 1;
-	font-family: sans-serif;
-	font-weight: bold;
-}
-
-.movie-details{
-	display: block;
-	width: 100%;
-	height: 0px;
-	background: white;
-	padding: 0px;
-	transition: 1s;
-	text-align: left;
-	color: black;
-	opacity: 0;
-}
-
-.selected .movie-details{
-	height: 250px;
-	padding: 20px;
-	opacity: 1;
-}
-
-.movie-details .title{
-	display: block;
-	font-size: 1.6rem;
-	font-weight: bold;
-	line-height: 1;
-}
-
-.movie-details .director{
-	display: block;
-	font-size: 1.1rem;
-	font-weight: bold;
-	padding: 7px 0px;
-	color: rgb(44,112,244);
-}
-
-.movie-details .genre{
-	display: inline-block;
-	font-size: 1.1rem;
-	line-height: 1;
-	font-weight: bold;
-	text-transform: uppercase;
-	padding: 7.5px 15px;
-	margin-right: 5px;
-	background: #0d3759;
-	color: white;
-	transform: scale(1.0);
-	cursor: pointer;
-	transition: 0.3s;
-}
-
-.genre:active{
-	transform: scale(1.3);
-}
-
+window.addEventListener('load', function() {
+	window.scrollTo(0, 0);
+});
