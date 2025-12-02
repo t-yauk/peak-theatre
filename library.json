@@ -1,0 +1,1432 @@
+{
+	"movies": [
+
+		{
+			"title": "The Adventures Of Ichabod And Mr. Toad",
+			"director": "James Algar, Clyde Geronimi, Jack Kinney",
+			"year": "1949",
+			"duration": "1h 8m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZDRkODhiMTMtZDg0ZC00ZTFhLTk2MDAtMWI3ZjcxMmY1OTllXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BZDViNWRjYTktOTJhMi00ZjVjLThmYzctYTBjMWQwOTA4YTEwXkEyXkFqcGc@._V1_FMjpg_UX1440_.jpg",
+			"description": "An animated adaptation of 'The Wind in the Willows' followed by an adaptation of 'The Legend of Sleepy Hollow'.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Family", "Horror"],
+            "id": "the-adventures-of-ichabod-and-mr-toad.mp4",
+            "trailer_id": "ichabod.mp4",
+            "endTime": "12"
+		},
+
+		{
+			"title": "Airplane!",
+			"director": "David Zucker, Jim Abrahams, Jerry Zucker",
+			"year": "1980",
+			"duration": "1h 28m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNGMxMDRhMjItMDNlZi00MDIzLWE5MDQtODljMDQ3MWM1Y2E4XkEyXkFqcGc@._V1_FMjpg_UX623_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BMTQ1NjA2MjU1Nl5BMl5BanBnXkFtZTcwNDI0NTA2OQ@@._V1_FMjpg_UX2048_.jpg",
+			"description": "After the crew becomes sick with food poisoning, a neurotic ex-fighter pilot must safely land a commercial airplane full of passengers.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy"],
+            "id": "airplane.mkv",
+            "endTime": "284"
+		},
+
+		{
+			"title": "American Psycho",
+			"director": "Mary Harron",
+			"year": "2000",
+			"duration": "1h 42m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_FMjpg_UX1012_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BOWFhZmM2MjgtNDYyOS00NWEwLTlkZDMtMWZkODJlNzY1NzFjXkEyXkFqcGc@._V1_FMjpg_UX1920_.jpg",
+			"description": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller"],
+            "id": "american-psycho.mkv",
+            "endTime": "297"
+		},
+
+		{
+			"title": "An American Werewolf In London",
+			"director": "John Landis",
+			"year": "1981",
+			"duration": "1h 37m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOWYyNmMwMTUtZjE2OC00YWQzLWJmMzctNzhmMDI1OTQwNzdhXkEyXkFqcGc@._V1_FMjpg_UY2918_.jpg",
+			"previewImage": "https://images8.alphacoders.com/797/thumb-1920-797106.jpg",
+			"description": "American college students David Kessler and Jack Goodman on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists. Jack dies. David recovers in a hospital, where he has nightmares.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Comedy"],
+            "id": "an-american-werewolf-in-london.mkv",
+            "endTime": "213"
+		},
+
+		{
+			"title": "Anchors Aweigh",
+			"director": "George Sidney",
+			"year": "1945",
+			"duration": "2h 23m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzFiYzI3NzUtZmJhNy00N2JlLTk4NGEtNGRlMGI5MDdjNzUzXkEyXkFqcGc@._V1_FMjpg_UY2669_.jpg",
+			"previewImage": "https://prod-images.tcm.com/Master-Profile-Images/anchorsaweigh1945.10.jpg",
+			"description": "A pair of sailors on leave try to help a movie extra become a singing star.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Musical"],
+            "id": "anchors-aweigh.mp4",
+            "endTime": "51"
+		},
+
+		{
+			"title": "Apocalypse Now",
+			"director": "Francis Ford Coppola",
+			"year": "1979",
+			"duration": "3h 2m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjY1ZmY0ZGMtYWExOC00NTQyLTk2NWUtYTI0YjViZGNiMTFhXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p08mckm5.jpg",
+			"description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["War", "Action"],
+            "id": "apocalypse-now.mkv",
+            "endTime": "368"
+		},
+
+		{
+			"title": "Badlands",
+			"director": "Terrence Malick",
+			"year": "1973",
+			"duration": "1h 35m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BN2U3ZjE1ZjUtYTRkMy00NTJiLTgyNzktMmE1OTUzYmRlOTUzXkEyXkFqcGc@._V1_FMjpg_UY2265_.jpg",
+			"previewImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thenewyorker.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1396649140/thenewyorker_badlands.jpg",
+			"description": "An impressionable teenage girl from a dead-end town, and her older greaser boyfriend, embark on a killing spree in the South Dakota Badlands.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Crime", "Noir"],
+            "id": "badlands.mp4",
+            "endTime": "172"
+		},
+
+		{
+			"title": "Barry Lyndon",
+			"director": "Stanley Kubrick",
+			"year": "1975",
+			"duration": "3h 7m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_FMjpg_UX658_.jpg",
+			"previewImage": "https://image.tmdb.org/t/p/original/bmvubTLFJ2eYmoxU3Jd44YMPipC.jpg",
+			"description": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["War", "Adventure"],
+            "id": "barry-lyndon.mkv",
+            "endTime": "206"
+		},
+
+		{
+			"title": "The Batman",
+			"director": "Matt Reeves",
+			"year": "2022",
+			"duration": "2h 56m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzY3NTU5ZGUtYWU5ZS00Zjg4LTgzZGMtYTg4OTZmNGNlMjMxXkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
+			"previewImage": "https://images8.alphacoders.com/123/1230383.jpg",
+			"description": "When a sadistic serial killer begins murdering key political figures in Gotham, the Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Crime"],
+            "id": "the-batman.mkv",
+            "trailer_id": "the-batman.mp4",
+            "endTime": "551"
+		},
+
+		{
+			"title": "Beetlejuice",
+			"director": "Tim Burton",
+			"year": "1988",
+			"duration": "1h 32m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYjkwNzVlNDEtMTJlNy00OTdlLTljYWItM2RkZmZkYzY3YjM2XkEyXkFqcGc@._V1_FMjpg_UX1005_.jpg",
+			"previewImage": "https://i.redd.it/6e4ob2x5r27b1.jpg",
+			"description": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Comedy"],
+            "id": "beetlejuice.mkv",
+            "endTime": "209"
+		},
+
+		{
+			"title": "The Birdcage",
+			"director": "Mike Nichols",
+			"year": "1996",
+			"duration": "1h 58m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTM2NjExODYyOF5BMl5BanBnXkFtZTcwNTc0NjgyNA@@._V1_FMjpg_UX682_.jpg",
+			"previewImage": "https://film-grab.com/wp-content/uploads/2019/11/The-Birdcage-040.jpg",
+			"description": "A gay cabaret owner and his drag queen companion agree to put up a false straight front so that their son can introduce them to his fiancée's right-wing, conservative parents",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Drama"],
+            "id": "the-birdcage.mp4",
+            "endTime": "213"
+		},
+
+		{
+			"title": "Black Narcissus",
+			"director": "Michael Powell, Emeric Pressburger",
+			"year": "1947",
+			"duration": "1h 40m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjRmMTQyNDEtNWM4Zi00ZTMwLTlkOGUtZTdmZDU0NTNiZTQ0XkEyXkFqcGc@._V1_FMjpg_UY3315_.jpg",
+			"previewImage": "https://pics.filmaffinity.com/black_narcissus-500768713-large.jpg",
+			"description": "A group of nuns struggle to establish a convent in the Himalayas, while isolation, extreme weather, altitude, and culture clashes all conspire to drive the well-intentioned missionaries mad.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Thriller", "Drama"],
+            "id": "black-narcissus.mp4",
+            "endTime": "15"
+		},
+
+		{
+			"title": "Blade Runner",
+			"director": "Ridley Scott",
+			"year": "1982",
+			"duration": "1h 57m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_FMjpg_UY4250_.jpg",
+			"previewImage": "https://wallpapercat.com/w/full/e/1/a/485616-2920x1616-desktop-hd-rachael-blade-runner-wallpaper-image.jpg",
+			"description": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sci-Fi", "Action"],
+            "id": "blade-runner.mkv",
+            "endTime": "308"
+		},
+
+		{
+			"title": "Blade Runner 2049",
+			"director": "Denis Villeneuve",
+			"year": "2017",
+			"duration": "2h 43m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://wallpapers.com/images/hd/blade-runner-2049-background-rq66zawe4sw2knxp.jpg",
+			"description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sci-Fi", "Action"],
+            "id": "blade-runner-2049.mkv",
+            "endTime": "638"
+		},
+
+		{
+			"title": "Blood Simple",
+			"director": "Ethan Coen, Joel Coen",
+			"year": "1984",
+			"duration": "1h 39m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZjRmYjYzNjktNzBlOC00NThmLTk5Y2EtZTgxMjUxYmIyMzA3XkEyXkFqcGc@._V1_FMjpg_UY3508_.jpg",
+			"previewImage": "https://cdn.genery.online/file/genery-assets/titles/4d096513-7000-4751-9a39-61e184441963/1920/backdrop_Xln8gbGHjj.jpg",
+			"description": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies, and mischief ensues after he devises a plot to have them murdered.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Crime", "Thriller"],
+            "id": "blood-simple.mkv",
+            "endTime": "143"
+		},
+
+		{
+			"title": "Blow Out",
+			"director": "Brian De Palma",
+			"year": "1981",
+			"duration": "1h 47m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzkzODYxZTYtYWJkMS00NTZhLTk1ZTEtMWM2ZTU3MjE1ZTViXkEyXkFqcGc@._V1_FMjpg_UX805_.jpg",
+			"previewImage": "https://moviemezzanine.com/wp-content/uploads/blow-out-still.jpg",
+			"description": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Mystery"],
+            "id": "blow-out.mkv",
+            "endTime": "186"
+		},
+
+		{
+			"title": "Brazil",
+			"director": "Terry Gilliam",
+			"year": "1985",
+			"duration": "2h 22m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjI1MTAzNmYtYzQ3Zi00ZWE0LWJiZmQtY2UwZWU3ZTE4OGQ3XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+			"previewImage": "https://images.squarespace-cdn.com/content/v1/5856d460197aea66c1dc96bf/1482091264927-V2FOUQHZ8IDJFWE0LSO1/brazil-1.jpg",
+			"description": "A bureaucrat in a dystopic society becomes an enemy of the state as he pursues the woman of his dreams.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sci-Fi", "Comedy"],
+            "id": "brazil.mkv",
+            "endTime": "222"
+		},
+
+		{
+			"title": "Breathless",
+			"director": "Jean-Luc Godard",
+			"year": "1960",
+			"duration": "1h 30m",
+			"image_url": "https://s3.amazonaws.com/criterion-production/films/cbbba20dd4d6cc66800de5b92278ce57/LsVjs5RCEvtZRI65Qd3c2XJk1mhCxa_large.jpg",
+			"previewImage": "https://media.newyorker.com/photos/59096dfd6552fa0be68300a7/master/w_2000,h_1557,c_limit/Cauchetier-new06.jpg",
+			"description": "A small-time crook, hunted by the authorities for a car theft and the murder of a police officer, attempts to persuade a hip American journalism student to run away with him to Italy.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Crime", "Romance"],
+            "id": "breathless.mp4",
+            "endTime": "7"
+		},
+
+		{
+			"title": "Cabaret",
+			"director": "Bob Fosse",
+			"year": "1972",
+			"duration": "2h 4m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZGExNGNlNmQtZTlmNy00MmZkLWE1MjgtZGYwODY0ZDI1YzMwXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://i.guim.co.uk/img/media/25705f64adf78cb16b244c514be0032fa1f9adbf/131_0_3245_1948/master/3245.jpg?width=1200&quality=85&auto=format&fit=max&s=398d865b0278f5af4e57932a554b9b82",
+			"description": "A female girlie club entertainer in Weimar Republic era Berlin romances two men while the Nazi Party rises to power around them.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Musical"],
+            "id": "cabaret.mkv",
+            "endTime": "71"
+		},
+
+		{
+			"title": "Casablanca",
+			"director": "Michael Curtiz",
+			"year": "1942",
+			"duration": "1h 42m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTY0OGExYmUtM2JiNy00NmIzLTlkYWItY2VkOTRhZTBiMjgyXkEyXkFqcGc@._V1_FMjpg_UY2500_.jpg",
+			"previewImage": "https://images7.alphacoders.com/128/1287640.jpg",
+			"description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Romance", "War"],
+            "id": "casablanca.mkv",
+            "endTime": "12"
+		},
+
+		{
+			"title": "Challengers",
+			"director": "Luca Guadagnino",
+			"year": "2024",
+			"duration": "2h 11m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZTcyZGIyODctZGJhOS00MWUyLWI5ZWEtMjg4YzhkMDczMDBhXkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
+			"previewImage": "https://images7.alphacoders.com/137/1372151.jpeg",
+			"description": "Tashi, a former tennis prodigy turned coach, transformed her husband into a champion. But to overcome a recent losing streak and redeem himself, he'll need to face off against his former best friend and Tashi's ex-boyfriend.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sport", "Romance"],
+            "id": "challengers.mkv",
+            "endTime": "240"
+		},
+
+		{
+			"title": "Charade",
+			"director": "Stanley Donen",
+			"year": "1963",
+			"duration": "1h 53m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BM2FiMmFkNWItNzNmOS00MWQ3LWExNTUtZWJkOTBmNzg0ZWRjXkEyXkFqcGc@._V1_FMjpg_UX1026_.jpg",
+			"previewImage": "https://images.sbs.com.au/drupal/film/public/charade-backdrop.jpg",
+			"description": "Romance and intrigue ensue in Paris as a woman is pursued by several men who want to get their hands on a fortune her murdered husband had stolen. She soon loses trust in those who claim they want to help her.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comdey", "Thriller"],
+            "id": "charade.mp4",
+            "endTime": "10"
+		},
+
+		{
+			"title": "A Charlie Brown Christmas",
+			"director": "Bill Melendez",
+			"year": "1965",
+			"duration": "30m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjViMWMxNWItYTk2OC00MWQwLWIyMzktNDQ4YWIyYjcxZGIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23123846/charlie_brown_christmas.jpeg",
+			"description": "Depressed at the commercialism he sees around him, Charlie Brown tries to find a deeper meaning to Christmas.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Christmas"],
+            "id": "a-charlie-brown-christmas.mkv",
+            "trailer_id": "a-charlie-brown-christmas.mp4",
+            "endTime": ""
+		},
+
+		{
+			"title": "Citizen Kane",
+			"director": "Orson Welles",
+			"year": "1941",
+			"duration": "1h 59m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_FMjpg_UX1100_.jpg",
+			"previewImage": "https://wallpapers.com/images/hd/proud-citizen-kane-c2b17hk598d7tsz8.jpg",
+			"description": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Mystery"],
+            "id": "citizen-kane.mkv",
+            "endTime": "58"
+		},
+
+		{
+			"title": "Original Cast Album: Company",
+			"director": "D. A. Pennebaker",
+			"year": "1970",
+			"duration": "1 hour",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOGJiYjgwODEtMjMzNC00YzMxLWI0MTItOTdlMTI4ZjdkMTAyXkEyXkFqcGc@._V1_FMjpg_UX1063_.jpg",
+			"previewImage": "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/7498-/QPdsfFq4xzXQoKxPkj5pyk577GCnbn_original.jpg",
+			"description": "'Company' musical's original cast recording session filmed by D.A. Pennebaker in 1970. Captures interactions between Sondheim, performers and live recording process, culminating with Elaine Stritch's iconic 'The Ladies Who Lunch' rendition",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Documentary", "Musical"],
+            "id": "company.mkv",
+            "endTime": "91"
+		},
+
+		{
+			"title": "Deliverance",
+			"director": "John Boorman",
+			"year": "1972",
+			"duration": "1h 49m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMWUyN2RlM2QtYzVlNy00Njc3LTgzMDMtNmJmMTk0OGY3ODFmXkEyXkFqcGc@._V1_FMjpg_UY2940_.jpg",
+			"previewImage": "https://a.ltrbxd.com/resized/sm/upload/us/b0/d1/qe/deliverance-1200-1200-675-675-crop-000000.jpg",
+			"description": "Intent on seeing the Cahulawassee River before it's dammed and turned into a lake, outdoor fanatic Lewis Medlock takes his friends on a canoeing trip they'll never forget into the dangerous American back-country.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Action", "Thriller"],
+            "id": "deliverance.mp4",
+            "endTime": "41"
+		},
+
+		{
+			"title": "Django Unchained",
+			"director": "Quentin Tarantino",
+			"year": "2012",
+			"duration": "2h 45m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://wallpapercat.com/w/full/0/7/f/277073-3840x2160-desktop-4k-django-unchained-wallpaper.jpg",
+			"description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Western", "Action"],
+            "id": "django-unchained.mkv",
+            "endTime": "209"
+		},
+
+		{
+			"title": "Do The Right Thing",
+			"director": "Spike Lee",
+			"year": "1989",
+			"duration": "2 hours",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODA2MjU1NTI1MV5BMl5BanBnXkFtZTgwOTU4ODIwMjE@._V1_FMjpg_UY4878_.jpg",
+			"previewImage": "https://assets3.thrillist.com/v1/image/2876731/1200x600/scale;;webp=auto;jpeg_quality=85.jpg",
+			"description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Drama"],
+            "id": "do-the-right-thing.mkv",
+            "endTime": "355"
+		},
+
+		{
+			"title": "Edward Scissorhands",
+			"director": "Tim Burton",
+			"year": "1990",
+			"duration": "1h 45m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_FMjpg_UY2915_.jpg",
+			"previewImage": "https://cdn.wallpapersafari.com/18/33/QJDy6i.jpg",
+			"description": "The solitary life of an artificial man - who was incompletely constructed and has scissors for hands - is upended when he is taken in by a suburban family.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Fantasy", "Romance"],
+            "id": "edward-scissorhands.mkv",
+            "endTime": "309"
+		},
+
+		{
+			"title": "Escape From Alcatraz",
+			"director": "Don Siegel",
+			"year": "1979",
+			"duration": "1h 52m",
+			"image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3635_p_v8_af.jpg",
+			"previewImage": "https://www.cinematheque.qc.ca/workspace/uploads/projections/escape_from_alcatraz-753351289-large-fr-1707767027.jpg",
+			"description": "Alcatraz is the most secure prison of its time. It is believed that no one can ever escape from it, until three daring men make a possibly successful attempt at escaping from one of the most infamous prisons in the world.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Action"],
+            "id": "escape-from-alcatraz.mkv",
+            "endTime": "143"
+		},
+
+		{
+			"title": "Excalibur",
+			"director": "John Boorman",
+			"year": "1981",
+			"duration": "2h 21m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTI0ZTZlNGMtNjhmNi00OGFiLTkzYjEtZmZiODgxMzI3YTE0XkEyXkFqcGc@._V1_FMjpg_UY2930_.jpg",
+			"previewImage": "https://www.framerated.co.uk/frwpcontent/uploads/2021/03/excalibur01.jpg",
+			"description": "Merlin the magician helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as dark forces conspire to tear it apart.",
+			"featured": "false",
+			"theatre_optimized": "fa lse",
+			"genre": ["Fantasy", "Adventure"],
+            "id": "excalibur.mp4",
+            "endTime": "194"
+		},
+
+		{
+			"title": "The Exorcist",
+			"director": "William Friedkin",
+			"year": "1973",
+			"duration": "2h 2m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_FMjpg_UY2239_.jpg",
+			"previewImage": "https://wallpapers.com/images/hd/the-exorcist-film-silhouette-wrm4wjl9foib24tr.jpg",
+			"description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Mystery"],
+            "id": "exorcist.mkv",
+            "endTime": "245"
+		},
+
+		{
+			"title": "Frankenstein",
+			"director": "Guillermo Del Toro",
+			"year": "2025",
+			"duration": "2h 29m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_FMjpg_UX1012_.jpg",
+			"previewImage": "https://images6.alphacoders.com/140/thumb-1920-1401577.jpg",
+			"description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+			"featured": "true",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Sci-Fi"],
+            "id": "sample.mkv",
+            "trailer_id": "frankenstein.mp4",
+			"endTime": "639"
+		},
+
+		{
+			"title": "The Gate",
+			"director": "Tibor Takács",
+			"year": "1987",
+			"duration": "1h 25m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZDQxMDA2YmItNzk0My00ZmM5LTg1NTQtNzZmZmRkOTM1ZWFlXkEyXkFqcGc@._V1_FMjpg_UY2753_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BNzIxODA0ZjUtNmI4Zi00MGMwLWFmYWMtNzY5OTViYmY5OWRkXkEyXkFqcGc@._V1_.jpg",
+			"description": "Kids left home alone accidentally unleash a horde of malevolent demons from a mysterious hole in their suburban backyard.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Horror", "Fantasy"],
+            "id": "the-gate.mp4",
+            "endTime": "188"
+		},
+
+		{
+			"title": "Grease",
+			"director": "Randal Kleiser",
+			"year": "1978",
+			"duration": "1h 45m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNGY0NzE0ZTctN2YzNC00M2IwLWI0OWYtMTAwZWU2NjZhMTQwXkEyXkFqcGc@._V1_FMjpg_UX932_.jpg",
+			"previewImage": "https://images6.alphacoders.com/467/467376.jpg",
+			"description": "Good girl Sandy Olsson and greaser Danny Zuko fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Musical"],
+            "id": "grease.mkv",
+            "endTime": "135"
+		},
+
+		{
+			"title": "Hearts of Darkness",
+			"subtitle": "A Filmmakers Apocalypse",
+			"director": "Eleanor Coppola, Fax Bahr, George Hickenlooper",
+			"year": "1991",
+			"duration": "1h 37m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjMxMWI2NTItYTAzNC00MGRhLTlkOGItZjA0YmFmNzE5MmU0XkEyXkFqcGc@._V1_FMjpg_UX580_.jpg",
+			"previewImage": "https://www.boningtontheatre.co.uk/wp-content/uploads/2025/07/hearts-of-darkness-a-filmmakers-apocalypse-688bd39f1c077.jpg",
+			"description": "Documentary that chronicles how Francis Ford Coppola's Apocalypse Now (1979) was plagued by extraordinary script, shooting, budget, and casting problems - nearly destroying the life and career of the celebrated director.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Documentary"],
+            "id": "hearts-of-darkness.mp4",
+            "endTime": "163"
+		},
+
+		{
+			"title": "Hot Dog...The Movie",
+			"director": "Peter Markle",
+			"year": "1984",
+			"duration": "1h 36m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODk3MzRlMDItOGFhZC00MjA5LWE5MDgtYWI5OGM4ZTllMjQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://image.tmdb.org/t/p/original/rQAx8h4Hh1bgsF9Mp8eytt5XoOX.jpg",
+			"description": "Harkin Banks heads to skiing championships in California. A teen runaway tags along as he parties and competes with friends and foes.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Sport", "Comedy"],
+            "id": "hot-dog.mp4",
+            "endTime": "214"
+		},
+
+		{
+			"title": "How The Grinch Stole Christmas",
+			"director": "Chuck Jones",
+			"year": "1966",
+			"duration": "26m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZmQ3YWZhNDctY2JmOS00MTEwLTg4MjYtY2NmNjg2MzUzYzhmXkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://thegoodsreviews.com/wp-content/uploads/2022/12/c4DBFQmNOc52zKhyrDK9EmiN73A-1200x675.jpg",
+			"description": "A grumpy hermit hatches a plan to steal Christmas from the Whos of Whoville.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Christmas"],
+            "id": "how-the-grinch-stole-christmas.mkv",
+            "trailer_id": "how-the-grinch-stole-christmas.mp4",
+            "endTime": ""
+		},
+
+		{
+			"title": "Inglourious Basterds",
+			"director": "Quentin Tarantino",
+			"year": "2009",
+			"duration": "2h 33m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://img.goodfon.com/original/6250x3877/d/65/inglourious-basterds-2665.jpg",
+			"description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["War", "Action"],
+            "id": "inglourious-basterds.mkv",
+            "endTime": "201"
+		},
+
+		{
+			"title": "Interstellar",
+			"director": "Christopher Nolan",
+			"year": "2014",
+			"duration": "2h 49m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UY3600_.jpg",
+			"previewImage": "https://wallpapercat.com/w/full/5/a/0/306069-3840x2160-desktop-4k-interstellar-wallpaper.jpg",
+			"description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sci-Fi", "Adventure"],
+            "id": "interstellar.mkv",
+            "endTime": "305"
+		},
+
+		{
+			"title": "The Island Of Dr. Moreau",
+			"director": "Don Taylor",
+			"year": "1977",
+			"duration": "1h 39m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMzViZmExNTYtZWRkYi00ODE2LWJjMGUtYjAwNTY4NTNkZWVmXkEyXkFqcGc@._V1_FMjpg_UY2265_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BMjI0OTY1NDY5NV5BMl5BanBnXkFtZTcwMjkwODg0NA@@._V1_.jpg",
+			"description": "A shipwrecked survivor discovers a remote island owned by a crazed scientist who is carrying out sinister experiments on the island's inhabitants.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Sci-Fi", "Horror"],
+            "id": "the-island-of-dr-moreau.mp4",
+            "endTime": "112"
+		},
+
+		{
+			"title": "It's A Wonderful Life",
+			"director": "Frank Capra",
+			"year": "1946",
+			"duration": "2h 10m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_FMjpg_UY1890_.jpg",
+			"previewImage": "https://images5.alphacoders.com/133/1334138.jpg",
+			"description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Fantasy"],
+            "id": "its-a-wonderful-life.mkv",
+            "endTime": "44"
+		},
+
+		{
+			"title": "Killers Of The Flower Moon",
+			"director": "Martin Scorsese",
+			"year": "2023",
+			"duration": "3h 26m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://images6.alphacoders.com/134/1342186.png",
+			"description": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Western", "Thriller"],
+            "id": "killers-of-the-flower-moon.mkv",
+            "trailer_id": "killers-of-the-flower-moon.mp4",
+            "endTime": "570"
+		},
+
+		{
+			"title": "King Kong",
+			"director": "Peter Jackson",
+			"year": "2005",
+			"duration": "3 hours",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_FMjpg_UY3981_.jpg",
+			"previewImage": "https://images5.alphacoders.com/793/thumb-1920-793905.jpg",
+			"description": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Adventure"],
+            "id": "king-kong.mkv",
+            "endTime": "573"
+		},
+
+		{
+			"title": "Late Night With The Devil",
+			"director": "Cameron Cairnes, Colin Cairnes",
+			"year": "2023",
+			"duration": "1h 35m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMGE4MmZhMTItZmI0Ni00ZjgyLTliNDgtZGZmODJlNjM2OTM0XkEyXkFqcGc@._V1_FMjpg_UY12000_.jpg",
+			"previewImage": "https://wallpapercave.com/wp/wp14549243.jpg",
+			"description": "A live television broadcast in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror"],
+            "id": "late-night-with-the-devil.mkv",
+            "endTime": "255"
+		},
+
+		{
+			"title": "Lawrence Of Arabia",
+			"director": "David Lean",
+			"year": "1962",
+			"duration": "3h 36m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_FMjpg_UY2767_.jpg",
+			"previewImage": "https://external-preview.redd.it/lf_GXsgJJz65fNL1Gx41OeCk12c2eaOHH5fboA8WEZA.png?auto=webp&s=df25c75c680378aea7a747c32e2c179d6a56ddad",
+			"description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["War", "Adventure"],
+            "id": "lawrence-of-arabia.mkv",
+            "endTime": "210"
+		},
+
+		{
+			"title": "The Life And Death of Colonel Blimp",
+			"director": "Michael Powell, Emeric Pressburger",
+			"year": "1943",
+			"duration": "2h 43m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNmIxZTU3MzEtZTJjNy00MzI4LTgwYmItMTdhYzNlZTU3YTQyXkEyXkFqcGc@._V1_FMjpg_UX960_.jpg",
+			"previewImage": "https://d21ehp1kf1k9m9.cloudfront.net/wp-content/uploads/2024/07/08125853/Colonel-Blimp-featured.jpg",
+			"description": "From the Boer War through World War II, a soldier rises through the ranks in the British military.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["War", "Romance"],
+            "id": "the-life-and-death-of-colonel-blimp.mp4",
+            "endTime": "94"
+		},
+
+		{
+			"title": "Mad Max",
+			"director": "George Miller",
+			"year": "1979",
+			"duration": "1h 28m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1_FMjpg_UX682_.jpg",
+			"previewImage": "https://cdn.wallpapersafari.com/71/41/QX5fnC.jpg",
+			"description": "In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Sci-Fi"],
+            "id": "mad-max.mkv",
+            "endTime": "143"
+		},
+
+		{
+			"title": "The Road Warrior (Mad Max 2)",
+			"director": "George Miller",
+			"year": "1981",
+			"duration": "1h 35m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYTAyNzBiZWUtMGY4YS00YzkzLWJhNGUtNTU5OThlZjZhZTYyXkEyXkFqcGc@._V1_FMjpg_UX916_.jpg",
+			"previewImage": "https://images3.alphacoders.com/793/793971.jpg",
+			"description": "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline-rich community get rid of a horde of bandits.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Sci-Fi"],
+            "id": "mad-max-2.mkv",
+            "endTime": "179"
+		},
+
+		{
+			"title": "Mad Max: Beyond Thunderdome",
+			"director": "George Miller",
+			"year": "1985",
+			"duration": "1h 47m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTNkOGZjMGMtNDI4Zi00ZDBjLWJhY2UtMzA2YWI1ZGI5OWVhXkEyXkFqcGc@._V1_FMjpg_UX986_.jpg",
+			"previewImage": "https://c4.wallpaperflare.com/wallpaper/687/1019/733/movie-mad-max-beyond-thunderdome-wallpaper-preview.jpg",
+			"description": "After being exiled from the most advanced town in post-apocalyptic Australia, a drifter travels with a group of abandoned children to rebel against the town's queen.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Sci-Fi"],
+            "id": "mad-max-3.mkv",
+            "endTime": "294"
+		},
+
+		{
+			"title": "Mad Max: Fury Road",
+			"director": "George Miller",
+			"year": "2015",
+			"duration": "2 hours",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_FMjpg_UX675_.jpg",
+			"previewImage": "https://w0.peakpx.com/wallpaper/44/101/HD-wallpaper-mad-max-fury-road-fury-road-mad-max-max-rockatansky-mad-max-4-movie-film-2015.jpg",
+			"description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Sci-Fi"],
+            "id": "mad-max-4.mkv",
+            "endTime": "420"
+		},
+
+		{
+			"title": "Furiosa",
+			"subtitle": "A Mad Max Saga",
+			"director": "George Miller",
+			"year": "2024",
+			"duration": "2h 28m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
+			"previewImage": "https://images.thedirect.com/media/article_full/furiosas.jpg",
+			"description": "After being snatched from the Green Place of Many Mothers, while the tyrants Dementus and Immortan Joe fight for power and control, the young Furiosa must survive many trials as she puts together the means to find her way home.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Adventure"],
+            "id": "furiosa.mkv",
+            "endTime": ""
+		},
+
+		{
+			"title": "The Man Who Knew Too Much",
+			"director": "Alfred Hitchcock",
+			"year": "1956",
+			"duration": "2 hours",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDg1NzljZmMtMDU3OS00Y2E5LWE3OGEtMzM4ZjhjMmZmZTI5XkEyXkFqcGc@._V1_FMjpg_UY2923_.jpg",
+			"previewImage": "https://metrograph.com/wp-content/uploads/2024/06/THE-MAN-WHO-KNEW._21.jpg",
+			"description": "An American doctor and his wife, a former singing star, witness a murder while vacationing in Morocco, and are drawn into a twisting plot of international intrigue when their young son is kidnapped.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Thriller", "Mystery"],
+            "id": "the-man-who-knew-too-much.mp4",
+            "endTime": "32"
+		},
+
+		{
+			"title": "Megalopolis",
+			"director": "Francis Ford Coppola",
+			"year": "2024",
+			"duration": "2h 18m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOTQ2MTcwODgtOTg3Yi00M2RmLWEyMDQtY2IzZmRlYzM3YzhjXkEyXkFqcGc@._V1_FMjpg_UY6000_.jpg",
+			"previewImage": "https://media.newyorker.com/photos/66f46868e38fdc1d5cafb70c/master/w_2560%2Cc_limit/Brody-Megalopolis.jpg",
+			"description": "The city of New Rome faces the duel between Cesar Catilina, a brilliant artist in favor of a Utopian future, and the greedy mayor Franklyn Cicero. Between them is Julia Cicero, with her loyalty divided between her father and her beloved.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sci-Fi", "Drama"],
+            "id": "megalopolis.mkv",
+            "endTime": "285"
+		},
+
+		{
+			"title": "Modern Romance",
+			"director": "Albert Brooks",
+			"year": "1981",
+			"duration": "1h 33m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNTE4YWYyOWUtNTQxZC00MjVmLWFjNDUtZTc1YzA0MjdjMGViXkEyXkFqcGc@._V1_FMjpg_UY2260_.jpg",
+			"previewImage": "https://images.mubicdn.net/images/film/2360/cache-9415-1745489549/image-w1280.jpg",
+			"description": "Albert Brooks directs himself as a successful film editor with far too many issues that affects the relationship between him and his remarkably patient girlfriend.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Romance"],
+            "id": "modern-romance.mp4",
+            "endTime": "133"
+		},
+
+		{
+			"title": "Mr. Smith Goes To Washington",
+			"director": "Frank Capra",
+			"year": "1939",
+			"duration": "2h 9m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_FMjpg_UY2448_.jpg",
+			"previewImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/08/James-Stewart-in-Mr-Smith-Goes-to-Washington-1939-Everett-H-2021.jpg",
+			"description": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Drama"],
+            "id": "mr-smith-goes-to-washington.mkv",
+            "endTime": "36"
+		},
+
+		{
+			"title": "My Fair Lady",
+			"director": "George Cukor",
+			"year": "1964",
+			"duration": "2h 50m",
+			"image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175_p_v8_ad.jpg",
+			"previewImage": "https://cdn.wallpapersafari.com/10/41/rvIlR5.jpg",
+			"description": "In 1910s London, snobbish phonetics professor Henry Higgins agrees to a wager that he can make a crude flower girl, Eliza Doolittle, presentable in high society.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Musical", "Family"],
+            "id": "my-fair-lady.mkv",
+            "trailer_id": "my-fair-lady.mp4",
+            "intermission": ["4285", "4201"],
+            "endTime": "90"
+		},
+
+		{
+			"title": "The Naked Gun",
+			"subtitle": "From The Files of Police Squad!",
+			"director": "David Zucker",
+			"year": "1988",
+			"duration": "1h 25m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZTI5N2I1MjAtNTc0Yy00ZDIyLThkZTctMGQ5NTBhNjIwMWQ0XkEyXkFqcGc@._V1_FMjpg_UY2868_.jpg",
+			"previewImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLe4G_WM8N5aQqCIKuin6xTDcEmtIyRZTzcbQ8R6AGW3AjRllBlbBOe7d2_62bJ_zvWvKg__OeYbnE_UAVVxsSR_ZZttG3BzYrCNMQMJlIeiWBe5f9jXs2T37AeooHTs7_crvpYg9GpzU/s1600/nakedgun1.jpg",
+			"description": "Incompetent police Detective Frank Drebin must foil an attempt to assassinate Queen Elizabeth II.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Action"],
+            "id": "the-naked-gun.mkv",
+            "endTime": "188"
+		},
+
+		{
+			"title": "The Naked Gun 2 1/2",
+			"subtitle": "The Smell of Fear",
+			"director": "David Zucker",
+			"year": "1991",
+			"duration": "1h 25m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjcyNmNkMTItNzkzMi00NmY5LTg5MzQtMjg2YzRmOTY0ZmQ2XkEyXkFqcGc@._V1_FMjpg_UX580_.jpg",
+			"previewImage": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/197/799/thumb_1CD78C04-A004-48E5-8A23-37D00D743824.jpg",
+			"description": "Lieutenant Frank Drebin discovers that his ex-girlfriend's new beau is involved in a plot to kidnap a scientist who advocates solar energy.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Crime"],
+            "id": "the-naked-gun-2.mkv",
+            "endTime": "295"
+		},
+
+		{
+			"title": "The New World",
+			"director": "Terrence Malick",
+			"year": "2005",
+			"duration": "2h 52m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZGRhNmVmZDMtYzAyNy00M2YyLThkYTItNjNkYzMzYjUyZDY4XkEyXkFqcGc@._V1_FMjpg_UX1012_.jpg",
+			"previewImage": "https://images7.alphacoders.com/824/thumb-1920-824456.jpg",
+			"description": "The story of the English exploration of Virginia, and of the changing world and loves of Pocahontas.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Romance", "Action"],
+            "id": "the-new-world.mp4",
+            "endTime": "208"
+		},
+
+		{
+			"title": "New York, New York",
+			"director": "Martin Scorsese",
+			"year": "1977",
+			"duration": "2h 43m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODk2NmU3ZDEtMzMxNy00ZmQwLWE3NzQtOTljMDM4OWRjYmIxXkEyXkFqcGc@._V1_FMjpg_UX1027_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BMTc1Mjg4MjAzMF5BMl5BanBnXkFtZTcwNTQxOTM2NA@@._V1_.jpg",
+			"description": "An egotistical saxophonist and a young lounge singer meet on VJ Day and embark upon a strained and rocky romance, even as their careers begin a long, uphill climb.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Musical", "Romance"],
+            "id": "new-york-new-york.mp4",
+            "endTime": "176"
+		},
+
+		{
+			"title": "Noah",
+			"director": "Darren Aronofsky",
+			"year": "2014",
+			"duration": "2h 18m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTcyNzk4Nzg4N15BMl5BanBnXkFtZTgwMTkxMDI2MDE@._V1_FMjpg_UX1013_.jpg",
+			"previewImage": "https://images.alphacoders.com/808/808308.jpg",
+			"description": "Noah is chosen by God to undertake a momentous mission before an apocalyptic flood cleanses the world.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Fantasy", "Adventure"],
+            "id": "noah.mkv",
+            "endTime": "380"
+		},
+
+		{
+			"title": "The Northman",
+			"director": "Robert Eggers",
+			"year": "2022",
+			"duration": "2h 17m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzgwM2JiY2MtNWQ5OC00NDc1LWExMjYtYmY2YjViZmViYWM5XkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://cdn.wallpapersafari.com/37/35/1T0Rcw.jpg",
+			"description": "A young Viking prince is on a quest to avenge his father's murder.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Thriller"],
+            "id": "the-northman.mkv",
+            "endTime": "488"
+		},
+
+		{
+			"title": "Nosferatu",
+			"director": "Robert Eggers",
+			"year": "2024",
+			"duration": "2h 12m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
+			"previewImage": "https://images7.alphacoders.com/139/1393384.jpg",
+			"description": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Mystery"],
+            "id": "nosferatu.mkv",
+            "endTime": "414"
+		},
+
+		{
+			"title": "Nouvelle Vague",
+			"director": "Richard Linklater",
+			"year": "2025",
+			"duration": "1h 46m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZGUyNWRjMTMtYTgxZS00YWI4LTg2MDAtNzEwZDgyZjk4YzMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://nouveaucinema.ca/storage/image/2025-09-10/filters/large/9956-010601.jpg",
+			"description": "After writing for Cahiers du cinéma, young Godard decides making films is the best film criticism. He gets Beauregard to fund a low-budget feature, creating a treatment with Truffaut about a gangster couple.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Drama"],
+            "id": "nouvelle-vague.mkv",
+            "trailer_id": "nouvelle-vague.mp4",
+            "endTime": "195"
+		},
+
+		{
+			"title": "One Battle After Another",
+			"director": "Paul Thomas Anderson",
+			"year": "2025",
+			"duration": "2h 50m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://www.siff.net/images/CINEMA/2025/Film%20Jun-Dec/CIN_OneBattleAfterAnother_1600x900.jpg",
+			"description": "When their evil enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Drama"],
+            "id": "one-battle-after-another.mkv",
+			"endTime": "462"
+		},
+
+		{
+			"title": "Oppenheimer",
+			"director": "Christopher Nolan",
+			"year": "2023",
+			"duration": "3 hours",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_FMjpg_UY3454_.jpg",
+			"previewImage": "https://wallpapercave.com/wp/wp12552488.jpg",
+			"description": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller"],
+            "id": "oppenheimer.mkv",
+            "endTime": "368"
+		},
+
+		{
+			"title": "Paths Of Glory",
+			"director": "Stanley Kubrick",
+			"year": "1957",
+			"duration": "1h 28m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_FMjpg_UX1045_.jpg",
+			"previewImage": "https://wallpapers.com/images/hd/kirk-douglas-in-paths-of-glory-ifwyqhpbye3b3b9x.jpg",
+			"description": "A colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["War", "Action"],
+            "id": "paths-of-glory.mkv",
+            "endTime": "59"
+		},
+
+		{
+			"title": "Pearl",
+			"director": "Ti West",
+			"year": "2022",
+			"duration": "1h 42m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzk0Y2RlZjItZDUzYi00Y2JhLTk5MzMtNjgzYWFmZmUxN2FmXkEyXkFqcGc@._V1_FMjpg_UY2963_.jpg",
+			"previewImage": "https://w0.peakpx.com/wallpaper/532/662/HD-wallpaper-pearl-movie-2022.jpg",
+			"description": "In 1918, a young woman on the brink of madness pursues stardom in a desperate attempt to escape the drudgery, isolation, and lovelessness of life on her parents' farm.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Drama"],
+            "id": "pearl.mkv",
+            "endTime": "374"
+		},
+
+		{
+			"title": "Peeping Tom",
+			"director": "Michael Powell",
+			"year": "1960",
+			"duration": "1h 41m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZTkwYmQyZmMtYmZkMi00NTlhLTlhNmUtMDBmYzQ1YWIxNDBiXkEyXkFqcGc@._V1_FMjpg_UY6000_.jpg",
+			"previewImage": "https://celluloidwickerman.com/wp-content/uploads/2014/02/peeping-tom-karlheinz.png",
+			"description": "A young man murders women, using a movie camera to film their dying expressions of terror.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Horror", "Crime"],
+            "id": "peeping-tom.mp4",
+            "endTime": "10"
+		},
+
+		{
+			"title": "Pirates of The Caribbean: The Curse of The Black Pearl",
+			"director": "Gore Verbinski",
+			"year": "2003",
+			"duration": "2h 23m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_FMjpg_UX671_.jpg",
+			"previewImage": "https://images8.alphacoders.com/673/thumb-1920-673784.jpg",
+			"description": "Blacksmith Will Turner teams up with eccentric pirate 'Captain' Jack Sparrow to save Elizabeth Swann, the governor's daughter and his love, from Jack's former pirate allies, who are now undead.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Adventure"],
+            "id": "pirates-of-the-caribbean.mkv",
+            "endTime": ""
+		},
+
+		{
+			"title": "Pirates of The Caribbean: Dead Man's Chest",
+			"director": "Gore Verbinski",
+			"year": "2006",
+			"duration": "2h 31m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_FMjpg_UX450_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/I/71VdLQc1IwL._AC_UF1000,1000_QL80_.jpg",
+			"description": "Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Adventure"],
+            "id": "pirates-of-the-caribbean-2.mkv",
+            "endTime": "573"
+		},
+
+		{
+			"title": "Pirates of The Caribbean: At World's End",
+			"director": "Gore Verbinski",
+			"year": "2007",
+			"duration": "2h 48m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_FMjpg_UX450_.jpg",
+			"previewImage": "https://images8.alphacoders.com/669/thumb-1920-669878.jpg",
+			"description": "Will Turner, Elizabeth Swann, Hector Barbossa, and the crew of the Black Pearl try and rescue Jack from davy jones locker and prepare to fight Lord Cutler Beckett, who controls Davy Jones and the Flying Dutchman.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Adventure"],
+            "id": "pirates-of-the-caribbean-3.mkv",
+            "endTime": "580"
+		},
+
+		{
+			"title": "The Picture Of Dorian Gray",
+			"director": "Albert Lewin",
+			"year": "1945",
+			"duration": "1h 50m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYjE0NjNhODQtNTc5OS00NzVhLWI4NDUtOTdiYzY0ZTIyNzg2XkEyXkFqcGc@._V1_FMjpg_UX580_.jpg",
+			"previewImage": "https://substackcdn.com/image/fetch/$s_!i4yD!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38fdfa6-7822-4724-b6e7-3ea1c683b700_900x650.jpeg",
+			"description": "Londoner Dorian Gray stays young, but his portrait ages.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Horror", "Fantasy"],
+            "id": "the-picture-of-dorian-gray.mp4",
+            "endTime": "55"
+		},
+
+		{
+			"title": "Rope",
+			"director": "Alfred Hitchcock",
+			"year": "1948",
+			"duration": "1h 20m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMDM1YzdlZjAtZWFiZS00ZjYyLTgxYzctNzBiYmE0OWFiMGU1XkEyXkFqcGc@._V1_FMjpg_UY2818_.jpg",
+			"previewImage": "https://images.mubicdn.net/images/film/2451/cache-9468-1745489551/image-w1280.jpg",
+			"description": "Two men try to convince themselves they've committed the perfect murder by hosting a dinner party after strangling a former classmate to death.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Crime"],
+            "id": "rope.mkv",
+            "endTime": "30"
+		},
+
+		{
+			"title": "Santa Claus Is Comin' to Town",
+			"director": "Jules Bass",
+			"year": "1970",
+			"duration": "51m",
+			"image_url": "https://resizing.flixster.com/_gMHoqu0QJpQp1dOdsMshSKzQZY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQwMjM4NjFmLTMwYmUtNGQ0MS04YzRlLWY1M2I1ZDkxZjhiZC5qcGc=",
+			"previewImage": "https://cdn.mos.cms.futurecdn.net/Luo3Pwzuq8bcytcWkie47k.jpg",
+			"description": "A mailman reveals the origin of Santa Claus.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Christmas"],
+            "id": "santa-claus-is-comin-to-town.mkv",
+            "endTime": ""
+		},
+
+		{
+			"title": "Seven Samurai",
+			"director": "Akira Kurosawa",
+			"year": "1954",
+			"duration": "3h 27m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjg4YTBhMDUtMWRkOC00YTlhLThiNWEtNTY4MzdjZDk2OGIxXkEyXkFqcGc@._V1_FMjpg_UY1600_.jpg",
+			"previewImage": "https://i.redd.it/r20l2syl4wia1.jpg",
+			"description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Adventure"],
+            "id": "seven-samurai.mkv",
+            "endTime": "18"
+		},
+
+		{
+			"title": "Sinners",
+			"director": "Ryan Coogler",
+			"year": "2025",
+			"duration": "2h 17m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
+			"previewImage": "https://images4.alphacoders.com/139/1390952.jpg",
+			"description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror"],
+			"id": "sinners.mkv",
+            "endTime": "387"
+		},
+
+		{
+			"title": "Ski School",
+			"director": "Damian Lee",
+			"year": "1990",
+			"duration": "1h 35m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNTA0OThiZWUtNjkyZS00YmY0LTkxYzQtMTkzYzc0NTk3MGU2XkEyXkFqcGc@._V1_FMjpg_UX552_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BNDhhNjZlOWEtYzc4YS00YjQ1LThiMjUtN2ZiMTUwMTQzYzA4XkEyXkFqcGc@._V1_.jpg",
+			"description": "Rival groups in a skiing school do battle on and off the piste. One gang are rich and serious, the other group are party animals.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Sport"],
+            "id": "ski-school.mp4",
+            "endTime": "197"
+		},
+
+		{
+			"title": "The Sound Of Music",
+			"director": "Robert Wise",
+			"year": "1965",
+			"duration": "2h 52m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZDhmYmMxNmUtODg3YS00NmM3LWE3YWItNTBlZWI3ZGUwMjYxXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+			"previewImage": "https://www.sound-of-music.com/fileadmin/_processed_/0/d/csm_slide1_a416689ff1.jpg",
+			"description": "A young novice is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Musical", "Romance"],
+            "id": "the-sound-of-music.mkv",
+            "intermission": ["4332", "4196"],
+            "endTime": "46",
+            "trailer_id": "the-sound-of-music.mp4",
+            "endTime": "40"
+		},
+
+		{
+			"title": "Steve Jobs",
+			"director": "Danny Boyle",
+			"year": "2015",
+			"duration": "2h 2m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_FMjpg_UX947_.jpg",
+			"previewImage": "https://images5.alphacoders.com/714/714113.jpg",
+			"description": "Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Drama", "History"],
+            "id": "steve-jobs.mkv",
+            "endTime": "242"
+		},
+
+		{
+			"title": "Sunset BLVD.",
+			"director": "Billy Wilder",
+			"year": "1950",
+			"duration": "1h 50m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_FMjpg_UX995_.jpg",
+			"previewImage": "https://assets.mubicdn.net/images/film/167/image-w1280.jpg",
+			"description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Noir", "Crime"],
+            "id": "sunset-blvd.mkv",
+            "endTime": ""
+		},
+
+		{
+			"title": "Superman",
+			"director": "James Gunn",
+			"year": "2015",
+			"duration": "2h 9m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://images3.alphacoders.com/137/thumb-1920-1379856.jpg",
+			"description": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the human way he soon finds himself in a world that views these as old-fashioned.",
+			"featured": "true",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Sci-Fi"],
+            "id": "superman.mkv",
+            "endTime": "622"
+		},
+
+		{
+			"title": "Suspicion",
+			"director": "Alfred Hitchcock",
+			"year": "1941",
+			"duration": "1h 39m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYjhmZDkzMzItNDc2Yy00MmUxLTgxMWMtNjZhNjM2Mzc3MDcxXkEyXkFqcGc@._V1_FMjpg_UY2794_.jpg",
+			"previewImage": "https://a.ltrbxd.com/resized/sm/upload/ay/h7/v3/2v/suspicion-1200-1200-675-675-crop-000000.jpg",
+			"description": "A shy young heiress marries a charming gentleman, and soon begins to suspect he is planning to murder her.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Thriller", "Mystery"],
+            "id": "suspicion.mp4",
+            "endTime": "30"
+		},
+
+		{
+			"title": "Sweeney Todd",
+			"subtitle": "The Demon Barber of Fleet Street",
+			"director": "Tim Burton",
+			"year": "2007",
+			"duration": "1h 56m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTg3NjUxMzM5NV5BMl5BanBnXkFtZTcwMzQ1NjQzMw@@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://www.framerated.co.uk/frwpcontent/uploads/2025/07/sweeneytodd01.jpg",
+			"description": "The legendary tale of a barber who returns from wrongful imprisonment to 1840s London, bent on revenge for the rape and death of his wife, and resumes his trade while forming a sinister partnership with his fellow tenant, Mrs. Lovett.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Musical", "Horror"],
+            "id": "sweeney-todd.mkv",
+            "endTime": "276"
+		},
+
+		{
+			"title": "Titanic",
+			"director": "James Cameron",
+			"year": "1997",
+			"duration": "3h 14m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://images7.alphacoders.com/134/1341932.jpg",
+			"description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Romance", "Adventure"],
+            "id": "titanic.mkv",
+            "endTime": "448"
+		},
+
+		{
+			"title": "The Tragedy Of Macbeth",
+			"director": "Joel Coen",
+			"year": "2021",
+			"duration": "1h 45m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMWE0M2U3NzktZmVkOC00ZTkzLWI2NjEtODA3MmM5NjAyYWUwXkEyXkFqcGc@._V1_FMjpg_UX675_.jpg",
+			"previewImage": "https://media.cnn.com/api/v1/images/stellar/prod/220112153028-the-tragedy-of-macbeth-production-design-3.jpg",
+			"description": "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller"],
+            "id": "the-tragedy-of-macbeth.mkv",
+            "endTime": "193"
+		},
+
+		{
+			"title": "The Truman Show",
+			"director": "Peter Weir",
+			"year": "1998",
+			"duration": "1h 43m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_FMjpg_UY2500_.jpg",
+			"previewImage": "https://images8.alphacoders.com/485/thumb-1920-485296.jpg",
+			"description": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Sci-Fi"],
+            "id": "the-truman-show.mkv",
+            "endTime": "411"
+		},
+
+		{
+			"title": "The Wiz",
+			"director": "Sidney Lumet",
+			"year": "1978",
+			"duration": "2h 16m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDk3MjA2ZjItN2U5Ny00YjgwLTkyN2QtMmZkZDJmYzI1NGVlXkEyXkFqcGc@._V1_FMjpg_UY2904_.jpg",
+			"previewImage": "https://pixel.disco.nowtv.com/uuid/e2999222-45f7-4e91-a9fa-c9c09456dbb8/LAND_16_9?language=en-GB&proposition=NOWOTT&version=9726de45-b76e-37cc-8f89-ed502f94c867",
+			"description": "When Harlem schoolteacher Dorothy is miraculously whisked away to an urban fantasy land called Oz, she goes in search of the Wiz, a wizard who can help her get back to Manhattan, along with the Scarecrow, the Tin Man and the Cowardly Lion.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Musical"],
+            "id": "the-wiz.mp4",
+            "endTime": "172"
+		},
+
+		{
+			"title": "They Shoot Horses, Don't They?",
+			"director": "Sidney Pollack",
+			"year": "1969",
+			"duration": "2 hours",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjUwNmFmMzQtNzAzOS00N2M4LWJlMzktYjZmZmY2MDliZTZhXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://images.squarespace-cdn.com/content/57e05e534402434aa0f846c2/1487009264317-2KD3SU0RGHT5DLG6QVN1/twzIWmZCyWLvV6MpX534Orbmu3L.jpg",
+			"description": "The lives of a disparate group of contestants intertwine in a grueling and inhumane dance marathon.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Drama"],
+            "id": "they-shoot-horses-dont-they.mp4",
+            "endTime": "33"
+		},
+
+		{
+			"title": "To Kill A Mockingbird",
+			"director": "Robert Mulligan",
+			"year": "1962",
+			"duration": "2h 9m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_FMjpg_UY2776_.jpg",
+			"previewImage": "https://www.hollywoodreporter.com/wp-content/uploads/2016/02/to_kill_mockingbird_1962_4_-_h_2016.jpg",
+			"description": "A widowed lawyer in Depression-era Alabama defends a black man against a false rape charge while teaching his young children about the sad reality of prejudice.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Drama"],
+            "id": "to-kill-a-mockingbird.mkv",
+            "endTime": "18"
+		},
+
+		{
+			"title": "Touch Of Evil",
+			"director": "Orson Welles",
+			"year": "1958",
+			"duration": "1h 35m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzBkNTQzODUtNzcxMy00ZGNhLThmOWMtMTcyYzY4ZTU2NDM3XkEyXkFqcGc@._V1_FMjpg_UY1984_.jpg",
+			"previewImage": "https://film-grab.com/wp-content/uploads/2015/05/63-988.jpg",
+			"description": "A Mexican official and his American wife are targeted in a Texas border town by the crime family he's trying to put behind bars for drug trafficking, as his concern grows over the tactics of the local detective whose cooperation he needs.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Noir", "Thriller"],
+            "id": "touch-of-evil.mkv",
+            "endTime": "12"
+		},
+
+		{
+			"title": "Weapons",
+			"director": "Zach Cregger",
+			"year": "2025",
+			"duration": "2h 8m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://www.bollywoodhungama.com/wp-content/uploads/2025/08/Weapons-1.jpg",
+			"description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+			"featured": "true",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Mystery"],
+            "id": "weapons.mkv",
+            "endTime": "378"
+		},
+
+		{
+			"title": "X",
+			"director": "Ti West",
+			"year": "2022",
+			"duration": "1h 45m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODUwYTNhMTMtYWQ5Ny00YTdmLWIxOTAtNDczNzVlYzg2NDFkXkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg",
+			"previewImage": "https://www.hdwallpapers.in/download/mia_goth_jenna_ortega_brittany_snow_kid_cudi_4k_hd_x_2022-HD.jpg",
+			"description": "In 1979, a group of young filmmakers set out to make an adult film in a rural Texas farm, but when their reclusive, elderly hosts catch them in the act, the crew find themselves fighting for their lives.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Mystery"],
+            "id": "x.mkv",
+            "endTime": "332"
+		}
+
+	]
+}
