@@ -50,6 +50,7 @@ h1.title{
 	padding: 12px 0px;
 	text-transform: uppercase;
 	top: 17%;
+	overflow: hidden;
 }
 
 .menu{
