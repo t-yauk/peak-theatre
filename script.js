@@ -38,6 +38,8 @@ function toggle_menu(){
 
 function load_library(){
 
+	window.scrollTo(0, 0);
+
 	if(setGenre == null || setGenre == "All Genres"){
 		setGenre = "all";
 	}
@@ -119,7 +121,3 @@ setTimeout(function() {
 		});
 	});
 }, 10);
-
-window.addEventListener('load', function() {
-	window.scrollTo(0, 0);
-});
