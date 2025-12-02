@@ -8,6 +8,7 @@ let menu_toggle = false;
 let menuItems;
 let data;
 let genre_block;
+const site_wrapper = document.getElementsByClassName("site-wrapper");
 
 function menu_01(){
 	toggle_menu();
@@ -22,11 +23,15 @@ function toggle_menu(){
 		the_menu[0].style.top = "-72vh";
 		menu_icon[0].style.transform = "rotate(0deg)";
 		menu_icon[1].style.transform = "rotate(0deg)";
+		site_wrapper[0].style.opacity = "1";
 		menu_toggle = false;
 	}else{
 		the_menu[0].style.top = "180px";
 		menu_icon[0].style.transform = "rotate(180deg)";
 		menu_icon[1].style.transform = "rotate(180deg)";
+		setTimeout(function(){
+			site_wrapper[0].style.opacity = "0";
+		}, 500);
 		menu_toggle = true;
 	}
 }
