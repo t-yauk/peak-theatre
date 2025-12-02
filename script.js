@@ -95,7 +95,7 @@ setTimeout(function() {
     		this.classList.add("selected");
   		});
 	});
-}, 100);
+}, 12);
 
 setTimeout(function() {
 	genre_block = document.querySelectorAll('.genre');
