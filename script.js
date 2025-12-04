@@ -26,7 +26,7 @@ function toggle_menu(){
 		site_wrapper[0].style.opacity = "1";
 		menu_toggle = false;
 	}else{
-		the_menu[0].style.top = "165px";
+		the_menu[0].style.top = "150px";
 		menu_icon[0].style.transform = "rotate(180deg)";
 		menu_icon[1].style.transform = "rotate(180deg)";
 		setTimeout(function(){
@@ -96,7 +96,11 @@ function populateLibrary(){
 			for(let i = 0;i < movieItems.length;i++){
 				movieItems[i].classList.remove("selected");
 			}
-    		this.classList.add("selected");
+			if (!this.classList.contains('selected')) {
+    			this.classList.add("selected");
+			}else{
+				this.classList.remove("selected");
+			}
   		});
 	});
 
