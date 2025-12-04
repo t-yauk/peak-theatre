@@ -33,6 +33,21 @@
 		},
 
 		{
+			"title": "An American In Paris",
+			"director": "Vincente Minnelli",
+			"year": "1951",
+			"duration": "1h 54m",
+			"image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4502_p_v8_aj.jpg",
+			"previewImage": "https://jer-cin.org.il/sites/default/files/styles/slide_show/public/an_american_in_paris.jpg",
+			"description": "Three friends struggle to find work in Paris. Things become more complicated when two of them fall in love with the same woman.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Musical", "Romance"],
+            "id": "an-american-in-paris.mp4",
+            "endTime": "8"
+		},
+
+		{
 			"title": "American Psycho",
 			"director": "Mary Harron",
 			"year": "2000",
@@ -54,7 +69,7 @@
 			"duration": "1h 37m",
 			"image_url": "https://m.media-amazon.com/images/M/MV5BOWYyNmMwMTUtZjE2OC00YWQzLWJmMzctNzhmMDI1OTQwNzdhXkEyXkFqcGc@._V1_FMjpg_UY2918_.jpg",
 			"previewImage": "https://images8.alphacoders.com/797/thumb-1920-797106.jpg",
-			"description": "American college students David Kessler and Jack Goodman on a walking tour of Britain are attacked by a werewolf.",
+			"description": "American college students David Kessler and Jack Goodman on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists. Jack dies. David recovers in a hospital, where he has nightmares.",
 			"featured": "false",
 			"theatre_optimized": "true",
 			"genre": ["Horror", "Comedy"],
@@ -78,6 +93,21 @@
 		},
 
 		{
+			"title": "Annie Get Your Gun",
+			"director": "George Sidney, Busby Berkeley",
+			"year": "1950",
+			"duration": "1h 57m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYjAwZTQ0MzItMjFlMC00NTAxLTgzZWMtNjI0YmJlYjhjNTcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://a.ltrbxd.com/resized/sm/upload/mm/9v/2h/cz/fGeCYprTcom5dDv3lPbNMG8sQkw-1200-1200-675-675-crop-000000.jpg",
+			"description": "The story of the great sharpshooter Annie Oakley, who rose to fame while dealing with her love/professional rival, Frank Butler.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Musical", "Western"],
+            "id": "annie-get-your-gun.mp4",
+            "endTime": "8"
+		},
+
+		{
 			"title": "Apocalypse Now",
 			"director": "Francis Ford Coppola",
 			"year": "1979",
@@ -90,6 +120,21 @@
 			"genre": ["War", "Action"],
             "id": "apocalypse-now.mkv",
             "endTime": "368"
+		},
+
+		{
+			"title": "A.I. Artificial Intelligence",
+			"director": "Steven Spielberg",
+			"year": "2001",
+			"duration": "2h 26m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMWE0M2ZkMGUtODJkOC00MzA2LWIxYzctNDBiODViYWI4Yjk5XkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://i.ytimg.com/vi/_19pRsZRiz4/hq720.jpg",
+			"description": "A highly advanced robotic boy longs to become 'real' so that he can regain the love of his human mother.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Sci-Fi", "Thriller"],
+            "id": "ai.mp4",
+            "endTime": "430"
 		},
 
 		{
@@ -139,6 +184,66 @@
 		},
 
 		{
+			"title": "Battle Royale",
+			"director": "Kinji Fukasaku",
+			"year": "2000",
+			"duration": "1h 54m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjdlYzJlYzMtMWU3Yi00Y2FjLWJhYmUtNjM3YzdjYzZkOWMwXkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://nowthenmagazine.ams3.digitaloceanspaces.com/content/_1920xAUTO_crop_center-center_85_none/Battle-Royale-Frontpage.jpg",
+			"description": "In a dystopian future, a group of students from a Japanese high school are forced by the governemnt to compete in a battle, killing one another until only one is left standing.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Action"],
+            "id": "battle-royale.mkv",
+            "endTime": "277"
+		},
+
+		{
+			"title": "Beau Is Afraid",
+			"director": "Ari Aster",
+			"year": "2023",
+			"duration": "2h 59m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTdmYmQ5MjctYzU3NS00N2I0LTkwYTYtZWMxNTVhOTRkODA1XkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BODUyMTA2MWYtNmQ1YS00ZmJiLTg1YmEtY2M3N2YwOWM5OWM1XkEyXkFqcGdeQWFkcmllY2xh._V1_QL75_UX500_CR0,0,500,281_.jpg",
+			"description": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic odyssey back home.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Action"],
+            "id": "beau-is-afraid.mkv",
+            "endTime": "306"
+		},
+
+		{
+			"title": "Beauty and the Beast",
+			"director": "Gary Trousdale, Kirk Wise",
+			"year": "1991",
+			"duration": "1h 24m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_FMjpg_UX1011_.jpg",
+			"previewImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/11/MSDBEAN_EC007-H-2021.jpg",
+			"description": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Musical"],
+            "id": "beauty-and-the-beast.mkv",
+            "endTime": "264"
+		},
+
+		{
+			"title": "Beauty and the Beast",
+			"director": "Jean Cocteau, René Clément",
+			"year": "1946",
+			"duration": "1h 33m",
+			"image_url": "https://s3.amazonaws.com/criterion-production/films/a2938bd71e5137c9b033805dbc52acda/yOpwpNKPX8pAxfPd7tLOaWMjzjTwFS_original.jpg",
+			"previewImage": "https://resizing.flixster.com/047uqLW03kMFbKdCtklLGb_53us=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5791_i_h10_az.jpg",
+			"description": "A beautiful young woman takes her father's place as the prisoner of a mysterious beast, who wishes to marry her.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Fantasy", "Romance"],
+            "id": "beauty-and-the-beast.mp4",
+            "endTime": "52"
+		},
+
+		{
 			"title": "Beetlejuice",
 			"director": "Tim Burton",
 			"year": "1988",
@@ -151,6 +256,36 @@
 			"genre": ["Horror", "Comedy"],
             "id": "beetlejuice.mkv",
             "endTime": "209"
+		},
+
+		{
+			"title": "Best In Show",
+			"director": "Christopher Guest",
+			"year": "2000",
+			"duration": "1h 30m",
+			"image_url": "https://latereviewer.com/wp-content/uploads/2021/05/bis-1.jpg",
+			"previewImage": "https://images.justwatch.com/backdrop/262957988/s640/best-in-show",
+			"description": "A behind-the-scenes look into the highly competitive and cut-throat world of dog shows through the eyes of a group of ruthless dog owners.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Drama"],
+            "id": "best-in-show.mp4",
+            "endTime": "317"
+		},
+
+		{
+			"title": "Bicycle Thieves",
+			"director": "Vittorio De Sica",
+			"year": "1948",
+			"duration": "1h 29m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_.jpg",
+			"previewImage": "https://www.cinematheque.qc.ca/workspace/uploads/projections/bicylethieves-fr-1737663605.jpg",
+			"description": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Thriller", "Drama"],
+            "id": "bicycle-thieves.mp4",
+            "endTime": "71"
 		},
 
 		{
@@ -271,6 +406,21 @@
 			"genre": ["Crime", "Romance"],
             "id": "breathless.mp4",
             "endTime": "7"
+		},
+
+		{
+			"title": "Broadcast News",
+			"director": "James L. Brooks",
+			"year": "1987",
+			"duration": "2h 13m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMGVhZjNiYmUtMTAwYS00ZjQ0LWIyNGItNTU1OWNjYjA4ZDE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://s3.amazonaws.com/criterion-production/images/4697-97f23bbb2efe579e5e6568e56a0b140a/current_1324_003_medium.jpg",
+			"description": "A high-strung news producer finds herself in a love triangle between a talented but self-doubting reporter and a charming new anchor, who embodies the growing trivialization of news that she is determined to fight against.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Romance"],
+            "id": "broadcast-news.mp4",
+            "endTime": "268"
 		},
 
 		{
@@ -485,6 +635,21 @@
 		},
 
 		{
+			"title": "Four Weddings and a Funeral",
+			"director": "Mike Newell",
+			"year": "1994",
+			"duration": "1h 57m",
+			"image_url": "https://prod-s.cdn-cf.philo.com/gracenote/assets/p15340_k_v12_ac.jpg",
+			"previewImage": "https://people.com/thmb/pJJI9sdA23U--99JhTaliESopH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(730x311:732x313)/cast-four-wedding-and-a-funeral-watn-030624-2-fe9fd737965a404897baf279771aacef.jpg",
+			"description": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Romance"],
+            "id": "four-weddings-and-a-funeral.mp4",
+            "endTime": "175"
+		},
+
+		{
 			"title": "Frankenstein",
 			"director": "Guillermo Del Toro",
 			"year": "2025",
@@ -638,6 +803,21 @@
 		},
 
 		{
+			"title": "Jaws",
+			"director": "Steven Spielberg",
+			"year": "1975",
+			"duration": "2h 4m",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jaws_movie_poster.jpg",
+			"previewImage": "https://www.thetimes.com/imageserver/image/%2F01047404-0302-4eda-84fe-2f5e8ce194b8.jpg",
+			"description": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Adventure"],
+            "id": "jaws.mkv",
+            "endTime": "78"
+		},
+
+		{
 			"title": "Killers Of The Flower Moon",
 			"director": "Martin Scorsese",
 			"year": "2023",
@@ -666,6 +846,21 @@
 			"genre": ["Action", "Adventure"],
             "id": "king-kong.mkv",
             "endTime": "573"
+		},
+
+		{
+			"title": "La Haine",
+			"director": "Mathieu Kassovitz",
+			"year": "1995",
+			"duration": "1h 38m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTgzMTEwZjQtMjI2NS00NDEwLWFjNWEtNTNlNzdhODBhMDE0XkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://i0.wp.com/writerswithoutmoney.com/wp-content/uploads/2025/04/127af-haine.jpg",
+			"description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Crime", "Thriller"],
+            "id": "la-haine.mp4",
+            "endTime": "37"
 		},
 
 		{
@@ -820,6 +1015,51 @@
 		},
 
 		{
+			"title": "A Mighty Wind",
+			"director": "Christopher Guest",
+			"year": "2003",
+			"duration": "1h 31m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzk1NGU3ZTMtNTc0YS00ZmQxLTk5ZjAtYzE3NWM3MWFkMzM4XkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://images.bauerhosting.com/legacy/empire-tmdb/films/13370/images/jktxoLne390dWjIpRsjgB7EnbcK.jpg",
+			"description": "Mockumentary captures the reunion of 1960s folk trio the Folksmen as they prepare for a show at The Town Hall to memorialize a recently deceased concert promoter.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Musical"],
+            "id": "a-mighty-wind.mp4",
+            "endTime": "356"
+		},
+
+		{
+			"title": "Misery",
+			"director": "Rob Reiner",
+			"year": "1990",
+			"duration": "1h 47m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://motionstatereview.com/wp-content/uploads/2015/03/misery.jpg",
+			"description": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Crime"],
+            "id": "misery.mkv",
+            "endTime": "184"
+		},
+
+		{
+			"title": "Mo' Better Blues",
+			"director": "Spike Lee",
+			"year": "1990",
+			"duration": "2h 10m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BN2UwODg5YzMtYjBiOC00MTU2LWE0OGEtYjA5MWNkOWEwODQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://assets.americancinematheque.com/wp-content/uploads/2022/03/30153242/Mo-Better-Blues-HERO.jpg",
+			"description": "Jazz trumpeter Bleek Gilliam makes questionable decisions in his professional and romantic lives.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Musical", "Romance"],
+            "id": "mo-better-blues.mp4",
+            "endTime": "292"
+		},
+
+		{
 			"title": "Modern Romance",
 			"director": "Albert Brooks",
 			"year": "1981",
@@ -832,6 +1072,37 @@
 			"genre": ["Comedy", "Romance"],
             "id": "modern-romance.mp4",
             "endTime": "133"
+		},
+
+		{
+			"title": "Monty Python and the Holy Grail",
+			"director": "Terry Gilliam, Terry Jones",
+			"year": "1975",
+			"duration": "1h 31m",
+			"image_url": "https://m.media-amazon.com/images/I/913GLM7TZDL._AC_UF894,1000_QL80_.jpg",
+			"previewImage": "https://substackcdn.com/image/fetch/$s_!U6Gi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15cdaf97-ce69-46bf-b84b-d92d4289d9cf_1280x720.jpeg",
+			"description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Adventure"],
+            "id": "monty-python-and-the-holy-grail.mkv",
+            "intermission": ["632", "622"],
+            "endTime": "165"
+		},
+
+		{
+			"title": "Monty Python's The Meaning of Life",
+			"director": "Terry Jones",
+			"year": "1983",
+			"duration": "1h 47m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMmZjYzM5OGMtYmY2OS00YzQ3LWEzZjgtY2Q1Yjc1NTNkYTZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://images.bauerhosting.com/legacy/empire-tmdb/films/4543/images/uBnZ4JxkHcDXL9CY7ekNoXZl9Y5.jpg",
+			"description": "The comedy team takes a look at life in all of its stages in their own uniquely silly way.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Musical"],
+            "id": "the-meaning-of-life.mkv",
+            "endTime": "285"
 		},
 
 		{
@@ -929,6 +1200,21 @@
 		},
 
 		{
+			"title": "No Country for Old Men",
+			"director": "Ethan Coen, Joel Coen",
+			"year": "2007",
+			"duration": "2h 2m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://scrapsfromtheloft.com/wp-content/uploads/2022/07/No-Country-for-Old-Men.webp",
+			"description": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Western"],
+            "id": "no-country-for-old-men.mkv",
+            "endTime": "324"
+		},
+
+		{
 			"title": "Noah",
 			"director": "Darren Aronofsky",
 			"year": "2014",
@@ -941,6 +1227,21 @@
 			"genre": ["Fantasy", "Adventure"],
             "id": "noah.mkv",
             "endTime": "380"
+		},
+
+		{
+			"title": "Nope",
+			"director": "Jordan Peele",
+			"year": "2022",
+			"duration": "2h 10m",
+			"image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2022/05/20102521/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+			"previewImage": "https://preview.redd.it/my-thoughts-on-the-movie-nope-v0-rqgdlwle5m8f1.jpeg",
+			"description": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling phenomenon.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Sci-Fi"],
+            "id": "nope.mkv",
+            "endTime": "405"
 		},
 
 		{
@@ -1017,6 +1318,21 @@
 			"genre": ["Thriller"],
             "id": "oppenheimer.mkv",
             "endTime": "368"
+		},
+
+		{
+			"title": "Pan's Labyrinth",
+			"director": "Guillermo del Torok",
+			"year": "2006",
+			"duration": "1h 58m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOTc1NTAxMWItMWFlNy00MmU2LTkwMTMtNzMwOTg5OTQ5YTFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABS9kjyEL7O-ylKHqsHdU3Dya3oPJsHhwG-ubJ4CYbqaPXVH663U18gVaEYRlHuvO8h5jPjtPNNyrL2jI3bLxj7O8ezmW5Lw-LMdQ.jpg",
+			"description": "In 1944 Spain, a girl is sent to live with her ruthless stepfather. During the night, she meets a fairy who takes her to an old faun. He tells her she's a princess, but must prove her royalty by surviving three gruesome tasks.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Fantasy", "War"],
+            "id": "pans-labyrinth.mkv",
+            "endTime": "409"
 		},
 
 		{
@@ -1125,6 +1441,66 @@
 		},
 
 		{
+			"title": "Purple Rain",
+			"director": "Albert Magnoli",
+			"year": "1984",
+			"duration": "1h 51m",
+			"image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2022/01/25141254/9Sqomx8pfr6aAkyKZf1d5h7ghID.jpg",
+			"previewImage": "https://www.thefeedbacksociety.com/wp-content/uploads/2016/06/prince.jpg",
+			"description": "A young musician, tormented by an abusive situation at home, must contend with a rival singer, a burgeoning romance, and his own dissatisfied band, as his star begins to rise.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Musical", "Romance"],
+            "id": "purple=rain.mp4",
+            "endTime": "321"
+		},
+
+		{
+			"title": "RAN",
+			"director": "Akira Kurosawa",
+			"year": "1985",
+			"duration": "2h 40m",
+			"image_url": "https://www.rogerebert.com/wp-content/uploads/2024/09/Ran-jpg.webp",
+			"previewImage": "https://cdn.theasc.com/Ran-Featured.jpg",
+			"description": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "War"],
+            "id": "ran.mkv",
+            "endTime": "194"
+		},
+
+		{
+			"title": "Ratatouille",
+			"director": "Brad Bird, Jan Pinkava",
+			"year": "2007",
+			"duration": "1h 51m",
+			"image_url": "https://resizing.flixster.com/ySiX7RlyKRuuxCcAI7SgdkMAZ0U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc4ZmJhZjZiLTEzNWMtNDIwOC1hYzU1LTgwZjE3ZjQzNTdiNy5qcGc=",
+			"previewImage": "https://www.hollywoodreporter.com/wp-content/uploads/2015/02/Ratatouille_h.jpg",
+			"description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Comedy"],
+            "id": "ratatouille.mkv",
+            "endTime": "491"
+		},
+
+		{
+			"title": "Reservoir Dogs",
+			"director": "Quentin Tarantino",
+			"year": "1992",
+			"duration": "1h 39m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYjg4MmU3NWYtMWE5ZC00ZmNmLWIyZjItMGU4NmYxMjdmNzQ1XkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://media.newyorker.com/photos/59d798fb5b388b33d3b0c419/master/w_2560%2Cc_limit/Shone-Reservoir-Dogs.jpg",
+			"description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Crime"],
+            "id": "reservoir-dogs.mkv",
+            "endTime": "231"
+		},
+
+		{
 			"title": "Rope",
 			"director": "Alfred Hitchcock",
 			"year": "1948",
@@ -1167,6 +1543,21 @@
 			"genre": ["Action", "Adventure"],
             "id": "seven-samurai.mkv",
             "endTime": "18"
+		},
+
+		{
+			"title": "The Silence of the Lambs",
+			"director": "Jonathan Demme",
+			"year": "1991",
+			"duration": "1h 58m",
+			"image_url": "https://m.media-amazon.com/images/S/pv-target-images/1946f979dcdb9aba1db57f85d19de85313e31b406754effb4c26036a0ec85099.jpg",
+			"previewImage": "https://images.bauerhosting.com/legacy/media/6023/b9f7/73e8/2bec/fdaa/44d5/silence-of-the-lambs-clarice-1.jpg",
+			"description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Crime"],
+			"id": "the-silence-of-the-lambs.mkv",
+            "endTime": "387"
 		},
 
 		{
@@ -1215,6 +1606,22 @@
             "endTime": "46",
             "trailer_id": "the-sound-of-music.mp4",
             "endTime": "40"
+		},
+
+		{
+			"title": "Spartacus",
+			"director": "Stanley Kubrick",
+			"year": "1960",
+			"duration": "3h 17m",
+			"image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/04/26150033/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
+			"previewImage": "https://spoilertown.com/wp-content/uploads/2025/04/spartacus-1960.webp",
+			"description": "The slave Spartacus survives brutal training as a gladiator and leads a violent revolt against the decadent Roman Republic, as the ambitious Crassus seeks to gain power by crushing the uprising.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Adventure", "War"],
+            "id": "spartacus.mkv",
+            "intermission": ["5340", "5180"],
+            "endTime": "174"
 		},
 
 		{
@@ -1294,6 +1701,36 @@
 		},
 
 		{
+			"title": "Tampopo",
+			"director": "Jûzô Itami",
+			"year": "1985",
+			"duration": "1h 54m",
+			"image_url": "https://s3.amazonaws.com/criterion-production/films/e69bc63440b867f82aef8779d06ec2ed/zTByEeWWijB1OUOBAPMcuBnLJEMdIJ_large.jpg",
+			"previewImage": "https://genzcritics.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-9.15.01-PM.png",
+			"description": "A truck driver stops at a small family-run noodle shop and decides to help its fledgling business. The story is intertwined with various vignettes about the relationship of love and food.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Ramen", "Comedy"],
+            "id": "tampopo.mp4",
+            "endTime": "166"
+		},
+
+		{
+			"title": "Thelma & Louise",
+			"director": "Ridley Scott",
+			"year": "1991",
+			"duration": "2h 10m",
+			"image_url": "https://m.media-amazon.com/images/I/71rr16HCQfL._AC_UF1000,1000_QL80_.jpg",
+			"previewImage": "https://michaeljcinema.com/wp-content/uploads/2023/06/thelma-louise-criterion.jpg",
+			"description": "Two best friends set out on an adventure, but it soon turns around to a terrifying escape from being hunted by the police, as these two women escape for the crimes they committed.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Crime", "Adventure"],
+            "id": "thelma-and-louise.mkv",
+            "endTime": "222"
+		},
+
+		{
 			"title": "Titanic",
 			"director": "James Cameron",
 			"year": "1997",
@@ -1306,6 +1743,21 @@
 			"genre": ["Romance", "Adventure"],
             "id": "titanic.mkv",
             "endTime": "448"
+		},
+
+		{
+			"title": "Top Gun: Maverick",
+			"director": "Joseph Kosinski",
+			"year": "2022",
+			"duration": "2h 10m",
+			"image_url": "https://m.media-amazon.com/images/S/pv-target-images/e7339c812127fb30f94943d1b8b774acec2549ec1364c24493c4ffed6de2b243.jpg",
+			"previewImage": "https://variety.com/wp-content/uploads/2022/05/Top-Gun-Maverick.jpg",
+			"description": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Adventure"],
+            "id": "top-gun-maverick.mkv",
+            "endTime": "420"
 		},
 
 		{
@@ -1336,21 +1788,6 @@
 			"genre": ["Comedy", "Sci-Fi"],
             "id": "the-truman-show.mkv",
             "endTime": "411"
-		},
-
-		{
-			"title": "The Wiz",
-			"director": "Sidney Lumet",
-			"year": "1978",
-			"duration": "2h 16m",
-			"image_url": "https://m.media-amazon.com/images/M/MV5BNDk3MjA2ZjItN2U5Ny00YjgwLTkyN2QtMmZkZDJmYzI1NGVlXkEyXkFqcGc@._V1_FMjpg_UY2904_.jpg",
-			"previewImage": "https://pixel.disco.nowtv.com/uuid/e2999222-45f7-4e91-a9fa-c9c09456dbb8/LAND_16_9?language=en-GB&proposition=NOWOTT&version=9726de45-b76e-37cc-8f89-ed502f94c867",
-			"description": "When Harlem schoolteacher Dorothy is miraculously whisked away to an urban fantasy land called Oz, she goes in search of the Wiz, a wizard who can help her get back to Manhattan, along with the Scarecrow, the Tin Man and the Cowardly Lion.",
-			"featured": "false",
-			"theatre_optimized": "true",
-			"genre": ["Family", "Musical"],
-            "id": "the-wiz.mp4",
-            "endTime": "172"
 		},
 
 		{
@@ -1399,6 +1836,53 @@
 		},
 
 		{
+			"title": "Waiting for Guffman",
+			"director": "Christopher Guest",
+			"year": "1996",
+			"duration": "1h 24m",
+			"image_url": "https://m.media-amazon.com/images/S/pv-target-images/13dcd46e7f3fc88223d77194c1083b8e3e344b1c981b0df6a43fa460cee34178.jpg",
+			"previewImage": "https://assets.mubicdn.net/images/film/15959/image-w856_two_one.jpg",
+			"description": "An aspiring director and the marginally talented amateur cast of a hokey small-town Missouri musical production go overboard when they learn that someone from Broadway will be in attendance.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Musical"],
+            "id": "waiting-for-guffman.mp4",
+            "endTime": "315"
+		},
+
+		{
+			"title": "Walk Hard",
+			"subtitle": "The Dewey Cox Story",
+			"director": "Jake Kasdan",
+			"year": "2007",
+			"duration": "1h 36m",
+			"image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/3/2022/08/23103053/walk-hard-poster-scaled.jpg",
+			"previewImage": "https://m.media-amazon.com/images/S/pv-target-images/31d70b773810216f1cf2efe1324928bd826b73b1861e97207f1e6b7cdd631b9e._SX1080_FMjpg_.jpg",
+			"description": "Singer Dewey Cox overcomes adversity to become a musical legend.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Musical"],
+            "id": "walk-hard.mp4",
+            "endTime": "315"
+		},
+
+		{
+			"title": "Wallace & Gromit",
+			"subtitle": "The Curse of the Were-Rabbit",
+			"director": "Steve Box, Nick Park",
+			"year": "2005",
+			"duration": "1h 25m",
+			"image_url": "https://m.media-amazon.com/images/S/pv-target-images/be3599e87ce9120b0e78425c9c09115dcee6d1202b6be6964b04af5798d24c1b.jpg",
+			"previewImage": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQDuNkSMDQSca7IRE6QCuc1n2QqYHyQ13gefgdMlpPpmzxWXNZCZZFX_BeFfRHk0Z9Q2QxMAlTz7pHqpnpk-pY4PnpZJ_MdEqdFx.jpg",
+			"description": "Wallace and his loyal dog, Gromit, set out to discover the mystery behind the garden sabotage that plagues their village and threatens the annual giant vegetable growing contest.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Family"],
+            "id": "wallace-and-gromit.mp4",
+            "endTime": "360"
+		},
+
+		{
 			"title": "Weapons",
 			"director": "Zach Cregger",
 			"year": "2025",
@@ -1414,6 +1898,21 @@
 		},
 
 		{
+			"title": "The Wiz",
+			"director": "Sidney Lumet",
+			"year": "1978",
+			"duration": "2h 16m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDk3MjA2ZjItN2U5Ny00YjgwLTkyN2QtMmZkZDJmYzI1NGVlXkEyXkFqcGc@._V1_FMjpg_UY2904_.jpg",
+			"previewImage": "https://pixel.disco.nowtv.com/uuid/e2999222-45f7-4e91-a9fa-c9c09456dbb8/LAND_16_9?language=en-GB&proposition=NOWOTT&version=9726de45-b76e-37cc-8f89-ed502f94c867",
+			"description": "When Harlem schoolteacher Dorothy is miraculously whisked away to an urban fantasy land called Oz, she goes in search of the Wiz, a wizard who can help her get back to Manhattan, along with the Scarecrow, the Tin Man and the Cowardly Lion.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Musical"],
+            "id": "the-wiz.mp4",
+            "endTime": "172"
+		},
+
+		{
 			"title": "X",
 			"director": "Ti West",
 			"year": "2022",
@@ -1426,21 +1925,6 @@
 			"genre": ["Horror", "Mystery"],
             "id": "x.mkv",
             "endTime": "332"
-		},
-
-		{
-			"title": "",
-			"director": "",
-			"year": "",
-			"duration": "",
-			"image_url": "",
-			"previewImage": "",
-			"description": "",
-			"featured": "",
-			"theatre_optimized": "",
-			"genre": [""],
-            "id": "",
-            "endTime": ""
 		}
 
 	]
