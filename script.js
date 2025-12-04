@@ -9,6 +9,8 @@ let menuItems;
 let data;
 let genre_block;
 const site_wrapper = document.getElementsByClassName("site-wrapper");
+let thisInstance = 0;
+let thisID = 0;
 
 function menu_01(){
 	toggle_menu();
@@ -77,10 +79,11 @@ function populateLibrary(){
 
 		const movieItem = document.createElement("div");
 		movieItem.classList.add('item-wrapper');
+		movieItem.classList.add(i);
 		if((library[i].genre).length > 1){
-			movieItem.innerHTML = "<div class='movie-item'><span class='title'>" + library[i].title + "<br><span class='year'>(" + library[i].year + ")</span></span></div><div class='movie-details'><span class='title'>" + library[i].title + " (" + library[i].year + ")</span><span class='director'>Directed By: " + library[i].director + "</span><p class='description'>" + library[i].description + "</p><span class='genre'>" + library[i].genre[0] + "</span><span class='genre'>" + library[i].genre[1] + "</span></div>";
+			movieItem.innerHTML = "<div class='scrollTo' id='" + i + "'></div><div class='movie-item'><span class='title'>" + library[i].title + "<br><span class='year'>(" + library[i].year + ")</span></span></div><div class='movie-details'><span class='title'>" + library[i].title + " (" + library[i].year + ")</span><span class='director'>Directed By: " + library[i].director + "</span><p class='description'>" + library[i].description + "</p><span class='genre'>" + library[i].genre[0] + "</span><span class='genre'>" + library[i].genre[1] + "</span></div>";
 		}else{
-			movieItem.innerHTML = "<div class='movie-item'><span class='title'>" + library[i].title + "<br><span class='year'>(" + library[i].year + ")</span></span></div><div class='movie-details'><span class='title'>" + library[i].title + " (" + library[i].year + ")</span><span class='director'>Directed By: " + library[i].director + "</span><p class='description'>" + library[i].description + "</p><span class='genre'>" + library[i].genre[0] + "</span></div>";
+			movieItem.innerHTML = "<div class='scrollTo' id='" + i + "'></div><div class='movie-item'><span class='title'>" + library[i].title + "<br><span class='year'>(" + library[i].year + ")</span></span></div><div class='movie-details'><span class='title'>" + library[i].title + " (" + library[i].year + ")</span><span class='director'>Directed By: " + library[i].director + "</span><p class='description'>" + library[i].description + "</p><span class='genre'>" + library[i].genre[0] + "</span></div>";
 		}
 		main_container[0].appendChild(movieItem);
 		setTimeout(function() {
@@ -98,6 +101,10 @@ function populateLibrary(){
 			}
 			if (!this.classList.contains('selected')) {
     			this.classList.add("selected");
+    			thisInstance = this.classList;
+    			thisID = document.getElementById(thisInstance[1]);
+    			console.log(thisInstance[1]);
+    			thisID.scrollIntoView();
 			}else{
 				this.classList.remove("selected");
 			}
