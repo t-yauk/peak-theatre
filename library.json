@@ -195,6 +195,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Thriller", "Action"],
             "id": "battle-royale.mkv",
+            "subtitle_id": "battle-royale.vtt",
             "endTime": "277"
 		},
 
@@ -210,6 +211,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Thriller", "Action"],
             "id": "beau-is-afraid.mkv",
+            "trailer_id": "beau-is-afraid.mp4",
             "endTime": "306"
 		},
 
@@ -240,6 +242,7 @@
 			"theatre_optimized": "false",
 			"genre": ["Fantasy", "Romance"],
             "id": "beauty-and-the-beast.mp4",
+            "subtitle_id": "beauty-and-the-beast.vtt",
             "endTime": "52"
 		},
 
@@ -285,6 +288,7 @@
 			"theatre_optimized": "false",
 			"genre": ["Thriller", "Drama"],
             "id": "bicycle-thieves.mp4",
+            "subtitle_id": "bicycle-thieves.vtt",
             "endTime": "71"
 		},
 
@@ -405,6 +409,7 @@
 			"theatre_optimized": "false",
 			"genre": ["Crime", "Romance"],
             "id": "breathless.mp4",
+            "subtitle_id": "breathless.vtt",
             "endTime": "7"
 		},
 
@@ -660,8 +665,9 @@
 			"featured": "true",
 			"theatre_optimized": "true",
 			"genre": ["Horror", "Sci-Fi"],
-            "id": "sample.mkv",
+            "id": "frankenstein.mkv",
             "trailer_id": "frankenstein.mp4",
+            "subtitle_id": "frankenstein.vtt",
 			"endTime": "639"
 		},
 
@@ -818,6 +824,22 @@
 		},
 
 		{
+			"title": "Jay Kelly",
+			"director": "Noah Baumbach",
+			"year": "2025",
+			"duration": "2h 12m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMWRlNDM1NjktZDkyYi00Zjk0LWE5MTQtNWEyNzMwODY1Njc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://www.baltimoremagazine.com/wp-content/uploads/2025/12/jaykellyre-jpg.webp",
+			"description": "Famous movie star Jay Kelly and his devoted manager, Ron, embark on an unexpectedly profound journey through Europe. Along the way, both men confront the choices they've made, relationships with loved ones, and the legacies they'll leave behind",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Drama"],
+            "id": "jay-kelly.mkv",
+            "trailer_id": "jay-kelly.mp4",
+            "endTime": "78"
+		},
+
+		{
 			"title": "Killers Of The Flower Moon",
 			"director": "Martin Scorsese",
 			"year": "2023",
@@ -860,6 +882,7 @@
 			"theatre_optimized": "false",
 			"genre": ["Crime", "Thriller"],
             "id": "la-haine.mp4",
+            "subtitle_id": "la-haine.vtt",
             "endTime": "37"
 		},
 
@@ -981,6 +1004,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Action", "Adventure"],
             "id": "furiosa.mkv",
+            "trailer_id": "furiosa.webm",
             "endTime": ""
 		},
 
@@ -1134,6 +1158,8 @@
             "id": "my-fair-lady.mkv",
             "trailer_id": "my-fair-lady.mp4",
             "intermission": ["4285", "4201"],
+            "overture": ["10387", "4270", "10189"],
+            "colour": "pink",
             "endTime": "90"
 		},
 
@@ -1241,6 +1267,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Horror", "Sci-Fi"],
             "id": "nope.mkv",
+            "trailer_id": "nope.mp4",
             "endTime": "405"
 		},
 
@@ -1332,6 +1359,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Fantasy", "War"],
             "id": "pans-labyrinth.mkv",
+            "subtitle_id": "pans-labyrinth.vtt",
             "endTime": "409"
 		},
 
@@ -1467,6 +1495,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Action", "War"],
             "id": "ran.mkv",
+            "subtitle_id": "ran.vtt",
             "endTime": "194"
 		},
 
@@ -1542,6 +1571,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Action", "Adventure"],
             "id": "seven-samurai.mkv",
+            "subtitle_id": "seven-samurai.vtt",
             "endTime": "18"
 		},
 
@@ -1621,6 +1651,8 @@
 			"genre": ["Adventure", "War"],
             "id": "spartacus.mkv",
             "intermission": ["5340", "5180"],
+            "overture": ["11795", "5322", "11555"],
+            "colour": "red",
             "endTime": "174"
 		},
 
@@ -1712,6 +1744,7 @@
 			"theatre_optimized": "false",
 			"genre": ["Ramen", "Comedy"],
             "id": "tampopo.mp4",
+            "subtitle_id": "tampopo.vtt",
             "endTime": "166"
 		},
 
@@ -1924,6 +1957,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Horror", "Mystery"],
             "id": "x.mkv",
+            "trailer_id": "x.mp4",
             "endTime": "332"
 		}
 
