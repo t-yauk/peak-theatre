@@ -1,0 +1,43 @@
+body{
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	height: 100vh; 
+}
+
+.login-window{
+	display: flex;
+	width: 500px;
+	justify-content: center;
+  	align-items: center;
+	aspect-ratio: 4/3;
+	background: white;
+	border-radius: 20px;
+	filter: drop-shadow(0 0 0.7rem rgba(0,0,0,0.1));
+	padding: 0px 25px;
+	
+}
+
+.login-window h1{
+	text-transform: uppercase;
+	font-weight: 200;
+	display:block;
+	width: 100%;
+}
+
+.error-message{
+	display: none;
+	padding-bottom:10px;
+	color: red;
+}
+
+.login-window #username{
+	display: block;
+	width: 100%;
+}
+
+.login-form{
+	display: block;
+	width: 50%;
+	padding-right: 50px;
+}
