@@ -2,6 +2,21 @@
 	"movies": [
 
 		{
+			"title": "8 1/2",
+			"director": "Federico Fellini",
+			"year": "1963",
+			"duration": "2h 18m",
+			"image_url": "https://s3.amazonaws.com/criterion-production/films/493b486a4800738de5b4a72bc82f5bf6/M927Tfj7NJo0gkNc16joRLIvwtnhaV_original.jpg",
+			"previewImage": "https://ychef.files.bbci.co.uk/1280x720/p0f1mzdc.jpg",
+			"description": "A harried movie director retreats into his memories and fantasies.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Fantasy", "Comedy"],
+            "id": "8-half.mkv",
+            "endTime": "146"
+		},
+
+		{
 			"title": "The Adventures Of Ichabod And Mr. Toad",
 			"director": "James Algar, Clyde Geronimi, Jack Kinney",
 			"year": "1949",
@@ -30,6 +45,21 @@
 			"genre": ["Comedy"],
             "id": "airplane.mkv",
             "endTime": "284"
+		},
+
+		{
+			"title": "All That Jazz",
+			"director": "Bob Fosse",
+			"year": "1979",
+			"duration": "2h 5m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNmU1ZjBlNWItMjNiYS00OWNlLTk3YjUtN2U1MTI0OTAxOGEwXkEyXkFqcGc@._V1_FMjpg_UY2922_.jpg",
+			"previewImage": "https://www.siff.net/images/CINEMA/2025/Movie%20Club/CIN_SMC-AllThatJazz_1600x900.jpg",
+			"description": "Director/choreographer Bob Fosse tells his own life story as he details the sordid career of Joe Gideon, a womanizing, drug-using dancer.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Musical", "Fantasy"],
+            "id": "all-that-jazz.mp4",
+            "endTime": "165"
 		},
 
 		{
@@ -445,6 +475,21 @@
 		},
 
 		{
+			"title": "Bugonia",
+			"director": "Yorgos Lanthimos",
+			"year": "2025",
+			"duration": "1h 59m",
+			"image_url": "https://snworksceo.imgix.net/cds/ea8bd23a-f73f-47bb-840f-8761324fbe18.sized-1000x1000.jpg",
+			"previewImage": "https://cultmtl.com/wp-content/uploads/2025/10/bugonia-1.jpg",
+			"description": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Sci-Fi"],
+            "id": "bugonia.mkv",
+            "endTime": "379"
+		},
+
+		{
 			"title": "Cabaret",
 			"director": "Bob Fosse",
 			"year": "1972",
@@ -521,6 +566,21 @@
 		},
 
 		{
+			"title": "Cinderella",
+			"director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+			"year": "1950",
+			"duration": "1h 14m",
+			"image_url": "https://static.wikia.nocookie.net/disney/images/4/44/Cinderella-disney-poster.jpg",
+			"previewImage": "https://consequence.net/wp-content/uploads/2023/07/Cinderella-Disney.jpg",
+			"description": "When Cinderella's cruel stepmother prevents her from attending the Royal Ball, she gets some unexpected help from the lovable mice Gus and Jaq and from her Fairy Godmother.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Musical"],
+            "id": "cinderella.mkv",
+            "endTime": "15"
+		},
+
+		{
 			"title": "Citizen Kane",
 			"director": "Orson Welles",
 			"year": "1941",
@@ -551,6 +611,36 @@
 		},
 
 		{
+			"title": "The Conversation",
+			"director": "Francis Ford Coppola",
+			"year": "1974",
+			"duration": "1h 53m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNmNkMjg4MjMtNzM0YS00ZDRlLTljMzYtYWYxZjljNDJjOWU4XkEyXkFqcGc@._V1_FMjpg_UX812_.jpg",
+			"previewImage": "https://www.indiewire.com/wp-content/uploads/2021/08/The-Conversation-still-01.jpg",
+			"description": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Mystery"],
+            "id": "the-conversation.mkv",
+            "endTime": "45"
+		},
+
+		{
+			"title": "Dangerous Liaisons",
+			"director": "Stephen Frears",
+			"year": "1988",
+			"duration": "1h 59m",
+			"image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11335_p_v10_aj.jpg",
+			"previewImage": "https://www.alternateending.com/wp-content/uploads/2022/08/2nhUJ4uT6NociPyDsxfXMfXhwos.jpg",
+			"description": "A scheming widow and her manipulative ex-lover make a bet regarding the corruption of a recently married woman.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Romance", "Drama"],
+            "id": "dangerous-liaisons.mp4",
+            "endTime": "169"
+		},
+
+		{
 			"title": "Deliverance",
 			"director": "John Boorman",
 			"year": "1972",
@@ -563,6 +653,21 @@
 			"genre": ["Action", "Thriller"],
             "id": "deliverance.mp4",
             "endTime": "41"
+		},
+
+		{
+			"title": "Dial M For Murder",
+			"director": "Alfred Hitchcock",
+			"year": "1954",
+			"duration": "1h 45m",
+			"image_url": "https://i.ebayimg.com/images/g/knIAAMXQQQhRcRun/s-l1200.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BMTQxNTY3NjA1Nl5BMl5BanBnXkFtZTcwNzQyODMwOQ@@._V1_.jpg",
+			"description": "A London playboy plots the perfect murder of his rich, unfaithful wife.",
+			"featured": "false",
+			"theatre_optimized": "3D",
+			"genre": ["Thriller", "Mystery"],
+            "id": "3D/dial-m-for-murder.mkv",
+            "endTime": "1"
 		},
 
 		{
@@ -671,6 +776,21 @@
 		},
 
 		{
+			"title": "Fear and Loathing in Las Vegas",
+			"director": "Terry Gilliam",
+			"year": "1998",
+			"duration": "1h 58m",
+			"image_url": "https://revuecinema.ca/wp-content/uploads/2025/08/fear_and_loathing_in_las_vegas_tmdb-tisnlcmkxryu2zxhi0piydfqhm0-768x1152.jpg",
+			"previewImage": "https://static.bandonthewall.org/app/uploads/2017/04/GAC_FearLoathing.jpg",
+			"description": "An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Adventure"],
+            "id": "fear-and-loathing-in-las-vegas.mkv",
+            "endTime": "342"
+		},
+
+		{
 			"title": "Four Weddings and a Funeral",
 			"director": "Mike Newell",
 			"year": "1994",
@@ -749,6 +869,21 @@
 		},
 
 		{
+			"title": "Highest 2 Lowest",
+			"director": "Spike Lee",
+			"year": "2025",
+			"duration": "2h 13m",
+			"image_url": "https://image.tmdb.org/t/p/original/kOzwIr0R7WhaFgoYUZFLPZA2RBZ.jpg",
+			"previewImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/denzel-washington-in-highest-2-lowest-poster-cropped.jpg",
+			"description": "When a titan music mogul is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Crime", "Thriller"],
+            "id": "highest-2-lowest.mkv",
+            "endTime": "320"
+		},
+
+		{
 			"title": "The Holiday",
 			"director": "Nancy Meyers",
 			"year": "2006",
@@ -822,6 +957,21 @@
 			"genre": ["Sci-Fi", "Adventure"],
             "id": "interstellar.mkv",
             "endTime": "305"
+		},
+
+		{
+			"title": "Invasion of the Body Snatchers",
+			"director": "Philip Kaufman",
+			"year": "1978",
+			"duration": "1h 55m",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg",
+			"previewImage": "https://riotheatre.ca/wp-content/uploads/2024/07/j0AZ67brlWze2Owv47z1E27LQQy-1024x576.jpg",
+			"description": "When strange seeds drift to earth from space, mysterious pods begin to grow and invade San Francisco, replicating the city's residents one body at a time.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Horror", "Sci-Fi"],
+            "id": "invastion-of-the-body-snatchers.mp4",
+            "endTime": "76"
 		},
 
 		{
@@ -1696,6 +1846,21 @@
 		},
 
 		{
+			"title": "The Smashing Machine",
+			"director": "Benny Safdie",
+			"year": "2025",
+			"duration": "2h 4m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOWYxZTM1ZGMtMjg5MC00NzcyLTk0ZTEtZWI0ZThkNDJiYjZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://www.siff.net/images/CINEMA/2025/Film%20Jun-Dec/CIN_TheSmashingMachine_1600x900.jpg",
+			"description": "The story of mixed-martial arts and UFC champion, Mark Kerr.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sport", "Drama"],
+            "id": "the-smashing-machine.mkv",
+            "endTime": "361"
+		},
+
+		{
 			"title": "The Sound Of Music",
 			"director": "Robert Wise",
 			"year": "1965",
@@ -1869,6 +2034,21 @@
 		},
 
 		{
+			"title": "Together",
+			"director": "Michael Shanks",
+			"year": "2025",
+			"duration": "1h 42m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZjhhZWQxYjMtYjdmNy00MzBlLWIwZWMtMGNmNGZmMGUzY2QyXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BY2JkYTUxMzMtOGJlNi00ZTcxLTgyZWYtY2UzOGE0MWE3YTU1XkEyXkFqcGc@._V1_.jpg",
+			"description": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country. With tensions already flaring, an encounter with an unnatural force threatens to corrupt their lives, their love and their flesh.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror"],
+            "id": "together.mkv",
+            "endTime": "330"
+		},
+
+		{
 			"title": "The Tragedy Of Macbeth",
 			"director": "Joel Coen",
 			"year": "2021",
@@ -1956,6 +2136,23 @@
 			"genre": ["Comedy", "Musical"],
             "id": "waiting-for-guffman.mp4",
             "endTime": "315"
+		},
+
+		{
+			"title": "Wake Up Dead Man",
+			"subtitle": "A Knives Out Mystery",
+			"director": "Rian Johnson",
+			"year": "2025",
+			"duration": "2h 20m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzcxNjQxYWEtZTRlMy00ZDFmLTk1MGMtZGYwZjUxNjMzM2M2XkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg",
+			"previewImage": "https://woforgmedia.wordonfire.org/wp-content/uploads/2025/12/08142515/umZHsYDJEcK9j8AozU2mVC.jpg",
+			"description": "Benoit Blanc returns for his most dangerous case yet.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Mystery", "Crime"],
+            "id": "knives-out-3.mkv",
+            "trailer_id": "knives-out-3.mp4",
+            "endTime": "522"
 		},
 
 		{
