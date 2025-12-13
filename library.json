@@ -383,6 +383,22 @@
 		},
 
 		{
+			"title": "Blue Moon",
+			"director": "Richard Linklater",
+			"year": "2025",
+			"duration": "1h 40m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODQ0NjNlN2MtNGRmZi00OGYzLWFjNGYtMjkyMTlmMWFkNTQ2XkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://screenzealots.com/wp-content/uploads/2025/10/blue.moon_.jpg",
+			"description": "In 1943 lyricist Lorenz Hart confronts his shattered self-confidence in a bar as his former collaborator, Richard Rodgers, celebrates the opening night of his groundbreaking hit musical \"Oklahoma!\"",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Musical", "Drama"],
+            "id": "blue-moon.mkv",
+            "trailer_id": "blue-moon.mp4",
+            "endTime": "186"
+		},
+
+		{
 			"title": "Brazil",
 			"director": "Terry Gilliam",
 			"year": "1985",
@@ -501,7 +517,7 @@
 			"genre": ["Family", "Christmas"],
             "id": "a-charlie-brown-christmas.mkv",
             "trailer_id": "a-charlie-brown-christmas.mp4",
-            "endTime": ""
+            "endTime": "38"
 		},
 
 		{
@@ -592,6 +608,21 @@
 			"genre": ["Fantasy", "Romance"],
             "id": "edward-scissorhands.mkv",
             "endTime": "309"
+		},
+
+		{
+			"title": "Elf",
+			"director": "Jon Favreau",
+			"year": "2003",
+			"duration": "1h 37m",
+			"image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2021/11/11094638/zDHFQmaxlTIJGQDfTrLTL9RK2tQ.jpg",
+			"previewImage": "https://www.christcitychurch.ie/wp-content/uploads/elf-04.jpg",
+			"description": "Raised as an oversized elf, Buddy travels from the North Pole to New York City to meet his biological father, Walter Hobbs, who doesn't know he exists and is in desperate need of some Christmas spirit.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Christmas"],
+            "id": "elf.mkv",
+            "endTime": "343"
 		},
 
 		{
@@ -718,6 +749,21 @@
 		},
 
 		{
+			"title": "The Holiday",
+			"director": "Nancy Meyers",
+			"year": "2006",
+			"duration": "2h 11m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABS73FY7g6ZhH97pFjs7J2YDBVWa4bDQAYiI1nD5AlOgmA2WyeA3lXCFzrH2Wgu_FVHHVaHUEk6gRU3j59eONNerZIBQFsPcLBEAR.jpg",
+			"description": "Amanda lives in LA and is a movie trailer editor. Iris lives in Surrey and is a journalist. The two decide to swap houses for two weeks at Christmas - both trying to forget their troubled love lives, until love finds them anyways.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Romance", "Christmas"],
+            "id": "the-holiday.mkv",
+            "endTime": "332"
+		},
+
+		{
 			"title": "Hot Dog...The Movie",
 			"director": "Peter Markle",
 			"year": "1984",
@@ -743,9 +789,9 @@
 			"featured": "false",
 			"theatre_optimized": "true",
 			"genre": ["Family", "Christmas"],
-            "id": "how-the-grinch-stole-christmas.mkv",
+            "id": "grinch.mkv",
             "trailer_id": "how-the-grinch-stole-christmas.mp4",
-            "endTime": ""
+            "endTime": "29"
 		},
 
 		{
@@ -929,6 +975,21 @@
 			"genre": ["War", "Romance"],
             "id": "the-life-and-death-of-colonel-blimp.mp4",
             "endTime": "94"
+		},
+
+		{
+			"title": "Love Actually",
+			"director": "David Lean",
+			"year": "2003",
+			"duration": "2h 9m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://i0.wp.com/viewinder.com/wp-content/uploads/2003/11/Love-Actually-01.jpg",
+			"description": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Romance", "Christmas"],
+            "id": "love-actually.mkv",
+            "endTime": "283"
 		},
 
 		{
@@ -1125,7 +1186,7 @@
 			"featured": "false",
 			"theatre_optimized": "true",
 			"genre": ["Comedy", "Musical"],
-            "id": "the-meaning-of-life.mkv",
+            "id": "monty-python-the-meaning-of-life.mkv",
             "endTime": "285"
 		},
 
@@ -1193,6 +1254,21 @@
 			"genre": ["Comedy", "Crime"],
             "id": "the-naked-gun-2.mkv",
             "endTime": "295"
+		},
+
+		{
+			"title": "National Lampoon's Christmas Vacation",
+			"director": "Jeremiah S. Chechik",
+			"year": "1989",
+			"duration": "1h 37m",
+			"image_url": "https://images2.9c9media.com/image_asset/2025_5_9_37e2b439-8a02-4f6f-8cd6-64d065c2701e_png_2000x3000.jpg",
+			"previewImage": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1576787473182-MD45P1NKOCB1YSXTNTH5/image-asset.jpeg",
+			"description": "The Griswold family's plans for a big family Christmas predictably turn into a big disaster.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Christmas"],
+            "id": "christmas-vacation.mkv",
+            "endTime": "192"
 		},
 
 		{
@@ -1556,7 +1632,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Family", "Christmas"],
             "id": "santa-claus-is-comin-to-town.mkv",
-            "endTime": ""
+            "endTime": "85"
 		},
 
 		{
@@ -1571,7 +1647,6 @@
 			"theatre_optimized": "true",
 			"genre": ["Action", "Adventure"],
             "id": "seven-samurai.mkv",
-            "subtitle_id": "seven-samurai.vtt",
             "endTime": "18"
 		},
 
