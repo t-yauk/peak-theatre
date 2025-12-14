@@ -1772,6 +1772,36 @@
 		},
 
 		{
+			"title": "Rocky",
+			"director": "John G. Avildsen",
+			"year": "1976",
+			"duration": "2 hours",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_FMjpg_UX658_.jpg",
+			"previewImage": "https://images.squarespace-cdn.com/content/v1/5b18735a3917ee20d18a2117/1577091660650-IXKPLRGC1WH4STHLDUFW/eventbrite.jpg",
+			"description": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sport", "Action"],
+            "id": "rocky.mkv",
+            "endTime": "128"
+		},
+
+		{
+			"title": "Rocky III",
+			"director": "Sylvester Stallone",
+			"year": "1982",
+			"duration": "1h 39m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDYzNDQ3Y2MtODc1Zi00ZTBkLWIzZWUtOGY0NGZmYWZhMWQ5XkEyXkFqcGc@._V1_FMjpg_UY2265_.jpg",
+			"previewImage": "https://www.joblo.com/wp-content/uploads/2021/06/rocky-iii-fb-1280x720.jpg",
+			"description": "Rocky faces the ultimate challenge from a powerful new contender, and must turn to a former rival to help regain his throne as the undisputed fighting champion.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sport", "Action"],
+            "id": "rocky-3.mkv",
+            "endTime": "189"
+		},
+
+		{
 			"title": "Rope",
 			"director": "Alfred Hitchcock",
 			"year": "1948",
