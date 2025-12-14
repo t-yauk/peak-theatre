@@ -1047,6 +1047,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Western", "Thriller"],
             "id": "killers-of-the-flower-moon.mkv",
+            "subtitle_id": "killers-of-the-flower-moon.vtt",
             "trailer_id": "killers-of-the-flower-moon.mp4",
             "endTime": "570"
 		},
@@ -1452,6 +1453,21 @@
 		},
 
 		{
+			"title": "New York Stories",
+			"director": "Martin Scorsese, Woody Allen, Francis Ford Coppola",
+			"year": "1989",
+			"duration": "2h 4m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMzZmZjQ5ZWMtZmM3ZS00NTk5LTlhOTgtZGViZDI3ZjgxOTdkXkEyXkFqcGc@._V1_FMjpg_UY2265_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/S/pv-target-images/af5a6cd9aabe0efec9587853d1e52ffb958b2aa5df0fe84ba89b57bed4d4fc8e.jpg",
+			"description": "A middle-aged artist obsessed with his pretty young assistant, a precocious 12-year-old living in a hotel, and a neurotic lawyer with a possessive mother make up three Gotham tales.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Romance"],
+            "id": "new-york-stories.mp4",
+            "endTime": "360"
+		},
+
+		{
 			"title": "No Country for Old Men",
 			"director": "Ethan Coen, Joel Coen",
 			"year": "2007",
@@ -1771,6 +1787,21 @@
 		},
 
 		{
+			"title": "The Running Man",
+			"director": "Edgar Wright",
+			"year": "2025",
+			"duration": "2h 13m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://www.framerated.co.uk/frwpcontent/uploads/2025/11/runningman2025_01.jpg",
+			"description": "A man joins a game show in which contestants, allowed to flee anywhere in the world, are pursued by \"hunters\" hired to kill them.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sci-Fi", "Adventure"],
+            "id": "the-running-man.mkv",
+            "endTime": "505"
+		},
+
+		{
 			"title": "Santa Claus Is Comin' to Town",
 			"director": "Jules Bass",
 			"year": "1970",
@@ -1923,7 +1954,7 @@
 			"theatre_optimized": "false",
 			"genre": ["Noir", "Crime"],
             "id": "sunset-blvd.mkv",
-            "endTime": ""
+            "endTime": "30"
 		},
 
 		{
@@ -2213,7 +2244,7 @@
 			"featured": "false",
 			"theatre_optimized": "true",
 			"genre": ["Family", "Musical"],
-            "id": "the-wiz.mp4",
+            "id": "the-wiz.mkv",
             "endTime": "172"
 		},
 
