@@ -838,6 +838,22 @@
 		},
 
 		{
+			"title": "The Godfather",
+			"director": "Francis Ford Coppola",
+			"year": "1972",
+			"duration": "2h 55m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_FMjpg_UY1982_.jpg",
+			"previewImage": "https://images.bauerhosting.com/legacy/media/6217/9535/9649/1207/f543/24bb/vote-hero.jpg",
+			"description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Crime"],
+            "id": "the-godfather.mkv",
+            "endTime": "241"
+		},
+
+
+		{
 			"title": "Grease",
 			"director": "Randal Kleiser",
 			"year": "1978",
@@ -961,10 +977,25 @@
 
 		{
 			"title": "Invasion of the Body Snatchers",
+			"director": "Don Siegel",
+			"year": "1956",
+			"duration": "1h 20m",
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg",
+			"previewImage": "https://www.cinematheque.qc.ca/workspace/uploads/projections/snatchers-fr-1677085449.jpg",
+			"description": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Horror", "Sci-Fi"],
+            "id": "invastion-of-the-body-snatchers.mkv",
+            "endTime": "17"
+		},
+
+		{
+			"title": "Invasion of the Body Snatchers",
 			"director": "Philip Kaufman",
 			"year": "1978",
 			"duration": "1h 55m",
-			"image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg",
+			"image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/309/2024/09/18161740/5oNHdVo0vTsaC47Jv2Wb4eeo4V4-683x1024.jpg",
 			"previewImage": "https://riotheatre.ca/wp-content/uploads/2024/07/j0AZ67brlWze2Owv47z1E27LQQy-1024x576.jpg",
 			"description": "When strange seeds drift to earth from space, mysterious pods begin to grow and invade San Francisco, replicating the city's residents one body at a time.",
 			"featured": "false",
@@ -1514,6 +1545,21 @@
 		},
 
 		{
+			"title": "North by Northwest",
+			"director": "Alfred Hitchcock",
+			"year": "1959",
+			"duration": "2h 16m",
+			"image_url": "https://resizing.flixster.com/fae-4XwC4_oBC72s-CPc4PElAqU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk2OGMzMjAxLTBkNzYtNGU0ZC05MzkzLWE3ZjRlYzY4OWI3Yy5qcGc=",
+			"previewImage": "https://cdn.britannica.com/99/176699-050-797B541E/Cary-Grant-North-Northwest-Alfred-Hitchcock.jpg",
+			"description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Action"],
+            "id": "north-by-northwest.mkv",
+            "endTime": "8"
+		},
+
+		{
 			"title": "The Northman",
 			"director": "Robert Eggers",
 			"year": "2022",
@@ -1591,7 +1637,7 @@
 
 		{
 			"title": "Pan's Labyrinth",
-			"director": "Guillermo del Toro",
+			"director": "Guillermo del Torok",
 			"year": "2006",
 			"duration": "1h 58m",
 			"image_url": "https://m.media-amazon.com/images/M/MV5BOTc1NTAxMWItMWFlNy00MmU2LTkwMTMtNzMwOTg5OTQ5YTFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -1859,6 +1905,22 @@
 			"genre": ["Action", "Adventure"],
             "id": "seven-samurai.mkv",
             "endTime": "18"
+		},
+
+		{
+			"title": "The Seventh Seal",
+			"director": "Ingmar Bergman",
+			"year": "1957",
+			"duration": "1h 36m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjg4YTBhMDUtMWRkOC00YTlhLThiNWEtNTY4MzdjZDk2OGIxXkEyXkFqcGc@._V1_FMjpg_UY1600_.jpg",
+			"previewImage": "https://i.redd.it/r20l2syl4wia1.jpg",
+			"description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Fantasy", "Thriller"],
+            "id": "seventh-seal.mkv",
+            "subtitle_id": "seventh-seal.vtt",
+            "endTime": "9999"
 		},
 
 		{
