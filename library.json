@@ -731,6 +731,21 @@
 		},
 
 		{
+			"title": "Enter The Dragon",
+			"director": "Robert Clouse",
+			"year": "1973",
+			"duration": "1h 42m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZDAyYjAwNmMtMjM5OC00NTc5LThmNjAtOTUxODQxOWYwOTE5XkEyXkFqcGc@._V1_FMjpg_UX812_.jpg",
+			"previewImage": "https://riotheatre.ca/wp-content/uploads/2023/06/6uChT8jRjTwcVo4X5pIUctsl1qN-1024x576.jpg",
+			"description": "A Shaolin monk travels to an island fortress to spy on an opium lord - who is also a former monk from his temple - under the guise of attending a martial arts tournament.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Crime"],
+            "id": "enter-the-dragon.mkv",
+            "endTime": "44"
+		},
+
+		{
 			"title": "Escape From Alcatraz",
 			"director": "Don Siegel",
 			"year": "1979",
@@ -1099,6 +1114,21 @@
 		},
 
 		{
+			"title": "Kramer vs. Kramer",
+			"director": "Robert Benton",
+			"year": "1979",
+			"duration": "1h 45m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNTJmYjYwZDMtYmU5MS00OWM0LWIxZTctZTcxODJkOTU4ZDMxXkEyXkFqcGc@._V1_FMjpg_UY2265_.jpg",
+			"previewImage": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2019/04/kramer_vs_kramer_1280.jpg",
+			"description": "After his wife leaves him, a work-obsessed Manhattan advertising executive is forced to learn long-neglected parenting skills, but a heated custody battle over the couple's young son deepens the wounds left by the separation.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Drama"],
+            "id": "kramer-vs-kramer.mkv",
+            "endTime": "120"
+		},
+
+		{
 			"title": "La Haine",
 			"director": "Mathieu Kassovitz",
 			"year": "1995",
@@ -1264,6 +1294,21 @@
 			"genre": ["Thriller", "Mystery"],
             "id": "the-man-who-knew-too-much.mp4",
             "endTime": "32"
+		},
+
+		{
+			"title": "Mean Streets",
+			"director": "Martin Scorsese",
+			"year": "1973",
+			"duration": "1h 52m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDIxNWQ1NTctNzA2Yy00OTM4LWFmNWUtNThlOWFhNzI2MDMwXkEyXkFqcGc@._V1_FMjpg_UX1203_.jpg",
+			"previewImage": "https://thecinemaarchives.com/wp-content/uploads/2019/07/mean-streets-jaldfjkaf-4-use.jpg",
+			"description": "In New York City's Little Italy, a devoutly Catholic mobster must reconcile his desire for power, his feelings for his epileptic girlfriend, and his devotion to his troublesome friend.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Crime", "Drama"],
+            "id": "mean-streets.mkv",
+            "endTime": "93"
 		},
 
 		{
@@ -1833,6 +1878,21 @@
 		},
 
 		{
+			"title": "Rocky II",
+			"director": "Sylvester Stallone",
+			"year": "1979",
+			"duration": "2 hours",
+			"image_url": "https://resizing.flixster.com/o-hNI9ItqHlrYB3wC3oOU60Zuvc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYyYmU4OThjLTY3MmItNDIwMS04NjZlLWQ5ZmRiNjZjMDk5MS5qcGc=",
+			"previewImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/rocky-II.jpg",
+			"description": "Rocky struggles in family life after his bout with Apollo Creed, while the embarrassed champ insistently goads him to accept a challenge for a rematch.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sport", "Action"],
+            "id": "rocky-2.mkv",
+            "endTime": "164"
+		},
+
+		{
 			"title": "Rocky III",
 			"director": "Sylvester Stallone",
 			"year": "1982",
@@ -1845,6 +1905,21 @@
 			"genre": ["Sport", "Action"],
             "id": "rocky-3.mkv",
             "endTime": "189"
+		},
+
+		{
+			"title": "Rocky IV",
+			"director": "Sylvester Stallone",
+			"year": "1985",
+			"duration": "1h 31m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjJiYzRiYWMtZTgyZC00YjliLWIwZWMtZTJlYjkyYzc2MDMxXkEyXkFqcGc@._V1_FMjpg_UY2265_.jpg",
+			"previewImage": "https://around80s.blubrry.net/wp-content/uploads/2025/02/rocky4.jpg",
+			"description": "Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-six, 261-pound fighter who has the backing of the Soviet Union.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sport", "Action"],
+            "id": "rocky-4.mkv",
+            "endTime": "319"
 		},
 
 		{
