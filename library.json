@@ -490,6 +490,22 @@
 		},
 
 		{
+			"title": "Burning",
+			"director": "Lee Chang-dong",
+			"year": "2018",
+			"duration": "2h 28m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTk5ODYyMTcwN15BMl5BanBnXkFtZTgwMDIyNDI0NjM@._V1_.jpg",
+			"previewImage": "https://a.ltrbxd.com/resized/sm/upload/92/vq/bo/xe/burning-2018-1200-1200-675-675-crop-000000.jpg",
+			"description": "Jong-su bumps into a girl who used to live in the same neighborhood, who asks him to look after her cat while she's on a trip to Africa. When back, she introduces Ben, a mysterious guy she met there, who confesses his secret hobby.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Thriller", "Mystery"],
+            "id": "burning.mp4",
+            "subtitle_id": "burning.vtt",
+            "endTime": "187"
+		},
+
+		{
 			"title": "Cabaret",
 			"director": "Bob Fosse",
 			"year": "1972",
@@ -1327,6 +1343,21 @@
 		},
 
 		{
+			"title": "Mickey 17",
+			"director": "Bong Joon Ho",
+			"year": "2025",
+			"duration": "2h 19m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZGQwYmEzMzktYzBmMy00NmVmLTkyYTUtOTYyZjliZDNhZGVkXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://dangerbowie.com/wp-content/uploads/2025/03/mickey-17-estreno.jpg",
+			"description": "During a human expedition to colonize space, Mickey 17, a so-called \"expendable\" employee, is sent to explore an ice planet.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sci-Fi", "Comedy"],
+            "id": "mickey-17.mkv",
+            "endTime": "478"
+		},
+
+		{
 			"title": "A Mighty Wind",
 			"director": "Christopher Guest",
 			"year": "2003",
@@ -1987,9 +2018,9 @@
 			"director": "Ingmar Bergman",
 			"year": "1957",
 			"duration": "1h 36m",
-			"image_url": "https://m.media-amazon.com/images/M/MV5BNjg4YTBhMDUtMWRkOC00YTlhLThiNWEtNTY4MzdjZDk2OGIxXkEyXkFqcGc@._V1_FMjpg_UY1600_.jpg",
-			"previewImage": "https://i.redd.it/r20l2syl4wia1.jpg",
-			"description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",
+			"image_url": "https://s3.amazonaws.com/criterion-production/films/6fede1f031c07b843ffa8965d47043f3/9QWkE37UXlpfhZrTIsaZHdWmooGJ1a_large.jpg",
+			"previewImage": "https://images.bauerhosting.com/legacy/empire-tmdb/films/490/images/u2YXzSieIsDUZnhPpoytNJiTwyt.jpg",
+			"description": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
 			"featured": "false",
 			"theatre_optimized": "true",
 			"genre": ["Fantasy", "Thriller"],
