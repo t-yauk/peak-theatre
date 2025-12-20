@@ -597,6 +597,22 @@
 		},
 
 		{
+			"title": "Cinema Paradiso",
+			"director": "Giuseppe Tornatore",
+			"year": "1988",
+			"duration": "2h 35m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTljNzc4YWEtYTZlMS00ODMyLWIwMTAtNWQxY2VkMDEwYTk5XkEyXkFqcGc@._V1_FMjpg_UX580_.jpg",
+			"previewImage": "https://motionstatereview.com/wp-content/uploads/2018/01/paradiso.jpg",
+			"description": "Salvatore, a famous film director, returns to his hometown for the funeral of the local theater's film projectionist, Alfredo. He reminisces about his life as a young boy falling in love with cinema.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Drama"],
+            "id": "cinema-paradiso.mkv",
+            "subtitle_id": "cinema-paradiso.vtt",
+            "endTime": "145"
+		},
+
+		{
 			"title": "Citizen Kane",
 			"director": "Orson Welles",
 			"year": "1941",
@@ -777,6 +793,52 @@
 		},
 
 		{
+			"title": "The Evil Dead",
+			"director": "Sam Raimi",
+			"year": "1981",
+			"duration": "1h 25m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNWRmZGQyYzgtNjA5OC00NGYzLTlhYWMtNzBhZTFlZGNjYWI2XkEyXkFqcGc@._V1_FMjpg_UX665_.jpg",
+			"previewImage": "https://images.squarespace-cdn.com/content/v1/5be6a0e070e8025a8a6e092e/1553158841265-4FVD3G2CVY7V91YYQUD9/evil-dead.jpg",
+			"description": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Action"],
+            "id": "evil-dead-1.mkv",
+            "endTime": "90"
+		},
+
+		{
+			"title": "Evil Dead II",
+			"director": "Sam Raimi",
+			"year": "1987",
+			"duration": "1h 25m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMGMxMWVhMzAtYWRlOS00YzY1LTlkYTQtYjU5ZDM4MGI1YWFjXkEyXkFqcGc@._V1_FMjpg_UY2785_.jpg",
+			"previewImage": "https://thebeacon.film/themes/user/site/default/asset/img/common/TB_EVILDEAD2.png",
+			"description": "Ash Williams, the lone survivor of an earlier onslaught of flesh-possessing spirits, holes up in a cabin with a group of strangers while the demons continue their attack.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Comedy"],
+            "id": "evil-dead-2.mkv",
+            "endTime": "195"
+		},
+
+		{
+			"title": "Army Of Darkness",
+			"subtitle": "Evil Dead Part 3",
+			"director": "Sam Raimi",
+			"year": "1992",
+			"duration": "1h 36m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzU4ZDFmNzEtNmE2Ny00OTA1LWEyMmMtZjFiOWM0MGM3YTQ1XkEyXkFqcGc@._V1_FMjpg_UY2951_.jpg",
+			"previewImage": "https://dailydead.com/wp-content/uploads/2022/11/Army-Darkness-1000-03.jpg",
+			"description": "When Ash Williams is accidentally transported to 1300 A.D., he must retrieve the Necronomicon and battle an army of the dead in order to return home.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Comedy"],
+            "id": "evil-dead-3.mkv",
+            "endTime": "341"
+		},
+
+		{
 			"title": "Excalibur",
 			"director": "John Boorman",
 			"year": "1981",
@@ -851,6 +913,21 @@
             "trailer_id": "frankenstein.mp4",
             "subtitle_id": "frankenstein.vtt",
 			"endTime": "639"
+		},
+
+		{
+			"title": "Friendship",
+			"director": "Andrew DeYoung",
+			"year": "2025",
+			"duration": "1h 41m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMzljN2M1MWMtYmUwMi00YWM5LTllMGItNzZlMmU1NWM2NTY5XkEyXkFqcGc@._V1_FMjpg_UY12000_.jpg",
+			"previewImage": "https://www.rogerebert.com/wp-content/uploads/2025/05/friendshipre-jpg.webp",
+			"description": "A suburban dad falls hard for his charismatic new neighbor.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy"],
+            "id": "friendship.mkv",
+			"endTime": "334"
 		},
 
 		{
@@ -1206,6 +1283,21 @@
 		},
 
 		{
+			"title": "The Lost Boys",
+			"director": "Joel Schumacher",
+			"year": "1987",
+			"duration": "1h 38m",
+			"image_url": "https://images.moviesanywhere.com/4b390483dcb9e2c1a9d4a341f29650b7/5e5a8ed3-020b-4bd8-8ce1-4ad3806d3587.jpg",
+			"previewImage": "https://hips.hearstapps.com/hmg-prod/images/the-lost-boys-where-are-they-now_alamy-pnd07j.jpg",
+			"description": "When a recently divorced mother and her two teenage boys move to a coastal town to stay with her father, it doesn't take long for the brothers to realize the area is a haven for something much more sinister than party-going surfers.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Comedy"],
+            "id": "the-lost-boys.mkv",
+            "endTime": "261"
+		},
+
+		{
 			"title": "Love Actually",
 			"director": "David Lean",
 			"year": "2003",
@@ -1295,6 +1387,21 @@
             "id": "furiosa.mkv",
             "trailer_id": "furiosa.webm",
             "endTime": ""
+		},
+
+		{
+			"title": "Malcolm X",
+			"director": "Spike Lee",
+			"year": "1992",
+			"duration": "3h 22m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYTFhMDFjNjItZjU0MC00MTBjLWJkMWYtMDQ2MTcxMjYwN2IzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://resizing.flixster.com/HOtJms8foh8wErwgJzLbAElucC4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14384_k_h9_aa.jpg",
+			"description": "Biographical epic of the controversial and influential Black Nationalist leader, from his early life and career as a small-time gangster, to his ministry as a member of the Nation of Islam and his eventual assassination.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Drama"],
+            "id": "malcolm-x.mkv",
+            "endTime": "555"
 		},
 
 		{
@@ -1697,6 +1804,21 @@
 		},
 
 		{
+			"title": "Once Upon a Time in America",
+			"director": "Sergio Leone",
+			"year": "1984",
+			"duration": "3h 49m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://hips.hearstapps.com/hmg-prod/images/once-upon-a-time-in-america-1530579166.jpg",
+			"description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Crime", "Thriller"],
+            "id": "once-upon-a-time-in-america.mp4",
+			"endTime": "259"
+		},
+
+		{
 			"title": "Oppenheimer",
 			"director": "Christopher Nolan",
 			"year": "2023",
@@ -1848,6 +1970,21 @@
 		},
 
 		{
+			"title": "Raging Bull",
+			"director": "Martin Scorsese",
+			"year": "1980",
+			"duration": "2h 9m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjlkYmYyZWQtNTZkOS00ZjA0LWEwNWUtNzE2ZGNiYjg0MjA2XkEyXkFqcGc@._V1_FMjpg_UX679_.jpg",
+			"previewImage": "https://media.newyorker.com/photos/5ec5a2024889dfa6eda9d874/16:9/w_2448,h_1377,c_limit/Brody-RagingBull.jpg",
+			"description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sport", "Drama"],
+            "id": "raging-bull.mkv",
+            "endTime": "257"
+		},
+
+		{
 			"title": "RAN",
 			"director": "Akira Kurosawa",
 			"year": "1985",
@@ -1996,6 +2133,21 @@
 			"genre": ["Family", "Christmas"],
             "id": "santa-claus-is-comin-to-town.mkv",
             "endTime": "85"
+		},
+
+		{
+			"title": "Scanners",
+			"director": "David Cronenberg",
+			"year": "1981",
+			"duration": "1h 43m",
+			"image_url": "https://s3.amazonaws.com/criterion-production/films/72be64c7e0fe2adc28ae31719d0c4d88/6tMtPzuwVeGlo4qEXwaxq1vZa2eZca_large.jpg",
+			"previewImage": "https://colinsreview.com/wp-content/uploads/2023/12/Scanners.jpg",
+			"description": "A scientist trains a man with an advanced telepathic ability called \"scanning\" to stop a dangerous Scanner with extraordinary psychic powers from waging war against non-Scanners.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Horror", "Sci-Fi"],
+            "id": "scanners.mp4",
+            "endTime": "224"
 		},
 
 		{
