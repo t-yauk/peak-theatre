@@ -688,6 +688,21 @@
 		},
 
 		{
+			"title": "Darkman",
+			"director": "Sam Raimi",
+			"year": "1990",
+			"duration": "1h 36m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTc5MzUxMjk4NF5BMl5BanBnXkFtZTgwNTEzNDk4NjE@._V1_FMjpg_UX1018_.jpg",
+			"previewImage": "https://assets.americancinematheque.com/wp-content/uploads/2024/09/23130704/DARKMAN-HERO.jpg",
+			"description": "A brilliant scientist left for dead returns to exact revenge on the people who burned him alive.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Action"],
+            "id": "darkman.mkv",
+            "endTime": "355"
+		}, 
+
+		{
 			"title": "Deliverance",
 			"director": "John Boorman",
 			"year": "1972",
@@ -854,6 +869,21 @@
 		},
 
 		{
+			"title": "Event Horizon",
+			"director": "Paul W. S. Anderson",
+			"year": "1997",
+			"duration": "1h 36m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BM2M4ZTI2MjMtYjVlNy00Y2E3LTgzM2EtNDA0NTUzZmQxZjY3XkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg",
+			"previewImage": "https://imageservice.sky.com/uuid/bce2d4bf-4e84-4ec1-b553-7a1f8a6daafe/background/2000",
+			"description": "A rescue crew is tasked with investigating the mysterious reappearance of a spaceship that had been lost for seven years.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Sci-Fi"],
+            "id": "event-horizon.mkv",
+            "endTime": "280"
+		},
+
+		{
 			"title": "Excalibur",
 			"director": "John Boorman",
 			"year": "1981",
@@ -862,7 +892,7 @@
 			"previewImage": "https://www.framerated.co.uk/frwpcontent/uploads/2021/03/excalibur01.jpg",
 			"description": "Merlin the magician helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as dark forces conspire to tear it apart.",
 			"featured": "false",
-			"theatre_optimized": "fa lse",
+			"theatre_optimized": "false",
 			"genre": ["Fantasy", "Adventure"],
             "id": "excalibur.mp4",
             "endTime": "194"
@@ -896,6 +926,21 @@
 			"genre": ["Comedy", "Adventure"],
             "id": "fear-and-loathing-in-las-vegas.mkv",
             "endTime": "342"
+		},
+
+		{
+			"title": "The Fly",
+			"director": "David Cronenberg",
+			"year": "1986",
+			"duration": "1h 57m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOTBlNTliNTItY2VhNS00MjA5LTllYzItMmQyNGRjYTAyZWQxXkEyXkFqcGc@._V1_FMjpg_UY2400_.jpg",
+			"previewImage": "https://images7.alphacoders.com/794/794724.jpg",
+			"description": "A botched experiment transmutes a man into a monstrous insect.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Horror", "Sci-Fi"],
+            "id": "the-fly.mp4",
+            "endTime": "150"
 		},
 
 		{
@@ -2400,6 +2445,21 @@
 		},
 
 		{
+			"title": "Time Bandits",
+			"director": "Terry Gilliam",
+			"year": "1981",
+			"duration": "1h 56m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDhjYWRlYjgtOWZmYS00YTAwLWE3YjgtYjZhMzU4YzQ3ODE0XkEyXkFqcGc@._V1_FMjpg_UY2847_.jpg",
+			"previewImage": "https://www.cinematheque.qc.ca/workspace/uploads/projections/timebandits-fr-1756989964.jpg",
+			"description": "A young boy accidentally joins a band of time travelling dwarves, as they jump from era to era looking for treasure to steal.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Fantasy", "Adventure"],
+            "id": "time-bandits.mp4",
+            "endTime": "221"
+		},
+
+		{
 			"title": "Titanic",
 			"director": "James Cameron",
 			"year": "1997",
@@ -2460,6 +2520,21 @@
 		},
 
 		{
+			"title": "True Romance",
+			"director": "Tony Scott",
+			"year": "1993",
+			"duration": "2 hours",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_FMjpg_UY2966_.jpg",
+			"previewImage": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABU-5BkND-ESFxlHwVLVXN2o9yGkVz908vaN7dwQ32BecSqKHMp2c1lYHkc_2n0zyXG2Mmo3JH5NMkOWe5CS-eKNVxiq0A0YNJUz8.jpg",
+			"description": "In Detroit, a pop-culture enthusiast steals cocaine from his new wife's pimp and tries to sell it in Hollywood, prompting the mobsters who own the drugs to pursue the couple.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Romance", "Thriller"],
+            "id": "true-romance.mkv",
+            "endTime": "241"
+		},
+
+		{
 			"title": "The Truman Show",
 			"director": "Peter Weir",
 			"year": "1998",
@@ -2517,6 +2592,21 @@
 			"genre": ["Noir", "Thriller"],
             "id": "touch-of-evil.mkv",
             "endTime": "12"
+		},
+
+		{
+			"title": "Videodrome",
+			"director": "David Cronenberg",
+			"year": "1983",
+			"duration": "1h 29m",
+			"image_url": "https://s3.amazonaws.com/criterion-production/films/b764d907968d3a09d90bc48768635832/EExr0WN3kJTgRjJ2auRFDuJpcHc2cZ_large.jpg",
+			"previewImage": "https://i0.wp.com/setthetape.com/wp-content/uploads/2022/09/Videodrome-HEADER.jpg",
+			"description": "A Toronto cable TV station co-owner who specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast titled \"Videodrome.\"",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Sci-Fi"],
+            "id": "videodrome.mkv",
+            "endTime": "127"
 		},
 
 		{
@@ -2627,6 +2717,21 @@
             "id": "x.mkv",
             "trailer_id": "x.mp4",
             "endTime": "332"
+		},
+
+		{
+			"title": "Xanadu",
+			"director": "Robert Greenwald",
+			"year": "1980",
+			"duration": "1h 36m",
+			"image_url": "https://d3c3ws7andfulm.cloudfront.net/posters/c09daa3d-da6f-4639-8c5c-06affa14354e.jpg",
+			"previewImage": "https://lh6.googleusercontent.com/proxy/hIpmuLds7elaQr41E46MAz1iqISDDAZys6Awd2SUqgJ1rILringRS5DgO_YR7IkFSNgip9pxRRNJWJAqEWdPPq0x_sDeTTjOAVToS32tBC2796MzggI9hp0C5tJL1QtlsFWj9Dl0fEoova4GZoughWIpZPAWCQ",
+			"description": "A struggling artist living in Los Angeles meets a girl who may hold the key to his happiness.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Musical", "Fantasy"],
+            "id": "xanadu.mkv",
+            "endTime": "158"
 		}
 
 	]
