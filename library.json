@@ -1510,6 +1510,21 @@
 		},
 
 		{
+			"title": "Metropolis",
+			"director": "Fritz Lang",
+			"year": "1927",
+			"duration": "2h 33m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://www.re-thinkingthefuture.com/wp-content/uploads/2022/02/A6188-An-Architectural-Review-of-Metropolis-1927.jpg",
+			"description": "A beautiful and cultured Utopia exists above a bleak underworld populated by mistreated workers. When the privileged youth Freder discovers the grim scene under the highly stylized futuristic city, he becomes intent on helping the workers.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Sci-Fi", "Thriller"],
+            "id": "metropolis.mkv",
+            "endTime": "130"
+		},
+
+		{
 			"title": "Mickey 17",
 			"director": "Bong Joon Ho",
 			"year": "2025",
@@ -2299,6 +2314,21 @@
 			"genre": ["Sport", "Drama"],
             "id": "the-smashing-machine.mkv",
             "endTime": "361"
+		},
+
+		{
+			"title": "The Snowman",
+			"director": "Dianne Jackson, Jimmy T. Murakami",
+			"year": "1982",
+			"duration": "26 Minutes",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOTAzYmU0NzctZTQwOS00MjYwLWJkZjctMmFiMWJkMTA2MjY1XkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ1up9UqbcsZnbjD_VLI3d_7YFnMlqwHUdv0sWKmwsofMPO2ALr4tZ94uw14xLJTYr_8eAbsVJy_Chu655vfF6t7H0J5z2opBEXqAo_DOGR0OKkU_5N0TPPjaX0csz1cuqq7ZE0a942YE/s1600/Snowman.jpg",
+			"description": "After an English boy makes a snowman on Christmas Eve, it comes to life to take him on an adventure to the North Pole to meet Santa Claus.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Fantasy", "Christmas"],
+            "id": "the-snowman.webm",
+            "endTime": "64"
 		},
 
 		{
