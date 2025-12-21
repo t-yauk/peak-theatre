@@ -536,6 +536,21 @@
 		},
 
 		{
+			"title": "Cat Ballou",
+			"director": "Elliot Silverstein",
+			"year": "1965",
+			"duration": "1h 37m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjI2OTRjNWItMmMyYi00ZDVlLWFkY2ItZjdjNWI5NzE3NGQyXkEyXkFqcGc@._V1_FMjpg_UY2520_.jpg",
+			"previewImage": "https://solzyatthemovies.com/wp-content/uploads/2024/06/Cat-Ballou.jpeg",
+			"description": "A young schoolteacher turns into an outlaw to avenge her murdered father.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Western", "Comedy"],
+            "id": "cat-ballou.mp4",
+            "endTime": "14"
+		},
+
+		{
 			"title": "Challengers",
 			"director": "Luca Guadagnino",
 			"year": "2024",
