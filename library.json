@@ -13,6 +13,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Fantasy", "Comedy"],
             "id": "8-half.mkv",
+            "trailer_id": "8_1_2.mp4",
             "endTime": "146"
 		},
 
@@ -44,6 +45,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Comedy"],
             "id": "airplane.mkv",
+            "trailer_id": "airplane.mp4",
             "endTime": "284"
 		},
 
@@ -59,6 +61,7 @@
 			"theatre_optimized": "false",
 			"genre": ["Musical", "Fantasy"],
             "id": "all-that-jazz.mp4",
+            "trailer_id": "all-that-jazz.mp4",
             "endTime": "165"
 		},
 
@@ -74,6 +77,7 @@
 			"theatre_optimized": "false",
 			"genre": ["Musical", "Romance"],
             "id": "an-american-in-paris.mp4",
+            "trailer_id": "an-american-in-paris.mp4",
             "endTime": "8"
 		},
 
@@ -89,6 +93,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Thriller"],
             "id": "american-psycho.mkv",
+            "trailer_id": "american-psycho.mp4",
             "endTime": "297"
 		},
 
@@ -104,6 +109,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Horror", "Comedy"],
             "id": "an-american-werewolf-in-london.mkv",
+            "trailer_id": "an-american-werewolf-in-london.mp4",
             "endTime": "213"
 		},
 
@@ -119,6 +125,7 @@
 			"theatre_optimized": "false",
 			"genre": ["Musical"],
             "id": "anchors-aweigh.mp4",
+            "trailer_id": "anchors-aweigh.mp4",
             "endTime": "51"
 		},
 
@@ -134,6 +141,7 @@
 			"theatre_optimized": "false",
 			"genre": ["Musical", "Western"],
             "id": "annie-get-your-gun.mp4",
+            "trailer_id": "annie-get-your-gun.mp4",
             "endTime": "8"
 		},
 
