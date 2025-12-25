@@ -589,22 +589,6 @@
 		},
 
 		{
-			"title": "A Charlie Brown Christmas",
-			"director": "Bill Melendez",
-			"year": "1965",
-			"duration": "30m",
-			"image_url": "https://m.media-amazon.com/images/M/MV5BMjViMWMxNWItYTk2OC00MWQwLWIyMzktNDQ4YWIyYjcxZGIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-			"previewImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23123846/charlie_brown_christmas.jpeg",
-			"description": "Depressed at the commercialism he sees around him, Charlie Brown tries to find a deeper meaning to Christmas.",
-			"featured": "false",
-			"theatre_optimized": "true",
-			"genre": ["Family", "Christmas"],
-            "id": "a-charlie-brown-christmas.mkv",
-            "trailer_id": "a-charlie-brown-christmas.mp4",
-            "endTime": "38"
-		},
-
-		{
 			"title": "Cinderella",
 			"director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
 			"year": "1950",
@@ -783,21 +767,6 @@
 			"genre": ["Fantasy", "Romance"],
             "id": "edward-scissorhands.mkv",
             "endTime": "309"
-		},
-
-		{
-			"title": "Elf",
-			"director": "Jon Favreau",
-			"year": "2003",
-			"duration": "1h 37m",
-			"image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2021/11/11094638/zDHFQmaxlTIJGQDfTrLTL9RK2tQ.jpg",
-			"previewImage": "https://www.christcitychurch.ie/wp-content/uploads/elf-04.jpg",
-			"description": "Raised as an oversized elf, Buddy travels from the North Pole to New York City to meet his biological father, Walter Hobbs, who doesn't know he exists and is in desperate need of some Christmas spirit.",
-			"featured": "false",
-			"theatre_optimized": "true",
-			"genre": ["Family", "Christmas"],
-            "id": "elf.mkv",
-            "endTime": "343"
 		},
 
 		{
@@ -1076,21 +1045,6 @@
 		},
 
 		{
-			"title": "The Holiday",
-			"director": "Nancy Meyers",
-			"year": "2006",
-			"duration": "2h 11m",
-			"image_url": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_.jpg",
-			"previewImage": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABS73FY7g6ZhH97pFjs7J2YDBVWa4bDQAYiI1nD5AlOgmA2WyeA3lXCFzrH2Wgu_FVHHVaHUEk6gRU3j59eONNerZIBQFsPcLBEAR.jpg",
-			"description": "Amanda lives in LA and is a movie trailer editor. Iris lives in Surrey and is a journalist. The two decide to swap houses for two weeks at Christmas - both trying to forget their troubled love lives, until love finds them anyways.",
-			"featured": "false",
-			"theatre_optimized": "true",
-			"genre": ["Romance", "Christmas"],
-            "id": "the-holiday.mkv",
-            "endTime": "332"
-		},
-
-		{
 			"title": "Hot Dog...The Movie",
 			"director": "Peter Markle",
 			"year": "1984",
@@ -1103,22 +1057,6 @@
 			"genre": ["Sport", "Comedy"],
             "id": "hot-dog.mp4",
             "endTime": "214"
-		},
-
-		{
-			"title": "How The Grinch Stole Christmas",
-			"director": "Chuck Jones",
-			"year": "1966",
-			"duration": "26m",
-			"image_url": "https://m.media-amazon.com/images/M/MV5BZmQ3YWZhNDctY2JmOS00MTEwLTg4MjYtY2NmNjg2MzUzYzhmXkEyXkFqcGc@._V1_.jpg",
-			"previewImage": "https://thegoodsreviews.com/wp-content/uploads/2022/12/c4DBFQmNOc52zKhyrDK9EmiN73A-1200x675.jpg",
-			"description": "A grumpy hermit hatches a plan to steal Christmas from the Whos of Whoville.",
-			"featured": "false",
-			"theatre_optimized": "true",
-			"genre": ["Family", "Christmas"],
-            "id": "grinch.mkv",
-            "trailer_id": "how-the-grinch-stole-christmas.mp4",
-            "endTime": "29"
 		},
 
 		{
@@ -1363,21 +1301,6 @@
 			"genre": ["Horror", "Comedy"],
             "id": "the-lost-boys.mkv",
             "endTime": "261"
-		},
-
-		{
-			"title": "Love Actually",
-			"director": "David Lean",
-			"year": "2003",
-			"duration": "2h 9m",
-			"image_url": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_.jpg",
-			"previewImage": "https://i0.wp.com/viewinder.com/wp-content/uploads/2003/11/Love-Actually-01.jpg",
-			"description": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
-			"featured": "false",
-			"theatre_optimized": "true",
-			"genre": ["Romance", "Christmas"],
-            "id": "love-actually.mkv",
-            "endTime": "283"
 		},
 
 		{
@@ -1702,21 +1625,6 @@
 			"genre": ["Comedy", "Crime"],
             "id": "the-naked-gun-2.mkv",
             "endTime": "295"
-		},
-
-		{
-			"title": "National Lampoon's Christmas Vacation",
-			"director": "Jeremiah S. Chechik",
-			"year": "1989",
-			"duration": "1h 37m",
-			"image_url": "https://images2.9c9media.com/image_asset/2025_5_9_37e2b439-8a02-4f6f-8cd6-64d065c2701e_png_2000x3000.jpg",
-			"previewImage": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1576787473182-MD45P1NKOCB1YSXTNTH5/image-asset.jpeg",
-			"description": "The Griswold family's plans for a big family Christmas predictably turn into a big disaster.",
-			"featured": "false",
-			"theatre_optimized": "true",
-			"genre": ["Comedy", "Christmas"],
-            "id": "christmas-vacation.mkv",
-            "endTime": "192"
 		},
 
 		{
@@ -2204,21 +2112,6 @@
 		},
 
 		{
-			"title": "Santa Claus Is Comin' to Town",
-			"director": "Jules Bass",
-			"year": "1970",
-			"duration": "51m",
-			"image_url": "https://resizing.flixster.com/_gMHoqu0QJpQp1dOdsMshSKzQZY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQwMjM4NjFmLTMwYmUtNGQ0MS04YzRlLWY1M2I1ZDkxZjhiZC5qcGc=",
-			"previewImage": "https://cdn.mos.cms.futurecdn.net/Luo3Pwzuq8bcytcWkie47k.jpg",
-			"description": "A mailman reveals the origin of Santa Claus.",
-			"featured": "false",
-			"theatre_optimized": "true",
-			"genre": ["Family", "Christmas"],
-            "id": "santa-claus-is-comin-to-town.mkv",
-            "endTime": "85"
-		},
-
-		{
 			"title": "Scanners",
 			"director": "David Cronenberg",
 			"year": "1981",
@@ -2322,21 +2215,6 @@
 			"genre": ["Sport", "Drama"],
             "id": "the-smashing-machine.mkv",
             "endTime": "361"
-		},
-
-		{
-			"title": "The Snowman",
-			"director": "Dianne Jackson, Jimmy T. Murakami",
-			"year": "1982",
-			"duration": "26 Minutes",
-			"image_url": "https://m.media-amazon.com/images/M/MV5BOTAzYmU0NzctZTQwOS00MjYwLWJkZjctMmFiMWJkMTA2MjY1XkEyXkFqcGc@._V1_.jpg",
-			"previewImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ1up9UqbcsZnbjD_VLI3d_7YFnMlqwHUdv0sWKmwsofMPO2ALr4tZ94uw14xLJTYr_8eAbsVJy_Chu655vfF6t7H0J5z2opBEXqAo_DOGR0OKkU_5N0TPPjaX0csz1cuqq7ZE0a942YE/s1600/Snowman.jpg",
-			"description": "After an English boy makes a snowman on Christmas Eve, it comes to life to take him on an adventure to the North Pole to meet Santa Claus.",
-			"featured": "false",
-			"theatre_optimized": "false",
-			"genre": ["Fantasy", "Christmas"],
-            "id": "the-snowman.webm",
-            "endTime": "64"
 		},
 
 		{
@@ -2510,21 +2388,6 @@
 			"genre": ["Romance", "Adventure"],
             "id": "titanic.mkv",
             "endTime": "448"
-		},
-
-		{
-			"title": "Top Gun: Maverick",
-			"director": "Joseph Kosinski",
-			"year": "2022",
-			"duration": "2h 10m",
-			"image_url": "https://m.media-amazon.com/images/S/pv-target-images/e7339c812127fb30f94943d1b8b774acec2549ec1364c24493c4ffed6de2b243.jpg",
-			"previewImage": "https://variety.com/wp-content/uploads/2022/05/Top-Gun-Maverick.jpg",
-			"description": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
-			"featured": "false",
-			"theatre_optimized": "true",
-			"genre": ["Action", "Adventure"],
-            "id": "top-gun-maverick.mkv",
-            "endTime": "420"
 		},
 
 		{
@@ -2770,6 +2633,823 @@
 			"genre": ["Musical", "Fantasy"],
             "id": "xanadu.mkv",
             "endTime": "158"
+		}
+
+	]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+	"bluray": [
+
+		{
+			"title": "2001: A Space Odyssey",
+			"director": "Stanley Kubrick",
+			"year": "1968",
+			"duration": "2h 14m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODVhYmM1MzktMDY3ZC00OWJjLTk4NTktZGZkN2I0OWQ5ZmRlXkEyXkFqcGc@._V1_FMjpg_UY4095_.jpg",
+			"description": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Sci-Fi", "Adventure"]
+		},
+
+		{
+			"title": "Alien",
+			"director": "Ridley Scott",
+			"year": "1979",
+			"duration": "1h 57m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_FMjpg_UY2225_.jpg",
+			"description": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Sci-Fi", "Horror"]
+		},
+
+		{
+			"title": "Aliens",
+			"director": "James Cameron",
+			"year": "1986",
+			"duration": "2h 17m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_FMjpg_UY2260_.jpg",
+			"description": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Horror", "Action"]
+		},
+
+		{
+			"title": "Amadeus",
+			"director": "Miloš Forman",
+			"year": "1984",
+			"duration": "2h 40m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_FMjpg_UX962_.jpg",
+			"description": "The life and work of Wolfgang Amadeus Mozart seen through the eyes of his contemporary and rival, Antonio Salieri.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Musical", "Drama"]
+		},
+
+		{
+			"title": "Batman",
+			"director": "Tim Burton",
+			"year": "1989",
+			"duration": "2h 6m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_FMjpg_UX894_.jpg",
+			"description": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Action", "Crime"]
+		},
+
+		{
+			"title": "Batman Returns",
+			"director": "Tim Burton",
+			"year": "1992",
+			"duration": "2h 6m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_FMjpg_UX1100_.jpg",
+			"description": "While Batman deals with a deformed man calling himself the Penguin wreaking havoc across Gotham with the help of a cruel businessman, a female employee of the latter becomes the Catwoman with her own vendetta.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Action", "Sci-Fi"]
+		},
+
+		{
+			"title": "Batman Forever",
+			"director": "Joel Schumacher",
+			"year": "1995",
+			"duration": "2h 2m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTUyNjJhZWItMTZkNS00NDc4LTllNjUtYTg3NjczMzA5ZTViXkEyXkFqcGc@._V1_FMjpg_UY2961_.jpg",
+			"description": "Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick, Robin.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Action", "Sci-Fi"]
+		},
+		
+		{
+			"title": "Batman & Robin",
+			"director": "Joel Schumacher",
+			"year": "1997",
+			"duration": "2h 5m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYzU3ZjE3M2UtM2E4Ni00MDI5LTkyZGUtOTFkMGIyYjNjZGU3XkEyXkFqcGc@._V1_FMjpg_UY2029_.jpg",
+			"description": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Action", "Sci-Fi"]
+		},
+
+		{
+			"title": "Batman Begins",
+			"director": "Christopher Nolan",
+			"year": "2005",
+			"duration": "2h 20m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODIyMDdhNTgtNDlmOC00MjUxLWE2NDItODA5MTdkNzY3ZTdhXkEyXkFqcGc@._V1_FMjpg_UY3833_.jpg",
+			"description": "After witnessing his parents' death, billionaire Bruce Wayne learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Action", "Crime"]
+		},
+
+		{
+			"title": "The Dark Knight",
+			"director": "Christopher Nolan",
+			"year": "2008",
+			"duration": "2h 32m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UY2048_.jpg",
+			"description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Action", "Crime"]
+		},
+
+		{
+			"title": "The Dark Knight Rises",
+			"director": "Christopher Nolan",
+			"year": "2012",
+			"duration": "2h 45m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTM3MTU4NTg1NF5BMl5BanBnXkFtZTcwMjQ5NDI5NQ@@._V1_FMjpg_UY2048_.jpg",
+			"description": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Action", "Thriller"]
+		},
+
+		{
+			"title": "Batman V Superman",
+			"subtitle": "Dawn Of Justice",
+			"director": "Zack Snyder",
+			"year": "2016",
+			"duration": "3 hours",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_FMjpg_UY2700_.jpg",
+			"description": "Batman is manipulated by Lex Luthor to fear Superman. Superman´s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Action", "Sci-Fi"]
+		},
+
+		{
+			"title": "The Birds",
+			"director": "Alfred Hitchcock",
+			"year": "1963",
+			"duration": "1h 59m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx._V1_FMjpg_UY3066_.jpg",
+			"description": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Horror", "Mystery"]
+		},
+
+		{
+			"title": "The Blues Brothers",
+			"director": "John Landis",
+			"year": "1980",
+			"duration": "2h 13m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNmFjZjMwNGItNmViOS00NjEwLTllNzYtNzliMTVkMzNkNDk2XkEyXkFqcGc@._V1_FMjpg_UY1890_.jpg",
+			"description": "Jake Blues rejoins his brother Elwood after being released from prison, but the duo has just days to reunite their old R&B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Comedy", "Musical"]
+		},
+
+		{
+			"title": "A Bug's Life",
+			"director": "John Lasseter, Andrew Stanton",
+			"year": "1998",
+			"duration": "1h 35m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNGI3Mjc1ZjUtYTJhYS00NjBiLTgyYjctODU5NTNlMWJiYjYzXkEyXkFqcGc@._V1_FMjpg_UX517_.jpg",
+			"description": "A misfit ant, looking for 'warriors' to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Comedy"]
+		},
+
+		{
+			"title": "The Dark Crystal",
+			"director": "Jim Henson, Frank Oz",
+			"year": "1982",
+			"duration": "1h 41m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYTcxY2NiMDAtMjRmYi00ZTUwLTk2NDYtYjI1MDQ4ZDBiMTA5XkEyXkFqcGc@._V1_FMjpg_UY2217_.jpg",
+			"description": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal, and to restore order to his world.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Fantasy", "Adventure"]
+		},
+
+		{
+			"title": "Bram Stocker's Dracula",
+			"director": "Francis Ford Coppola",
+			"year": "1992",
+			"duration": "2h 7m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMmVhNzhlMzMtYjJkNy00ODU4LWJmMjUtYzdlMGI3MTQ3YzBhXkEyXkFqcGc@._V1_FMjpg_UX1009_.jpg",
+			"description": "Centuries-old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and wreak havoc in the foreign land.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Horror", "Romance"]
+		},
+
+		{
+			"title": "Dune: Part One",
+			"director": "Denis Villeneuve",
+			"year": "2021",
+			"duration": "2h 35m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_FMjpg_UY2552_.jpg",
+			"description": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Sci-Fi", "Adventure"]
+		},
+
+		{
+			"title": "Dune: Part Two",
+			"director": "Denis Villeneuve",
+			"year": "2024",
+			"duration": "2h 46m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
+			"description": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible future.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Sci-Fi", "Adventure"]
+		},
+
+		{
+			"title": "East Of Eden",
+			"director": "Elia Kazan",
+			"year": "1955",
+			"duration": "1h 55m",
+			"image_url": "https://substackcdn.com/image/fetch/$s_!DUh2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd3c4d3e-b9b0-4107-af2f-cd878fa7a183_2000x3000.jpeg",
+			"description": "Two brothers in 1910s California struggle to maintain the favor of their affectionate but strict, Bible-toting father as an old secret about their long-absent mother comes to light.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Drama"]
+		},
+
+		{
+			"title": "Ford v Ferrari",
+			"director": "James Mangold",
+			"year": "2019",
+			"duration": "2h 32m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOTBjNTEyNjYtYjdkNi00YzE5LTljYzUtZjVlYmYwZmJmZWYxXkEyXkFqcGc@._V1_FMjpg_UY6000_.jpg",
+			"description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Sport", "Action"]
+		},
+
+		{
+			"title": "Forrest Gump",
+			"director": "Robert Zemeckis",
+			"year": "1994",
+			"duration": "2h 22m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_FMjpg_UX558_.jpg",
+			"description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Drama", "Romance"]
+		},
+
+		{
+			"title": "Get Out",
+			"director": "Jordan Peele",
+			"year": "2017",
+			"duration": "1h 44m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_FMjpg_UY2048_.jpg",
+			"description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Horror"]
+		},
+
+		{
+			"title": "Goodfellas",
+			"director": "Martin Scorsese",
+			"year": "1990",
+			"duration": "2h 26m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_FMjpg_UY2972_.jpg",
+			"description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Crime", "Thriller"]
+		},
+
+		{
+			"title": "Hacksaw Ridge",
+			"director": "Mel Gibson",
+			"year": "2016",
+			"duration": "2h 19m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_FMjpg_UX971_.jpg",
+			"description": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["War", "Drama"]
+		},
+
+		{
+			"title": "Inception",
+			"director": "Christopher Nolan",
+			"year": "2010",
+			"duration": "2h 28m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX700_.jpg",
+			"description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Sci-Fi", "Action"]
+		},
+
+		{
+			"title": "The Incredibles",
+			"director": "Brad Bird",
+			"year": "2004",
+			"duration": "1h 55m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UY2666_.jpg",
+			"description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Action"]
+		},
+
+		{
+			"title": "Incredibles 2",
+			"director": "Brad Bird",
+			"year": "2018",
+			"duration": "2h 6m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1086_.jpg",
+			"description": "The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Action"]
+		},
+
+		{
+			"title": "Zack Snyder's Justice League",
+			"director": "Zack Snyder",
+			"year": "2021",
+			"duration": "4h 2m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDA0MzM5YTctZTU2My00NGQ5LWE2NTEtNDM0MjZmMDBkOTZkXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"description": "Determined to ensure that Superman's ultimate sacrifice wasn't in vain, Bruce Wayne recruits a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Action", "Adventure"]
+		},
+
+		{
+			"title": "Labyrinth",
+			"director": "Jim Henson",
+			"year": "1986",
+			"duration": "1h 41m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjM2MDE4OTQwOV5BMl5BanBnXkFtZTgwNjgxMTg2NzE@._V1_FMjpg_UX1038_.jpg",
+			"description": "Teenage Sarah journeys through a maze to save her baby brother from the Goblin King.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Fantasy", "Family"]
+		},
+
+		{
+			"title": "La La Land",
+			"director": "Damien Chazelle",
+			"year": "2016",
+			"duration": "2h 8m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_FMjpg_UY6000_.jpg",
+			"description": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Musical", "Romance"]
+		},
+
+		{
+			"title": "Life Of Pi",
+			"director": "Ang Lee",
+			"year": "2012",
+			"duration": "2h 7m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_FMjpg_UX500_.jpg",
+			"description": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Adventure", "Fantasy"]
+		},
+
+		{
+			"title": "The Lion King",
+			"director": "Rob Minkoff, Roger Allers",
+			"year": "1994",
+			"duration": "1h 29m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_FMjpg_UY2964_.jpg",
+			"description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Musical"]
+		},
+
+		{
+			"title": "Man Of Steel",
+			"director": "Zack Snyder",
+			"year": "2013",
+			"duration": "2h 23m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_FMjpg_UX680_.jpg",
+			"description": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Action", "Sci-Fi"]
+		},
+
+		{
+			"title": "Mary Poppins Returns",
+			"director": "Rob Marshall",
+			"year": "2018",
+			"duration": "2h 11m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTk0NDIzMTA1MF5BMl5BanBnXkFtZTgwMzM0MTUzNjM@._V1_FMjpg_UX864_.jpg",
+			"description": "A few decades after her original visit, Mary Poppins, the magical nanny, returns to help the Banks siblings and Michael's children through a difficult time in their lives.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Musical", "Fantasy"]
+		},
+
+		{
+			"title": "Monsters, Inc.",
+			"director": "Pete Docter",
+			"year": "2001",
+			"duration": "1h 32m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_FMjpg_UX675_.jpg",
+			"description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Comedy"]
+		},
+
+		{
+			"title": "Monsters University",
+			"director": "Dan Scanlon",
+			"year": "2013",
+			"duration": "1h 44m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_FMjpg_UX1085_.jpg",
+			"description": "A look at the relationship between Mike Wazowski and James P. 'Sully' Sullivan during their days at Monsters University, when they weren't necessarily the best of friends.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Comedy"]
+		},
+
+		{
+			"title": "One From The Heart",
+			"director": "Francis Ford Coppola",
+			"year": "1981",
+			"duration": "1h 50m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOTliZGU4Y2YtZjI2NS00YzdhLTljNTItZjk5ODUzODUzODU5XkEyXkFqcGc@._V1_FMjpg_UY6000_.jpg",
+			"description": "A couple has a fight after living together 5 years in Las Vegas. They go out and celebrate 4th of July, each with a new partner. Breakup?",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Musical", "Romance"]
+		},
+
+		{
+			"title": "Parasite",
+			"director": "Bong Joon Ho",
+			"year": "2019",
+			"duration": "2h 12m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_FMjpg_UY3556_.jpg",
+			"description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Thriller", "Comedy"]
+		},
+
+		{
+			"title": "Phantom Thread",
+			"director": "Paul Thomas Anderson",
+			"year": "2017",
+			"duration": "2h 10m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BOTMzNWNhNDctMTM2MC00N2EwLThjYTEtMmQ2ZDAyNDVlNzgyXkEyXkFqcGc@._V1_FMjpg_UY2898_.jpg",
+			"description": "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Romance", "Comedy"]
+		},
+
+		{
+			"title": "Psycho",
+			"director": "Alfred Hitchcock",
+			"year": "1960",
+			"duration": "1h 49m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_FMjpg_UY2676_.jpg",
+			"description": "A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Horror", "Mystery"]
+		},
+
+		{
+			"title": "Rear Window",
+			"director": "Alfred Hitchcock",
+			"year": "1954",
+			"duration": "1h 50m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODZhOWI1ODgtMzdiOS00YjNkLTgwOGUtYmIyZDg5ZmQwMzQ1XkEyXkFqcGc@._V1_FMjpg_UX923_.jpg",
+			"description": "A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Thriller", "Mystery"]
+		},
+
+		{
+			"title": "Rebel Without A Cause",
+			"director": "Nicholas Ray",
+			"year": "1955",
+			"duration": "1h 51m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDA3MDZlNzAtNzI0ZS00ZjIwLTgyNjUtYTdiMWQ3N2I3NWEwXkEyXkFqcGc@._V1_FMjpg_UX580_.jpg",
+			"description": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Romance", "Action"]
+		},
+
+		{
+			"title": "Schindler's List",
+			"director": "Steven Spielberg",
+			"year": "1993",
+			"duration": "3h 15m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_FMjpg_UY2400_.jpg",
+			"description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["War", "Drama"]
+		},
+
+		{
+			"title": "The Shawshank Redemption",
+			"director": "Frank Darabont",
+			"year": "1994",
+			"duration": "2h 22m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg",
+			"description": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Thriller", "Crime"]
+		},
+
+		{
+			"title": "The Shining",
+			"director": "Stanley Kubrick",
+			"year": "1980",
+			"duration": "2h 26m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_FMjpg_UX627_.jpg",
+			"description": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Horror", "Mystery"]
+		},
+
+		{
+			"title": "Singin' In The Rain",
+			"director": "Gene Kelly, Stanley Donen",
+			"year": "1952",
+			"duration": "1h 43m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZmY0NThlYmItYWRjNC00ZDhiLTk1ZDgtMjY2YjA2OWQyYWU3XkEyXkFqcGc@._V1_FMjpg_UY2100_.jpg",
+			"description": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Musical", "Comedy"]
+		},
+
+		{
+			"title": "Stand By Me",
+			"director": "Rob Reiner",
+			"year": "1986",
+			"duration": "1h 25m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_FMjpg_UX962_.jpg",
+			"description": "A writer recounts a childhood journey with his friends to find the body of a missing boy.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Adventure", "Thriller"]
+		},
+
+		{
+			"title": "The Thing",
+			"director": "John Carpenter",
+			"year": "1982",
+			"duration": "1h 49m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+			"description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Horror", "Sci-Fi"]
+		},
+
+		{
+			"title": "Toy Story",
+			"director": "John Lasseter",
+			"year": "1995",
+			"duration": "1h 17m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_FMjpg_UX1005_.jpg",
+			"description": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Comedy"]
+		},
+
+		{
+			"title": "Toy Story 2",
+			"director": "John Lasseter",
+			"year": "1999",
+			"duration": "1h 32m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_FMjpg_UX1016_.jpg",
+			"description": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Comedy"]
+		},
+
+		{
+			"title": "Toy Story 3",
+			"director": "Lee Unkrich",
+			"year": "2010",
+			"duration": "1h 43m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_FMjpg_UY2048_.jpg",
+			"description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Comedy"]
+		},
+
+		{
+			"title": "Toy Story 4",
+			"director": "Josh Cooley",
+			"year": "2019",
+			"duration": "1h 40m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_FMjpg_UX1086_.jpg",
+			"description": "When a new toy called 'Forky' joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Comedy"]
+		},
+
+		{
+			"title": "Unforgiven",
+			"director": "Clint Eastwood",
+			"year": "1992",
+			"duration": "2h 11m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMTAzMWZhMGEtZjgwNy00M2Q2LWJkMDAtYTc0ZDA5N2NkNGQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"description": "Retired Old West gunslinger Will Munny reluctantly takes on one last job to avenge an injustice with the help of his old partner and a young would-be gunman calling himself 'the Schofield Kid'.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Western", "Action"]
+		},
+
+		{
+			"title": "Us",
+			"director": "Jordan Peele",
+			"year": "2019",
+			"duration": "2h 1m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMzhkMjFkN2YtODU2Ni00YWYwLWExN2MtOWNjZmQxM2U4YTM5XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"description": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California. At night, four strangers break into Adelaide's childhood home. The family is shocked to find out that the intruders look like them.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Horror", "Mystery"]
+		},
+
+		{
+			"title": "Vertigo",
+			"director": "Alfred Hitchcock",
+			"year": "1958",
+			"duration": "2h 8m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_FMjpg_UY4189_.jpg",
+			"description": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Thriller", "Mystery"]
+		},
+
+		{
+			"title": "WALL·E",
+			"director": "Andrew Stanton",
+			"year": "2008",
+			"duration": "1h 38m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_FMjpg_UY2048_.jpg",
+			"description": "A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Sci-Fi"]
+		},
+
+		{
+			"title": "Whiplash",
+			"director": "Damien Chazelle",
+			"year": "2014",
+			"duration": "1h 47m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_FMjpg_UY5333_.jpg",
+			"description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Drama"]
+		},
+
+		{
+			"title": "The Wizard Of Oz",
+			"director": "Victor Fleming",
+			"year": "1939",
+			"duration": "1h 42m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNWI3OWY4YmEtYmViMi00YjNlLTk3NmMtYmUzN2U4NjJiOTY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
+			"featured": "false",
+			"theatre_optimized": "blu-ray",
+			"genre": ["Family", "Musical"]
 		}
 
 	]
