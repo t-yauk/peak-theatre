@@ -1135,6 +1135,21 @@
 		},
 
 		{
+			"title": "It Was Just an Accident",
+			"director": "Jafar Panahi",
+			"year": "2025",
+			"duration": "1h 46m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMWJkZmZlNjUtM2Q1OC00MmNjLWFkOWEtNjRhN2FkM2ZlMjI3XkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3680x2070+160+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F25%2F7c%2Ff20157c7457f82d4bb463f1d1dbc%2Fmohamad-ali-elyasmehr-majid-panahi-and-hadis-pakbaten-in-it-was-just-an-accident-courtesy-of-neon.jpg",
+			"description": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor. Panicked, he rounds up a few of his fellow ex-prisoners to confirm the man's identity.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Crime"],
+            "id": "it-was-just-an-accident.mkv",
+            "endTime": "134"
+		},
+
+		{
 			"title": "It's A Wonderful Life",
 			"director": "Frank Capra",
 			"year": "1946",
