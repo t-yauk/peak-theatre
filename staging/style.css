@@ -15,6 +15,31 @@ body.in-menu{
 	overflow: hidden;
 }
 
+.button-wrapper{
+	display: inline-block;
+	width: 85%;
+	text-align: left;
+}
+
+.clear-button{
+	background: #0d3759;
+	color: white;
+	font-size: 1.1em;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 10px 15px;
+	border-radius: 15px;
+	cursor: pointer;
+}
+
+.clear-button.disabled{
+	display: none;
+}
+
+.clear-button.active{
+	display: inline-block;
+}
+
 .desktop{
 	overflow-x: hidden !important;
 }
@@ -88,6 +113,10 @@ body.in-menu{
 .internal-header #library-length{
 	display: block;
 	font-size: 1.5rem;
+}
+
+.desktop{
+	overflow-x: hidden !important;
 }
 
 .desktop .library-container{
