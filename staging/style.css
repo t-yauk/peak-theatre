@@ -72,7 +72,7 @@ body.in-menu{
 	height: 100vh;
 	left: -100vw;
 	top: 0px;
-	background: rgba(0,0,0,0.1);
+	background: rgba(0,0,0,0.2);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
 	z-index: 100;
