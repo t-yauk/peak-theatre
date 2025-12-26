@@ -12,6 +12,16 @@ const site_wrapper = document.getElementsByClassName("site-wrapper");
 let thisInstance = 0;
 let thisID = 0;
 
+window.onload = function() {
+	const screenType = (window.innerWidth);
+	if(screenType > 991){
+		window.location.href = "https://t-yauk.github.io/peak-theatre-catalog";
+	}
+}
+
+
+
+
 function menu_01(){
 	toggle_menu();
 }
