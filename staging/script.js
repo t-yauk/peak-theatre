@@ -2,6 +2,7 @@ let data;
 let library;
 const container = document.getElementsByClassName("library-container");
 const mobile_container = document.getElementsByClassName("mobile-library-container");
+const clearButton = document.getElementsByClassName("clear-button");
 let genre = "all";
 let year = "all";
 let libraryLength;
@@ -47,6 +48,8 @@ async function getMeta(){
   	if(genre == "all" && year == "all"){
   		library = movies.movies;
   		document.getElementById("clear").style.display = "none";
+  		clearButton[0].classList.remove("active");
+  		clearButton[0].classList.add("disabled");
   		document.getElementById("title").innerHTML = "All Movies";
   	}else if(changeGenre == true){
   		console.log("Filtering Genre");
@@ -55,6 +58,8 @@ async function getMeta(){
   		document.getElementById("title").innerHTML = genre + " Movies";
   		changeGenre = false;
   		document.getElementById("clear").style.display = "block";
+  		clearButton[0].classList.add("active");
+  		clearButton[0].classList.remove("disabled");
   	}else if(changeYear == true){
   		console.log("Filtering Year");
   		data = movies.movies;
@@ -62,6 +67,8 @@ async function getMeta(){
   		document.getElementById("title").innerHTML = year_label;
   		changeYear = false;
   		document.getElementById("clear").style.display = "block";
+  		clearButton[0].classList.add("active");
+  		clearButton[0].classList.remove("disabled");
   	}
 
   	libraryLength = library.length;
@@ -91,7 +98,7 @@ function populateLibrary(){
 
 		container[0].appendChild(newItem);
 		container[0].appendChild(padding);
-		
+
 	}
 
 }
@@ -167,6 +174,14 @@ function clear_filters(){
 	container[0].innerHTML = "";
 	getMeta();
 	menu_toggler();
+}
+
+function clear_all_filters(){
+	history.replaceState({}, '', window.location.href.split('#')[0]);
+	genre = "all";
+	year = "all";
+	container[0].innerHTML = "";
+	getMeta();
 }
 
 
