@@ -725,6 +725,21 @@
 		},
 
 		{
+			"title": "Die My Love",
+			"director": "Lynne Ramsay",
+			"year": "2025",
+			"duration": "1h 58m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYjc5OWZlZmYtMTg3Yy00YzFmLTg0YTgtNjVjN2M2ZWJjOWM1XkEyXkFqcGc@._V1_FMjpg_UY4000_.jpg",
+			"previewImage": "https://images.mubicdn.net/images/film/360569/cache-1013817-1761916729/image-w1280.jpg",
+			"description": "Grace, a writer and young mother, is slowly slipping into madness. Locked away in an old house in and around Montana, we see her acting increasingly agitated and erratic, leaving her companion, Jackson, increasingly worried and helpless.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Thriller", "Comedy"],
+            "id": "die-my-love.mkv",
+            "endTime": "362"
+		},
+
+		{
 			"title": "Django Unchained",
 			"director": "Quentin Tarantino",
 			"year": "2012",
@@ -1060,6 +1075,21 @@
 		},
 
 		{
+			"title": "If I Had Legs I'd Kick You",
+			"director": "Mary Bronstein",
+			"year": "2025",
+			"duration": "1h 53m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMGRlMjIzMDctNzNkMS00MzEwLTlhZWEtM2FjYmE1ZmFjMzZlXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://i.guim.co.uk/img/media/798347882f6f8580a60ac955a9e3c69a98ce6e82/157_0_2397_1440/master/2397.jpg?width=1200&quality=85&auto=format&fit=max&s=7337dd86c4e16c2cdb9a998be4cb4e79",
+			"description": "While trying to manage her own life and career, a woman on the verge of a breakdown must cope with her daughter's illness, an absent husband, a missing person, and an unusual relationship with her therapist.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Drama"],
+            "id": "if-i-had-legs-id-kick-you.mkv",
+            "endTime": "363"
+		},
+
+		{
 			"title": "Inglourious Basterds",
 			"director": "Quentin Tarantino",
 			"year": "2009",
@@ -1146,6 +1176,7 @@
 			"theatre_optimized": "true",
 			"genre": ["Thriller", "Crime"],
             "id": "it-was-just-an-accident.mkv",
+            "subtitle_id": "it-was-just-an-accident.vtt",
             "endTime": "134"
 		},
 
@@ -1392,7 +1423,7 @@
 			"genre": ["Action", "Adventure"],
             "id": "furiosa.mkv",
             "trailer_id": "furiosa.webm",
-            "endTime": ""
+            "endTime": "626"
 		},
 
 		{
@@ -1423,6 +1454,21 @@
 			"genre": ["Thriller", "Mystery"],
             "id": "the-man-who-knew-too-much.mp4",
             "endTime": "32"
+		},
+
+		{
+			"title": "The Mastermind",
+			"director": "Kelly Reichardt",
+			"year": "2025",
+			"duration": "1h 50m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BYmEzYzMwZDUtMjdiYi00YmRlLWJiNjYtYzY2N2E3ZWZjOTcxXkEyXkFqcGc@._V1_FMjpg_UY2880_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BMTg0N2FhNzctNGVmMC00NTZiLWJkN2EtMWQ2Y2I0OGUyYzFiXkEyXkFqcGdeQWFybm8@._V1_.jpg",
+			"description": "In 1970, failed architect James Blaine Mooney and cohorts wander into a museum in broad daylight and steal four paintings. When holding onto the art proves more difficult than stealing them, Mooney is relegated to a life on the run.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Crime", "Heist"],
+            "id": "mastermind.mkv",
+            "endTime": "288"
 		},
 
 		{
