@@ -105,7 +105,7 @@ body.in-menu{
 .internal-header #title{
 	display: block;
 	font-size: 5rem;
-	line-height: 0.1;
+	line-height: 1;
 	font-weight: bold;
 	text-transform: capitalize;
 }
@@ -113,6 +113,7 @@ body.in-menu{
 .internal-header #library-length{
 	display: block;
 	font-size: 1.5rem;
+	line-height: 1;
 }
 
 .desktop{
