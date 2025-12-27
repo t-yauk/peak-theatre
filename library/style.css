@@ -96,7 +96,6 @@ body{
 
 .site-wrapper .menu-item.alt{
 	color: #0076a2;
-	transform: translateX(100vw);
 }
 
 .site-wrapper .menu-item:hover{
