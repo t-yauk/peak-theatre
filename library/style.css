@@ -273,7 +273,6 @@ body{
 	max-height: 500px;
 	object-fit: cover;
 	border-radius: 20px;
-	filter: drop-shadow(0 0 0.7rem rgba(0,0,0,0.2));
 }
 
 .content-wrapper{
