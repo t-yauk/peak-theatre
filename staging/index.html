@@ -3,78 +3,12 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Peak Theatre Library</title>
+	<title>Library | Peak Theatre</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body onload="loadData()">
-
-	<div class="menu-toggle" onclick="menu_toggler()">Open Menu</div>
-
-	<div class="main-menu">
-		<span class="menu-item" onclick="open_genre_menu()">Genres</span>
-		<span class="menu-item" onclick="open_year_menu()">Release Date</span>
-		<span class="menu-item" id="clear" onclick="clear_filters()">Clear Filters</span>
-	</div>
-
-	<div class="genre-menu">
-		<a href="#Action" class="menu-item">Action Movies</a>
-		<a href="#Adventure" class="menu-item">Adventure Movies</a>
-		<a href="#Comedy" class="menu-item">Comedy Movies</a>
-		<a href="#Crime" class="menu-item">Crime Movies</a>
-		<a href="#Documentary" class="menu-item">Documentary Movies</a>
-		<a href="#Drama" class="menu-item">Drama Movies</a>
-		<a href="#Family" class="menu-item">Family Movies</a>
-		<a href="#Fantasy" class="menu-item">Fantasy Movies</a>
-		<a href="#Horror" class="menu-item">Horror Movies</a>
-		<a href="#Musical" class="menu-item">Musical Movies</a>
-		<a href="#Mystery" class="menu-item">Mystery Movies</a>
-		<a href="#Noir" class="menu-item">Noir Movies</a>
-		<a href="#Romance" class="menu-item">Romance Movies</a>
-		<a href="#Sci-Fi" class="menu-item">Sci-Fi Movies</a>
-		<a href="#Sport" class="menu-item">Sport Movies</a>
-		<a href="#Thriller" class="menu-item">Thriller Movies</a>
-		<a href="#War" class="menu-item">War Movies</a>
-		<a href="#Western" class="menu-item">Western Movies</a>
-		<span style="display:block;width:100px;height:200px"></span>
-	</div>
-
-	<div class="year-menu">
-		<a href="#2025" class="menu-item">2025</a>
-		<a href="#2020-2025" class="menu-item">2020 - 2025</a>
-		<a href="#2010-2019" class="menu-item">2010 - 2019</a>
-		<a href="#2000-2009" class="menu-item">2000 - 2009</a>
-		<a href="#1990-1999" class="menu-item">1990 - 1999</a>
-		<a href="#1980-1989" class="menu-item">1980 - 1989</a>
-		<a href="#1970-1979" class="menu-item">1970 - 1979</a>
-		<a href="#1960-1969" class="menu-item">1960 - 1969</a>
-		<a href="#1950-1959" class="menu-item">1950 - 1959</a>
-		<a href="#1940-1949" class="menu-item">1940 - 1949</a>
-		<a href="#1930-1939" class="menu-item">1930 - 1939</a>
-		<span style="display:block;width:100px;height:250px"></span>
-	</div>
-
-	<span style="display:block;padding:25px 0px"></span>
-
-	<div class="internal-header">
-		<h1 id="title">All Movies</h1>
-		<span id="library-length">0 Movies Found</span>
-	</div>
-
-	<div class="desktop">
-
-		<div class="button-wrapper">
-			<span class="clear-button disabled" onclick="clear_all_filters()">Clear Filters</span>
-		</div>
-
-	<div class="separator">
-	</div>
+<body onload="initialize()">
 
 	<div class="library-container"></div>
-
-	<div class="mobile-container">
-		Mobile Container
-		<div class="mobile-library-container"></div>
-	</div>
 
 	<script src="script.js"></script>
 
