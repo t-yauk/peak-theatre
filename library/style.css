@@ -117,7 +117,7 @@ body{
 
 .internal-header{
 	display: inline-block;
-	width: 85%;
+	width: 80%;
 	text-align: left;
 	line-height: 1;
 }
@@ -160,8 +160,8 @@ body{
 }
 
 .item-wrapper{
-	display: block;
-	width: 100%;
+	display: inline-block;
+	max-width: 500px;
 	padding: 25px 0px;
 }
 
@@ -178,7 +178,7 @@ body{
 }
 
 .movie-item:hover{
-	transform: scale(1.025);
+	transform: scale(1.05);
 	filter: drop-shadow(0 0 0.7rem rgba(0,0,0,0.3));
 }
 
@@ -199,6 +199,18 @@ body{
 	font-weight: bold;
 }
 
+
+.movie-item img{
+	width: 45%;
+}
+
+.movie-item .title{
+	width: 45%;
+}
+
+
+
+/*
 @media screen and (min-width: 928px){
 	.movie-item img{
 		width: 20%;
@@ -227,7 +239,7 @@ body{
 	.movie-item .title{
 		width: 45%;
 	}
-}
+}*/
 
 #movie-image{
 	aspect-ratio: 4/3;
