@@ -3,6 +3,8 @@ let data;
 let the_id = "0";
 let filter = localStorage.getItem('the_filter');
 const clearB = document.getElementsByClassName("clear-button");
+const logo = document.getElementsByClassName("logo");
+let logoOffset = 100;
 
 if (filter == null){
 	filter = "all";
@@ -81,6 +83,18 @@ function clear_filters(){
 	localStorage.setItem("the_filter", "all");
 	window.location.reload();
 }
+
+
+
+
+window.addEventListener('scroll', function() {
+	if (window.scrollY > 100) {
+		logoOffset = 60;
+  	}else{
+  		logoOffset = 100;
+  	}
+  	logo[0].style.height = logoOffset + "px";
+});
 
 
 
