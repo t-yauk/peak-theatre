@@ -23,7 +23,9 @@ yearItem.forEach(element => {
 	element.addEventListener('click', function(event) {
 		year = this.innerHTML;
 		localStorage.setItem("timeframe", year);
-		year = year.slice(0,3);
+		if(year !== "2025"){
+			year = year.slice(0,3);
+		}
 		console.log(year);
 		localStorage.setItem('the_filter', year);
 		window.location.href = "index.html";
