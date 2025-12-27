@@ -2,6 +2,7 @@ let library;
 let data;
 let the_id = "0";
 let filter = localStorage.getItem('the_filter');
+const clearB = document.getElementsByClassName("clear-button");
 
 if (filter == null){
 	filter = "all";
@@ -28,6 +29,7 @@ async function the_library(){
   	if(filter == "all"){
   		library = rawJSON.movies;
   		document.getElementById("the-title").innerHTML = "All Movies";
+  		clearB[0].style.display = "none";
   	}else if((filter.includes("19") == true) || (filter.includes("20") == true)){
   		data = rawJSON.movies;
   		library = data.filter(movies => movies.year && movies.year.includes(filter));
