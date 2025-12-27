@@ -1,9 +1,18 @@
-let id = Number(localStorage.getItem("the_id"));
+let id = localStorage.getItem("the_id");
 let library;
 let genre = document.getElementsByClassName("genre-item");
 
+console.log(id);
+
+if(id == null){
+	window.location.href = "index.html";
+}
+
+id = Number(id);
+
 function initialize(){
 
+	localStorage.setItem("the_filter", "all");
 	load_info();
 }
 
