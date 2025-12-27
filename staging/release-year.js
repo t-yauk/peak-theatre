@@ -1,0 +1,31 @@
+const menuItems = document.getElementsByClassName("menu-item");
+let year;
+
+window.onload = function() {
+
+	for(let i = 0;i < menuItems.length;i++){
+		if(i % 2 === 0){
+			menuItems[i].classList.add("alt");
+		}
+	}
+
+	for(let i = 0;i < menuItems.length;i++){
+		setTimeout(function(){
+			menuItems[i].style.transform = "translateX(0px)";
+		}, i * 100);
+	}
+
+};
+
+
+yearItem = document.querySelectorAll('.menu-item');
+yearItem.forEach(element => {
+	element.addEventListener('click', function(event) {
+		year = this.innerHTML;
+		localStorage.setItem("timeframe", year);
+		year = year.slice(0,3);
+		console.log(year);
+		localStorage.setItem('the_filter', year);
+		window.location.href = "index.html";
+  	});
+});
