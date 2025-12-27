@@ -86,12 +86,19 @@ body{
 
 .breadcrumb{
 	display: inline-block;
-	width: 92.5%;
-	text-align: left;
+	position: fixed;
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	padding: 20px;
 	margin-bottom: 50px;
 	color: black;
 	font-weight: bold;
 	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	background: #0076a2;
+	z-index: 100;
 }
 
 #details{
@@ -112,6 +119,7 @@ body{
 }
 
 .detail-page .site-wrapper{
+	margin-top: 100px;
 	margin-bottom: 0px;
 }
 
