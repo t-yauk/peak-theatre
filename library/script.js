@@ -60,8 +60,13 @@ function populateLibrary(){
 		movieBlock.classList.add("movie-item");
 		movieBlock.id = i;
 
-		movieBlock.innerHTML = "<img src='" + library[i].image_url + "'><span class='title'>" + library[i].title + "</span>";
-
+		if((library[i].title.includes(" ")) == false){
+			if((library[i].title).length > 9){
+				movieBlock.innerHTML = "<img src='" + library[i].image_url + "'><span class='title extended'>" + library[i].title + "</span>";
+			}
+		}else{
+			movieBlock.innerHTML = "<img src='" + library[i].image_url + "'><span class='title'>" + library[i].title + "</span>";
+		}
 		itemWrapper.appendChild(movieBlock);
 		container[0].appendChild(itemWrapper);
 	}
