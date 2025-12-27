@@ -319,6 +319,7 @@ body{
 	color: white;
 	border-radius: 10px;
 	margin-right: 5px;
+	cursor: pointer;
 }
 
 .genre-item.disabled{
