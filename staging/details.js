@@ -1,19 +1,20 @@
-let id = localStorage.getItem("the_id");
+let name = localStorage.getItem("the_id");
 let library;
 let genre = document.getElementsByClassName("genre-item");
+let id;
 
 console.log(id);
 
-if(id == null){
+if(name == null){
 	window.location.href = "index.html";
 }
-
-id = Number(id);
 
 function initialize(){
 
 	localStorage.setItem("the_filter", "all");
+
 	load_info();
+
 }
 
 
@@ -27,7 +28,21 @@ async function load_info(){
 
   	library = rawJSON.movies;
 
-  	get_info();
+  	find_movie();
+
+}
+
+
+function find_movie(){
+
+	for(let i = 0;i < library.length;i++){
+		if(library[i].title == name){
+			id = i;
+			break;
+		}
+	}
+
+	get_info();
 
 }
 
