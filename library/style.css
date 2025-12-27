@@ -226,6 +226,10 @@ body{
 	font-weight: bold;
 }
 
+.movie-item .title.extended{
+	font-size: 1.5em;
+}
+
 
 .movie-item img{
 	width: 45%;
