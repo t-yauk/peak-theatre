@@ -97,6 +97,7 @@ body{
 #details{
 	display: block;
 	text-align: center;
+	margin-bottom: 125px;
 }
 
 .site-wrapper{
@@ -108,6 +109,10 @@ body{
 
 .menu .site-wrapper{
 	margin-top: 50px;
+}
+
+.detail-page .site-wrapper{
+	margin-bottom: 125px;
 }
 
 .internal-header{
