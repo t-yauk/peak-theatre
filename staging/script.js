@@ -67,7 +67,9 @@ function populateLibrary(){
 	movieItems = document.querySelectorAll('.movie-item');
 	movieItems.forEach(element => {
 		element.addEventListener('click', function(event) {
-			localStorage.setItem("the_id", this.id);
+			const id = Number(this.id);
+			const selectedName = library[id].title;
+			localStorage.setItem("the_id", selectedName);
 			window.location.href = "details.html";
   		});
 	});
