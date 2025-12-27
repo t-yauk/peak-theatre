@@ -4,16 +4,16 @@ let genre;
 window.onload = function() {
 
 	for(let i = 0;i < menuItems.length;i++){
-		if(i % 2 === 0){
-			menuItems[i].classList.add("alt");
-		}
+		menuItems[i].style.transition = "0.5s";
 	}
 
-	for(let i = 0;i < menuItems.length;i++){
-		setTimeout(function(){
-			menuItems[i].style.transform = "translateX(0px)";
-		}, i * 100);
-	}
+	setTimeout(function() {
+		for(let i = 0;i < menuItems.length;i++){
+			setTimeout(function(){
+				menuItems[i].style.transform = "translateX(0px)";
+			}, i * 150);
+		}
+	}, 100);
 
 };
 
