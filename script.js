@@ -16,10 +16,6 @@ window.onload = function() {
 
 	window.location.href = "library/index.html";
 	
-	const screenType = (window.innerWidth);
-	if(screenType > 991){
-		window.location.href = "https://t-yauk.github.io/peak-theatre-catalog";
-	}
 }
 
 
