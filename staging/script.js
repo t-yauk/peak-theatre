@@ -1,6 +1,11 @@
 let library;
 let data;
 let the_id = "0";
+let filter = localStorage.getItem('the_filter');
+
+if (filter == null){
+	filter = "all";
+}
 
 const container = document.getElementsByClassName("library-container");
 
@@ -20,7 +25,20 @@ async function the_library(){
   	const response = await fetch(request);
   	const rawJSON = await response.json();
 
-  	library = rawJSON.movies;
+  	if(filter == "all"){
+  		library = rawJSON.movies;
+  		document.getElementById("the-title").innerHTML = "All Movies";
+  	}else if((filter.includes("19") == true) || (filter.includes("20") == true)){
+  		data = rawJSON.movies;
+  		library = data.filter(movies => movies.year && movies.year.includes(filter));
+  		document.getElementById("the-title").innerHTML = localStorage.getItem("timeframe");
+  	}else{
+  		data = rawJSON.movies;
+  		library = data.filter(movies => movies.genre && movies.genre.includes(filter));
+  		document.getElementById("the-title").innerHTML = filter + " Movies";
+  	}
+
+  	document.getElementById("count").innerHTML = library.length + " Movies Found";
 
   	populateLibrary();
 
@@ -52,6 +70,12 @@ function populateLibrary(){
   		});
 	});
 
+}
+
+
+function clear_filters(){
+	localStorage.setItem("the_filter", "all");
+	window.location.reload();
 }
 
 
