@@ -103,8 +103,9 @@ body{
 }
 
 .breadcrumb{
-	display: inline-block;
+	display: flex;
 	position: fixed;
+	justify-content: center;
 	width: 100%;
 	left: 0px;
 	top: 0px;
