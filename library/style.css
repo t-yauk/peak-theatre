@@ -90,12 +90,13 @@ body{
 	font-weight: bold;
 	color: #0d3759;
 	cursor: pointer;
-	transition: 0.3s;
+	transition: 0s;
 	transform: translateX(-100vw);
 }
 
 .site-wrapper .menu-item.alt{
 	color: #0076a2;
+	transform: translateX(100vw);
 }
 
 .site-wrapper .menu-item:hover{
