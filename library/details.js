@@ -65,4 +65,13 @@ function get_info(){
 
 	document.getElementById("runtime").innerHTML = "<span class='fa-regular fa-clock'></span> " + library[id].duration;
 
+	genreItem = document.querySelectorAll('.genre-item');
+	genreItem.forEach(element => {
+		element.addEventListener('click', function(event) {
+			genre = this.innerHTML;
+			localStorage.setItem('the_filter', genre);
+			window.location.href = "index.html";
+  		});
+	});
+
 }
