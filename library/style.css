@@ -90,7 +90,6 @@ body{
 	font-weight: bold;
 	color: #0d3759;
 	cursor: pointer;
-	transition: 0s;
 	transform: translateX(-100vw);
 }
 
