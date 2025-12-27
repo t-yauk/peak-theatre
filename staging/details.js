@@ -3,7 +3,7 @@ let library;
 let genre = document.getElementsByClassName("genre-item");
 let id;
 
-console.log(id);
+document.title = name + " | Peak Theatre";
 
 if(name == null){
 	window.location.href = "index.html";
