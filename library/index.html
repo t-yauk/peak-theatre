@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Library | Peak Theatre</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body onload="initialize()">
+
+	<div class="header">
+		<a href="genre.html" class="menu-item">Genres</a>
+		<a href="release-year.html" class="menu-item alt">Release Date</a>
+	</div>
+
+	<div class="site-wrapper">
+
+		<div class="internal-header">
+			<h1 id="the-title"></h1>
+			<span id="count"></span>
+			<button onclick="clear_filters()" class="clear-button">Clear Filters</button>
+		</div>
+	
+		<div class="library-container"></div>
+
+	</div>
+
+	<script src="script.js"></script>
+
+</body>
+</html>
