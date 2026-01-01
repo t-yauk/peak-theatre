@@ -1,0 +1,77 @@
+let name = localStorage.getItem("the_id");
+let library;
+let genre = document.getElementsByClassName("genre-item");
+let id;
+
+document.title = name + " | Peak Theatre";
+
+if(name == null){
+	window.location.href = "index.html";
+}
+
+function initialize(){
+
+	localStorage.setItem("the_filter", "all");
+
+	load_info();
+
+}
+
+
+async function load_info(){
+
+	const requestURL = "https://t-yauk.github.io/peak-theatre/library.json";
+  	const request = new Request(requestURL);
+
+  	const response = await fetch(request);
+  	const rawJSON = await response.json();
+
+  	library = rawJSON.movies;
+
+  	find_movie();
+
+}
+
+
+function find_movie(){
+
+	for(let i = 0;i < library.length;i++){
+		if(library[i].title == name){
+			id = i;
+			break;
+		}
+	}
+
+	get_info();
+
+}
+
+
+
+function get_info(){
+
+	document.getElementById("movie-image").src = library[id].previewImage;
+
+	document.getElementById("title").innerHTML = library[id].title + " <span class='year'>(" + library[id].year + ")</span>";
+	document.getElementById("description").innerHTML = library[id].description;
+
+	genre[0].innerHTML = library[id].genre[0];
+
+	if(library[id].genre.length > 1){
+		genre[1].innerHTML = library[id].genre[1];
+	}else{
+		genre[1].classList.add("disabled");
+	}
+
+	document.getElementById("runtime").innerHTML = "<span class='fa-regular fa-clock'></span> " + library[id].duration;
+
+	genreItem = document.querySelectorAll('.genre-item');
+	genreItem.forEach(element => {
+		element.addEventListener('click', function(event) {
+			genre = this.innerHTML;
+			localStorage.setItem('the_filter', genre);
+			window.location.href = "index.html";
+  		});
+	});
+
+}
