@@ -3,50 +3,33 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Peak Theatre</title>
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Library | Peak Theatre</title>
+	<link rel="stylesheet" type="text/css" href="global/style.css">
 </head>
-<body onload="load_library()">
+<body onload="initialize()">
 
-	<h1 class="title">Peak Theatre</h1>
+	<div class="logo">
+		<img src="https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/logos/logo-transparent.png">
+	</div>
 
-	<div id="current-list">All Genres</div>
-
-	<div class="menu">
-		<div class="control-wrapper top" onclick="menu_01()"><span class="fa-solid fa-angle-down"></span></div>
-
-		<div class="menu-wrapper">
-			<span class="menu-item">All Genres</span>
-			<span class="menu-item">Action</span>
-			<span class="menu-item">Adventure</span>
-			<span class="menu-item">Comedy</span>
-			<span class="menu-item">Crime</span>
-			<span class="menu-item">Documentary</span>
-			<span class="menu-item">Drama</span>
-			<span class="menu-item">Family</span>
-			<span class="menu-item">Fantasy</span>
-			<span class="menu-item">Horror</span>
-			<span class="menu-item">Musical</span>
-			<span class="menu-item">Mystery</span>
-			<span class="menu-item">Noir</span>
-			<span class="menu-item">Romance</span>
-			<span class="menu-item">Sci-Fi</span>
-			<span class="menu-item">Sport</span>
-			<span class="menu-item">Thriller</span>
-			<span class="menu-item">War</span>
-			<span class="menu-item">Western</span>
-		</div>
-
-		<div class="control-wrapper bottom" onclick="menu_02()"><span class="fa-solid fa-angle-down"></span></div>
+	<div class="header">
+		<a href="filters/genre.html" class="menu-item">Genres</a>
+		<a href="filters/release-year.html" class="menu-item alt">Release Date</a>
 	</div>
 
 	<div class="site-wrapper">
-		<div class="main"></div>
+
+		<div class="internal-header">
+			<h1 id="the-title"></h1>
+			<span id="count"></span>
+			<button onclick="clear_filters()" class="clear-button">Clear Filters</button>
+		</div>
+	
+		<div class="library-container"></div>
+
 	</div>
 
-	<script src="script.js"></script>
-	<script src="https://kit.fontawesome.com/5c9a0c6cfa.js" crossorigin="anonymous"></script>
+	<script src="global/scripts/script.js"></script>
 
 </body>
 </html>
