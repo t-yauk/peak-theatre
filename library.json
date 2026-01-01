@@ -176,6 +176,36 @@
 		},
 
 		{
+			"title": "Avatar",
+			"director": "James Cameron",
+			"year": "2009",
+			"duration": "2h 42m",
+			"image_url": "https://i.ebayimg.com/images/g/-dsAAOSwXS5ir7bq/s-l1200.jpg",
+			"previewImage": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/movie-elements/avatar_2009_movie_4-wallpaper-1920x1080.jpg",
+			"description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sci-Fi", "Action"],
+            "id": "avatar.mkv",
+            "endTime": "398"
+		},
+
+		{
+			"title": "Avatar: The Way Of Water",
+			"director": "James Cameron",
+			"year": "2022",
+			"duration": "3h 12m",
+			"image_url": "https://assets-prd.ignimgs.com/2022/05/09/avatar-the-way-of-water-poster-1652105534773.jpeg",
+			"previewImage": "https://res.allmacwallpaper.com/get/iMac-27-inch-wallpapers/avatar-2-the-way-of-water-12k-2560x1440/26624-10.jpg",
+			"description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sci-Fi", "Action"],
+            "id": "avatar-2.mkv",
+            "endTime": "553"
+		},
+
+		{
 			"title": "Badlands",
 			"director": "Terrence Malick",
 			"year": "1973",
