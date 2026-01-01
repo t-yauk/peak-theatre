@@ -2203,6 +2203,22 @@
 		},
 
 		{
+			"title": "Sentimental Value",
+			"director": "Joachim Trier",
+			"year": "2025",
+			"duration": "2h 13m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BM2Y5ZjNhZjEtOTQxNi00ZWU3LTk1MGQtYjE3MWZiNWUwNjc0XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+			"previewImage": "https://www.rollingstone.com/wp-content/uploads/2025/11/SentimentalValue_Stellan_Skarsgard_Elle_Fanning_photo-Kasper-Tuxen_v2.jpg",
+			"description": "An intimate exploration of family, memories, and the reconciliatory power of art.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Drama"],
+            "id": "sentimental-value.mkv",
+            "subtitle_id": "sentimental-value.vtt",
+            "endTime": "407"
+		},
+
+		{
 			"title": "The Seventh Seal",
 			"director": "Ingmar Bergman",
 			"year": "1957",
