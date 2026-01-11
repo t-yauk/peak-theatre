@@ -18,6 +18,21 @@
 		},
 
 		{
+			"title": "12 Angry Men",
+			"director": "Sidney Lumet",
+			"year": "1957",
+			"duration": "1h 36m",
+			"image_url": "https://s3.amazonaws.com/criterion-production/films/b64d8d6785c12ae24b029f8b625c3c1a/PMLyOniHrRG3nyansZSwJxghltbxsC_original.jpg",
+			"previewImage": "https://cdn.theasc.com/12-Angry-Men-Featured.jpg",
+			"description": "Following the closing arguments in a murder trial, the 12 members of the jury must deliberate, with a guilty verdict meaning death for the accused, an inner-city teen. As the dozen men try to reach a unanimous decision while sequestered in a room, one juror casts considerable doubt on elements of the case. Personal issues soon rise to the surface, and conflict threatens to derail the delicate process that will decide one boy's fate.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Drama", "Crime"],
+            "id": "12-angry-men.mkv",
+            "endTime": "45"
+		},
+
+		{
 			"title": "The Adventures Of Ichabod And Mr. Toad",
 			"director": "James Algar, Clyde Geronimi, Jack Kinney",
 			"year": "1949",
@@ -1764,6 +1779,21 @@
 		},
 
 		{
+			"title": "The Night of the Hunter",
+			"director": "Charles Laughton",
+			"year": "1955",
+			"duration": "1h 32m",
+			"image_url": "https://s3.amazonaws.com/criterion-production/films/4769edd08606508fb82f823c778297f4/6EpySxomWsrT7vfmRGVtFhIvfBDFva_large.jpg",
+			"previewImage": "https://cdn.britannica.com/45/176345-050-78325569/Robert-Mitchum-The-Night-of-the-Hunter.jpg",
+			"description": "A self-proclaimed preacher marries a gullible widow whose young children are reluctant to tell him where their real dad hid the $10,000 he'd stolen in a robbery.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Horror", "Noir"],
+            "id": "the-night-of-the-hunter.mkv",
+            "endTime": "8"
+		},
+
+		{
 			"title": "No Country for Old Men",
 			"director": "Ethan Coen, Joel Coen",
 			"year": "2007",
@@ -2322,6 +2352,22 @@
 			"genre": ["Sport", "Drama"],
             "id": "the-smashing-machine.mkv",
             "endTime": "361"
+		},
+
+		{
+			"title": "Sorcerer",
+			"director": "William Friedkin",
+			"year": "1977",
+			"duration": "2h 1m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BY2I4ZDBlM2ItNTcxZS00ZDA0LTljMDAtYjdlYmFiYzA1NGZjXkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://i0.wp.com/www.heyuguys.com/images/2017/11/Sorcerer.jpg",
+			"description": "Four unfortunate men from different parts of the globe agree to risk their lives transporting gallons of nitroglycerin across dangerous Latin American jungle.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Adventure"],
+            "id": "sorcerer.mkv",
+            "subtitle_id": "sorcerer.vtt",
+            "endTime": "172"
 		},
 
 		{
