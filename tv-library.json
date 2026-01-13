@@ -2,6 +2,11 @@
 	"shows": [
 
 		{
+			"title": "Pluribus",
+			"image_url": "https://cdn.mos.cms.futurecdn.net/zBmEihSuJbNsdNKpqWWtVc.jpg"
+		},
+
+		{
 			"title": "Star Trek: The Next Generation",
 			"image_url": "https://wallpapercave.com/wp/wp15741164.jpg",
 			"episodes": [
@@ -180,7 +185,7 @@
 					"ep_id": "tv/star-trek/next-generation/0222.mkv",
 					"description": "When Commander Riker comes down with a dangerous alien infection after an away mission, the only way to treat it may be through reliving his memories.",
 					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQwODk1MjQ0OV5BMl5BanBnXkFtZTgwOTg5NDg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-				},
+				}
 			]
 		}
 		
