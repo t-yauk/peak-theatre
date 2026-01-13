@@ -4,7 +4,25 @@
 		{
 			"title": "Pluribus",
 			"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pluribus_Logo.svg/7323px-Pluribus_Logo.svg.png",
-			"image_url": "https://cdn.mos.cms.futurecdn.net/zBmEihSuJbNsdNKpqWWtVc.jpg"
+			"image_url": "https://cdn.mos.cms.futurecdn.net/zBmEihSuJbNsdNKpqWWtVc.jpg",
+			"episodes": [
+				{
+					"title": "The Gap",
+					"season": "1",
+					"episode_number": "7",
+					"ep_id": "tv/Pluribus/107.mkv",
+					"description": "Manousos begins a dangerous trek to meet Carol. Returning home from Las Vegas, Carol gets creative with her rebellion.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZTlmMDI1NjEtODZiOS00OWFjLTkzNzctZjhkODM1YzUwMmNiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+				},
+				{
+					"title": "Charm Offensive",
+					"season": "1",
+					"episode_number": "8",
+					"ep_id": "tv/Pluribus/108.mkv",
+					"description": "Carol takes a different tack with The Others and discovers more than she anticipated. Manousos awakens in unfamiliar surroundings.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTlhNzFiMDItMTRhOS00NDZmLTgxMDQtMjFmY2EyYjkyNzcwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+				}
+			]
 		},
 
 		{
