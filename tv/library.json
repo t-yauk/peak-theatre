@@ -3,11 +3,13 @@
 
 		{
 			"title": "Pluribus",
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pluribus_Logo.svg/7323px-Pluribus_Logo.svg.png",
 			"image_url": "https://cdn.mos.cms.futurecdn.net/zBmEihSuJbNsdNKpqWWtVc.jpg"
 		},
 
 		{
 			"title": "Star Trek: The Next Generation",
+			"logo": "https://image.tmdb.org/t/p/original/hAYOfsQNftmuKQjqkBzeiUuO0YH.png",
 			"image_url": "https://wallpapercave.com/wp/wp15741164.jpg",
 			"episodes": [
 				{
