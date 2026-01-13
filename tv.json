@@ -1,0 +1,188 @@
+{
+	"shows": [
+
+		{
+			"title": "Star Trek: The Next Generation",
+			"image_url": "https://wallpapercave.com/wp/wp15741164.jpg",
+			"episodes": [
+				{
+					"title": "The Child",
+					"season": "2",
+					"episode_number": "1",
+					"ep_id": "tv/star-trek/next-generation/0201.mkv",
+					"description": "Deanna is impregnated by an unknown alien life-form, and Dr. Katherine Pulaski joins the Enterprise as the ship's new Chief Medical Officer.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNjg1MzBhNTYtMDRkMS00MDdhLTk4ZTMtZTMxZmI1YWZiZTQ4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,89,1000,563_.jpg"
+				},
+				{
+					"title": "Where Silence Has Lease",
+					"season": "2",
+					"episode_number": "2",
+					"ep_id": "tv/star-trek/next-generation/0202.mkv",
+					"description": "The Enterprise encounters a mysterious void in space, and when they move in closer to investigate further, it envelops them and they can't get out.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNGY3OTk1MmUtOWNmMi00ZWZkLWFmNmItYmUwN2JhNzE1MWNjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,91,1000,563_.jpg"
+				},
+				{
+					"title": "Elementary, Dear Data",
+					"season": "2",
+					"episode_number": "3",
+					"ep_id": "tv/star-trek/next-generation/0203.mkv",
+					"description": "An attempt to provide Data with a challenging Sherlock Holmes holodeck program backfires when its Professor Moriarty character accidentally becomes self-aware.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BOGMyZDcwN2EtMDNhZS00ZDE5LWEyNmYtMzQyODdkYjA3NTdlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,89,1000,563_.jpg"
+				},
+				{
+					"title": "The Outrageous Okona",
+					"season": "2",
+					"episode_number": "4",
+					"ep_id": "tv/star-trek/next-generation/0204.mkv",
+					"description": "The Enterprise rescues the captain of a broken-down freighter, only to become involved in a dispute between feuding worlds, each demanding custody of their guest. Data seeks help from Guinan in understanding humor.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMDMyNDg0ZGMtYTBkZS00MjY5LTk5MDItNTQyNDIyZTk1ZGUyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
+				},
+				{
+					"title": "Loud as a Whisper",
+					"season": "2",
+					"episode_number": "5",
+					"ep_id": "tv/star-trek/next-generation/0205.mkv",
+					"description": "The crew ferries a deaf mediator to Solais V to negotiate an end to a civil war.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMWMzODU2MWQtM2IxZi00ZjA5LTkyOWEtMjIxZTY2MzY5ZWYzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
+				},
+				{
+					"title": "The Schizoid Man",
+					"season": "2",
+					"episode_number": "6",
+					"ep_id": "tv/star-trek/next-generation/0206.mkv",
+					"description": "A dying anti-social scientist unintentionally comes upon the perfect vessel in which to preserve his intellect and arrogant personality - Data.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTU1NzQ0MTA2Nl5BMl5BanBnXkFtZTgwNTQwNTg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Unnatural Selection",
+					"season": "2",
+					"episode_number": "7",
+					"ep_id": "tv/star-trek/next-generation/0207.mkv",
+					"description": "Enhanced DNA developments trigger an epidemic of rapid aging. Caught among its victims - Dr. Pulaski.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzNjAwNzQzM15BMl5BanBnXkFtZTgwMjg4NDg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "A Matter of Honor",
+					"season": "2",
+					"episode_number": "8",
+					"ep_id": "tv/star-trek/next-generation/0208.mkv",
+					"description": "Under an Officers Exchange Program, Riker serves aboard a Klingon ship, whose aging captain seeks an unwarranted bloody retaliation for suspected Enterprise treachery.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNmJiMzM1ZTYtZjAyYy00NWRkLTllOTMtM2QzYzRlMThiY2NjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
+				},
+				{
+					"title": "The Measure of a Man",
+					"season": "2",
+					"episode_number": "9",
+					"ep_id": "tv/star-trek/next-generation/0209.mkv",
+					"description": "When Data resigns his commission rather than be dismantled for examination by an inadequately skilled scientist, a formal hearing is convened to determine whether Data is considered property without rights or is a sentient being.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZGY1ZTMzZjUtYmNlMy00NTI1LWExODktYzcxZTE3YjQyZDU5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
+				},
+				{
+					"title": "The Dauphin",
+					"season": "2",
+					"episode_number": "10",
+					"ep_id": "tv/star-trek/next-generation/0210.mkv",
+					"description": "Wesley falls for the young future leader of Daled IV, unaware just how dangerous the girl's protective and overly restrictive guardian can be.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZWEzMjc4MjktNWFiNi00NTk4LWJiYzYtMmY0NzljMTM1NzQ1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
+				},
+				{
+					"title": "Contagion",
+					"season": "2",
+					"episode_number": "11",
+					"ep_id": "tv/star-trek/next-generation/0211.mkv",
+					"description": "Encountering the superior technology of a very ancient race creates system malfunctions for a doomed Federation starship, for the Enterprise, and for an eavesdropping Romulan warbird.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTM2ZDBmNDctNzlhOS00OTNkLWJkYTEtZTY0NGMwZThhODQwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,89,1000,563_.jpg"
+				},
+				{
+					"title": "The Royale",
+					"season": "2",
+					"episode_number": "12",
+					"ep_id": "tv/star-trek/next-generation/0212.mkv",
+					"description": "Worf, Data, and Riker find themselves trapped in a re-creation of a poorly written novel.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BOGM2YmM1OTYtOTMxYi00YmFkLTk4MjEtYjJkYWJjYWE3MGRiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,86,1000,563_.jpg"
+				},
+				{
+					"title": "Time Squared",
+					"season": "2",
+					"episode_number": "13",
+					"ep_id": "tv/star-trek/next-generation/0213.mkv",
+					"description": "The Enterprise comes across its own shuttlecraft adrift in space - a duplicate - with an unconscious duplicate Capt. Picard inside.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BN2FiMzQ2NGQtMmY4Ni00NWE3LWI0ZWMtOTMxMjI3ZGE4M2U3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,88,1000,563_.jpg"
+				},
+				{
+					"title": "The Icarus Factor",
+					"season": "2",
+					"episode_number": "14",
+					"ep_id": "tv/star-trek/next-generation/0214.mkv",
+					"description": "Riker's delight at being offered a command of the USS Ares turns to frustration when the man sent to prepare him for his mission is his estranged father; Worf's behavior leads Wesley to delve into Klingon tradition.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZjEyOGVhMmQtY2JkNC00MTE3LWI3N2EtNzQ4NzljNGNhY2FkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
+				},
+				{
+					"title": "Pen Pals",
+					"season": "2",
+					"episode_number": "15",
+					"ep_id": "tv/star-trek/next-generation/0215.mkv",
+					"description": "Data befriends an alien girl in distress, breaking the Prime Directive, while Wesley commands his first team.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTgxMjE3NTYzNl5BMl5BanBnXkFtZTgwNjUwNTg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Q Who",
+					"season": "2",
+					"episode_number": "16",
+					"ep_id": "tv/star-trek/next-generation/0216.mkv",
+					"description": "Q tries to prove that Picard needs him as part of their crew by hurling the Enterprise 7,000 light years away where they encounter the Borg for the first time.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE1YTEwM2ItNTYxNC00OWE4LTgyZmMtMWFhNzZkZjg0N2Q0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,97,1000,563_.jpg"
+				},
+				{
+					"title": "Samaritan Snare",
+					"season": "2",
+					"episode_number": "17",
+					"ep_id": "tv/star-trek/next-generation/0217.mkv",
+					"description": "With Picard away for routine surgery, the Enterprise responds to an apparent distress call from a Pakled vessel.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ4MjExMDQ1Nl5BMl5BanBnXkFtZTgwNzAwNTg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Up the Long Ladder",
+					"season": "2",
+					"episode_number": "18",
+					"ep_id": "tv/star-trek/next-generation/0218.mkv",
+					"description": "An antiquated distress signal leads to two lost 22nd century Earth colonies, each facing doom in different ways, one by fire, the other by prolonged cloning.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BOTBjNzBiZWItMTQ3ZS00MWRhLTg1OGUtOGU0OGQwYmRlNzYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,89,1000,563_.jpg"
+				},
+				{
+					"title": "Manhunt",
+					"season": "2",
+					"episode_number": "19",
+					"ep_id": "tv/star-trek/next-generation/0219.mkv",
+					"description": "A midlife Betazoid condition renders Ambassador Troi hot on the hunt for romance and wedlock with Captain Picard - or any man.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ4MDIxMTcwMV5BMl5BanBnXkFtZTgwNTIwNTg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Emissary",
+					"season": "2",
+					"episode_number": "20",
+					"ep_id": "tv/star-trek/next-generation/0220.mkv",
+					"description": "The Enterprise addresses the emergency of an old Klingon ship coming out of stasis and ready to fight the Federation. A half-Human/half Klingon emissary arrives to help, who once knew Worf intimately.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNzAxZTlhYjItMDI5OC00NGU1LWE1YWMtYWU0OGYxYTE4YWVjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,88,1000,563_.jpg"
+				},
+				{
+					"title": "Peak Performance",
+					"season": "2",
+					"episode_number": "21",
+					"ep_id": "tv/star-trek/next-generation/0221.mkv",
+					"description": "The crew of the Enterprise participates in war games.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZjRhNmJkZDYtZTU3ZC00MzAxLWI2ODMtNmYyMTYxNTgzMjI3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Shades of Gray",
+					"season": "2",
+					"episode_number": "22",
+					"ep_id": "tv/star-trek/next-generation/0222.mkv",
+					"description": "When Commander Riker comes down with a dangerous alien infection after an away mission, the only way to treat it may be through reliving his memories.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQwODk1MjQ0OV5BMl5BanBnXkFtZTgwOTg5NDg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				}
+			]
+		}
+		
+	]
+}
