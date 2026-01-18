@@ -2007,6 +2007,21 @@
 		},
 
 		{
+			"title": "Phantom Of The Paradise",
+			"director": "Brian De Palma",
+			"year": "1974",
+			"duration": "1h 32m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BZmRkNGJjNTAtMmQzNC00ZDc2LWI5MDItYWM1ZDliMTU5YzEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHMWtVOjNpE5800hLl2gKv248-W55qouK1UkOIuzsMkpAA7vDVIBxjqtjZuot-RYjVbX2fck8hKsjRnFrNVv9uPnO7GleQ2xLVUAN2hqaWGaUmSvDQg7Y3p4423AD3kpC-bPGUnIm7SeAR/s1600/1974_Phantom_Paradise.jpg",
+			"description": "A disfigured composer sells his soul for the woman he loves so that she will perform his music, but an evil record tycoon betrays him and steals his music to open his rock palace, The Paradise.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Horror", "Musical"],
+            "id": "phantom-of-the-paradise.mp4",
+            "endTime": "118"
+		},
+
+		{
 			"title": "Pirates of The Caribbean: The Curse of The Black Pearl",
 			"director": "Gore Verbinski",
 			"year": "2003",
