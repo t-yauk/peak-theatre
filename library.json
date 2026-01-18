@@ -710,6 +710,21 @@
 		},
 
 		{
+			"title": "The Cotton Club",
+			"director": "Francis Ford Coppola",
+			"year": "1984",
+			"duration": "2h 7m",
+			"image_url": "https://m.media-amazon.com/images/I/81Io-8U2JWL.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BNzkxNzNjOWQtNGJmOS00N2YxLWE4MWEtMzU2MzA3ODBlMTljXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+			"description": "Meet the jazz musicians, dancers, owner, and guests (like gangster Dutch Schultz) of The Cotton Club in 1928-1930s Harlem.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Musical", "Crime"],
+            "id": "the-cotton-club.mp4",
+            "endTime": "326"
+		},
+
+		{
 			"title": "Dangerous Liaisons",
 			"director": "Stephen Frears",
 			"year": "1988",
@@ -2233,6 +2248,21 @@
 		},
 
 		{
+			"title": "Rumble Fish",
+			"director": "Francis Ford Coppola",
+			"year": "1983",
+			"duration": "1h 34m",
+			"image_url": "https://s3.amazonaws.com/criterion-production/films/28b1b85a6f4119f34d6165c5256037f6/CGCMTOMzrmzXe1qXr6Mnpt4jXgsgi0_large.jpg",
+			"previewImage": "https://inreviewonline.com/wp-content/uploads/2021/04/rumblefish.jpg",
+			"description": "Absent-minded street thug Rusty James struggles to live up to his legendary older brother's reputation, and longs for the days of gang warfare.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Crime", "Drama"],
+            "id": "rumble-fish.mp4",
+            "endTime": "290"
+		},
+
+		{
 			"title": "The Running Man",
 			"director": "Edgar Wright",
 			"year": "2025",
@@ -2661,6 +2691,21 @@
 			"genre": ["Noir", "Thriller"],
             "id": "touch-of-evil.mkv",
             "endTime": "12"
+		},
+
+		{
+			"title": "Tucker: The Man and His Dream",
+			"director": "Francis Ford Coppola",
+			"year": "1988",
+			"duration": "1h 50m",
+			"image_url": "https://goldenglobes.com/wp-content/uploads/2023/10/tucker-the-man-and-his-dream.jpg",
+			"previewImage": "https://www.lucasfilm.com/app/uploads/TUC_IA_8_R-marquee-1.jpg",
+			"description": "The story of Preston Tucker, the maverick car designer and his ill-fated challenge to the auto industry with his revolutionary car concept.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Comedy", "Drama"],
+            "id": "tucker.mp4",
+            "endTime": "264"
 		},
 
 		{
