@@ -269,6 +269,14 @@
 					"ep_id": "tv/star-trek/original-series/0129.mkv",
 					"description": "The Enterprise crew attempts to stop a plague of amoeba-like creatures from possessing human hosts and spreading throughout the galaxy.",
 					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMmFhYTBjNDUtZDUxMC00ZDc0LTgzYzItMmVmYmM2M2NhMzJiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,48,1000,563_.jpg"
+				},
+				{
+					"title": "Amok Time",
+					"season": "2",
+					"episode_number": "1",
+					"ep_id": "tv/star-trek/original-series/0201.mkv",
+					"description": "In the throes of his Pon Farr mating period, Spock must return to Vulcan to meet his intended future wife, betrothed from childhood.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNTQ4NjMxNF5BMl5BanBnXkFtZTgwOTk5MDk0MDE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
 				}
 			]
 		},
