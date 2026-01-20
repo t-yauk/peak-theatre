@@ -26,6 +26,254 @@
 		},
 
 		{
+			"title": "Star Trek",
+			"logo": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/movie-elements/star-trek-logo.png",
+			"image_url": "https://thumbnails.simplestreamcdn.com/amc/ondemand/series/a35bc9c0-aaa3-11ec-b4c6-0af62ebc70d1.jpg",
+			"episodes": [
+				{
+					"title": "The Cage",
+					"season": "1",
+					"episode_number": "0",
+					"ep_id": "tv/star-trek/original-series/0100.mkv",
+					"description": "Capt. Pike is held prisoner and tested by aliens who have the power to project incredibly lifelike illusions.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMGY3NWExOGUtMTJhMi00NGE0LTgwNmQtNmY4NTNiZjI5MjllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Man Trap",
+					"season": "1",
+					"episode_number": "1",
+					"ep_id": "tv/star-trek/original-series/0101.mkv",
+					"description": "Dr. McCoy discovers his old flame is not what she seems after crew members begin dying from a sudden lack of salt in their bodies.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIzNTI2NzY5NV5BMl5BanBnXkFtZTgwNTk1MDk0MDE@._V1_QL75_UX1000_CR0,96,1000,563_.jpg"
+				},
+				{
+					"title": "Charlie X",
+					"season": "1",
+					"episode_number": "2",
+					"ep_id": "tv/star-trek/original-series/0102.mkv",
+					"description": "Captain Kirk must learn the limits to the power of a 17-year-old boy with the psionic ability to create anything and destroy anyone.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQwNDQzNjk3M15BMl5BanBnXkFtZTgwNDY3MDk0MDE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Where No Man Has Gone Before",
+					"season": "1",
+					"episode_number": "3",
+					"ep_id": "tv/star-trek/original-series/0103.mkv",
+					"description": "The flight recorder of the 200-year-old U.S.S. Valiant relays a tale of terror--a magnetic storm at the edge of the galaxy.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYxODYxMTYyNl5BMl5BanBnXkFtZTgwNDI4MDk0MDE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Naked Time",
+					"season": "1",
+					"episode_number": "4",
+					"ep_id": "tv/star-trek/original-series/0104.mkv",
+					"description": "The crew is infected with a mysterious disease that removes people's emotional inhibitions to a dangerous degree.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BOGYyMmUyZjktOWZmMy00YzE4LTg1ZjctNTNlOWQzNDM1MjAwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Enemy Within",
+					"season": "1",
+					"episode_number": "5",
+					"ep_id": "tv/star-trek/original-series/0105.mkv",
+					"description": "A transporter malfunction splits Captain Kirk into two halves: one meek and indecisive, the other violent and ill tempered. The remaining crew members stranded on the planet cannot be beamed up to the ship until a problem is fixed.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTFlYmRkNWUtNGM3MS00ZWQ3LWIyYTktZTM1ZmJjN2QyNzg1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Mudd's Women",
+					"season": "1",
+					"episode_number": "6",
+					"ep_id": "tv/star-trek/original-series/0106.mkv",
+					"description": "The Enterprise picks up untrustworthy entrepreneur Harry Mudd accompanied by three beautiful women who immediately put a spell on all the male crew members.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZDM1YjYzZjQtMTg3Ny00ZGFkLWJkM2YtOTYwZGE0OTdmMWJhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "What Are Little Girls Made Of?",
+					"season": "1",
+					"episode_number": "7",
+					"ep_id": "tv/star-trek/original-series/0107.mkv",
+					"description": "Nurse Chapel is reunited with her fiancé; but his new obsession leads him to make an android duplicate of Captain Kirk.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZjRmYTc3ZDItZDc0Ny00Y2M4LWEwMTgtZjZlM2IzZTQ5ZTYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Miri",
+					"season": "1",
+					"episode_number": "8",
+					"ep_id": "tv/star-trek/original-series/0108.mkv",
+					"description": "The Enterprise discovers a planet exactly like Earth, but the only inhabitants are children who contract a fatal disease upon entering puberty.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTViOTgyNjUtZTNlMy00ZGViLWJiZjYtMzk4ZDBkNWYxMDljXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Dagger of the Mind",
+					"season": "1",
+					"episode_number": "9",
+					"ep_id": "tv/star-trek/original-series/0109.mkv",
+					"description": "Kirk and psychiatrist Helen Noel are trapped on a maximum security penal colony that experiments with mind control and Spock must use the Vulcan mind-meld to find a way to save them.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BOTBhN2NkNTEtNDUyYy00ZDNiLWIwNGMtOTRmYTEyM2NjYjliXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Corbomite Maneuver",
+					"season": "1",
+					"episode_number": "10",
+					"ep_id": "tv/star-trek/original-series/0110.mkv",
+					"description": "After the Enterprise is forced to destroy a dangerous marker buoy, a gigantic alien ship arrives to capture and condemn the crew as trespassers.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BY2FiYWExMDYtY2FmNC00NmRhLWIzZTMtMjQwZWVkYjZhMTZmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Menagerie: Part I",
+					"season": "1",
+					"episode_number": "11",
+					"ep_id": "tv/star-trek/original-series/0111.mkv",
+					"description": "Spock kidnaps the disabled Capt. Pike, hijacks the Enterprise, and then surrenders for court martial.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM1NzJmZWYtNzE5ZS00N2NlLTg4NTUtOWNlMzUwODY4ZWFhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,117,1000,563_.jpg"
+				},
+				{
+					"title": "The Menagerie: Part II",
+					"season": "1",
+					"episode_number": "12",
+					"ep_id": "tv/star-trek/original-series/0112.mkv",
+					"description": "At Spock's court martial, he explains himself with mysterious footage about when Capt. Pike was kidnapped by powerful illusion casting aliens.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BODE1YjZhNjItMGMxYS00ZGJlLWIxOTctZDYxYjRjYjg5OTEwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Conscience of the King",
+					"season": "1",
+					"episode_number": "13",
+					"ep_id": "tv/star-trek/original-series/0113.mkv",
+					"description": "While Captain Kirk investigates whether an actor is actually a presumed dead mass murderer, a mysterious assailant is killing the people who could identify the fugitive.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTg5NzkzNzc4OF5BMl5BanBnXkFtZTgwNzIzMTE1MDE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Balance of Terror",
+					"season": "1",
+					"episode_number": "14",
+					"ep_id": "tv/star-trek/original-series/0114.mkv",
+					"description": "The Enterprise must decide on its response when a Romulan ship makes a destructively hostile armed probe of Federation territory.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BYzMxZDk2ZTgtZDRhNy00ODY4LTlhYmEtNTRmNWMyMmUxNzBiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Shore Leave",
+					"season": "1",
+					"episode_number": "15",
+					"ep_id": "tv/star-trek/original-series/0115.mkv",
+					"description": "The past months have left the crew exhausted and in desperate need of a break, but does this explain McCoy's encounter with a human-sized white rabbit or Kirk crossing paths with the prankster who plagued his days at Starfleet Academy?",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZmUyZTI1YmMtYTg0NC00MDQ2LWFjZDMtYTFiMWVmMDk4ZTFjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Galileo Seven",
+					"season": "1",
+					"episode_number": "16",
+					"ep_id": "tv/star-trek/original-series/0116.mkv",
+					"description": "The Galileo, under Spock's command, crash-lands on a hostile planet. As the Enterprise races against time to find the shuttlecraft, Spock's strictly logical leadership clashes with the fear and resentment of his crew.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNGM5NzU1OTQtYzVkOC00NTZlLTljN2ItNjlkMzA1Mjg2NDRkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Squire of Gothos",
+					"season": "1",
+					"episode_number": "17",
+					"ep_id": "tv/star-trek/original-series/0117.mkv",
+					"description": "A being that controls matter and creates planets wants to play with the Enterprise crew.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNjE4NmE4OGItYWE0OC00ZWQwLWE0N2QtNTlmMjVjZTBjMTFiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Arena",
+					"season": "1",
+					"episode_number": "18",
+					"ep_id": "tv/star-trek/original-series/0118.mkv",
+					"description": "For bringing hostility into their solar system, a superior alien race brings Captain Kirk into mortal combat against the reptilian captain of an alien ship he was pursuing.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MzU1Ml5BMl5BanBnXkFtZTgwNjcwMTk0MDE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Tomorrow Is Yesterday",
+					"season": "1",
+					"episode_number": "19",
+					"ep_id": "tv/star-trek/original-series/0119.mkv",
+					"description": "The Enterprise is thrown back in time to 1960s Earth.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMGU1MGM5MWEtZmQzNS00ZGZmLTkzMGEtM2Y3NmU2NmZiNmE1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,93,1000,563_.jpg"
+				},
+				{
+					"title": "Court Martial",
+					"season": "1",
+					"episode_number": "20",
+					"ep_id": "tv/star-trek/original-series/0120.mkv",
+					"description": "Kirk draws a court martial in the negligent death of a crewman.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI0MjczNjQtODE0ZC00OGY1LTliMDEtMDcwMmExY2E4Y2NlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Return of the Archons",
+					"season": "1",
+					"episode_number": "21",
+					"ep_id": "tv/star-trek/original-series/0121.mkv",
+					"description": "Seeking the answer to a century-old mystery, Kirk and crew encounter a vacantly peaceful society under a 6000-year autocratic rule that kills all those it can't absorb.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZTBlZTJjNzEtNDM2NC00MWQ3LTk5ZWQtNTFkNzVhZjE0OTNiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,91,1000,563_.jpg"
+				},
+				{
+					"title": "Space Seed",
+					"season": "1",
+					"episode_number": "22",
+					"ep_id": "tv/star-trek/original-series/0122.mkv",
+					"description": "While on patrol in deep space, Captain Kirk and his crew find and revive a genetically-engineered world conqueror and his compatriots from Earth's Twentieth Century.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzQ2OTI1YzYtYWNmNy00YmRhLWFmOWEtNjgzZjJkZjFkYjY3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "A Taste of Armageddon",
+					"season": "1",
+					"episode_number": "23",
+					"ep_id": "tv/star-trek/original-series/0123.mkv",
+					"description": "Kirk and Spock must save their ship's crew when they are all declared killed in action in a bizarre computer simulated war where the actual deaths must nevertheless occur.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNWY1N2E0MDgtOGQ1OC00MDk0LTg0MGQtYzgwZTIzYmFhZTdlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "This Side of Paradise",
+					"season": "1",
+					"episode_number": "24",
+					"ep_id": "tv/star-trek/original-series/0124.mkv",
+					"description": "The Enterprise investigates a planet whose colonists should be dead, but are not.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BODI0Y2UxNzMtYWFiNi00Y2I3LTlhNjAtMWEyYTNlZTE2MDNjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Devil in the Dark",
+					"season": "1",
+					"episode_number": "25",
+					"ep_id": "tv/star-trek/original-series/0125.mkv",
+					"description": "The Enterprise is sent to a mining colony that is being terrorized by a mysterious monster, only to find that the situation is not that simple.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjMzZjNlNjAtZDViZi00ZDY1LTg4ZjQtZDc0NWFkNjBmYmJjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,91,1000,563_.jpg"
+				},
+				{
+					"title": "Errand of Mercy",
+					"season": "1",
+					"episode_number": "26",
+					"ep_id": "tv/star-trek/original-series/0126.mkv",
+					"description": "With a war with Klingons raging, Kirk and Spock attempt to resist an occupation of a planet with incomprehensibly placid natives.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc1ODY5NTM4N15BMl5BanBnXkFtZTgwMTYxMTk0MDE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Alternative Factor",
+					"season": "1",
+					"episode_number": "27",
+					"ep_id": "tv/star-trek/original-series/0127.mkv",
+					"description": "Existence itself comes under threat from a man's power-struggle with his alternate self, with the Enterprise's strained dilithium crystals presenting his key to a final solution.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZDgwYTU5MDktOWRiOS00ZTU3LTlhYjMtOTQ1ZTFhNDdkZDU5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The City on the Edge of Forever",
+					"season": "1",
+					"episode_number": "28",
+					"ep_id": "tv/star-trek/original-series/0128.mkv",
+					"description": "When a temporarily insane Dr. McCoy accidentally changes history and destroys his time, Kirk and Spock follow him to prevent the disaster, but the price to do so is high.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjQ0MjY2NDcwNF5BMl5BanBnXkFtZTgwMDU5NTUzMjI@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Operation -- Annihilate!",
+					"season": "1",
+					"episode_number": "29",
+					"ep_id": "tv/star-trek/original-series/0129.mkv",
+					"description": "The Enterprise crew attempts to stop a plague of amoeba-like creatures from possessing human hosts and spreading throughout the galaxy.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMmFhYTBjNDUtZDUxMC00ZDc0LTgzYzItMmVmYmM2M2NhMzJiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,48,1000,563_.jpg"
+				}
+			]
+		}
+
+		{
 			"title": "Star Trek: The Next Generation",
 			"logo": "https://image.tmdb.org/t/p/original/hAYOfsQNftmuKQjqkBzeiUuO0YH.png",
 			"image_url": "https://wallpapercave.com/wp/wp15741164.jpg",
