@@ -2544,6 +2544,21 @@
 		},
 
 		{
+			"title": "The Terminator",
+			"director": "James Cameron",
+			"year": "1984",
+			"duration": "1h 47m",
+			"image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/terminator1.png",
+			"previewImage": "https://i0.wp.com/musingsofamiddleagedgeek.blog/wp-content/uploads/2018/09/mv5bmtq1zwi0yjctytezos00yjg3lwfkztatmgzkzmy5owrkntu2xkeyxkfqcgdeqxvynzc5njm0na-_v1_sx1777_cr001777971_al_.jpg",
+			"description": "A cyborg assassin from the future attempts to find and kill a young woman who is destined to give birth to a warrior that will lead a resistance to save humankind from extinction.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Action", "Sci-Fi"],
+            "id": "terminator.mkv",
+            "endTime": "242"
+		},
+
+		{
 			"title": "Thelma & Louise",
 			"director": "Ridley Scott",
 			"year": "1991",
