@@ -2,26 +2,51 @@
 	"shows": [
 
 		{
-			"title": "Pluribus",
-			"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pluribus_Logo.svg/7323px-Pluribus_Logo.svg.png",
-			"image_url": "https://cdn.mos.cms.futurecdn.net/zBmEihSuJbNsdNKpqWWtVc.jpg",
+			"title": "Chernobyl",
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Chernobyl_logo.svg",
+			"image_url": "https://m.media-amazon.com/images/S/pv-target-images/d7973ef1aa81128b3d8d79b17d26941ded8b330db31f65405fd19625d40cd684.jpg",
 			"episodes": [
 				{
-					"title": "The Gap",
+					"title": "1:23:45",
 					"season": "1",
-					"episode_number": "7",
-					"ep_id": "tv/Pluribus/107.mkv",
-					"description": "Manousos begins a dangerous trek to meet Carol. Returning home from Las Vegas, Carol gets creative with her rebellion.",
-					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZTlmMDI1NjEtODZiOS00OWFjLTkzNzctZjhkODM1YzUwMmNiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+					"episode_number": "1",
+					"ep_id": "tv/Chernobyl/101.mkv",
+					"description": "Plant workers and firefighters put their lives on the line to control a catastrophic April 1986 explosion at a Soviet nuclear power plant.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BN2ZkYjFiMTktOWNiMy00M2RhLTk5MWItOGM4ZmFjYjQ1YjkzXkEyXkFqcGc@._V1_QL75_UY563_CR65,0,1000,563_.jpg"
 				},
 				{
-					"title": "Charm Offensive",
+					"title": "Please Remain Calm",
 					"season": "1",
-					"episode_number": "8",
-					"ep_id": "tv/Pluribus/108.mkv",
-					"description": "Carol takes a different tack with The Others and discovers more than she anticipated. Manousos awakens in unfamiliar surroundings.",
-					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTlhNzFiMDItMTRhOS00NDZmLTgxMDQtMjFmY2EyYjkyNzcwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+					"episode_number": "2",
+					"ep_id": "tv/Chernobyl/102.mkv",
+					"description": "With untold millions at risk, Ulana makes a desperate attempt to reach Valery and warn him about the threat of a second explosion.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BY2UzYTMxMTEtYzJjMC00OGE4LWI1NmQtODU0MGFkN2I2ODIyXkEyXkFqcGc@._V1_QL75_UY281_CR32,0,500,281_.jpg"
+				},
+				{
+					"title": "Open Wide, O Earth",
+					"season": "1",
+					"episode_number": "3",
+					"ep_id": "tv/Chernobyl/103.mkv",
+					"description": "Valery creates a detailed plan to decontaminate Chernobyl; Lyudmilla ignores warnings about her firefighter husband's contamination.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BM2ZmNGFjNTYtNTg2My00OGJmLWIyODYtNDY0NDk3ZDVhYTM5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+				},
+				{
+					"title": "The Happiness of All Mankind",
+					"season": "1",
+					"episode_number": "4",
+					"ep_id": "tv/Chernobyl/104.mkv",
+					"description": "Valery and Boris attempt to find solutions to removing the radioactive debris; Ulana attempts to find out the cause of the explosion.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNWVjMGM3Y2QtYmQxMi00YTY2LTg5OTQtMDY1ODk5MGUxNjdlXkEyXkFqcGc@._V1_QL75_UY563_CR64,0,1000,563_.jpg"
+				},
+				{
+					"title": "Vichnaya Pamyat",
+					"season": "1",
+					"episode_number": "5",
+					"ep_id": "tv/Chernobyl/105.mkv",
+					"description": "Valery, Boris and Ulana risk their lives and reputations to expose the truth about Chernobyl.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BN2E0NzYwNDAtMGRiMS00Nzg4LTgzYjctYzM0ZmQxYzJlZjNiXkEyXkFqcGc@._V1_QL75_UY563_CR64,0,1000,563_.jpg"
 				}
+				
 			]
 		},
 
