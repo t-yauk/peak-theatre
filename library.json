@@ -1562,6 +1562,21 @@
 		},
 
 		{
+			"title": "Merrily We Roll Along",
+			"director": "Maria Friedman",
+			"year": "2025",
+			"duration": "2h 25m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BMDQ2MDE5MmQtODQzZC00MzkxLThkZTAtNzYxNDY0MmZlMjU5XkEyXkFqcGc@._V1_FMjpg_UY2866_.jpg",
+			"previewImage": "https://www.westendtheatre.com/wp-content/uploads/2025/10/Merrily-We-Roll-Along-New-cinema-trailer-released-1024x576.jpg",
+			"description": "Spanning three decades, the turbulent relationship between a composer and his two lifelong friends, a writer and a lyricist and playwright.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Musical"],
+            "id": "merrily-we-roll-along.mkv",
+            "endTime": "366"
+		},
+
+		{
 			"title": "Metropolis",
 			"director": "Fritz Lang",
 			"year": "1927",
@@ -1958,6 +1973,21 @@
 			"genre": ["Thriller"],
             "id": "oppenheimer.mkv",
             "endTime": "368"
+		},
+
+		{
+			"title": "The Outsiders",
+			"director": "Francis Ford Coppola",
+			"year": "1983",
+			"duration": "1h 31m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BODlmMzZjZDEtOTUwOS00OTAwLTg2YzAtYTA4ZTk3ZWNjMTgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"previewImage": "https://www.hollywoodreporter.com/wp-content/uploads/2017/03/the_outsiders_-_h_-_1983.jpg",
+			"description": "In Tulsa, Oklahoma in 1964, the rivalry between two gangs, the poor Greasers and the rich Socs, heats up when one gang member accidentally kills a member of the other.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Crime", "Thriller"],
+            "id": "the-outsiders.mkv",
+            "endTime": "315"
 		},
 
 		{
