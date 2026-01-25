@@ -1809,6 +1809,21 @@
 		},
 
 		{
+			"title": "The Nice Guys",
+			"director": "Shane Black",
+			"year": "2016",
+			"duration": "1h 56m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BM2YwNWZlZGEtYTEyZi00NjdjLWEwM2ItM2Q2MDMwZjkzMjk0XkEyXkFqcGc@._V1_FMjpg_UX1012_.jpg",
+			"previewImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/04/russell-crowe-and-ryan-gosling-in-the-nice-guys.jpg",
+			"description": "In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing girl and the mysterious death of a porn star.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Crime"],
+            "id": "the-nice-guys.mkv",
+            "endTime": "304"
+		},
+
+		{
 			"title": "The Night of the Hunter",
 			"director": "Charles Laughton",
 			"year": "1955",
