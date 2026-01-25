@@ -968,6 +968,22 @@
 		},
 
 		{
+			"title": "F1",
+			"director": "Joseph Kosinski",
+			"year": "2025",
+			"duration": "2h 35m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BMDBkNzMyNGMtMTk3NC00ZDA1LWJiYWQtNTI3NzRkY2E3MmY4XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
+			"description": "A Formula One driver comes out of retirement to mentor and team up with a younger driver.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Sport", "Action"],
+            "id": "f1.mkv",
+            "endTime": "354",
+            "oscars": ["picture"]
+		},
+
+		{
 			"title": "Fear and Loathing in Las Vegas",
 			"director": "Terry Gilliam",
 			"year": "1998",
