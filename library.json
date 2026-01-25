@@ -478,7 +478,8 @@
 			"genre": ["Musical", "Drama"],
             "id": "blue-moon.mkv",
             "trailer_id": "blue-moon.mp4",
-            "endTime": "186"
+            "endTime": "186",
+            "oscars": ["actor", "original"]
 		},
 
 		{
@@ -539,7 +540,8 @@
 			"theatre_optimized": "true",
 			"genre": ["Comedy", "Sci-Fi"],
             "id": "bugonia.mkv",
-            "endTime": "379"
+            "endTime": "379",
+            "oscars": ["picture", "actress", "adapted"]
 		},
 
 		{
@@ -1024,7 +1026,8 @@
             "id": "frankenstein.mkv",
             "trailer_id": "frankenstein.mp4",
             "subtitle_id": "frankenstein.vtt",
-			"endTime": "639"
+			"endTime": "639",
+			"oscars": ["picture", "supporting-actor", "adapted"]
 		},
 
 		{
@@ -1146,7 +1149,8 @@
 			"theatre_optimized": "true",
 			"genre": ["Comedy", "Drama"],
             "id": "if-i-had-legs-id-kick-you.mkv",
-            "endTime": "363"
+            "endTime": "363",
+            "oscars": ["actress"]
 		},
 
 		{
@@ -1237,7 +1241,8 @@
 			"genre": ["Thriller", "Crime"],
             "id": "it-was-just-an-accident.mkv",
             "subtitle_id": "it-was-just-an-accident.vtt",
-            "endTime": "134"
+            "endTime": "134",
+            "oscars": ["original"]
 		},
 
 		{
@@ -1957,7 +1962,8 @@
 			"theatre_optimized": "true",
 			"genre": ["Comedy", "Drama"],
             "id": "one-battle-after-another.mkv",
-			"endTime": "462"
+			"endTime": "462",
+			"oscars": ["picture", "director", "actor", "supporting-actress", "supporting-actor", "adapted"]
 		},
 
 		{
@@ -2338,6 +2344,23 @@
 		},
 
 		{
+			"title": "The Secret Agent",
+			"director": "Kleber Mendonça Filho",
+			"year": "2025",
+			"duration": "2h 40m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BNDlkMzNhYzgtNTk1Yi00M2I1LTlkOTMtY2RmZGU3YzVmMzE2XkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+			"previewImage": "https://ca-times.brightspotcdn.com/dims4/default/d0b0764/2147483647/strip/true/crop/4724x3149+0+0/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F29%2Fb3%2Fc184cc8e49188cf837ca31837155%2F186728.jpg",
+			"description": "In 1977, a technology expert flees from a mysterious past and returns to his hometown of Recife in search of peace. He soon realizes that the city is far from being the refuge he seeks.",
+			"featured": "false",
+			"theatre_optimized": "false",
+			"genre": ["Thriller", "Crime"],
+            "id": "the-secret-agent.mp4",
+            "subtitle_id": "the-secret-agent.vtt",
+            "endTime": "214",
+            "oscars": ["picture", "actor"]
+		},
+
+		{
 			"title": "Seven Samurai",
 			"director": "Akira Kurosawa",
 			"year": "1954",
@@ -2365,7 +2388,8 @@
 			"genre": ["Drama"],
             "id": "sentimental-value.mkv",
             "subtitle_id": "sentimental-value.vtt",
-            "endTime": "407"
+            "endTime": "407",
+            "oscars": ["picture", "director", "actress", "supporting-actress", "supporting-actor", "original"]
 		},
 
 		{
@@ -2411,7 +2435,8 @@
 			"theatre_optimized": "true",
 			"genre": ["Horror"],
 			"id": "sinners.mkv",
-            "endTime": "387"
+            "endTime": "387",
+            "oscars": ["picture", "director", "actor", "supporting-actress", "supporting-actor", "original"]
 		},
 
 		{
@@ -2679,6 +2704,22 @@
 		},
 
 		{
+			"title": "Train Dreams",
+			"director": "Clint Bentley",
+			"year": "2025",
+			"duration": "1h 42m",
+			"image_url": "https://image.tmdb.org/t/p/original/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+			"previewImage": "https://ca-times.brightspotcdn.com/dims4/default/202fba2/2147483647/strip/true/crop/9000x5999+0+181/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F63%2F2d%2F895e4cea4bedbe92fc73c07cd05c%2Ftrain-dreams-u-00-08-55-07-r2.jpg",
+			"description": "Based on Denis Johnson's beloved novella, Train Dreams is the moving portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly-changing America of the early 20th Century.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Drama"],
+            "id": "train-dreams.mkv",
+            "endTime": "515",
+            "oscars": ["picture", "adapted"]
+		},
+
+		{
 			"title": "True Romance",
 			"director": "Tony Scott",
 			"year": "1993",
@@ -2859,7 +2900,8 @@
 			"theatre_optimized": "true",
 			"genre": ["Horror", "Mystery"],
             "id": "weapons.mkv",
-            "endTime": "378"
+            "endTime": "378",
+            "oscars": ["supporting-actress"]
 		},
 
 		{
