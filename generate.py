@@ -1,35 +1,39 @@
-import imdb
+import os
+import json
 
-#Create an instance of the cinemagoer class
-ia = imdb.Cinemagoer()
+#Configuration
+folder_path = '/Users/tyauk/Downloads/Cold Steel Selects'
+output_file = 'images.json'
+web_path_prefix = 'https://thebarn.bluemountain.ca/wp-content/uploads/2026/01/'
+allowed_extensions = ('.jpg')
 
-movie_title = ""
+def generate_image_json():
+	image_list = []
 
-while(movie_title != "exit"):
+	#Check if directory exists
+	if not os.path.exists(folder_path):
+		print(f"Error: Directory {folder_path} not found.")
+		return
 
-	movie_title = input("Search for Movie: ")
-	print("")
-	if(movie_title != "exit"):
-		search_results = ia.search_movie(movie_title)
 
-	if search_results:
-		
-		#Get ID of first instance
-		movie_id = search_results[0].getID()
+	#Loop through files
+	for filename in os.listdir(folder_path):
+		if filename.lower().endswith(allowed_extensions):
+			#Create a dictionary for each image
+			if not filename.startswith("._"):
+				image_data = {
+					"name": os.path.splitext(filename)[0].replace('_', ' ').title(),
+					"url": web_path_prefix + filename,
+					"filename": filename,
+					"type": "image"
+				}
+				image_list.append(image_data)
 
-		#Fetch all details of that movie
-		movie = ia.get_movie(movie_id)
+	#Write JSON file
+	with open(output_file, 'w') as f:
+		json.dump(image_list, f, indent=4)
 
-		#Access and print specific data fields
-		print(f"Title: {movie['title']}")
-		print(f"Year: {movie['year']}")
-		print(f"Rating: {movie['rating']}")
-		print(f"Director: {movie['directors'][0]['name']}")
-		print(f"Genres: {', '.join(movie['genres'][:2])}")
-		print(f"Plot Summary: {movie['plot summary'][0]}")
+	print(f"Successfully generated {output_file} with {len(image_list)} images.")
 
-		print("")
-
-	else:
-		if(movie_title != "exit"):
-			print(f"No results found for '{movie_title}'")
+if __name__ == "__main__":
+	generate_image_json()
