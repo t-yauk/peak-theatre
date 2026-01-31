@@ -2964,6 +2964,21 @@
 			"genre": ["Musical", "Fantasy"],
             "id": "xanadu.mkv",
             "endTime": "158"
+		},
+
+		{
+			"title": "Zootopia 2",
+			"director": "Jared Bush, Byron Howard",
+			"year": "2025",
+			"duration": "1h 50m",
+			"image_url": "https://images.moviesanywhere.com/07e01b28f0e214a81ebc533e0fd64e1a/13860fb6-e0ed-4960-be2e-626cfc00a810.jpg",
+			"previewImage": "https://m.media-amazon.com/images/M/MV5BYjczMTMzMzUtNjNlZS00YjY3LWIxZWUtNjI3N2E5ZTU5YTY0XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
+			"description": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Family", "Comedy"],
+            "id": "zootopia-2.mkv",
+            "endTime": "473"
 		}
 
 	]
