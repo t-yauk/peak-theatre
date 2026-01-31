@@ -847,6 +847,21 @@
 		},
 
 		{
+			"title": "Ella McCay",
+			"director": "James L. Brooks",
+			"year": "2025",
+			"duration": "1h 55m",
+			"image_url": "https://m.media-amazon.com/images/M/MV5BN2Q2NGYyYTMtYWQyNC00NzJhLWFjODUtMzlkMmIxNDU4ODI1XkEyXkFqcGc@._V1_FMjpg_UX1006_.jpg",
+			"previewImage": "https://lumiere-a.akamaihd.net/v1/images/g_20cs_ellamccay_still4_6818166c.jpeg",
+			"description": "An idealistic young woman juggles her family and work life in a comedy about the people you love and how to survive them.",
+			"featured": "false",
+			"theatre_optimized": "true",
+			"genre": ["Comedy", "Drama"],
+            "id": "ella-mccay.mkv",
+            "endTime": "448"
+		},
+
+		{
 			"title": "Enter The Dragon",
 			"director": "Robert Clouse",
 			"year": "1973",
