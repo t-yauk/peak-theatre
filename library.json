@@ -2498,6 +2498,24 @@
             "endTime": "55"
         },
         {
+            "title": "Pierrot le Fou",
+            "director": "Jean-Luc Godard",
+            "year": "1965",
+            "duration": "1h 50m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BODZiZjAzYzUtMDUwNS00Y2UwLWIwNDUtNTJjOTZkNzU3NGY1XkEyXkFqcGc@._V1_FMjpg_UX420_.jpg",
+            "previewImage": "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/525-/OnN77796pFIDBG28X8xcNSjkYh5aDR_original.png",
+            "description": "Pierrot échappe à sa société ennuyeuse et se rend de Paris en Méditerranée avec Marianne, une jeune fille poursuivie par des meurtriers algériens. Sans cesse en cavale, ils mènent ensemble une vie peu orthodoxe.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Romance",
+                "Comedy"
+            ],
+            "id": "pierrot-le-fou.mp4",
+            "subtitle_id": "pierrot-le-fou.vtt",
+            "endTime": "26"
+        },
+        {
             "title": "Purple Rain",
             "director": "Albert Magnoli",
             "year": "1984",
