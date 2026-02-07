@@ -1,3 +1,4 @@
+
 {
     "movies": [
         {
@@ -1237,6 +1238,23 @@
             ],
             "id": "the-gate.mp4",
             "endTime": "188"
+        },
+        {
+            "title": "Giant",
+            "director": "George Stevens",
+            "year": "1956",
+            "duration": "3h 21m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYTRjYjQ4ZjktZWVkNS00YmRkLTkwMjYtOTA5ZDUxM2UzNDk1XkEyXkFqcGc@._V1_FMjpg_UY2219_.jpg",
+            "previewImage": "https://www.hollywoodreporter.com/wp-content/uploads/2016/10/giant_-_h_-_1956.jpg",
+            "description": "Sprawling epic covering the life of a Texas cattle rancher and his family and associates.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Western",
+                "Romance"
+            ],
+            "id": "giant.mkv",
+            "endTime": "177"
         },
         {
             "title": "The Godfather",
