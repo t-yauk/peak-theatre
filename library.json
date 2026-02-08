@@ -1289,6 +1289,22 @@
             "endTime": "135"
         },
         {
+            "title": "Hamnet",
+            "director": "Chloé Zhao",
+            "year": "2025",
+            "duration": "2h 5m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
+            "previewImage": "https://www.phoenixmag.com/wp-content/uploads/2025/11/Screenshot-2025-11-25-at-1.43.53%E2%80%AFPM.png",
+            "description": "After losing their son Hamnet to plague, Agnes and William Shakespeare grapple with grief in 16th-century England. A healer, Agnes must find strength to care for her surviving children while processing her devastating loss.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Drama"
+            ],
+            "id": "hamnet.mkv",
+            "endTime": "401"
+        },
+        {
             "title": "Hearts of Darkness",
             "subtitle": "A Filmmakers Apocalypse",
             "director": "Eleanor Coppola, Fax Bahr, George Hickenlooper",
@@ -1321,6 +1337,23 @@
             ],
             "id": "highest-2-lowest.mkv",
             "endTime": "320"
+        },
+        {
+            "title": "The Housemaid",
+            "director": "Paul Feig",
+            "year": "2025",
+            "duration": "2h 13m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMGU0ZThmMDUtYmZjMi00MDk5LWE2NTQtYzQ3NWZjNWZkZGE3XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+            "previewImage": "https://i0.wp.com/punchdrunkcritics.com/wp-content/uploads/2025/09/pdc_thehousemaid1.png",
+            "description": "A struggling young woman is relieved by the chance for a fresh start as a maid for a wealthy couple. Soon, she discovers that the family's secrets are far more dangerous than her own.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Thriller",
+                "Mystery"
+            ],
+            "id": "the-housemaid.mkv",
+            "endTime": "370"
         },
         {
             "title": "Hot Dog...The Movie",
@@ -3099,6 +3132,23 @@
             ],
             "id": "terminator.mkv",
             "endTime": "242"
+        },
+        {
+            "title": "Thank God It's Friday",
+            "director": "Robert Klane",
+            "year": "1978",
+            "duration": "1h 29m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNDFjMzg4MWYtOGQ0Ny00ZGVhLWFjNTUtYTMyNDBkNGE1MDNjXkEyXkFqcGc@._V1_FMjpg_UX1001_.jpg",
+            "previewImage": "https://film-authority.com/wp-content/uploads/2023/09/MV5BOWNhYmU3ZjktMTNlNS00YzA5LThjNzctMjFjMWIxNTU1ZWZmXkEyXkFqcGdeQXVyNjMxMjMzODc@._V1_.jpg",
+            "description": "A Friday in the life of the disco club The Zoo, where the staff and clients meet and dance their lives away.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Musical"
+            ],
+            "id": "tgif.mp4",
+            "endTime": "114"
         },
         {
             "title": "Thelma & Louise",
