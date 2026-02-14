@@ -1149,6 +1149,57 @@
             "endTime": "342"
         },
         {
+            "title": "A Fistful of Dollars",
+            "director": "Sergio Leone",
+            "year": "1964",
+            "duration": "1h 39m",
+            "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3571_p_v10_ae.jpg",
+            "previewImage": "https://belcourt-production.s3.amazonaws.com/wp-content/uploads/2022/07/25114101/A-Fistful-Of-Dollars-web.jpg",
+            "description": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Western",
+                "Action"
+            ],
+            "id": "fistful-of-dollars.mkv",
+            "endTime": "10"
+        },
+        {
+            "title": "For a Few Dollars More",
+            "director": "Sergio Leone",
+            "year": "1965",
+            "duration": "2h 12m",
+            "image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/04/06175807/ooqASvA7qxlTVKL3KwOzBwy57Dh3.jpg",
+            "previewImage": "https://variety.com/wp-content/uploads/2014/10/for-a-few-dollars-more.jpg",
+            "description": "Two bounty killers with similar intentions but different motivations team up to take down a psychotic Mexican outlaw before he and his gang can carry out an audacious bank robbery.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Western",
+                "Action"
+            ],
+            "id": "for-a-few-dollars-more.mkv",
+            "endTime": "24"
+        },
+        {
+            "title": "The Good, the Bad and the Ugly",
+            "director": "Sergio Leone",
+            "year": "1966",
+            "duration": "2h 41m",
+            "image_url": "https://cdn-images.dzcdn.net/images/cover/9850b9a867764ea403a41b759a1526ee/0x1900-000000-80-0-0.jpg",
+            "previewImage": "https://resizing.flixster.com/QLVFnJBzL3D_wEB3iZU6q7KVCQk=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4161_i_h10_ad.jpg",
+            "description": "A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Western",
+                "Action"
+            ],
+            "id": "good-bad-ugly.mkv",
+            "endTime": "36"
+        },
+        {
             "title": "The Fly",
             "director": "David Cronenberg",
             "year": "1986",
@@ -1809,6 +1860,23 @@
             "endTime": "32"
         },
         {
+            "title": "Marty Supreme",
+            "director": "Josh Safdie",
+            "year": "2025",
+            "duration": "2h 29m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+            "previewImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/Marty-Supreme.jpg",
+            "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sport",
+                "Drama"
+            ],
+            "id": "marty-supreme.mkv",
+            "endTime": "274"
+        },
+        {
             "title": "The Mastermind",
             "director": "Kelly Reichardt",
             "year": "2025",
@@ -1942,6 +2010,23 @@
             ],
             "id": "misery.mkv",
             "endTime": "184"
+        },
+        {
+            "title": "The Mission",
+            "director": "Roland Joffé",
+            "year": "1986",
+            "duration": "2h 5m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BODcxMDJiMzQtNzVkYS00ZDI3LWEzYmEtY2NiYTIzZWQzYzRlXkEyXkFqcGc@._V1_FMjpg_UY2208_.jpg",
+            "previewImage": "https://images.bauerhosting.com/legacy/empire-tmdb/films/11416/images/rtEY19TbcuLgztYxwU06c7rBo0a.jpg",
+            "description": "Eighteenth-century Spanish Jesuits try to protect a remote South American tribe in danger of falling under the rule of pro-slavery Portugal.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "the-mission.mp4",
+            "endTime": "226"
         },
         {
             "title": "Mo' Better Blues",
