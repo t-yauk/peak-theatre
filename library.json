@@ -34,6 +34,7 @@
                 "Crime"
             ],
             "id": "12-angry-men.mkv",
+            "trailer_id": "12-angry-men.mp4",
             "endTime": "45"
         },
         {
@@ -192,6 +193,7 @@
                 "Action"
             ],
             "id": "apocalypse-now.mkv",
+            "trailer_id": "apocalypse-now.mp4",
             "endTime": "368"
         },
         {
@@ -209,6 +211,7 @@
                 "Thriller"
             ],
             "id": "ai.mp4",
+            "trailer_id": "ai.webm",
             "endTime": "430"
         },
         {
@@ -226,6 +229,7 @@
                 "Action"
             ],
             "id": "avatar.mkv",
+            "trailer_id": "avatar.mp4",
             "endTime": "398"
         },
         {
@@ -243,6 +247,7 @@
                 "Action"
             ],
             "id": "avatar-2.mkv",
+            "trailer_id": "avatar-2.mp4",
             "endTime": "553"
         },
         {
@@ -260,6 +265,7 @@
                 "Noir"
             ],
             "id": "badlands.mp4",
+            "trailer_id": "badlands.mp4",
             "endTime": "172"
         },
         {
@@ -277,6 +283,7 @@
                 "Adventure"
             ],
             "id": "barry-lyndon.mkv",
+            "trailer_id": "barry-lyndon.webm",
             "endTime": "206"
         },
         {
@@ -313,6 +320,7 @@
             ],
             "id": "battle-royale.mkv",
             "subtitle_id": "battle-royale.vtt",
+            "trailer_id": "battle-royale.mp4",
             "endTime": "277"
         },
         {
@@ -365,6 +373,7 @@
                 "Romance"
             ],
             "id": "beauty-and-the-beast.mp4",
+            "trailer_id": "beauty-and-the-beast-2.mp4",
             "subtitle_id": "beauty-and-the-beast.vtt",
             "endTime": "52"
         },
@@ -383,6 +392,7 @@
                 "Comedy"
             ],
             "id": "beetlejuice.mkv",
+            "trailer_id": "beetlejuice.mp4",
             "endTime": "209"
         },
         {
@@ -400,6 +410,7 @@
                 "Drama"
             ],
             "id": "best-in-show.mp4",
+            "trailer_id": "best-in-show.mp4",
             "endTime": "317"
         },
         {
@@ -418,6 +429,7 @@
             ],
             "id": "bicycle-thieves.mp4",
             "subtitle_id": "bicycle-thieves.vtt",
+            "trailer_id": "bicycle-thieves.mp4",
             "endTime": "71"
         },
         {
@@ -435,6 +447,7 @@
                 "Drama"
             ],
             "id": "the-birdcage.mp4",
+            "trailer_id": "birdcage.mp4",
             "endTime": "213"
         },
         {
@@ -452,6 +465,7 @@
                 "Drama"
             ],
             "id": "black-narcissus.mp4",
+            "trailer_id": "black-narcissus.mp4",
             "endTime": "15"
         },
         {
@@ -469,6 +483,7 @@
                 "Action"
             ],
             "id": "blade-runner.mkv",
+            "trailer_id": "blade-runner.webm",
             "endTime": "308"
         },
         {
@@ -486,6 +501,7 @@
                 "Action"
             ],
             "id": "blade-runner-2049.mkv",
+            "trailer_id": "blade-runner-2.webm",
             "endTime": "638"
         },
         {
@@ -503,6 +519,7 @@
                 "Thriller"
             ],
             "id": "blood-simple.mkv",
+            "trailer_id": "blood-simple.mp4",
             "endTime": "143"
         },
         {
@@ -520,6 +537,7 @@
                 "Mystery"
             ],
             "id": "blow-out.mkv",
+            "trailer_id": "blow-out.mp4",
             "endTime": "186"
         },
         {
@@ -559,6 +577,7 @@
                 "Comedy"
             ],
             "id": "brazil.mkv",
+            "trailer_id": "brazil.webm",
             "endTime": "222"
         },
         {
@@ -577,6 +596,7 @@
             ],
             "id": "breathless.mp4",
             "subtitle_id": "breathless.vtt",
+            "trailer_id": "breathless.mp4",
             "endTime": "7"
         },
         {
@@ -594,6 +614,7 @@
                 "Romance"
             ],
             "id": "broadcast-news.mp4",
+            "trailer_id": "broadcast-news.mp4",
             "endTime": "268"
         },
         {
@@ -611,6 +632,7 @@
                 "Sci-Fi"
             ],
             "id": "bugonia.mkv",
+            "trailer_id": "bugonia.mp4",
             "endTime": "379",
             "oscars": [
                 "picture",
@@ -634,6 +656,7 @@
             ],
             "id": "burning.mp4",
             "subtitle_id": "burning.vtt",
+            "trailer_id": "burning.mp4",
             "endTime": "187"
         },
         {
@@ -650,6 +673,7 @@
                 "Musical"
             ],
             "id": "cabaret.mkv",
+            "trailer_id": "cabaret.mp4",
             "endTime": "71"
         },
         {
@@ -667,6 +691,7 @@
                 "War"
             ],
             "id": "casablanca.mkv",
+            "trailer_id": "casablanca.webm",
             "endTime": "12"
         },
         {
@@ -684,6 +709,7 @@
                 "Comedy"
             ],
             "id": "cat-ballou.mp4",
+            "trailer_id": "cat-ballou.mp4",
             "endTime": "14"
         },
         {
@@ -701,6 +727,7 @@
                 "Romance"
             ],
             "id": "challengers.mkv",
+            "trailer_id": "challengers.mp4",
             "endTime": "240"
         },
         {
@@ -718,6 +745,7 @@
                 "Thriller"
             ],
             "id": "charade.mp4",
+            "trailer_id": "charade.webm",
             "endTime": "10"
         },
         {
@@ -752,6 +780,7 @@
             ],
             "id": "cinema-paradiso.mkv",
             "subtitle_id": "cinema-paradiso.vtt",
+            "trailer_id": "cinema-paradiso.mp4",
             "endTime": "145"
         },
         {
@@ -768,6 +797,7 @@
                 "Mystery"
             ],
             "id": "citizen-kane.mkv",
+            "trailer_id": "citizen-kane.mp4",
             "endTime": "58"
         },
         {
@@ -802,6 +832,7 @@
                 "Mystery"
             ],
             "id": "the-conversation.mkv",
+            "trailer_id": "conversation.mp4",
             "endTime": "45"
         },
         {
@@ -819,6 +850,7 @@
                 "Crime"
             ],
             "id": "the-cotton-club.mp4",
+            "trailer_id": "cotton-club.mp4",
             "endTime": "326"
         },
         {
@@ -836,6 +868,7 @@
                 "Drama"
             ],
             "id": "dangerous-liaisons.mp4",
+            "trailer_id": "dangerous-liasons.mp4",
             "endTime": "169"
         },
         {
@@ -853,6 +886,7 @@
                 "Action"
             ],
             "id": "darkman.mkv",
+            "trailer_id": "darkman.mp4",
             "endTime": "355"
         },
         {
@@ -870,24 +904,8 @@
                 "Thriller"
             ],
             "id": "deliverance.mp4",
+            "trailer_id": "deliverance.webm",
             "endTime": "41"
-        },
-        {
-            "title": "Dial M For Murder",
-            "director": "Alfred Hitchcock",
-            "year": "1954",
-            "duration": "1h 45m",
-            "image_url": "https://i.ebayimg.com/images/g/knIAAMXQQQhRcRun/s-l1200.jpg",
-            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQxNTY3NjA1Nl5BMl5BanBnXkFtZTcwNzQyODMwOQ@@._V1_.jpg",
-            "description": "A London playboy plots the perfect murder of his rich, unfaithful wife.",
-            "featured": "false",
-            "theatre_optimized": "3D",
-            "genre": [
-                "Thriller",
-                "Mystery"
-            ],
-            "id": "3D/dial-m-for-murder.mkv",
-            "endTime": "1"
         },
         {
             "title": "Die My Love",
@@ -904,6 +922,7 @@
                 "Comedy"
             ],
             "id": "die-my-love.mkv",
+            "trailer_id": "die-my-love.webm",
             "endTime": "362"
         },
         {
@@ -921,6 +940,7 @@
                 "Action"
             ],
             "id": "django-unchained.mkv",
+            "trailer_id": "django.mp4",
             "endTime": "209"
         },
         {
