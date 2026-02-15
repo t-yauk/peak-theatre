@@ -992,6 +992,7 @@
                 "Drama"
             ],
             "id": "ella-mccay.mkv",
+            "trailer_id": "ella-mccay.webm",
             "endTime": "448"
         },
         {
@@ -1146,6 +1147,7 @@
                 "Action"
             ],
             "id": "f1.mkv",
+            "trailer_id": "f1.webm",
             "endTime": "354",
             "oscars": [
                 "picture"
@@ -1291,6 +1293,7 @@
                 "Comedy"
             ],
             "id": "friendship.mkv",
+            "trailer_id": "friendship.mp4",
             "endTime": "334"
         },
         {
@@ -1373,6 +1376,7 @@
                 "Drama"
             ],
             "id": "hamnet.mkv",
+            "trailer_id": "hamnet.mp4",
             "endTime": "401"
         },
         {
@@ -1407,6 +1411,7 @@
                 "Thriller"
             ],
             "id": "highest-2-lowest.mkv",
+            "trailer_id": "highest-lowest.mp4",
             "endTime": "320"
         },
         {
@@ -1424,6 +1429,7 @@
                 "Mystery"
             ],
             "id": "the-housemaid.mkv",
+            "trailer_id": "housemaid.webm",
             "endTime": "370"
         },
         {
@@ -1458,6 +1464,7 @@
                 "Drama"
             ],
             "id": "if-i-had-legs-id-kick-you.mkv",
+            "trailer_id": "if-i-had-legs-id-kick-you.mp4",
             "endTime": "363",
             "oscars": [
                 "actress"
@@ -1894,7 +1901,7 @@
                 "Drama"
             ],
             "id": "marty-supreme.mkv",
-            "trailer_id": "https://www.youtube.com/embed/s9gSuKaKcqM?si=LX_wlbaruTSJErrw",
+            "trailer_id": "marty-supreme.mp4",
             "endTime": "274"
         },
         {
@@ -1912,6 +1919,7 @@
                 "Heist"
             ],
             "id": "mastermind.mkv",
+            "trailer_id": "the-mastermind.webm",
             "endTime": "288"
         },
         {
@@ -1946,6 +1954,7 @@
                 "Drama"
             ],
             "id": "megalopolis.mkv",
+            "trailer_id": "megalopolis.webm",
             "endTime": "285"
         },
         {
@@ -1962,6 +1971,7 @@
                 "Musical"
             ],
             "id": "merrily-we-roll-along.mkv",
+            "trailer_id": "merrily-we-roll-along.mp4",
             "endTime": "366"
         },
         {
@@ -2371,6 +2381,7 @@
                 "Thriller"
             ],
             "id": "the-northman.mkv",
+            "trailer_id": "northman.mp4",
             "endTime": "488"
         },
         {
@@ -2388,6 +2399,7 @@
                 "Mystery"
             ],
             "id": "nosferatu.mkv",
+            "trailer_id": "nosferatu.mp4",
             "endTime": "414"
         },
         {
@@ -2440,6 +2452,7 @@
                 "Drama"
             ],
             "id": "one-battle-after-another.mkv",
+            "trailer_id": "one-battle-after-another.webm",
             "endTime": "462",
             "oscars": [
                 "picture",
@@ -2481,6 +2494,7 @@
                 "Thriller"
             ],
             "id": "oppenheimer.mkv",
+            "trailer_id": "oppenheimer.mp4",
             "endTime": "368"
         },
         {
@@ -2550,6 +2564,7 @@
                 "Drama"
             ],
             "id": "pearl.mkv",
+            "trailer_id": "pearl.mp4",
             "endTime": "374"
         },
         {
@@ -2875,6 +2890,7 @@
                 "Adventure"
             ],
             "id": "the-running-man.mkv",
+            "trailer_id": "running-man.mp4",
             "endTime": "505"
         },
         {
@@ -3049,6 +3065,7 @@
                 "Drama"
             ],
             "id": "the-smashing-machine.mkv",
+            "trailer_id": "smashing-machine.mp4",
             "endTime": "361"
         },
         {
@@ -3167,6 +3184,7 @@
                 "Sci-Fi"
             ],
             "id": "superman.mkv",
+            "trailer_id": "superman.webm",
             "endTime": "622"
         },
         {
@@ -3337,6 +3355,7 @@
                 "Thriller"
             ],
             "id": "the-tragedy-of-macbeth.mkv",
+            "trailer_id": "macbeth.mp4",
             "endTime": "193"
         },
         {
@@ -3353,6 +3372,7 @@
                 "Drama"
             ],
             "id": "train-dreams.mkv",
+            "trailer_id": "train-dreams.mp4",
             "endTime": "515",
             "oscars": [
                 "picture",
@@ -3563,6 +3583,7 @@
                 "Mystery"
             ],
             "id": "weapons.mkv",
+            "trailer_id": "weapons.webm",
             "endTime": "378",
             "oscars": [
                 "supporting-actress"
@@ -3619,23 +3640,6 @@
             ],
             "id": "xanadu.mkv",
             "endTime": "158"
-        },
-        {
-            "title": "Zootopia 2",
-            "director": "Jared Bush, Byron Howard",
-            "year": "2025",
-            "duration": "1h 50m",
-            "image_url": "https://images.moviesanywhere.com/07e01b28f0e214a81ebc533e0fd64e1a/13860fb6-e0ed-4960-be2e-626cfc00a810.jpg",
-            "previewImage": "https://m.media-amazon.com/images/M/MV5BYjczMTMzMzUtNjNlZS00YjY3LWIxZWUtNjI3N2E5ZTU5YTY0XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
-            "description": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
-            "featured": "false",
-            "theatre_optimized": "true",
-            "genre": [
-                "Family",
-                "Comedy"
-            ],
-            "id": "zootopia-2.mkv",
-            "endTime": "473"
         }
     ]
 }
