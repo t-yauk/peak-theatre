@@ -1347,6 +1347,23 @@
             "endTime": "241"
         },
         {
+            "title": "Good Time",
+            "director": "Josh Safdie, Bennie Safdie",
+            "year": "2017",
+            "duration": "1h 41m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZTYwOTJmYmItYjA3MS00MGYyLTg3YjgtNDljM2U5MzgwNjNmXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://filmdaze.net/wp-content/uploads/2018/09/good-time-1200-1200-675-675-crop-000000.jpg",
+            "description": "After a botched robbery lands his brother in jail, a small-time criminal traverses the depraved underbelly of New York City in search of bail money.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Thriller",
+                "Crime"
+            ],
+            "id": "good-time.mp4",
+            "endTime": "7"
+        },
+        {
             "title": "Grease",
             "director": "Randal Kleiser",
             "year": "1978",
@@ -1680,6 +1697,24 @@
             ],
             "id": "kramer-vs-kramer.mkv",
             "endTime": "120"
+        },
+        {
+            "title": "The Lighthouse",
+            "director": "Robert Eggers",
+            "year": "2019",
+            "duration": "1h 38m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg",
+            "previewImage": "https://static01.nyt.com/images/2019/10/24/arts/lighthouse-anatomy1/lighthouse-anatomy1-superJumbo.jpg",
+            "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Fantasy"
+            ],
+            "id": "lighthouse.mkv",
+            "trailer_id": "lighthouse.mp4",
+            "endTime": "171"
         },
         {
             "title": "La Haine",
@@ -3479,6 +3514,24 @@
             ],
             "id": "tucker.mp4",
             "endTime": "264"
+        },
+        {
+            "title": "Uncut Gems",
+            "director": "Josh Safdie, Bennie Safdie",
+            "year": "2019",
+            "duration": "2h 15m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNmI0YjA5NjItYzExYi00NzkxLTkxNDctNGJjYTZhM2M0NDQ0XkEyXkFqcGc@._V1_FMjpg_UY3450_.jpg",
+            "previewImage": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19484722/uncutgems2.jpg",
+            "description": "With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Thriller",
+                "Crime"
+            ],
+            "id": "uncut-gems.mkv",
+            "trailer_id": "uncut-gems.mp4",
+            "endTime": "275"
         },
         {
             "title": "Videodrome",
