@@ -1725,12 +1725,12 @@
             "previewImage": "https://i0.wp.com/writerswithoutmoney.com/wp-content/uploads/2025/04/127af-haine.jpg",
             "description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
             "featured": "false",
-            "theatre_optimized": "false",
+            "theatre_optimized": "true",
             "genre": [
                 "Crime",
                 "Thriller"
             ],
-            "id": "la-haine.mp4",
+            "id": "la-haine.mkv",
             "subtitle_id": "la-haine.vtt",
             "endTime": "37"
         },
