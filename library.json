@@ -451,6 +451,23 @@
             "endTime": "213"
         },
         {
+            "title": "BlackBerry",
+            "director": "Matt Johnson",
+            "year": "2023",
+            "duration": "2h 1m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BM2UyMzg5MTQtZTg1ZS00OWVjLWI1N2YtMWM5ODA0ZjM1MmNiXkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg",
+            "previewImage": "https://bcbusiness.ca/wp-content/uploads/BlackBerry_341641.jpg",
+            "description": "The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Drama"
+            ],
+            "id": "blackberry.mkv",
+            "endTime": "328"
+        },
+        {
             "title": "Black Narcissus",
             "director": "Michael Powell, Emeric Pressburger",
             "year": "1947",
@@ -3105,6 +3122,23 @@
             "endTime": "361"
         },
         {
+            "title": "Sneakers",
+            "director": "Phil Alden Robinson",
+            "year": "1992",
+            "duration": "2h 6m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMGEwMmZlMjgtNDc0MS00NmY1LTljMzQtMzBmNmE0OWRkNjViXkEyXkFqcGc@._V1_FMjpg_UY2837_.jpg",
+            "previewImage": "https://static01.nyt.com/images/2017/03/27/watching/sneakers-watching-recommendation/sneakers-watching-recommendation-superJumbo-v4.jpg",
+            "description": "A security pro finds his past returning to haunt him when he and his unique team are tasked with retrieving a particularly important item.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Thriller",
+                "Comedy"
+            ],
+            "id": "sneakers.mkv",
+            "endTime": "223"
+        },
+        {
             "title": "Sorcerer",
             "director": "William Friedkin",
             "year": "1977",
@@ -3170,6 +3204,91 @@
             ],
             "colour": "red",
             "endTime": "174"
+        },
+        {
+            "title": "Star Trek: The Motion Picture",
+            "director": "Robert Wise",
+            "year": "1979",
+            "duration": "2h 23m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNjcyMmVmMTItNTA3Yy00NGJjLTlmYjQtZWQ3ZjcyNmU5NDQ2XkEyXkFqcGc@._V1_FMjpg_UY2715_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQzMTc0NDcwOF5BMl5BanBnXkFtZTgwODM4ODU3MTE@._V1_.jpg",
+            "description": "When an alien spacecraft of enormous power is spotted approaching Earth, Admiral James T. Kirk resumes command of the overhauled USS Enterprise in order to intercept it.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ],
+            "id": "star-trek-1.mkv",
+            "endTime": "203"
+        },
+        {
+            "title": "Star Trek II: The Wrath of Khan",
+            "director": "Nicholas Meyer",
+            "year": "1982",
+            "duration": "1h 53m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOTFkZDY5NWQtMjY4Yy00OThiLTk3YjQtMDdhYTllMTI4MTdiXkEyXkFqcGc@._V1_FMjpg_UY2898_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNTQxMTYxNTE5Nl5BMl5BanBnXkFtZTgwODI5NDExMjI@._V1_.jpg",
+            "description": "With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ],
+            "id": "star-trek-2.mkv",
+            "endTime": "328"
+        },
+        {
+            "title": "Star Trek III: The Search for Spock",
+            "director": "Leonard Nimoy",
+            "year": "1984",
+            "duration": "1h 45m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYzNkOTZjMTMtOWYzZS00Yjg2LTgyMzQtMmNjODdkYzM0ZjhmXkEyXkFqcGc@._V1_FMjpg_UY2902_.jpg",
+            "previewImage": "https://www.denofgeek.com/wp-content/uploads/2024/06/star-trek-search-for-spock.jpg",
+            "description": "Admiral Kirk and his bridge crew risk their careers stealing the decommissioned U.S.S. Enterprise to return to the restricted Genesis Planet to recover Spock's body.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ],
+            "id": "star-trek-3.mkv",
+            "endTime": "336"
+        },
+        {
+            "title": "Star Trek IV: The Voyage Home",
+            "director": "Leonard Nimoy",
+            "year": "1986",
+            "duration": "1h 59m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYmZlYWYwMzUtMjYzMy00MWI1LTg3MDctOTdjYjA2MDkwNGU5XkEyXkFqcGc@._V1_FMjpg_UX979_.jpg",
+            "previewImage": "https://images.prismic.io/star-trek-untold/1e612e7b-80b7-4ae7-ae8d-80852ebb23e3_STARTREK_IV_HEADER.png",
+            "description": "To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ],
+            "id": "star-trek-4.mkv",
+            "endTime": "228"
+        },
+        {
+            "title": "Star Trek: First Contact",
+            "director": "Jonathan Frakes",
+            "year": "1996",
+            "duration": "1h 51m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZjc0OWE1NDMtNjRmMi00ZDc2LWI2ZmQtNzEwNWU4Nzg4NDA5XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABR50kGAGMCJKBeWatuUBcPLAgY8Mi6AmAmtSPobmcn1PTqe0shy0JeXLhM7DsQt3bq_PG1UTVqdqEHxoAK5pucW9Loj0aZ_U0_z3.jpg",
+            "description": "The Borg travel back in time intent on preventing Earth's first contact with an alien species. Captain Picard and his crew pursue them to ensure that Zefram Cochrane makes his maiden flight reaching warp speed.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ],
+            "id": "star-trek-first-contact.mkv",
+            "endTime": "307"
         },
         {
             "title": "Steve Jobs",
