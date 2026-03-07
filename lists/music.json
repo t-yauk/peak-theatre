@@ -55,6 +55,84 @@
 			]
 		},
 		{
+			"title": "Abbey Road",
+			"id": "abbey-road",
+			"artist": "The Beatles",
+			"year": "1969",
+			"genre": "Rock",
+			"artwork": "",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Come Together"
+				},
+				{
+					"id": "2.flac",
+					"title": "Something"
+				},
+				{
+					"id": "3.flac",
+					"title": "Maxwell's Silver Hammer"
+				},
+				{
+					"id": "4.flac",
+					"title": "Oh! Darling"
+				},
+				{
+					"id": "5.flac",
+					"title": "Octopus's Garden"
+				},
+				{
+					"id": "6.flac",
+					"title": "I Want You (She's So Heavy)"
+				},
+				{
+					"id": "7.flac",
+					"title": "Here Comes the Sun"
+				},
+				{
+					"id": "8.flac",
+					"title": "Because"
+				},
+				{
+					"id": "9.flac",
+					"title": "You Never Give Me Your Money"
+				},
+				{
+					"id": "10.flac",
+					"title": "Sun King"
+				},
+				{
+					"id": "11.flac",
+					"title": "Mean Mr Mustard"
+				},
+				{
+					"id": "12.flac",
+					"title": "Polythene Pam"
+				},
+				{
+					"id": "13.flac",
+					"title": "She Came In Through the Bathroom Window"
+				},
+				{
+					"id": "14.flac",
+					"title": "Golden Slumbers"
+				},
+				{
+					"id": "15.flac",
+					"title": "Carry That Weight"
+				},
+				{
+					"id": "16.flac",
+					"title": "The End"
+				},
+				{
+					"id": "17.flac",
+					"title": "Her Majesty"
+				}
+			]
+		},
+		{
 			"title": "Batman",
 			"id": "batman",
 			"artist": "Prince",
@@ -315,6 +393,76 @@
 			]
 		},
 		{
+			"title": "Originals",
+			"id": "originals",
+			"artist": "Prince",
+			"year": "2019",
+			"genre": "Pop",
+			"artwork": "/Users/troyyauk/Downloads/music/originals/cover.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Sex Shooter"
+				},
+				{
+					"id": "2.flac",
+					"title": "Jungle Love"
+				},
+				{
+					"id": "3.flac",
+					"title": "Manic Monday"
+				},
+				{
+					"id": "4.flac",
+					"title": "Noon Rendezvous"
+				},
+				{
+					"id": "5.flac",
+					"title": "Make-Up"
+				},
+				{
+					"id": "6.flac",
+					"title": "100 Mph"
+				},
+				{
+					"id": "7.flac",
+					"title": " You're My Love"
+				},
+				{
+					"id": "8.flac",
+					"title": "Holly Rock"
+				},
+				{
+					"id": "9.flac",
+					"title": "Baby, You're a Trip"
+				},
+				{
+					"id": "10.flac",
+					"title": "The Glamorous Life"
+				},
+				{
+					"id": "11.flac",
+					"title": "Gigolos Get Lonely Too"
+				},
+				{
+					"id": "12.flac",
+					"title": "Love...Thy Will Be Donw"
+				},
+				{
+					"id": "13.flac",
+					"title": "Dear Michaelangelo"
+				},
+				{
+					"id": "14.flac",
+					"title": "Wouldn't You Love to Love Me?"
+				},
+				{
+					"id": "15.flac",
+					"title": "Nothing Compares 2 U"
+				},
+			]
+		},
+		{
 			"title": "Purple Rain",
 			"id": "purple-rain",
 			"artist": "Prince",
@@ -357,6 +505,68 @@
 				{
 					"id": "9.flac",
 					"title": "Purple Rain"
+				}
+			]
+		},
+		{
+			"title": "Sgt. Pepper's Lonely Hearts Club Band",
+			"id": "sgt-peppers",
+			"artist": "The Beatles",
+			"year": "1984",
+			"genre": "Rock",
+			"artwork": "/Users/troyyauk/Downloads/music/sgt-peppers/Cover/Sgt. Pepper's Lonely Hearts Club Band.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Sgt. Pepper's Lonely Hearts Club Band"
+				},
+				{
+					"id": "2.flac",
+					"title": "With a Little Help From My Friends"
+				},
+				{
+					"id": "3.flac",
+					"title": "Lucy In The Sky with Diamonds"
+				},
+				{
+					"id": "4.flac",
+					"title": "Getting Better"
+				},
+				{
+					"id": "5.flac",
+					"title": "Fixing a Hole"
+				},
+				{
+					"id": "6.flac",
+					"title": "She's Leaving Home"
+				},
+				{
+					"id": "7.flac",
+					"title": "Being For the Benefit of Mr. Kite!"
+				},
+				{
+					"id": "8.flac",
+					"title": "Within You Without You"
+				},
+				{
+					"id": "9.flac",
+					"title": "When I'm Sixty-Four"
+				},
+				{
+					"id": "10.flac",
+					"title": "Lovely Rita"
+				},
+				{
+					"id": "11.flac",
+					"title": "Good Morning Good Morning"
+				},
+				{
+					"id": "12.flac",
+					"title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)"
+				},
+				{
+					"id": "13.flac",
+					"title": "A Day In the Life"
 				}
 			]
 		}
