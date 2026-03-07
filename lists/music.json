@@ -101,6 +101,108 @@
 			]
 		},
 		{
+			"title": "Chess",
+			"id": "chess",
+			"artist": "Benny Andersson, Björn Ulvaeus, Tim Rice",
+			"year": "1984",
+			"genre": "Musical",
+			"artwork": "https://cdn-images.dzcdn.net/images/cover/84d654a1c8cd9281bfa2f1f118e361c4/1900x1900-000000-80-0-0.jpg",
+			"tracks": [
+				{
+					"id": "1.m4a",
+					"title": "Merano"
+				},
+				{
+					"id": "2.m4a",
+					"title": "Press Conference"
+				},
+				{
+					"id": "3.m4a",
+					"title": "Where I Want To Be"
+				},
+				{
+					"id": "4.m4a",
+					"title": "Opening Ceremony"
+				},
+				{
+					"id": "5.m4a",
+					"title": "Quartet"
+				},
+				{
+					"id": "6.m4a",
+					"title": "Nobody's Side"
+				},
+				{
+					"id": "7.m4a",
+					"title": "Intro to Mountain Duet"
+				},
+				{
+					"id": "8.m4a",
+					"title": "Mountain Duet"
+				},
+				{
+					"id": "9.m4a",
+					"title": "Chess"
+				},
+				{
+					"id": "10.m4a",
+					"title": "Florence Quits"
+				},
+				{
+					"id": "11.m4a",
+					"title": "Heaven Help My Heart"
+				},
+				{
+					"id": "12.m4a",
+					"title": "Embassy Lament"
+				},
+				{
+					"id": "13.m4a",
+					"title": "Anthem"
+				},
+				{
+					"id": "14.m4a",
+					"title": "One Night in Bangkok"
+				},
+				{
+					"id": "15.mp3",
+					"title": "He's A Man, He's A Child"
+				},
+				{
+					"id": "16.m4a",
+					"title": "Argument"
+				},
+				{
+					"id": "17.m4a",
+					"title": "I Know Him So Well"
+				},
+				{
+					"id": "18.m4a",
+					"title": "The Deal (No Deal)"
+				},
+				{
+					"id": "19.m4a",
+					"title": "Pity The Child"
+				},
+				{
+					"id": "20.m4a",
+					"title": "Endgame"
+				},
+				{
+					"id": "21.mp3",
+					"title": "Someone Else's Story"
+				},
+				{
+					"id": "22.m4a",
+					"title": "You and I"
+				},
+				{
+					"id": "23.m4a",
+					"title": "Anthem (Orchestral)"
+				}
+			]
+		},
+		{
 			"title": "Hotel California",
 			"id": "hotel-california",
 			"artist": "Eagles",
