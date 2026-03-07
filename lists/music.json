@@ -55,6 +55,52 @@
 			]
 		},
 		{
+			"title": "Batman",
+			"id": "batman",
+			"artist": "Prince",
+			"year": "1989",
+			"genre": "Soundtrack",
+			"artwork": "https://i.scdn.co/image/ab67616d0000b273dd64809bbf416dde80e80f99",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "The Future"
+				},
+				{
+					"id": "2.flac",
+					"title": "Electric Chair"
+				},
+				{
+					"id": "3.flac",
+					"title": "The Arms of Orion"
+				},
+				{
+					"id": "4.flac",
+					"title": "Partyman"
+				},
+				{
+					"id": "5.flac",
+					"title": "Vicki Waiting"
+				},
+				{
+					"id": "6.flac",
+					"title": "Trust"
+				},
+				{
+					"id": "7.flac",
+					"title": "Lemon Crush"
+				},
+				{
+					"id": "8.flac",
+					"title": "Scandalous"
+				},
+				{
+					"id": "9.flac",
+					"title": "Batdance"
+				},
+			]
+		},
+		{
 			"title": "Hotel California",
 			"id": "hotel-california",
 			"artist": "Eagles",
