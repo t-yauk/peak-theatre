@@ -1,6 +1,60 @@
 {
 	"music": [
 		{
+			"title": "1999",
+			"id": "1999",
+			"artist": "Prince",
+			"year": "1982",
+			"genre": "Rock",
+			"artwork": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/bCgAAOSwXCVcaaK5/$_57.JPG",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "1999"
+				},
+				{
+					"id": "2.flac",
+					"title": "Little Red Corvette"
+				},
+				{
+					"id": "3.flac",
+					"title": "Delirious"
+				},
+				{
+					"id": "4.flac",
+					"title": "Let's Pretend We're Married"
+				},
+				{
+					"id": "5.flac",
+					"title": "D.M.S.R."
+				},
+				{
+					"id": "6.flac",
+					"title": "Automatic"
+				},
+				{
+					"id": "7.flac",
+					"title": "Something in the Water (Does Not Compute)"
+				},
+				{
+					"id": "8.flac",
+					"title": "Free"
+				},
+				{
+					"id": "9.flac",
+					"title": "Lady Cab Driver"
+				},
+				{
+					"id": "10.flac",
+					"title": "All the Critics Love U in New York"
+				},
+				{
+					"id": "11.flac",
+					"title": "International Lover"
+				}
+			]
+		},
+		{
 			"title": "Hotel California",
 			"id": "hotel-california",
 			"artist": "Eagles",
