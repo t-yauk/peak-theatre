@@ -203,6 +203,72 @@
 			]
 		},
 		{
+			"title": "Dangerous",
+			"id": "dangerous",
+			"artist": "Michael Jackson",
+			"year": "1991",
+			"genre": "Pop",
+			"artwork": "/Users/troyyauk/Downloads/music/dangerous/artwork/Dangerous-sleeve.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Jam"
+				},
+				{
+					"id": "2.flac",
+					"title": "Why You Wanna Trip On Me"
+				},
+				{
+					"id": "3.flac",
+					"title": "In the Closet"
+				},
+				{
+					"id": "4.flac",
+					"title": "She Drives Me Wild"
+				},
+				{
+					"id": "5.flac",
+					"title": "Remember the Time"
+				},
+				{
+					"id": "6.flac",
+					"title": "Can't Let Her Get Away"
+				},
+				{
+					"id": "7.flac",
+					"title": "Heal the World"
+				},
+				{
+					"id": "8.flac",
+					"title": "Black or White"
+				},
+				{
+					"id": "9.flac",
+					"title": "Who Is It"
+				},
+				{
+					"id": "10.flac",
+					"title": "Give In to Me"
+				},
+				{
+					"id": "11.flac",
+					"title": "Will You Be There"
+				},
+				{
+					"id": "12.flac",
+					"title": "Keep the Faith"
+				},
+				{
+					"id": "13.flac",
+					"title": "Gone Too Soon"
+				},
+				{
+					"id": "14.flac",
+					"title": "Dangerous"
+				}
+			]
+		},
+		{
 			"title": "Hotel California",
 			"id": "hotel-california",
 			"artist": "Eagles",
