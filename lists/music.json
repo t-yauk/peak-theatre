@@ -109,59 +109,59 @@
 			"artwork": "https://cdn-images.dzcdn.net/images/cover/84d654a1c8cd9281bfa2f1f118e361c4/1900x1900-000000-80-0-0.jpg",
 			"tracks": [
 				{
-					"id": "1.m4a",
+					"id": "1.flac",
 					"title": "Merano"
 				},
 				{
-					"id": "2.m4a",
+					"id": "2.flac",
 					"title": "Press Conference"
 				},
 				{
-					"id": "3.m4a",
+					"id": "3.flac",
 					"title": "Where I Want To Be"
 				},
 				{
-					"id": "4.m4a",
+					"id": "4.flac",
 					"title": "Opening Ceremony"
 				},
 				{
-					"id": "5.m4a",
+					"id": "5.flac",
 					"title": "Quartet"
 				},
 				{
-					"id": "6.m4a",
+					"id": "6.flac",
 					"title": "Nobody's Side"
 				},
 				{
-					"id": "7.m4a",
+					"id": "7.flac",
 					"title": "Intro to Mountain Duet"
 				},
 				{
-					"id": "8.m4a",
+					"id": "8.flac",
 					"title": "Mountain Duet"
 				},
 				{
-					"id": "9.m4a",
+					"id": "9.flac",
 					"title": "Chess"
 				},
 				{
-					"id": "10.m4a",
+					"id": "10.flac",
 					"title": "Florence Quits"
 				},
 				{
-					"id": "11.m4a",
+					"id": "11.flac",
 					"title": "Heaven Help My Heart"
 				},
 				{
-					"id": "12.m4a",
+					"id": "12.flac",
 					"title": "Embassy Lament"
 				},
 				{
-					"id": "13.m4a",
+					"id": "13.flac",
 					"title": "Anthem"
 				},
 				{
-					"id": "14.m4a",
+					"id": "14.flac",
 					"title": "One Night in Bangkok"
 				},
 				{
@@ -169,23 +169,23 @@
 					"title": "He's A Man, He's A Child"
 				},
 				{
-					"id": "16.m4a",
+					"id": "16.flac",
 					"title": "Argument"
 				},
 				{
-					"id": "17.m4a",
+					"id": "17.flac",
 					"title": "I Know Him So Well"
 				},
 				{
-					"id": "18.m4a",
+					"id": "18.flac",
 					"title": "The Deal (No Deal)"
 				},
 				{
-					"id": "19.m4a",
+					"id": "19.flac",
 					"title": "Pity The Child"
 				},
 				{
-					"id": "20.m4a",
+					"id": "20.flac",
 					"title": "Endgame"
 				},
 				{
@@ -193,11 +193,11 @@
 					"title": "Someone Else's Story"
 				},
 				{
-					"id": "22.m4a",
+					"id": "22.flac",
 					"title": "You and I"
 				},
 				{
-					"id": "23.m4a",
+					"id": "23.flac",
 					"title": "Anthem (Orchestral)"
 				}
 			]
