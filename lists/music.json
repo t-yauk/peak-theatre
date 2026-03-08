@@ -581,6 +581,52 @@
 			]
 		},
 		{
+			"title": "A Kind of Magic",
+			"id": "kind-of-magic",
+			"artist": "Queen",
+			"year": "1986",
+			"genre": "Rock",
+			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/kind-of-magic.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "One Vision"
+				},
+				{
+					"id": "2.flac",
+					"title": "A Kind of Magic"
+				},
+				{
+					"id": "3.flac",
+					"title": "One Year of Love"
+				},
+				{
+					"id": "4.flac",
+					"title": "Pain Is So Close to Pleasure"
+				},
+				{
+					"id": "5.flac",
+					"title": "Friends Will Be Friends"
+				},
+				{
+					"id": "6.flac",
+					"title": "Who Wants to Live Forever"
+				},
+				{
+					"id": "7.flac",
+					"title": "Gimme The Prize"
+				},
+				{
+					"id": "8.flac",
+					"title": "Don't Lose Your Head"
+				},
+				{
+					"id": "9.flac",
+					"title": "Prince of the Universe"
+				}
+			]
+		},
+		{
 			"title": "The Mission",
 			"id": "the-mission",
 			"artist": "Ennio Morricone",
