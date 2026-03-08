@@ -133,6 +133,20 @@
 			]
 		},
 		{
+			"title": "APT. <span style='font-size:0.7em'>Single</span>",
+			"id": "apt",
+			"artist": "ROSÈ and Bruno Mars",
+			"year": "2024",
+			"genre": "Pop",
+			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/apt.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "APT."
+				}
+			]
+		},
+		{
 			"title": "Batman",
 			"id": "batman",
 			"artist": "Prince",
