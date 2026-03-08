@@ -179,6 +179,88 @@
 			]
 		},
 		{
+			"title": "Big Mess",
+			"id": "big-mess",
+			"artist": "Danny Elfman",
+			"year": "2021",
+			"genre": "Alternative",
+			"artwork": "/Users/troyyauk/Downloads/music/big-mess/folder.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Sorry"
+				},
+				{
+					"id": "2.flac",
+					"title": "True"
+				},
+				{
+					"id": "3.flac",
+					"title": "In Time"
+				},
+				{
+					"id": "4.flac",
+					"title": "Everybody Loves You"
+				},
+				{
+					"id": "5.flac",
+					"title": "Dance with the Lemurs"
+				},
+				{
+					"id": "6.flac",
+					"title": "Serious Ground"
+				},
+				{
+					"id": "7.flac",
+					"title": "Choose Your Side"
+				},
+				{
+					"id": "8.flac",
+					"title": "We Belong"
+				},
+				{
+					"id": "9.flac",
+					"title": "Happy"
+				},
+				{
+					"id": "10.flac",
+					"title": "Just a Human"
+				},
+				{
+					"id": "11.flac",
+					"title": "Devil Take Away"
+				},
+				{
+					"id": "12.flac",
+					"title": "Love in the Time of Covid"
+				},
+				{
+					"id": "13.flac",
+					"title": "Native Intelligence"
+				},
+				{
+					"id": "14.flac",
+					"title": "Better Times"
+				},
+				{
+					"id": "15.flac",
+					"title": "Cruel Compensation"
+				},
+				{
+					"id": "16.flac",
+					"title": "Kick Me"
+				},
+				{
+					"id": "17.flac",
+					"title": "Get over it"
+				},
+				{
+					"id": "18.flac",
+					"title": "Insects"
+				}
+			]
+		},
+		{
 			"title": "Chess",
 			"id": "chess",
 			"artist": "Benny Andersson, Björn Ulvaeus, Tim Rice",
