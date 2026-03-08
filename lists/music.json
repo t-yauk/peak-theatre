@@ -138,7 +138,7 @@
 			"artist": "Prince",
 			"year": "1989",
 			"genre": "Soundtrack",
-			"artwork": "/Volumes/pkTH/music-library/batman/folder.jpg",
+			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/batman.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -184,7 +184,7 @@
 			"artist": "Danny Elfman",
 			"year": "2021",
 			"genre": "Alternative",
-			"artwork": "/Volumes/pkTH/music-library/big-mess/folder.jpg",
+			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/big-mess.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -368,7 +368,7 @@
 			"artist": "Shania Twain",
 			"year": "1997",
 			"genre": "Country",
-			"artwork": "/Volumes/pkTH/music-library/come-on-over/cover.jpg",
+			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/come-on-over.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -442,7 +442,7 @@
 			"artist": "Michael Jackson",
 			"year": "1991",
 			"genre": "Pop",
-			"artwork": "/Volumes/pkTH/music-library/dangerous/artwork/Dangerous-sleeve.jpg",
+			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/dangerous.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -572,7 +572,7 @@
 			"artist": "Ennio Morricone",
 			"year": "1986",
 			"genre": "Soundtrack",
-			"artwork": "/Volumes/pkTH/music-library/the-mission/Folder.jpg",
+			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/the-mission.jpg",
 			"tracks": [
 				{
 					"id": "1.mp3",
@@ -700,7 +700,7 @@
 			"artist": "Prince",
 			"year": "2019",
 			"genre": "Pop",
-			"artwork": "/Volumes/pkTH/music-library/originals/cover.jpg",
+			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/originals.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -878,7 +878,7 @@
 			"artist": "Electric Light Orchestra",
 			"year": "1980",
 			"genre": "Soundtrack",
-			"artwork": "/Volumes/pkTH/music-library/xanadu/artwork.jpg",
+			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/xanadu.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
