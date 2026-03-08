@@ -138,7 +138,7 @@
 			"artist": "Prince",
 			"year": "1989",
 			"genre": "Soundtrack",
-			"artwork": "/Users/troyyauk/Downloads/music/batman/folder.jpg",
+			"artwork": "/Volumes/pkTH/music-library/batman/folder.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -184,7 +184,7 @@
 			"artist": "Danny Elfman",
 			"year": "2021",
 			"genre": "Alternative",
-			"artwork": "/Users/troyyauk/Downloads/music/big-mess/folder.jpg",
+			"artwork": "/Volumes/pkTH/music-library/big-mess/folder.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -368,7 +368,7 @@
 			"artist": "Shania Twain",
 			"year": "1997",
 			"genre": "Country",
-			"artwork": "/Users/troyyauk/Downloads/music/come-on-over/cover.jpg",
+			"artwork": "/Volumes/pkTH/music-library/come-on-over/cover.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -442,7 +442,7 @@
 			"artist": "Michael Jackson",
 			"year": "1991",
 			"genre": "Pop",
-			"artwork": "/Users/troyyauk/Downloads/music/dangerous/artwork/Dangerous-sleeve.jpg",
+			"artwork": "/Volumes/pkTH/music-library/dangerous/artwork/Dangerous-sleeve.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -572,7 +572,7 @@
 			"artist": "Ennio Morricone",
 			"year": "1986",
 			"genre": "Soundtrack",
-			"artwork": "/Users/troyyauk/Downloads/music/the-mission/Folder.jpg",
+			"artwork": "/Volumes/pkTH/music-library/the-mission/Folder.jpg",
 			"tracks": [
 				{
 					"id": "1.mp3",
@@ -700,7 +700,7 @@
 			"artist": "Prince",
 			"year": "2019",
 			"genre": "Pop",
-			"artwork": "/Users/troyyauk/Downloads/music/originals/cover.jpg",
+			"artwork": "/Volumes/pkTH/music-library/originals/cover.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -878,7 +878,7 @@
 			"artist": "Electric Light Orchestra",
 			"year": "1980",
 			"genre": "Soundtrack",
-			"artwork": "/Users/troyyauk/Downloads/music/xanadu/artwork.jpg",
+			"artwork": "/Volumes/pkTH/music-library/xanadu/artwork.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
