@@ -363,6 +363,80 @@
 			]
 		},
 		{
+			"title": "Come On Over",
+			"id": "come-on-over",
+			"artist": "Shania Twain",
+			"year": "1997",
+			"genre": "Country",
+			"artwork": "/Users/troyyauk/Downloads/music/come-on-over/cover.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Man! I Feel Like a Woman!"
+				},
+				{
+					"id": "2.flac",
+					"title": "I'm Holding On to Live (To Save My Life)"
+				},
+				{
+					"id": "3.flac",
+					"title": "Love Gets Me Every Time"
+				},
+				{
+					"id": "4.flac",
+					"title": "Don't Be Stupid"
+				},
+				{
+					"id": "5.flac",
+					"title": "From This Moment On"
+				},
+				{
+					"id": "6.flac",
+					"title": "Come On Over"
+				},
+				{
+					"id": "7.flac",
+					"title": "When"
+				},
+				{
+					"id": "8.flac",
+					"title": "Whatever You Do! Don't!"
+				},
+				{
+					"id": "9.flac",
+					"title": "If You Wanna Touch Her, Ask!"
+				},
+				{
+					"id": "10.flac",
+					"title": "You're Still the One"
+				},
+				{
+					"id": "11.flac",
+					"title": "Honey, I'm Home"
+				},
+				{
+					"id": "12.flac",
+					"title": "That Don't Impress Me Much"
+				},
+				{
+					"id": "13.flac",
+					"title": "Black Eyes, Blue Tears"
+				},
+				{
+					"id": "14.flac",
+					"title": "I Won't Leave You Lonely"
+				},
+				{
+					"id": "15.flac",
+					"title": "Rock This Country"
+				},
+				{
+					"id": "16.flac",
+					"title": "You've Got a Way"
+				}
+			]
+		},
+		{
 			"title": "Dangerous",
 			"id": "dangerous",
 			"artist": "Michael Jackson",
@@ -804,7 +878,7 @@
 			"artist": "Electric Light Orchestra",
 			"year": "1980",
 			"genre": "Soundtrack",
-			"artwork": "'/Users/troyyauk/Downloads/music/xanadu/Various Artists - Xanadu - Front.jpg'",
+			"artwork": "/Users/troyyauk/Downloads/music/xanadu/artwork.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
