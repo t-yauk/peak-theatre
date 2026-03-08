@@ -429,6 +429,24 @@
 			]
 		},
 		{
+			"title": "Gershwin: Rhapsody in Blue - An American in Paris",
+			"id": "gershwin",
+			"artist": "George Gershwin",
+			"year": "1958",
+			"genre": "Classical",
+			"artwork": "https://storage.highresaudio.com/library/bild/c_390000/390690/field4.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Rhapsody in Blue"
+				},
+				{
+					"id": "2.flac",
+					"title": "An American in Paris"
+				}
+			]
+		},
+		{
 			"title": "Hotel California",
 			"id": "hotel-california",
 			"artist": "Eagles",
@@ -471,6 +489,134 @@
 				{
 					"id": "9.flac",
 					"title": "The Last Resort"
+				}
+			]
+		},
+		{
+			"title": "The Mission",
+			"id": "the-mission",
+			"artist": "Ennio Morricone",
+			"year": "1986",
+			"genre": "Soundtrack",
+			"artwork": "/Users/troyyauk/Downloads/music/the-mission/Folder.jpg",
+			"tracks": [
+				{
+					"id": "1.mp3",
+					"title": "On Earth As It Is In Heaven"
+				},
+				{
+					"id": "2.mp3",
+					"title": "Falls"
+				},
+				{
+					"id": "3.mp3",
+					"title": "Gabriel's Oboe"
+				},
+				{
+					"id": "4.mp3",
+					"title": "Ave Maria Guarani"
+				},
+				{
+					"id": "5.mp3",
+					"title": "Brothers"
+				},
+				{
+					"id": "6.mp3",
+					"title": "Carlotta"
+				},
+				{
+					"id": "7.mp3",
+					"title": "Vita Nostra"
+				},
+				{
+					"id": "8.mp3",
+					"title": "Climb"
+				},
+				{
+					"id": "9.mp3",
+					"title": "Remorse"
+				},
+				{
+					"id": "10.mp3",
+					"title": "Penance"
+				},
+				{
+					"id": "11.mp3",
+					"title": "The Mission"
+				},
+				{
+					"id": "12.mp3",
+					"title": "River"
+				},
+				{
+					"id": "13.mp3",
+					"title": "Gabriel's Oboe"
+				},
+				{
+					"id": "14.mp3",
+					"title": "Te Deum Guarani"
+				},
+				{
+					"id": "15.mp3",
+					"title": "Refusal"
+				},
+				{
+					"id": "16.mp3",
+					"title": "Asunción"
+				},
+				{
+					"id": "17.mp3",
+					"title": "Alone"
+				},
+				{
+					"id": "18.mp3",
+					"title": "Guarani"
+				},
+				{
+					"id": "19.mp3",
+					"title": "The Sword"
+				},
+				{
+					"id": "20.mp3",
+					"title": "Miserere"
+				}
+			]
+		},
+		{
+			"title": "Moving Pictures",
+			"id": "moving-pictures",
+			"artist": "Rush",
+			"year": "1980",
+			"genre": "Rock",
+			"artwork": "https://m.media-amazon.com/images/I/71sch0JQZdL.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Tom Sawyer"
+				},
+				{
+					"id": "2.flac",
+					"title": "Red Barchetta"
+				},
+				{
+					"id": "3.flac",
+					"title": "YYZ"
+				},
+				{
+					"id": "4.flac",
+					"title": "Limelight"
+				},
+				{
+					"id": "5.flac",
+					"title": "The Camera Eye"
+				},
+				{
+					"id": "6.flac",
+					"title": "Witch Hunt"
+				},
+				{
+					"id": "7.flac",
+					"title": "Vital Signs"
 				}
 			]
 		},
@@ -649,6 +795,56 @@
 				{
 					"id": "13.flac",
 					"title": "A Day In the Life"
+				}
+			]
+		},
+		{
+			"title": "Xanadu",
+			"id": "xanadu",
+			"artist": "Electric Light Orchestra",
+			"year": "1980",
+			"genre": "Soundtrack",
+			"artwork": "'/Users/troyyauk/Downloads/music/xanadu/Various Artists - Xanadu - Front.jpg'",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Magic"
+				},
+				{
+					"id": "2.flac",
+					"title": "Suddenly"
+				},
+				{
+					"id": "3.flac",
+					"title": "Dancin'"
+				},
+				{
+					"id": "4.flac",
+					"title": "Suspended in Time"
+				},
+				{
+					"id": "5.flac",
+					"title": "Whenever You're Away from Me"
+				},
+				{
+					"id": "6.flac",
+					"title": "I'm Alive"
+				},
+				{
+					"id": "7.flac",
+					"title": "The Fall"
+				},
+				{
+					"id": "8.flac",
+					"title": "Don't Walk Away"
+				},
+				{
+					"id": "9.flac",
+					"title": "All Over the World"
+				},
+				{
+					"id": "10.flac",
+					"title": "Xanadu"
 				}
 			]
 		}
