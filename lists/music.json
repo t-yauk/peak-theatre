@@ -518,6 +518,56 @@
 			]
 		},
 		{
+			"title": "The Dark Side of the Moon",
+			"id": "dark-side-moon",
+			"artist": "Pink Floyd",
+			"year": "1973",
+			"genre": "Rock",
+			"artwork": "https://upload.wikimedia.org/wikipedia/en/a/ab/The_Dark_Side_of_the_Moon_cover.svg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Speak To Me"
+				},
+				{
+					"id": "2.flac",
+					"title": "Breath (In the Air)"
+				},
+				{
+					"id": "3.flac",
+					"title": "On the Run"
+				},
+				{
+					"id": "4.flac",
+					"title": "Time"
+				},
+				{
+					"id": "5.flac",
+					"title": "The Great Gig in the Sky"
+				},
+				{
+					"id": "6.flac",
+					"title": "Money"
+				},
+				{
+					"id": "7.flac",
+					"title": "Us and Them"
+				},
+				{
+					"id": "8.flac",
+					"title": "Any Colour You Like"
+				},
+				{
+					"id": "9.flac",
+					"title": "Brain Damage"
+				},
+				{
+					"id": "10.flac",
+					"title": "Eclipse"
+				}
+			]
+		},
+		{
 			"title": "Gershwin",
 			"id": "gershwin",
 			"artist": "George Gershwin",
