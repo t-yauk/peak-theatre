@@ -7,7 +7,7 @@
 			"artist": "Prince",
 			"year": "1982",
 			"genre": "Rock",
-			"artwork": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/bCgAAOSwXCVcaaK5/$_57.JPG",
+			"artwork": "886448877554.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -61,7 +61,7 @@
 			"artist": "The Beatles",
 			"year": "1969",
 			"genre": "Rock",
-			"artwork": "https://upload.wikimedia.org/wikipedia/commons/a/a4/The_Beatles_Abbey_Road_album_cover.jpg",
+			"artwork": "13UMGIM63890.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -139,7 +139,7 @@
 			"artist": "ROSÉ and Bruno Mars",
 			"year": "2024",
 			"genre": "Pop",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/apt.jpg",
+			"artwork": "075679628312.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -153,7 +153,7 @@
 			"artist": "Prince",
 			"year": "1989",
 			"genre": "Soundtrack",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/batman.jpg",
+			"artwork": "djeqwnskig.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -199,7 +199,7 @@
 			"artist": "Danny Elfman",
 			"year": "2021",
 			"genre": "Alternative",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/big-mess.jpg",
+			"artwork": "0045778781164.png",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -281,7 +281,7 @@
 			"artist": "Benny Andersson, Tim Rice & Björn Ulveaus",
 			"year": "1984",
 			"genre": "Musical",
-			"artwork": "https://cdn-images.dzcdn.net/images/cover/84d654a1c8cd9281bfa2f1f118e361c4/1900x1900-000000-80-0-0.jpg",
+			"artwork": "00602547084149.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -383,7 +383,7 @@
 			"artist": "Shania Twain",
 			"year": "1997",
 			"genre": "Country",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/come-on-over.jpg",
+			"artwork": "06UMGIM07033.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -457,7 +457,7 @@
 			"artist": "Michael Jackson",
 			"year": "1991",
 			"genre": "Pop",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/dangerous.jpg",
+			"artwork": "884977307832.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -523,7 +523,7 @@
 			"artist": "Pink Floyd",
 			"year": "1973",
 			"genre": "Rock",
-			"artwork": "https://upload.wikimedia.org/wikipedia/en/a/ab/The_Dark_Side_of_the_Moon_cover.svg",
+			"artwork": "196589805232.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -568,12 +568,12 @@
 			]
 		},
 		{
-			"title": "Gershwin",
+			"title": "Gershwin: Rhapsody in Blue - An American in Paris",
 			"id": "gershwin",
 			"artist": "George Gershwin",
 			"year": "1958",
 			"genre": "Classical",
-			"artwork": "https://storage.highresaudio.com/library/bild/c_390000/390690/field4.jpg",
+			"artwork": "886443706699.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -591,7 +591,7 @@
 			"artist": "Olivia Rodrigo",
 			"year": "2023",
 			"genre": "Pop",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/guts.webp",
+			"artwork": "23UMGIM71510.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -649,7 +649,7 @@
 			"artist": "Eagles",
 			"year": "1976",
 			"genre": "Rock",
-			"artwork": "https://vinylreviews.com/wp-content/uploads/2018/06/eagles2.png",
+			"artwork": "075596050920.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -695,7 +695,7 @@
 			"artist": "Charlie Puth",
 			"year": "2019",
 			"genre": "Pop",
-			"artwork": "/Users/troyyauk/Documents/peaktheatre 3.0/media/music-elements/075679839497.jpg",
+			"artwork": "075679839497.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -709,7 +709,7 @@
 			"artist": "Queen",
 			"year": "1986",
 			"genre": "Rock",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/kind-of-magic.jpg",
+			"artwork": "14DMGIM05557.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -755,7 +755,7 @@
 			"artist": "Ennio Morricone",
 			"year": "1986",
 			"genre": "Soundtrack",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/the-mission.jpg",
+			"artwork": "00077778600152.jpg",
 			"tracks": [
 				{
 					"id": "1.mp3",
@@ -845,7 +845,7 @@
 			"artist": "Charlie Puth",
 			"year": "2019",
 			"genre": "Pop",
-			"artwork": "/Users/troyyauk/Documents/peaktheatre 3.0/media/music-elements/075679833815.jpg",
+			"artwork": "075679833815.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -859,7 +859,7 @@
 			"artist": "Rush",
 			"year": "1980",
 			"genre": "Rock",
-			"artwork": "https://m.media-amazon.com/images/I/71sch0JQZdL.jpg",
+			"artwork": "21UMGIM68387.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -897,7 +897,7 @@
 			"artist": "Prince",
 			"year": "2019",
 			"genre": "Pop",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/originals.jpg",
+			"artwork": "603497851775.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -967,7 +967,7 @@
 			"artist": "Prince",
 			"year": "1984",
 			"genre": "Rock",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/purple-rain.webp",
+			"artwork": "603497822065.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -1013,7 +1013,7 @@
 			"artist": "The Beatles",
 			"year": "1984",
 			"genre": "Rock",
-			"artwork": "https://www.udiscovermusic.com/wp-content/uploads/2018/01/SgtPepper-1.jpg",
+			"artwork": "00602567725428.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -1076,7 +1076,7 @@
 			"year": "2024",
 			"genre": "Musical",
 			"theme": ["204", "53", "52"],
-			"artwork": "https://m.media-amazon.com/images/I/51nVBvEuEIL._UF1000,1000_QL80_.jpg",
+			"artwork": "198588261118.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -1242,7 +1242,7 @@
 			"artist": "Charlie Puth",
 			"year": "2018",
 			"genre": "Pop",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/voicenotes.jpg",
+			"artwork": "075679884336.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
@@ -1304,7 +1304,7 @@
 			"artist": "Electric Light Orchestra",
 			"year": "1980",
 			"genre": "Soundtrack",
-			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/xanadu.jpg",
+			"artwork": "06UMGIM04228.jpg",
 			"tracks": [
 				{
 					"id": "1.flac",
