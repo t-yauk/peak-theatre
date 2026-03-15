@@ -690,6 +690,20 @@
 			]
 		},
 		{
+			"title": "I Warned Myself - Single",
+			"id": "i-warned-myself",
+			"artist": "Charlie Puth",
+			"year": "2019",
+			"genre": "Pop",
+			"artwork": "/Users/troyyauk/Documents/peaktheatre 3.0/media/music-elements/075679839497.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "I Warned Myself"
+				}
+			]
+		},
+		{
 			"title": "A Kind of Magic",
 			"id": "kind-of-magic",
 			"artist": "Queen",
@@ -822,6 +836,20 @@
 				{
 					"id": "20.mp3",
 					"title": "Miserere"
+				}
+			]
+		},
+		{
+			"title": "Mother - Single",
+			"id": "mother",
+			"artist": "Charlie Puth",
+			"year": "2019",
+			"genre": "Pop",
+			"artwork": "/Users/troyyauk/Documents/peaktheatre 3.0/media/music-elements/075679833815.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Mother"
 				}
 			]
 		},
@@ -1205,6 +1233,68 @@
 				{
 					"id": "39.flac",
 					"title": "End Credits"
+				}
+			]
+		},
+		{
+			"title": "Voicenotes",
+			"id": "voicenotes",
+			"artist": "Charlie Puth",
+			"year": "2018",
+			"genre": "Pop",
+			"artwork": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/voicenotes.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "The Way I Am"
+				},
+				{
+					"id": "2.flac",
+					"title": "Attention"
+				},
+				{
+					"id": "3.flac",
+					"title": "LA Girls"
+				},
+				{
+					"id": "4.flac",
+					"title": "How Long"
+				},
+				{
+					"id": "5.flac",
+					"title": "Done For Me (feat. Kehlani)"
+				},
+				{
+					"id": "6.flac",
+					"title": "Patient"
+				},
+				{
+					"id": "7.flac",
+					"title": "If You Leave Me Now (feat. Boyz II Men)"
+				},
+				{
+					"id": "8.flac",
+					"title": "BOY"
+				},
+				{
+					"id": "9.flac",
+					"title": "Slow It Down"
+				},
+				{
+					"id": "10.flac",
+					"title": "Change (feat. James Taylor)"
+				},
+				{
+					"id": "11.flac",
+					"title": "Somebody Told Me"
+				},
+				{
+					"id": "12.flac",
+					"title": "Empty Cups"
+				},
+				{
+					"id": "13.flac",
+					"title": "Through It All"
 				}
 			]
 		},
