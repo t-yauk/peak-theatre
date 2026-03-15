@@ -586,6 +586,64 @@
 			]
 		},
 		{
+			"title": "GUTS",
+			"id": "guts",
+			"artist": "Olivia Rodrigo",
+			"year": "2023",
+			"genre": "Pop",
+			"artworl": "https://static.wikia.nocookie.net/oliviarodrigo/images/1/19/Guts_olivia.jpeg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "all-american bitch"
+				},
+				{
+					"id": "2.flac",
+					"title": "bad idea right?"
+				},
+				{
+					"id": "3.flac",
+					"title": "vampire"
+				},
+				{
+					"id": "4.flac",
+					"title": "lacy"
+				},
+				{
+					"id": "5.flac",
+					"title": "ballad of a homeschool girl"
+				},
+				{
+					"id": "6.flac",
+					"title": "making the bed"
+				},
+				{
+					"id": "7.flac",
+					"title": "logical"
+				},
+				{
+					"id": "8.flac",
+					"title": "get him back!"
+				},
+				{
+					"id": "9.flac",
+					"title": "love is embarrassing"
+				},
+				{
+					"id": "10.flac",
+					"title": "the grudge"
+				},
+				{
+					"id": "11.flac",
+					"title": "pretty isn't pretty"
+				},
+				{
+					"id": "12.flac",
+					"title": "teenage dream"
+				}
+			]
+		},
+		{
 			"title": "Hotel California",
 			"id": "hotel-california",
 			"artist": "Eagles",
@@ -983,6 +1041,172 @@
 				}
 			]
 		},
+		{
+			"title": "SUNSET BLVD.",
+			"id": "sunset-blvd",
+			"artist": "Andrew Lloyd Webber",
+			"year": "2024",
+			"genre": "Musical",
+			"artwork": "https://m.media-amazon.com/images/I/51nVBvEuEIL._UF1000,1000_QL80_.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Overture"
+				},
+				{
+					"id": "2.flac",
+					"title": "Let Me Take You Back"
+				},
+				{
+					"id": "3.flac",
+					"title": "Let's Do Lunch"
+				},
+				{
+					"id": "4.flac",
+					"title": "Betty's Pitch"
+				},
+				{
+					"id": "5.flac",
+					"title": "The Car Chase"
+				},
+				{
+					"id": "6.flac",
+					"title": "Surrender"
+				},
+				{
+					"id": "7.flac",
+					"title": "With One Look"
+				},
+				{
+					"id": "8.flac",
+					"title": "Scene: Did you say you were a writer?"
+				},
+				{
+					"id": "9.flac",
+					"title": "Salome"
+				},
+				{
+					"id": "10.flac",
+					"title": "The Greates Star Of All"
+				},
+				{
+					"id": "11.flac",
+					"title": "Schwab's Drugstore"
+				},
+				{
+					"id": "12.flac",
+					"title": "Girl Meets Boy"
+				},
+				{
+					"id": "13.flac",
+					"title": "Scene: Where have you been?"
+				},
+				{
+					"id": "14.flac",
+					"title": "I Started Work"
+				},
+				{
+					"id": "15.flac",
+					"title": "What's On This Evening?"
+				},
+				{
+					"id": "16.flac",
+					"title": "New Ways To Dream"
+				},
+				{
+					"id": "17.flac",
+					"title": "Scene: Today's the day"
+				},
+				{
+					"id": "18.flac",
+					"title": "New Year's Tango"
+				},
+				{
+					"id": "19.flac",
+					"title": "The Perfect Year"
+				},
+				{
+					"id": "20.flac",
+					"title": "This Time Next Year"
+				},
+				{
+					"id": "21.flac",
+					"title": "Scene: Happy New Year, darling"
+				},
+				{
+					"id": "22.flac",
+					"title": "Entr'acte"
+				},
+				{
+					"id": "23.flac",
+					"title": "Sunset Boulevard"
+				},
+				{
+					"id": "24.flac",
+					"title": "There's Been A Call"
+				},
+				{
+					"id": "25.flac",
+					"title": "Arrival at Paramount"
+				},
+				{
+					"id": "26.flac",
+					"title": "Norma In The Studio"
+				},
+				{
+					"id": "27.flac",
+					"title": "As If We Never Said Goodbye"
+				},
+				{
+					"id": "28.flac",
+					"title": "Paramount Conversations"
+				},
+				{
+					"id": "29.flac",
+					"title": "Girl Meets Boy (Reprise)"
+				},
+				{
+					"id": "30.flac",
+					"title": "Scene: Who's Betty Schaefer?"
+				},
+				{
+					"id": "31.flac",
+					"title": "Scene: The Back Lot"
+				},
+				{
+					"id": "32.flac",
+					"title": "Too Much In Love To Care"
+				},
+				{
+					"id": "33.flac",
+					"title": "Scene: I made her a star"
+				},
+				{
+					"id": "34.flac",
+					"title": "New Ways To Dream (Reprise)"
+				},
+				{
+					"id": "35.flac",
+					"title": "The Phone Call"
+				},
+				{
+					"id": "36.flac",
+					"title": "What's Going On, Joe?"
+				},
+				{
+					"id": "37.flac",
+					"title": "No One Ever Leaves A Star"
+				},
+				{
+					"id": "38.flac",
+					"title": "Max, Where Am I?"
+				},
+				{
+					"id": "39.flac",
+					"title": "End Credits"
+				}
+			]
+		}
 		{
 			"title": "Xanadu",
 			"id": "xanadu",
