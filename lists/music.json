@@ -568,6 +568,68 @@
 			]
 		},
 		{
+			"title": "Face Value",
+			"id": "face-value",
+			"artist": "Phil Collins",
+			"year": "1981",
+			"genre": "Rock",
+			"artwork": "603497889754.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "In the Air Tonight"
+				},
+				{
+					"id": "2.flac",
+					"title": "This Must Be Love"
+				},
+				{
+					"id": "3.flac",
+					"title": "Behind the Lines"
+				},
+				{
+					"id": "4.flac",
+					"title": "The Roof is Leaking"
+				},
+				{
+					"id": "5.flac",
+					"title": "Droned"
+				},
+				{
+					"id": "6.flac",
+					"title": "Hand in Hand"
+				},
+				{
+					"id": "7.flac",
+					"title": "I Missed Again"
+				},
+				{
+					"id": "8.flac",
+					"title": "You Know What I Mean"
+				},
+				{
+					"id": "9.flac",
+					"title": "Thunder and Lightning"
+				},
+				{
+					"id": "10.flac",
+					"title": "I'm Not Moving"
+				},
+				{
+					"id": "11.flac",
+					"title": "If Leaving Me Is Easy"
+				},
+				{
+					"id": "12.flac",
+					"title": "Tomorrow Never Knows"
+				},
+				{
+					"id": "13.flac",
+					"title": "Over The Rainbow"
+				}
+			]
+		},
+		{
 			"title": "Gershwin: Rhapsody in Blue - An American in Paris",
 			"id": "gershwin",
 			"artist": "George Gershwin",
@@ -892,6 +954,56 @@
 			]
 		},
 		{
+			"title": "No Jacket Required",
+			"id": "no-jacket-required",
+			"artist": "Phil Collins",
+			"year": "1985",
+			"genre": "Pop",
+			"artwork": "603497879700.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Sussudio"
+				},
+				{
+					"id": "2.flac",
+					"title": "Only You Know and I Know"
+				},
+				{
+					"id": "3.flac",
+					"title": "Long Long Way to Go"
+				},
+				{
+					"id": "4.flac",
+					"title": "I Don't Wanna Know"
+				},
+				{
+					"id": "5.flac",
+					"title": "One More Night"
+				},
+				{
+					"id": "6.flac",
+					"title": "Don't Lose My Number"
+				},
+				{
+					"id": "7.flac",
+					"title": "Who Said I Would"
+				},
+				{
+					"id": "8.flac",
+					"title": "Doesn't Anybody Stay Together Anymore"
+				},
+				{
+					"id": "9.flac",
+					"title": "Inside Out"
+				},
+				{
+					"id": "10.flac",
+					"title": "Take Me Home"
+				}
+			]
+		},
+		{
 			"title": "Originals",
 			"id": "originals",
 			"artist": "Prince",
@@ -1070,6 +1182,52 @@
 			]
 		},
 		{
+			"title": "The Smoker You Drink, the Player You Get",
+			"id": "the-smoker",
+			"artist": "Joe Walsh",
+			"year": "1973",
+			"genre": "Rock",
+			"artwork": "00602567833659.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Rocky Mountain Way"
+				},
+				{
+					"id": "2.flac",
+					"title": "Book Ends"
+				},
+				{
+					"id": "3.flac",
+					"title": "Wolf"
+				},
+				{
+					"id": "4.flac",
+					"title": "Midnight Moodies"
+				},
+				{
+					"id": "5.flac",
+					"title": "Happy Ways"
+				},
+				{
+					"id": "6.flac",
+					"title": "Meadows"
+				},
+				{
+					"id": "7.flac",
+					"title": "Dreams"
+				},
+				{
+					"id": "8.flac",
+					"title": "Days Gone By"
+				},
+				{
+					"id": "9.flac",
+					"title": "(Day Dream) Prayer"
+				}
+			]
+		},
+		{
 			"title": "SUNSET BLVD.",
 			"id": "sunset-blvd",
 			"artist": "Andrew Lloyd Webber",
@@ -1233,6 +1391,112 @@
 				{
 					"id": "39.flac",
 					"title": "End Credits"
+				}
+			]
+		},
+		{
+			"title": "Tommy",
+			"id": "tommy",
+			"artist": "The Who",
+			"year": "1969",
+			"genre": "Rock",
+			"artwork": "18UMGIM35635.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"titile": "Overture"
+				},
+				{
+					"id": "2.flac",
+					"titile": "It's A Boy"
+				},
+				{
+					"id": "3.flac",
+					"titile": "1921"
+				},
+				{
+					"id": "4.flac",
+					"titile": "Amazing Journey"
+				},
+				{
+					"id": "5.flac",
+					"titile": "Sparks"
+				},
+				{
+					"id": "6.flac",
+					"titile": "Eyesight To The Blind (The Hawker)"
+				},
+				{
+					"id": "7.flac",
+					"titile": "Christmas"
+				},
+				{
+					"id": "8.flac",
+					"titile": "Cousin Kevin"
+				},
+				{
+					"id": "9.flac",
+					"titile": "The Acid Queen"
+				},
+				{
+					"id": "10.flac",
+					"titile": "Underture"
+				},
+				{
+					"id": "11.flac",
+					"titile": "Do You Think It's Alright?"
+				},
+				{
+					"id": "12.flac",
+					"titile": "Fiddle About"
+				},
+				{
+					"id": "13.flac",
+					"titile": "Pinball Wizard"
+				},
+				{
+					"id": "14.flac",
+					"titile": "There's A Doctor"
+				},
+				{
+					"id": "15.flac",
+					"titile": "Go To The Mirror!"
+				},
+				{
+					"id": "16.flac",
+					"titile": "Tommy Can You Hear Me?"
+				},
+				{
+					"id": "17.flac",
+					"titile": "Smash The Mirror"
+				},
+				{
+					"id": "18.flac",
+					"titile": "Sensation"
+				},
+				{
+					"id": "19.flac",
+					"titile": "Miracle Cure"
+				},
+				{
+					"id": "20.flac",
+					"titile": "Sally Simpson"
+				},
+				{
+					"id": "21.flac",
+					"titile": "I'm Free"
+				},
+				{
+					"id": "22.flac",
+					"titile": "Welcome"
+				},
+				{
+					"id": "23.flac",
+					"titile": "Tommy's Holiday Camp"
+				},
+				{
+					"id": "24.flac",
+					"titile": "We're Not Gonna Take It"
 				}
 			]
 		},
