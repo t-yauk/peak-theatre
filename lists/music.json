@@ -1120,6 +1120,52 @@
 			]
 		},
 		{
+			"title": "Rides Again",
+			"id": "rides-again",
+			"artist": "James Gang",
+			"year": "1970",
+			"genre": "Rock",
+			"artwork": "06UMGIM12677.jpg",
+			"tracks": [
+				{
+					"id": "1.flac",
+					"title": "Funk #49"
+				},
+				{
+					"id": "2.flac",
+					"title": "Asshtonpark"
+				},
+				{
+					"id": "3.flac",
+					"title": "Woman"
+				},
+				{
+					"id": "4.flac",
+					"title": "The Bomber A: Closet Queen B: Bolero C: Cast Your Fate To the Wind (Medley)"
+				},
+				{
+					"id": "5.flac",
+					"title": "Tend My Garden"
+				},
+				{
+					"id": "6.flac",
+					"title": "Garden Gate"
+				},
+				{
+					"id": "8.flac",
+					"title": "There I Go Again"
+				},
+				{
+					"id": "8.flac",
+					"title": "Thanks"
+				},
+				{
+					"id": "9.flac",
+					"title": "Ashes the Rain and I"
+				}
+			]
+		},
+		{
 			"title": "Sgt. Pepper's Lonely Hearts Club Band",
 			"id": "sgt-peppers",
 			"artist": "The Beatles",
