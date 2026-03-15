@@ -1047,7 +1047,7 @@
 			"artist": "Andrew Lloyd Webber",
 			"year": "2024",
 			"genre": "Musical",
-			"theme": "rgb(204,53,52)",
+			"theme": ["204", "53", "52"],
 			"artwork": "https://m.media-amazon.com/images/I/51nVBvEuEIL._UF1000,1000_QL80_.jpg",
 			"tracks": [
 				{
