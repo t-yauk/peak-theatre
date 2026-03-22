@@ -2,54 +2,140 @@
 	"shows": [
 
 		{
-			"title": "Chernobyl",
-			"logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Chernobyl_logo.svg",
-			"image_url": "https://m.media-amazon.com/images/S/pv-target-images/d7973ef1aa81128b3d8d79b17d26941ded8b330db31f65405fd19625d40cd684.jpg",
+			"title": "Euphoria",
+			"logo": "05dd000d-a5ea-401b-86ae-1356a26b375b.png",
+			"image_url": "wp10578913.jpg",
 			"episodes": [
 				{
-					"title": "1:23:45",
+					"title": "Pilot",
 					"season": "1",
 					"episode_number": "1",
-					"ep_id": "tv/Chernobyl/101.mkv",
-					"description": "Plant workers and firefighters put their lives on the line to control a catastrophic April 1986 explosion at a Soviet nuclear power plant.",
-					"thumbnail": "https://m.media-amazon.com/images/M/MV5BN2ZkYjFiMTktOWNiMy00M2RhLTk5MWItOGM4ZmFjYjQ1YjkzXkEyXkFqcGc@._V1_QL75_UY563_CR65,0,1000,563_.jpg"
+					"ep_id": "tv/euphoria/0101.mkv",
+					"description": "Rue returns home from rehab and meets Jules; Nate and Maddy attempt to make each other jealous; Kat is pressured to lose something.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNzIzOWIxZTAtYWE5NS00YjYwLTg5YTktNmI1YzAxYjUxNTk3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
 				},
 				{
-					"title": "Please Remain Calm",
+					"title": "Stuntin' Like My Daddy",
 					"season": "1",
 					"episode_number": "2",
-					"ep_id": "tv/Chernobyl/102.mkv",
-					"description": "With untold millions at risk, Ulana makes a desperate attempt to reach Valery and warn him about the threat of a second explosion.",
-					"thumbnail": "https://m.media-amazon.com/images/M/MV5BY2UzYTMxMTEtYzJjMC00OGE4LWI1NmQtODU0MGFkN2I2ODIyXkEyXkFqcGc@._V1_QL75_UY281_CR32,0,500,281_.jpg"
+					"ep_id": "tv/euphoria/0102.mkv",
+					"description": "On the first day of school, Rue struggles to put the past behind her; Nate's obsessions turn violent; Kat finds a video of her online.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTRhODBmYzMtNjhkZi00NDIyLWJkM2QtNzdiYjU4MmNkMmQ0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
 				},
 				{
-					"title": "Open Wide, O Earth",
+					"title": "Made You Look",
 					"season": "1",
 					"episode_number": "3",
-					"ep_id": "tv/Chernobyl/103.mkv",
-					"description": "Valery creates a detailed plan to decontaminate Chernobyl; Lyudmilla ignores warnings about her firefighter husband's contamination.",
-					"thumbnail": "https://m.media-amazon.com/images/M/MV5BM2ZmNGFjNTYtNTg2My00OGJmLWIyODYtNDY0NDk3ZDVhYTM5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+					"ep_id": "tv/euphoria/0103.mkv",
+					"description": "Kat starts camming; Jules falls for a boy online; Rue is confronted about her lies at NA; Cassie and McKay spend the weekend at his college.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNmJlMDMwM2ItODNiZi00ZWViLTg3ZTUtY2JmZDkyMzg3NzhjXkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
 				},
 				{
-					"title": "The Happiness of All Mankind",
+					"title": "Shook Ones Pt II",
 					"season": "1",
 					"episode_number": "4",
-					"ep_id": "tv/Chernobyl/104.mkv",
-					"description": "Valery and Boris attempt to find solutions to removing the radioactive debris; Ulana attempts to find out the cause of the explosion.",
-					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNWVjMGM3Y2QtYmQxMi00YTY2LTg5OTQtMDY1ODk5MGUxNjdlXkEyXkFqcGc@._V1_QL75_UY563_CR64,0,1000,563_.jpg"
+					"ep_id": "tv/euphoria/0104.mkv",
+					"description": "Rue, trying to get clean for Jules, chaperones Gia at the carnival; Kat misreads a situation; Jules encounters Cal; Nate reveals who he really is.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BYjBlYmM5Y2YtY2EzOS00YTBjLWE3YmYtYjAwZjAxZDlhMmE3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,43,1000,563_.jpg"
 				},
 				{
-					"title": "Vichnaya Pamyat",
+					"title": "'03 Bonnie and Clyde",
 					"season": "1",
 					"episode_number": "5",
-					"ep_id": "tv/Chernobyl/105.mkv",
-					"description": "Valery, Boris and Ulana risk their lives and reputations to expose the truth about Chernobyl.",
-					"thumbnail": "https://m.media-amazon.com/images/M/MV5BN2E0NzYwNDAtMGRiMS00Nzg4LTgzYjctYzM0ZmQxYzJlZjNiXkEyXkFqcGc@._V1_QL75_UY563_CR64,0,1000,563_.jpg"
+					"ep_id": "tv/euphoria/0105.mkv",
+					"description": "In the aftermath of the carnival, Maddy and Nate are forced to deal with a police investigation; Jules begins to feel pressured by her role in Rue's sobriety; Cal worries about his actions.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY5MzA1NWEtOGQxZS00OWE2LTg0OTUtMWE1Y2JlNmJhYTNiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Next Episode",
+					"season": "1",
+					"episode_number": "6",
+					"ep_id": "tv/euphoria/0106.mkv",
+					"description": "On Halloween, Jules starts exhibiting concerning behavior; McKay questions his future in football; Cassie spends some time with Daniel; Kat continues to push Ethan away; Nate comes up with a plan.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BODA4MDM1OWEtN2EyMS00ZmNiLThhNjktYjQxYTFhZDQ1MDg5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+				},
+				{
+					"title": "The Trials and Tribulations of Trying to Pee While Depressed",
+					"season": "1",
+					"episode_number": "7",
+					"ep_id": "tv/euphoria/0107.mkv",
+					"description": "Rue falls into a depressive episode and binge-watches 22 episodes of a British reality show; Jules visits an old friend; Cassie looks for advice to help her deal with the fallout of Halloween night.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc1ODkyMzUtNjkyNC00NWIzLWI5Y2ItOTU1NTU5Njc5MWNhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+				},
+				{
+					"title": "And Salt the Earth Behind You",
+					"season": "1",
+					"episode_number": "8",
+					"ep_id": "tv/euphoria/0108.mkv",
+					"description": "It's the winter formal at East Highland.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTE1MmU1NjItNTEwNC00ZjlhLWI3ZDUtYzU4ZWJlZWI1YWRhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Trying to Get to Heaven Before They Close the Door",
+					"season": "2",
+					"episode_number": "1",
+					"ep_id": "tv/euphoria/0201.mkv",
+					"description": "Rue and Jules cross paths for the first time since Christmas as East Highland rings in the new year.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZTA1MzMwM2YtN2FkYi00YmQ1LTk4YzktMzYyODNkODkzNGMxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+				},
+				{
+					"title": "Out of Touch",
+					"season": "2",
+					"episode_number": "2",
+					"ep_id": "tv/euphoria/0202.mkv",
+					"description": "As the semester kicks off, Jules questions Rue and Elliot's new friendship. The lines between fantasy and reality begin to blur as Kat considers her relationship.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZDU2NWRkZjUtNzAxMi00YzJmLTk0Y2ItZjEwNWVlNTQ4ODk5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+				},
+				{
+					"title": "Ruminations: Big and Little Bullys",
+					"season": "2",
+					"episode_number": "3",
+					"ep_id": "tv/euphoria/0203.mkv",
+					"description": "Maddy considers getting back together with Nate, Rue pursues a new business venture as she helps to form a friendship between Jules and Elliot.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMDBjZmEyZGQtYzljMS00YmMwLWExODItMmIyYjM0MDcxMjE1XkEyXkFqcGc@._V1_QL75_UY563_CR20,0,1000,563_.jpg"
+				},
+				{
+					"title": "You Who Cannot See, Think of Those Who Can",
+					"season": "2",
+					"episode_number": "4",
+					"ep_id": "tv/euphoria/0204.mkv",
+					"description": "At Maddy's birthday party, relationships are celebrated and questioned. Jules turns to Elliot for advice. Cal takes a trip down memory lane.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BOGNmMzdjY2ItZjBhYS00ZWY3LTkxOTAtNWJjZTRmY2Q1YTA2XkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg"
+				},
+				{
+					"title": "Stand Still Like the Hummingbird",
+					"season": "2",
+					"episode_number": "5",
+					"ep_id": "tv/euphoria/0205.mkv",
+					"description": "Fate has a way of catching up with those who try to outrun it.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZDNlMWQ4ODktYWJlNC00NjJhLWIyNjAtNWIxNjUwNzc3ZTQ2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,209,1000,563_.jpg"
+				},
+				{
+					"title": "A Thousand Little Trees of Blood",
+					"season": "2",
+					"episode_number": "6",
+					"ep_id": "tv/euphoria/0206.mkv",
+					"description": "As relationships with mothers are tested, Rue tries to recover. Nate enjoys his newfound freedom.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQyNWNiZmEtMzYzNy00NjBjLWJjNDEtOGFkZWZmMmMzYTYyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+				},
+				{
+					"title": "The Theater and Its Double",
+					"season": "2",
+					"episode_number": "7",
+					"ep_id": "tv/euphoria/0207.mkv",
+					"description": "Art imitates life as the East Highland crew watches their complicated dynamics reflected in Lexi's long-awaited play.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BODNmNGNkZGUtNDNhYy00ZDNjLTk4Y2YtMjcxZDJhNmI1NzQ1XkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg"
+				},
+				{
+					"title": "All My Life, My Heart Has Yearned for a Thing I Cannot Name",
+					"season": "2",
+					"episode_number": "8",
+					"ep_id": "tv/euphoria/0208.mkv",
+					"description": "Snippets of memory collide with the present and future.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BZWZiZmEyM2UtNGUxNS00MzQ1LTg2NzItZGI4NGFiNGI1YmE3XkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg"
 				}
-				
 			]
 		},
-
 		{
 			"title": "Star Trek",
 			"logo": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/movie-elements/star-trek-logo.png",
@@ -488,7 +574,365 @@
 					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQwODk1MjQ0OV5BMl5BanBnXkFtZTgwOTg5NDg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
 				}
 			]
+		},
+		{
+			"title": "The West Wing",
+			"logo": "The_West_Wing_logo.png",
+			"image_url": "1b1a493e-c074-4f6c-a9ca-2cf9c6f5a605.avif",
+			"episodes": [
+				{
+					"title": "Pilot",
+					"season": "1",
+					"episode_number": "1",
+					"ep_id": "tv/the-west-wing/0101.mkv",
+					"description": "The senior members of the White House staff are summoned to the office early in the morning to handle difficult situations: Hundreds of Cubans are on their way across the Atlantic Ocean in search of freedom.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg3NGYxYjAtYzczNC00YjkyLWFlMzQtMjBmOTMyMDM3NDMyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+				},
+				{
+					"title": "Post Hoc, Ergo Propter Hoc",
+					"season": "1",
+					"episode_number": "2",
+					"ep_id": "tv/the-west-wing/0102.mkv",
+					"description": "Leo hires Mandy as a consultant to the President. Vice President Hoynes rebuffs C.J. when she tries to discuss a comment he made. Leo confronts Hoynes and insists that he understand his obligation to communicate with the press secretary.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzA2NzcxOTc3OV5BMl5BanBnXkFtZTgwMDMwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "A Proportional Response",
+					"season": "1",
+					"episode_number": "3",
+					"ep_id": "tv/the-west-wing/0103.mkv",
+					"description": "When Danny, a reporter, learns about Sam's relationship with a call girl, he doesn't write a story about it because C.J. gives Danny a lead on a much bigger newsworthy item in exchange for his silence.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzQ0NzQ3MDkzMl5BMl5BanBnXkFtZTgwNTcxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Five Votes Down",
+					"season": "1",
+					"episode_number": "4",
+					"ep_id": "tv/the-west-wing/0104.mkv",
+					"description": "The staff has 72 hours to rescue a gun-control bill that needs five more votes in Congress to pass. Eventually they get four votes, so Leo reluctantly visits the vice president, and Hoynes promises he'll get the other vote.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNDEyODAyMTUxMF5BMl5BanBnXkFtZTgwMTYxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Crackpots and These Women",
+					"season": "1",
+					"episode_number": "5",
+					"ep_id": "tv/the-west-wing/0105.mkv",
+					"description": "Leo assigns his senior staff the task of conducting private meetings with fringe groups that want attention from the White House. Toby discovers he was not the President's first choice for communications director.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjQwNjg1MjI1NF5BMl5BanBnXkFtZTgwOTEwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Mr. Willis of Ohio",
+					"season": "1",
+					"episode_number": "6",
+					"ep_id": "tv/the-west-wing/0106.mkv",
+					"description": "A mentally unbalanced woman with a gun climbs the White House fence. The Secret Service foils her plan to target Zoey. Toby and Mandy convince the husband of a deceased congresswoman to vote against a census amendment in committee.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNzU0OTA3ODM5Nl5BMl5BanBnXkFtZTgwNzAxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The State Dinner",
+					"season": "1",
+					"episode_number": "7",
+					"ep_id": "tv/the-west-wing/0107.mkv",
+					"description": "The President and First Lady host a tense dinner at the White House honoring the president of Indonesia and his wife. Danny flirts with C.J. The President takes action against a group of survivalists in Idaho.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIxMTk2Mjk5N15BMl5BanBnXkFtZTgwNzQyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Enemies",
+					"season": "1",
+					"episode_number": "8",
+					"ep_id": "tv/the-west-wing/01088.mkv",
+					"description": "The President embarrasses Vice President Hoynes during a cabinet meeting, and Danny finds out. In order to keep the story from print, C.J. arranges a meeting between Danny and the President.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjAwNzIyMTkxN15BMl5BanBnXkFtZTgwNjUxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Short List",
+					"season": "1",
+					"episode_number": "9",
+					"ep_id": "tv/the-west-wing/0109.mkv",
+					"description": "The President confidentially chooses Judge Harrison as his nominee for the Supreme Court. His staff continues to search Harrison's past.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTgxODMwNTAwMF5BMl5BanBnXkFtZTgwMjQyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "In Excelsis Deo",
+					"season": "1",
+					"episode_number": "10",
+					"ep_id": "tv/the-west-wing/0110.mkv",
+					"description": "When a homeless veteran dies on the National Mall and his body remains uncollected for hours, Toby becomes fixated on getting him a proper burial.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE5MjAzNjI3MV5BMl5BanBnXkFtZTgwODgwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Lord John Marbury",
+					"season": "1",
+					"episode_number": "11",
+					"ep_id": "tv/the-west-wing/0111.mkv",
+					"description": "When India sends troops into Kashmir, President Bartlett calls for a British former ambassador to India to help out - over Leo's strong objections.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYyODI3Mjk5Ml5BMl5BanBnXkFtZTgwMjAxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "He Shall, from Time to Time...",
+					"season": "1",
+					"episode_number": "12",
+					"ep_id": "tv/the-west-wing/0112.mkv",
+					"description": "The President and his staff prepare the State of the Union Address, but the President becomes ill. His naval doctor examines him in the living quarters. Mrs. Bartlet, a physician, orders various medical tests.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNDA0MTc4MjE3MV5BMl5BanBnXkFtZTgwMjExMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Take Out the Trash Day",
+					"season": "1",
+					"episode_number": "13",
+					"ep_id": "tv/the-west-wing/0113.mkv",
+					"description": "The parents of a brutally murdered gay student are invited to witness the President sign a hate crimes bill into law even though the father doesn't believe that Bartlet expresses a strong enough position on gay rights.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzQyODEyNzA4M15BMl5BanBnXkFtZTgwMTUwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Take This Sabbath Day",
+					"season": "1",
+					"episode_number": "14",
+					"ep_id": "tv/the-west-wing/0114.mkv",
+					"description": "On a Friday evening, the United States Supreme Court rejects the application for a stay of execution for Simon Cruz. The President of the United States is the only person capable of commuting a federal sentence.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc4MDI2OTM4N15BMl5BanBnXkFtZTgwMjUwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Celestial Navigation",
+					"season": "1",
+					"episode_number": "15",
+					"ep_id": "tv/the-west-wing/0115.mkv",
+					"description": "Josh lectures to a large group of college students, recounting one day in the life of the harried senior White House staff. Meanwhile, Sam and Toby rush to Connecticut to help Supreme Court Justice nominee Roberto Mendoza.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzQ0Njg5MzkxMl5BMl5BanBnXkFtZTgwNzMxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "20 Hours in L.A.",
+					"season": "1",
+					"episode_number": "16",
+					"ep_id": "tv/the-west-wing/0116.mkv",
+					"description": "The President meets Zoey's new bodyguard on a 20-hour trip to California; Josh tries to keep a fund raiser from being canceled; Leo needs the VP to break a 50-50 tie in the Senate.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ5ODIxMDIwMF5BMl5BanBnXkFtZTgwMDgxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The White House Pro-Am",
+					"season": "1",
+					"episode_number": "17",
+					"ep_id": "tv/the-west-wing/0117.mkv",
+					"description": "The First Lady's public comments on a White House appointment create problems for the President because he's afraid of incurring his wife's wrath. So Sam explains to Abby the importance of working with the President'a staff in the future.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA1MzM2MjU4M15BMl5BanBnXkFtZTgwMDYyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Six Meetings Before Lunch",
+					"season": "1",
+					"episode_number": "18",
+					"ep_id": "tv/the-west-wing/0118.mkv",
+					"description": "The morning after Mendoza's confirmation, various staff members are brought back to earth by difficult meetings.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTgwMDE4NDg3M15BMl5BanBnXkFtZTgwNjMwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Let Bartlet Be Bartlet",
+					"season": "1",
+					"episode_number": "19",
+					"ep_id": "tv/the-west-wing/0119.mkv",
+					"description": "The West Wing staff are feeling malaise as it seems they never get anything accomplished. Meanwhile, a leaked memo is a land mine that could embarrass the administration.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI1MjU1ODQ0N15BMl5BanBnXkFtZTgwMDIxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Mandatory Minimums",
+					"season": "1",
+					"episode_number": "20",
+					"ep_id": "tv/the-west-wing/0120.mkv",
+					"description": "A newly energized administration prepares to take on soft money, increase addiction treatment, and remove mandatory minimum sentencing.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTUyMzM1MTU2Ml5BMl5BanBnXkFtZTgwMzAxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Lies, Damn Lies and Statistics",
+					"season": "1",
+					"episode_number": "21",
+					"ep_id": "tv/the-west-wing/0121.mkv",
+					"description": "The staff waits for a poll to tell them if their new, activist policies are moving them in the right direction. C.J. feels like her opinions are being discounted.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE5MTQ2NzY2OV5BMl5BanBnXkFtZTgwMDExMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "What Kind of Day Has It Been",
+					"season": "1",
+					"episode_number": "22",
+					"ep_id": "tv/the-west-wing/0122.mkv",
+					"description": "An American Air Force fighter plane gets shot down over Iraq, and, eventually, the pilot is successfully rescued. The space shuttle--with Toby's astronaut brother on board--can't land because of mechanical problems.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjEzMzE2NjAzNF5BMl5BanBnXkFtZTgwNDEyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "In the Shadow of Two Gunmen: Part I",
+					"season": "2",
+					"episode_number": "1",
+					"ep_id": "tv/the-west-wing/0201.mp4",
+					"description": "The President is rushed to hospital following a shooting; staffers field questions on protection measures and executive authority. Flashbacks show how key staff members joined the Bartlet campaign.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ5MjgzNTA0NV5BMl5BanBnXkFtZTgwMzgwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "In the Shadow of Two Gunmen: Part II",
+					"season": "2",
+					"episode_number": "2",
+					"ep_id": "tv/the-west-wing/0202.mp4",
+					"description": "A suspect in the presidential shooting is caught; staffers anxiously await news on Bartlet and Josh's injuries; flashbacks show how C.J. and Donna joined Bartlet's campaign.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM0NTI0MzgwMV5BMl5BanBnXkFtZTgwMTgwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Midterms",
+					"season": "2",
+					"episode_number": "3",
+					"ep_id": "tv/the-west-wing/0203.mp4",
+					"description": "In the months leading up to the elections, the staff makes an all-out effort to pick up Democratic seats in Congress. Sam betrays a friend after convincing him to run for office with a promise of support from the Democratic party.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc3MzY4NDM4M15BMl5BanBnXkFtZTgwMzMyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "In This White House",
+					"season": "2",
+					"episode_number": "4",
+					"ep_id": "tv/the-west-wing/0204.mp4",
+					"description": "After a Republican commentator trounces Sam on television, President Bartlett decides to hire her over the objections of the staff. Josh and Toby mediate a conference between U.S. drug companies and an African President whose country is dying of AIDS.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc2NTQwOTMzN15BMl5BanBnXkFtZTgwNjgwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "And It's Surely to Their Credit",
+					"season": "2",
+					"episode_number": "5",
+					"ep_id": "tv/the-west-wing/0205.mp4",
+					"description": "Sam helps Josh battle his health insurance company; Ainsley Hayes encounters her firebrand boss and hostile colleagues; Abby gives the President some good news about his health; C.J. discovers a retiring General intends to publicly criticize the president.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzY2NTY5ODkyOV5BMl5BanBnXkFtZTgwOTcxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Lame Duck Congress",
+					"season": "2",
+					"episode_number": "6",
+					"ep_id": "tv/the-west-wing/0206.mp4",
+					"description": "The administration considers recalling Congress to pass a nuclear test ban treaty; a Ukranian politician arrives unannounced at the White House; Sam reluctantly asks Ainsley to summarize a position paper; C.J.'s personal and professional relationship with Danny becomes more complex.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQyOTMzNjI3NV5BMl5BanBnXkFtZTgwNzIyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Portland Trip",
+					"season": "2",
+					"episode_number": "7",
+					"ep_id": "tv/the-west-wing/0207.mp4",
+					"description": "C.J. joins the President on a flight to Portland after a wisecrack about Notre Dame; Josh seeks to defeat an anti-gay marriage bill; Sam wants to rewrite an education speech; an oil tanker appears to be violating UN sanctions; Josh teases Donna over her dating record.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA2OTkwMjA4MF5BMl5BanBnXkFtZTgwMzQyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Shibboleth",
+					"season": "2",
+					"episode_number": "8",
+					"ep_id": "tv/the-west-wing/0208.mp4",
+					"description": "Dozens of Chinese stowaways are discovered in a container ship in California; Toby looks to pick a fight over school prayer with a recess appointment; Thanksgiving at the White House sees C.J. in charge of turkeys and Charlie looking for the ultimate carving knife.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ5NTc0ODYxMF5BMl5BanBnXkFtZTgwODIwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Galileo",
+					"season": "2",
+					"episode_number": "9",
+					"ep_id": "tv/the-west-wing/0209.mp4",
+					"description": "The President and NASA plan a TV event for a probe's landing on Mars; satellite photographs show a suspicious-looking fire in Russia; Leo asks Toby and Josh to decide on the next postage stamp; Sam and C.J. have personal reasons for not wanting to accompany the President to a concert.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE4Nzk0MTExMl5BMl5BanBnXkFtZTgwODMxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Noël",
+					"season": "2",
+					"episode_number": "10",
+					"ep_id": "tv/the-west-wing/0210.mp4",
+					"description": "Josh speaks to a psychiatrist about the events of the last three weeks: Toby hired musicians for the foyer, an Air Force pilot disobeyed orders, Yo-Yo Ma performed at the White House, and Josh managed to cut his hand quite badly.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjMyNjYwMDQ2Nl5BMl5BanBnXkFtZTgwNDMwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Leadership Breakfast",
+					"season": "2",
+					"episode_number": "11",
+					"ep_id": "tv/the-west-wing/0211.mp4",
+					"description": "Toby wants to use a bipartisan breakfast to discuss real issues instead of making it a staged event; Sam floats the idea of moving the press room across the street; Leo wants Josh to apologize to a columnist on his behalf; Leo and Toby realize they need to start thinking about reelection.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk1ODg4MzcwOV5BMl5BanBnXkFtZTgwNzMyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Drop In",
+					"season": "2",
+					"episode_number": "12",
+					"ep_id": "tv/the-west-wing/0212.mp4",
+					"description": "Leo fails to convince Bartlet of the merits of an expensive but unproven missile defense system. Meanwhile, Leo and the others are irritated by the news that pompous Lord John Marbury has been appointed ambassador from Great Britain.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcwOTQ4MzI5MF5BMl5BanBnXkFtZTgwNjQwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Bartlet's Third State of the Union",
+					"season": "2",
+					"episode_number": "13",
+					"ep_id": "tv/the-west-wing/0213.mp4",
+					"description": "Bartlet's speech is a success. Unfortunately, problems immediately occur that diminish the White House staff's enthusiasm. Sam learns that a policeman whom Bartlet praised during the speech was charged with beating a suspect 17 years ago.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyMzQxNzg5MV5BMl5BanBnXkFtZTgwNTMxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The War at Home",
+					"season": "2",
+					"episode_number": "14",
+					"ep_id": "tv/the-west-wing/0214.mp4",
+					"description": "President Bartlet is fighting a war on two fronts as he tries to rescue hostages in Colombia and deal with explaining to his wife why he's breaking his word to her by running for a 2nd term.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc4MDExNDcwNF5BMl5BanBnXkFtZTgwMDUyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Ellie",
+					"season": "2",
+					"episode_number": "15",
+					"ep_id": "tv/the-west-wing/0215.mp4",
+					"description": "Comments made by Surgeon General Dr. Millicent Griffith concerning the medical effects of marijuana appear to reverse the President's stance on legalizing the drug.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQxOTIyODY0Ml5BMl5BanBnXkFtZTgwNDUxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Somebody's Going to Emergency, Somebody's Going to Jail",
+					"season": "2",
+					"episode_number": "16",
+					"ep_id": "tv/the-west-wing/0216.mp4",
+					"description": "Sam finds out that his father was unfaithful to Sam's mother for 28 years. Sam tries to help a friend of Donna's whose dying father wants to see his own deceased father's reputation cleared of committing espionage during WWII.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk5MTI0MzQ1OV5BMl5BanBnXkFtZTgwNjYwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Stackhouse Filibuster",
+					"season": "2",
+					"episode_number": "17",
+					"ep_id": "tv/the-west-wing/0217.mp4",
+					"description": "A Senator delays a vote for over nine hours. He reads recipes, novels and poker rulebooks to the empty chamber because he wants more stringent requirements on diagnosing and treating autism added to a child health-care reform bill.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BOTM4NDYyODk5OV5BMl5BanBnXkFtZTgwMTQyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "17 People",
+					"season": "2",
+					"episode_number": "18",
+					"ep_id": "tv/the-west-wing/0218.mp4",
+					"description": "For days, Toby ponders the mystery of Hoynes' attempt to gain the voters' favor by admonishing the oil companies. He knows about a poll conducted for Hoynes and an upcoming visit for the vice president to Bartlet's home state.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTM0YTM1MjgtMGNlNS00YWRiLWE2ODItMjI0MmVjZGZkMWQ0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+				},
+				{
+					"title": "Bad Moon Rising",
+					"season": "2",
+					"episode_number": "19",
+					"ep_id": "tv/the-west-wing/0219.mp4",
+					"description": "President Bartlett talks to the White House Counsel about the concealment of his MS. An enraged Toby has CJ grill the West Wing staff to find a leaker. Josh and Donna spar over a financial bailout of Mexico.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI4NTE1NjA5NV5BMl5BanBnXkFtZTgwNDMxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "The Fall's Gonna Kill You",
+					"season": "2",
+					"episode_number": "20",
+					"ep_id": "tv/the-west-wing/0220.mp4",
+					"description": "White House Counsel Oliver Babbish interviews CJ once she learns of the President's condition. The First Lady learns she may be legally vulnerable. Donna frets over news of a falling satellite.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjExMDQ4NTQ1NV5BMl5BanBnXkFtZTgwODIyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "18th and Potomac",
+					"season": "2",
+					"episode_number": "21",
+					"ep_id": "tv/the-west-wing/0221.mp4",
+					"description": "After Joey gives Bartlet and his staff devastating polling figures, they debate how to inform the public of Bartlet's multiple sclerosis. A major factor is the unanswered question of Bartlet's intent to seek reelection.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYwMjkyNTEzOF5BMl5BanBnXkFtZTgwMzgxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+				},
+				{
+					"title": "Two Cathedrals",
+					"season": "2",
+					"episode_number": "22",
+					"ep_id": "tv/the-west-wing/0222.mp4",
+					"description": "Josh implements a rash plan to coerce wayward Democrats to support the administration's lawsuit against big tobacco companies. The crisis in Haiti escalates. Bartlet must decide whether to run for reelection--most Democrats hope he won't.",
+					"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTI3NDBmMDctOWM5OC00ZDRiLWFjYTktN2MwZTI2MWVkNGQzXkEyXkFqcGc@._V1_QL75_UY563_CR2,0,1000,563_.jpg"
+				}
+			]
 		}
-		
 	]
 }
