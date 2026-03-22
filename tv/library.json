@@ -138,8 +138,8 @@
 		},
 		{
 			"title": "Star Trek",
-			"logo": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/movie-elements/star-trek-logo.png",
-			"image_url": "https://thumbnails.simplestreamcdn.com/amc/ondemand/series/a35bc9c0-aaa3-11ec-b4c6-0af62ebc70d1.jpg",
+			"logo": "star-trek-logo.png",
+			"image_url": "a35bc9c0-aaa3-11ec-b4c6-0af62ebc70d1.jpg",
 			"episodes": [
 				{
 					"title": "The Cage",
@@ -394,8 +394,8 @@
 
 		{
 			"title": "Star Trek: The Next Generation",
-			"logo": "https://image.tmdb.org/t/p/original/hAYOfsQNftmuKQjqkBzeiUuO0YH.png",
-			"image_url": "https://wallpapercave.com/wp/wp15741164.jpg",
+			"logo": "hAYOfsQNftmuKQjqkBzeiUuO0YH.png",
+			"image_url": "wp15741164.jpg",
 			"episodes": [
 				{
 					"title": "The Child",
