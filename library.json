@@ -1629,6 +1629,104 @@
             "endTime": "44"
         },
         {
+            "title": "Jackass: The Movie",
+            "director": "Jeff Tremaine",
+            "year": "2002",
+            "duration": "1h 25m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZDkzNmZmZDUtNjA5Mi00OTM4LTk2MDAtNmRhYTkzM2Y4MWNiXkEyXkFqcGc@._V1_FMjpg_UX580_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjE4NDIxMjU2Ml5BMl5BanBnXkFtZTYwNjkzMTk2._V1_FMjpg_UX485_.jpg",
+            "description": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy"
+            ],
+            "id": "jackass.mp4",
+            "endTime": "513"
+        },
+        {
+            "title": "Jackass Number 2",
+            "director": "Jeff Tremaine",
+            "year": "2006",
+            "duration": "1h 32m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNjMyMzM2NTctMzY0ZC00ZTM4LTkwOGQtMTY4OGVjMGExOGFjXkEyXkFqcGc@._V1_FMjpg_UY4608_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZDY2MzdjMmItNGVhZS00ZWEyLTljYTktOTM5YWE4YzVmNDcxXkEyXkFqcGc@._V1_FMjpg_UX1269_.jpg",
+            "description": "Chris Pontius, Johnny Knoxville, Steve-O, Bam Margera, and the whole crew return to the screen to raise the stakes higher than ever before.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy"
+            ],
+            "id": "jackass-2.mp4",
+            "endTime": "552"
+        },
+        {
+            "title": "Jackass 3D",
+            "director": "Jeff Tremaine",
+            "year": "2010",
+            "duration": "1h 34m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYjUyYzFjZjEtNzVlMy00ODE1LTliZTEtMjRmYTliZWI5M2Y3XkEyXkFqcGc@._V1_FMjpg_UY2560_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYjliNTVjYjYtN2E1My00NzU1LTllM2MtNTBhYTk0MzlkNzIxXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
+            "description": "Johnny Knoxville and company return for the third installment of their TV show spin-off, where dangerous stunts and explicit public displays rule.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy"
+            ],
+            "id": "jackass-3.mp4",
+            "endTime": "553"
+        },
+        {
+            "title": "Jackass 3.5",
+            "director": "Jeff Tremaine",
+            "year": "2011",
+            "duration": "1h 25m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMmFmYWU5ODEtYWYwOS00YmU4LWJlYzktOGQ2YmI1Y2RhYzJiXkEyXkFqcGc@._V1_FMjpg_UY2291_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTM4NDMzOTc1MV5BMl5BanBnXkFtZTcwODg3MjA1Nw@@._V1_FMjpg_UX2048_.jpg",
+            "description": "Interviews with the Jackass cast and crew are interspersed with unused material of stunts, tricks, antics and pranks shot during the production of Jackass 3D.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy"
+            ],
+            "id": "jackass-3-2.mp4",
+            "endTime": "421"
+        },
+        {
+            "title": "Jackass Forever",
+            "director": "Jeff Tremaine",
+            "year": "2022",
+            "duration": "1h 36m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYjljZTI4NTgtYTc4NS00MWM0LThkNDUtNjZkNjE4ZjNhODU1XkEyXkFqcGc@._V1_FMjpg_UX1010_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNDYzNWEwNWUtN2ZkNi00ODA0LWJmZWQtYzhjM2E2MzA2NzkzXkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
+            "description": "After 11 years, the Jackass crew is back for another crusade.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy"
+            ],
+            "id": "jackass-4.mkv",
+            "trailer_id": "jackass-4.mp4",
+            "endTime": "578"
+        },
+        {
+            "title": "Jackass 4.5",
+            "director": "Jeff Tremaine",
+            "year": "2022",
+            "duration": "1h 30m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNTkxNDA3YzctMzk2Ny00YTI2LWE2NjMtNzkyOTZhNzFlZGQ1XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYzJlZTQ0ODctMzRhMS00Y2FjLWEwYjMtYTkxN2EzMGZkZDNlXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
+            "description": "Through outrageous, never-before-seen footage, witness the making of the Jackass crew's fourth go at wild stunts.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy"
+            ],
+            "id": "jackass-4-2.mkv",
+            "trailer_id": "jackass-4.mp4",
+            "endTime": "436"
+        },
+        {
             "title": "Jaws",
             "director": "Steven Spielberg",
             "year": "1975",
@@ -1906,6 +2004,23 @@
             "endTime": "626"
         },
         {
+            "title": "Make Mine Music",
+            "director": "Robert Cormack, Clyde Geronimi & Jack Kinney",
+            "year": "1946",
+            "duration": "1h 15m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZTMxZjIwMDYtOWIzYS00NzFkLWE2YmYtZWE0Nzg5N2YzYWEyXkEyXkFqcGc@._V1_FMjpg_UY2896_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZDJkZWVkN2ItZWZhOS00MDEwLWIwZDQtZDVkNTljN2U1OTMzXkEyXkFqcGc@._V1_FMjpg_UX887_.jpg",
+            "description": "Animation done to contemporary popular music.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Musical"
+            ],
+            "id": "make-mine-music.mp4",
+            "endTime": "10"
+        },
+        {
             "title": "Malcolm X",
             "director": "Spike Lee",
             "year": "1992",
@@ -2008,6 +2123,23 @@
             "id": "megalopolis.mkv",
             "trailer_id": "megalopolis.webm",
             "endTime": "285"
+        },
+        {
+            "title": "Melody Time",
+            "director": "Clyde Geronimi, Wilfred Jackson & Jack Kinney",
+            "year": "1948",
+            "duration": "1h 15m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BY2UzZDFmZTUtNzdhNy00NzgyLWJkNzYtYWNhY2E2NTRlZmE0XkEyXkFqcGc@._V1_FMjpg_UY2624_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMWZhOTQwODUtZjg2MS00MjMxLTgxOWMtZDVkODBjNTk3ZWY3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "description": "An anthology of animated vignettes set to contemporary music.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Musical"
+            ],
+            "id": "melody-time.mp4",
+            "endTime": "11"
         },
         {
             "title": "Merrily We Roll Along",
@@ -3405,6 +3537,57 @@
             ],
             "id": "thelma-and-louise.mkv",
             "endTime": "222"
+        },
+        {
+            "title": "Three Colors: Blue",
+            "director": "Krzysztof Kieslowski",
+            "year": "1993",
+            "duration": "1h 38m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNWMxNWE2NGYtMzYwOS00NmJhLTgwNjAtNGM3ODIwNjU5MTZiXkEyXkFqcGc@._V1_FMjpg_UX1212_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMzg3MTllY2MtZjA3ZS00Mjg2LTg3ZjktZThlMmI0MTg5NjNkXkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
+            "description": "A woman struggles to find a way to live her life after the death of her husband and child.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Romance",
+                "Thriller"
+            ],
+            "id": "three-colours-1.mkv",
+            "endTime": "180"
+        },
+        {
+            "title": "Three Colors: White",
+            "director": "Krzysztof Kieslowski",
+            "year": "1994",
+            "duration": "1h 32m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMWUyMWJiYTEtNmIzYi00OTYxLTlkYjEtMGFjMjY3NDc5Mjk0XkEyXkFqcGc@._V1_FMjpg_UX1262_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNGRiZWFkMmUtM2RlYS00NDg0LTlmNzQtYjk3ZmE4OWMxYzNlXkEyXkFqcGc@._V1_FMjpg_UX1920_.jpg",
+            "description": "After his wife divorces him, a Polish immigrant plots to get even with her.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Romance",
+                "Thriller"
+            ],
+            "id": "three-colours-2.mp4",
+            "endTime": "165"
+        },
+        {
+            "title": "Three Colors: Red",
+            "director": "Krzysztof Kieslowski",
+            "year": "1994",
+            "duration": "1h 39m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0YTQyYzItNGEzMi00NmI4LWJkOTMtOWMyMjAwMWEzYTZhXkEyXkFqcGc@._V1_FMjpg_UX960_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMzg1ZjhmNzUtMDM1Zi00YjUzLWE3NTYtZTAyODdjOGY2ZjYxXkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
+            "description": "A model discovers a retired judge is keen on invading people's privacy.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Romance",
+                "Thriller"
+            ],
+            "id": "three-colours-3.mkv",
+            "endTime": "181"
         },
         {
             "title": "Time Bandits",
