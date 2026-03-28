@@ -1,0 +1,16 @@
+{
+	"shows": [
+		{
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/euphoria.json"
+		},
+		{
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/star-trek.json"
+		},
+		{
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/star-trek-2.json"
+		},
+		{
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/west-wing.json"
+		}
+	]
+}
