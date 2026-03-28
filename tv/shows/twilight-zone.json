@@ -1,0 +1,15 @@
+{
+	"title": "The Twilight Zone",
+	"logo": "twilight-zone.png",
+	"image_url": "1121967.jpg",
+	"episodes": [
+		{
+			"title": "Where Is Everybody?",
+			"season": "1",
+			"episode_number": "1",
+			"ep_id": "tv/twilight-zone/0101.mkv",
+			"description": "Mike Ferris finds himself alone in the small Oakwood town and without recollection about his name, where he is or who he is. Mike wanders through the town trying to find a living soul.",
+			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM4NzA0OTMyNF5BMl5BanBnXkFtZTgwMDA2OTEyMjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+		}
+	]
+}
