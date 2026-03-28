@@ -2873,6 +2873,23 @@
             "endTime": "580"
         },
         {
+            "title": "The Prince of Egypt",
+            "director": "Brenda Chapman, Steve Hickner, Simon Wells",
+            "year": "1998",
+            "duration": "1h 39m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjc4NzU5MDUtNmFkNi00NzI5LWE3NjQtNjJlZDRlNjdhZWYwXkEyXkFqcGc@._V1_FMjpg_UX576_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZWNiNjZkNTAtOGE2Yi00NzAyLWFjYTMtZDkyOGE4YTNhYjEwXkEyXkFqcGc@._V1_FMjpg_UX1918_.jpg",
+            "description": "Egyptian Prince Moses learns of his identity as a Hebrew and his destiny to become the chosen deliverer of his people.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Musical"
+            ],
+            "id": "prince-of-egypt.mkv",
+            "endTime": "433"
+        },
+        {
             "title": "Purple Rain",
             "director": "Albert Magnoli",
             "year": "1984",
