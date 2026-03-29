@@ -1,359 +1,711 @@
 {
-	"title": "The West Wing",
-	"logo": "The_West_Wing_logo.png",
-	"image_url": "1b1a493e-c074-4f6c-a9ca-2cf9c6f5a605.avif",
-	"episodes": [
-		{
-			"title": "Pilot",
-			"season": "1",
-			"episode_number": "1",
-			"ep_id": "tv/the-west-wing/0101.mkv",
-			"description": "The senior members of the White House staff are summoned to the office early in the morning to handle difficult situations: Hundreds of Cubans are on their way across the Atlantic Ocean in search of freedom.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg3NGYxYjAtYzczNC00YjkyLWFlMzQtMjBmOTMyMDM3NDMyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Post Hoc, Ergo Propter Hoc",
-			"season": "1",
-			"episode_number": "2",
-			"ep_id": "tv/the-west-wing/0102.mkv",
-			"description": "Leo hires Mandy as a consultant to the President. Vice President Hoynes rebuffs C.J. when she tries to discuss a comment he made. Leo confronts Hoynes and insists that he understand his obligation to communicate with the press secretary.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzA2NzcxOTc3OV5BMl5BanBnXkFtZTgwMDMwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "A Proportional Response",
-			"season": "1",
-			"episode_number": "3",
-			"ep_id": "tv/the-west-wing/0103.mkv",
-			"description": "When Danny, a reporter, learns about Sam's relationship with a call girl, he doesn't write a story about it because C.J. gives Danny a lead on a much bigger newsworthy item in exchange for his silence.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzQ0NzQ3MDkzMl5BMl5BanBnXkFtZTgwNTcxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Five Votes Down",
-			"season": "1",
-			"episode_number": "4",
-			"ep_id": "tv/the-west-wing/0104.mkv",
-			"description": "The staff has 72 hours to rescue a gun-control bill that needs five more votes in Congress to pass. Eventually they get four votes, so Leo reluctantly visits the vice president, and Hoynes promises he'll get the other vote.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNDEyODAyMTUxMF5BMl5BanBnXkFtZTgwMTYxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Crackpots and These Women",
-			"season": "1",
-			"episode_number": "5",
-			"ep_id": "tv/the-west-wing/0105.mkv",
-			"description": "Leo assigns his senior staff the task of conducting private meetings with fringe groups that want attention from the White House. Toby discovers he was not the President's first choice for communications director.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjQwNjg1MjI1NF5BMl5BanBnXkFtZTgwOTEwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Mr. Willis of Ohio",
-			"season": "1",
-			"episode_number": "6",
-			"ep_id": "tv/the-west-wing/0106.mkv",
-			"description": "A mentally unbalanced woman with a gun climbs the White House fence. The Secret Service foils her plan to target Zoey. Toby and Mandy convince the husband of a deceased congresswoman to vote against a census amendment in committee.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNzU0OTA3ODM5Nl5BMl5BanBnXkFtZTgwNzAxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The State Dinner",
-			"season": "1",
-			"episode_number": "7",
-			"ep_id": "tv/the-west-wing/0107.mkv",
-			"description": "The President and First Lady host a tense dinner at the White House honoring the president of Indonesia and his wife. Danny flirts with C.J. The President takes action against a group of survivalists in Idaho.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIxMTk2Mjk5N15BMl5BanBnXkFtZTgwNzQyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Enemies",
-			"season": "1",
-			"episode_number": "8",
-			"ep_id": "tv/the-west-wing/01088.mkv",
-			"description": "The President embarrasses Vice President Hoynes during a cabinet meeting, and Danny finds out. In order to keep the story from print, C.J. arranges a meeting between Danny and the President.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjAwNzIyMTkxN15BMl5BanBnXkFtZTgwNjUxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Short List",
-			"season": "1",
-			"episode_number": "9",
-			"ep_id": "tv/the-west-wing/0109.mkv",
-			"description": "The President confidentially chooses Judge Harrison as his nominee for the Supreme Court. His staff continues to search Harrison's past.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTgxODMwNTAwMF5BMl5BanBnXkFtZTgwMjQyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "In Excelsis Deo",
-			"season": "1",
-			"episode_number": "10",
-			"ep_id": "tv/the-west-wing/0110.mkv",
-			"description": "When a homeless veteran dies on the National Mall and his body remains uncollected for hours, Toby becomes fixated on getting him a proper burial.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE5MjAzNjI3MV5BMl5BanBnXkFtZTgwODgwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Lord John Marbury",
-			"season": "1",
-			"episode_number": "11",
-			"ep_id": "tv/the-west-wing/0111.mkv",
-			"description": "When India sends troops into Kashmir, President Bartlett calls for a British former ambassador to India to help out - over Leo's strong objections.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYyODI3Mjk5Ml5BMl5BanBnXkFtZTgwMjAxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "He Shall, from Time to Time...",
-			"season": "1",
-			"episode_number": "12",
-			"ep_id": "tv/the-west-wing/0112.mkv",
-			"description": "The President and his staff prepare the State of the Union Address, but the President becomes ill. His naval doctor examines him in the living quarters. Mrs. Bartlet, a physician, orders various medical tests.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNDA0MTc4MjE3MV5BMl5BanBnXkFtZTgwMjExMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Take Out the Trash Day",
-			"season": "1",
-			"episode_number": "13",
-			"ep_id": "tv/the-west-wing/0113.mkv",
-			"description": "The parents of a brutally murdered gay student are invited to witness the President sign a hate crimes bill into law even though the father doesn't believe that Bartlet expresses a strong enough position on gay rights.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzQyODEyNzA4M15BMl5BanBnXkFtZTgwMTUwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Take This Sabbath Day",
-			"season": "1",
-			"episode_number": "14",
-			"ep_id": "tv/the-west-wing/0114.mkv",
-			"description": "On a Friday evening, the United States Supreme Court rejects the application for a stay of execution for Simon Cruz. The President of the United States is the only person capable of commuting a federal sentence.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc4MDI2OTM4N15BMl5BanBnXkFtZTgwMjUwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Celestial Navigation",
-			"season": "1",
-			"episode_number": "15",
-			"ep_id": "tv/the-west-wing/0115.mkv",
-			"description": "Josh lectures to a large group of college students, recounting one day in the life of the harried senior White House staff. Meanwhile, Sam and Toby rush to Connecticut to help Supreme Court Justice nominee Roberto Mendoza.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzQ0Njg5MzkxMl5BMl5BanBnXkFtZTgwNzMxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "20 Hours in L.A.",
-			"season": "1",
-			"episode_number": "16",
-			"ep_id": "tv/the-west-wing/0116.mkv",
-			"description": "The President meets Zoey's new bodyguard on a 20-hour trip to California; Josh tries to keep a fund raiser from being canceled; Leo needs the VP to break a 50-50 tie in the Senate.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ5ODIxMDIwMF5BMl5BanBnXkFtZTgwMDgxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The White House Pro-Am",
-			"season": "1",
-			"episode_number": "17",
-			"ep_id": "tv/the-west-wing/0117.mkv",
-			"description": "The First Lady's public comments on a White House appointment create problems for the President because he's afraid of incurring his wife's wrath. So Sam explains to Abby the importance of working with the President'a staff in the future.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA1MzM2MjU4M15BMl5BanBnXkFtZTgwMDYyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Six Meetings Before Lunch",
-			"season": "1",
-			"episode_number": "18",
-			"ep_id": "tv/the-west-wing/0118.mkv",
-			"description": "The morning after Mendoza's confirmation, various staff members are brought back to earth by difficult meetings.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTgwMDE4NDg3M15BMl5BanBnXkFtZTgwNjMwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Let Bartlet Be Bartlet",
-			"season": "1",
-			"episode_number": "19",
-			"ep_id": "tv/the-west-wing/0119.mkv",
-			"description": "The West Wing staff are feeling malaise as it seems they never get anything accomplished. Meanwhile, a leaked memo is a land mine that could embarrass the administration.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI1MjU1ODQ0N15BMl5BanBnXkFtZTgwMDIxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Mandatory Minimums",
-			"season": "1",
-			"episode_number": "20",
-			"ep_id": "tv/the-west-wing/0120.mkv",
-			"description": "A newly energized administration prepares to take on soft money, increase addiction treatment, and remove mandatory minimum sentencing.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTUyMzM1MTU2Ml5BMl5BanBnXkFtZTgwMzAxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Lies, Damn Lies and Statistics",
-			"season": "1",
-			"episode_number": "21",
-			"ep_id": "tv/the-west-wing/0121.mkv",
-			"description": "The staff waits for a poll to tell them if their new, activist policies are moving them in the right direction. C.J. feels like her opinions are being discounted.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE5MTQ2NzY2OV5BMl5BanBnXkFtZTgwMDExMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "What Kind of Day Has It Been",
-			"season": "1",
-			"episode_number": "22",
-			"ep_id": "tv/the-west-wing/0122.mkv",
-			"description": "An American Air Force fighter plane gets shot down over Iraq, and, eventually, the pilot is successfully rescued. The space shuttle--with Toby's astronaut brother on board--can't land because of mechanical problems.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjEzMzE2NjAzNF5BMl5BanBnXkFtZTgwNDEyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "In the Shadow of Two Gunmen: Part I",
-			"season": "2",
-			"episode_number": "1",
-			"ep_id": "tv/the-west-wing/0201.mp4",
-			"description": "The President is rushed to hospital following a shooting; staffers field questions on protection measures and executive authority. Flashbacks show how key staff members joined the Bartlet campaign.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ5MjgzNTA0NV5BMl5BanBnXkFtZTgwMzgwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "In the Shadow of Two Gunmen: Part II",
-			"season": "2",
-			"episode_number": "2",
-			"ep_id": "tv/the-west-wing/0202.mp4",
-			"description": "A suspect in the presidential shooting is caught; staffers anxiously await news on Bartlet and Josh's injuries; flashbacks show how C.J. and Donna joined Bartlet's campaign.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM0NTI0MzgwMV5BMl5BanBnXkFtZTgwMTgwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Midterms",
-			"season": "2",
-			"episode_number": "3",
-			"ep_id": "tv/the-west-wing/0203.mp4",
-			"description": "In the months leading up to the elections, the staff makes an all-out effort to pick up Democratic seats in Congress. Sam betrays a friend after convincing him to run for office with a promise of support from the Democratic party.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc3MzY4NDM4M15BMl5BanBnXkFtZTgwMzMyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "In This White House",
-			"season": "2",
-			"episode_number": "4",
-			"ep_id": "tv/the-west-wing/0204.mp4",
-			"description": "After a Republican commentator trounces Sam on television, President Bartlett decides to hire her over the objections of the staff. Josh and Toby mediate a conference between U.S. drug companies and an African President whose country is dying of AIDS.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc2NTQwOTMzN15BMl5BanBnXkFtZTgwNjgwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "And It's Surely to Their Credit",
-			"season": "2",
-			"episode_number": "5",
-			"ep_id": "tv/the-west-wing/0205.mp4",
-			"description": "Sam helps Josh battle his health insurance company; Ainsley Hayes encounters her firebrand boss and hostile colleagues; Abby gives the President some good news about his health; C.J. discovers a retiring General intends to publicly criticize the president.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzY2NTY5ODkyOV5BMl5BanBnXkFtZTgwOTcxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Lame Duck Congress",
-			"season": "2",
-			"episode_number": "6",
-			"ep_id": "tv/the-west-wing/0206.mp4",
-			"description": "The administration considers recalling Congress to pass a nuclear test ban treaty; a Ukranian politician arrives unannounced at the White House; Sam reluctantly asks Ainsley to summarize a position paper; C.J.'s personal and professional relationship with Danny becomes more complex.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQyOTMzNjI3NV5BMl5BanBnXkFtZTgwNzIyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Portland Trip",
-			"season": "2",
-			"episode_number": "7",
-			"ep_id": "tv/the-west-wing/0207.mp4",
-			"description": "C.J. joins the President on a flight to Portland after a wisecrack about Notre Dame; Josh seeks to defeat an anti-gay marriage bill; Sam wants to rewrite an education speech; an oil tanker appears to be violating UN sanctions; Josh teases Donna over her dating record.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA2OTkwMjA4MF5BMl5BanBnXkFtZTgwMzQyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Shibboleth",
-			"season": "2",
-			"episode_number": "8",
-			"ep_id": "tv/the-west-wing/0208.mp4",
-			"description": "Dozens of Chinese stowaways are discovered in a container ship in California; Toby looks to pick a fight over school prayer with a recess appointment; Thanksgiving at the White House sees C.J. in charge of turkeys and Charlie looking for the ultimate carving knife.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ5NTc0ODYxMF5BMl5BanBnXkFtZTgwODIwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Galileo",
-			"season": "2",
-			"episode_number": "9",
-			"ep_id": "tv/the-west-wing/0209.mp4",
-			"description": "The President and NASA plan a TV event for a probe's landing on Mars; satellite photographs show a suspicious-looking fire in Russia; Leo asks Toby and Josh to decide on the next postage stamp; Sam and C.J. have personal reasons for not wanting to accompany the President to a concert.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE4Nzk0MTExMl5BMl5BanBnXkFtZTgwODMxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Noël",
-			"season": "2",
-			"episode_number": "10",
-			"ep_id": "tv/the-west-wing/0210.mp4",
-			"description": "Josh speaks to a psychiatrist about the events of the last three weeks: Toby hired musicians for the foyer, an Air Force pilot disobeyed orders, Yo-Yo Ma performed at the White House, and Josh managed to cut his hand quite badly.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjMyNjYwMDQ2Nl5BMl5BanBnXkFtZTgwNDMwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Leadership Breakfast",
-			"season": "2",
-			"episode_number": "11",
-			"ep_id": "tv/the-west-wing/0211.mp4",
-			"description": "Toby wants to use a bipartisan breakfast to discuss real issues instead of making it a staged event; Sam floats the idea of moving the press room across the street; Leo wants Josh to apologize to a columnist on his behalf; Leo and Toby realize they need to start thinking about reelection.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk1ODg4MzcwOV5BMl5BanBnXkFtZTgwNzMyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Drop In",
-			"season": "2",
-			"episode_number": "12",
-			"ep_id": "tv/the-west-wing/0212.mp4",
-			"description": "Leo fails to convince Bartlet of the merits of an expensive but unproven missile defense system. Meanwhile, Leo and the others are irritated by the news that pompous Lord John Marbury has been appointed ambassador from Great Britain.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcwOTQ4MzI5MF5BMl5BanBnXkFtZTgwNjQwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Bartlet's Third State of the Union",
-			"season": "2",
-			"episode_number": "13",
-			"ep_id": "tv/the-west-wing/0213.mp4",
-			"description": "Bartlet's speech is a success. Unfortunately, problems immediately occur that diminish the White House staff's enthusiasm. Sam learns that a policeman whom Bartlet praised during the speech was charged with beating a suspect 17 years ago.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyMzQxNzg5MV5BMl5BanBnXkFtZTgwNTMxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The War at Home",
-			"season": "2",
-			"episode_number": "14",
-			"ep_id": "tv/the-west-wing/0214.mp4",
-			"description": "President Bartlet is fighting a war on two fronts as he tries to rescue hostages in Colombia and deal with explaining to his wife why he's breaking his word to her by running for a 2nd term.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc4MDExNDcwNF5BMl5BanBnXkFtZTgwMDUyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Ellie",
-			"season": "2",
-			"episode_number": "15",
-			"ep_id": "tv/the-west-wing/0215.mp4",
-			"description": "Comments made by Surgeon General Dr. Millicent Griffith concerning the medical effects of marijuana appear to reverse the President's stance on legalizing the drug.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQxOTIyODY0Ml5BMl5BanBnXkFtZTgwNDUxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Somebody's Going to Emergency, Somebody's Going to Jail",
-			"season": "2",
-			"episode_number": "16",
-			"ep_id": "tv/the-west-wing/0216.mp4",
-			"description": "Sam finds out that his father was unfaithful to Sam's mother for 28 years. Sam tries to help a friend of Donna's whose dying father wants to see his own deceased father's reputation cleared of committing espionage during WWII.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk5MTI0MzQ1OV5BMl5BanBnXkFtZTgwNjYwMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Stackhouse Filibuster",
-			"season": "2",
-			"episode_number": "17",
-			"ep_id": "tv/the-west-wing/0217.mp4",
-			"description": "A Senator delays a vote for over nine hours. He reads recipes, novels and poker rulebooks to the empty chamber because he wants more stringent requirements on diagnosing and treating autism added to a child health-care reform bill.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BOTM4NDYyODk5OV5BMl5BanBnXkFtZTgwMTQyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "17 People",
-			"season": "2",
-			"episode_number": "18",
-			"ep_id": "tv/the-west-wing/0218.mp4",
-			"description": "For days, Toby ponders the mystery of Hoynes' attempt to gain the voters' favor by admonishing the oil companies. He knows about a poll conducted for Hoynes and an upcoming visit for the vice president to Bartlet's home state.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTM0YTM1MjgtMGNlNS00YWRiLWE2ODItMjI0MmVjZGZkMWQ0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Bad Moon Rising",
-			"season": "2",
-			"episode_number": "19",
-			"ep_id": "tv/the-west-wing/0219.mp4",
-			"description": "President Bartlett talks to the White House Counsel about the concealment of his MS. An enraged Toby has CJ grill the West Wing staff to find a leaker. Josh and Donna spar over a financial bailout of Mexico.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI4NTE1NjA5NV5BMl5BanBnXkFtZTgwNDMxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Fall's Gonna Kill You",
-			"season": "2",
-			"episode_number": "20",
-			"ep_id": "tv/the-west-wing/0220.mp4",
-			"description": "White House Counsel Oliver Babbish interviews CJ once she learns of the President's condition. The First Lady learns she may be legally vulnerable. Donna frets over news of a falling satellite.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjExMDQ4NTQ1NV5BMl5BanBnXkFtZTgwODIyMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "18th and Potomac",
-			"season": "2",
-			"episode_number": "21",
-			"ep_id": "tv/the-west-wing/0221.mp4",
-			"description": "After Joey gives Bartlet and his staff devastating polling figures, they debate how to inform the public of Bartlet's multiple sclerosis. A major factor is the unanswered question of Bartlet's intent to seek reelection.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYwMjkyNTEzOF5BMl5BanBnXkFtZTgwMzgxMjY1MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Two Cathedrals",
-			"season": "2",
-			"episode_number": "22",
-			"ep_id": "tv/the-west-wing/0222.mp4",
-			"description": "Josh implements a rash plan to coerce wayward Democrats to support the administration's lawsuit against big tobacco companies. The crisis in Haiti escalates. Bartlet must decide whether to run for reelection--most Democrats hope he won't.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTI3NDBmMDctOWM5OC00ZDRiLWFjYTktN2MwZTI2MWVkNGQzXkEyXkFqcGc@._V1_QL75_UY563_CR2,0,1000,563_.jpg"
-		}
-	]
+    "title": "The West Wing",
+    "logo": "The_West_Wing_logo.png",
+    "image_url": "1b1a493e-c074-4f6c-a9ca-2cf9c6f5a605.avif",
+    "episodes": [
+        {
+            "title": "Pilot",
+            "season": "1",
+            "episode_number": "1",
+            "ep_id": "tv/the-west-wing/0101.mkv",
+            "description": "The senior members of the White House staff are summoned to the office early in the morning to handle difficult situations: Hundreds of Cubans are on their way across the Atlantic Ocean in search of freedom; and klutzy President of the United States Josiah Bartlet accidentally sprained his ankle riding a bicycle into a tree.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dcGkNDGfBioSHH1of82LiNIZGQz.jpg"
+        },
+        {
+            "title": "Post Hoc, Ergo Propter Hoc",
+            "season": "1",
+            "episode_number": "2",
+            "ep_id": "tv/the-west-wing/0102.mkv",
+            "description": "The Vice President refuses to fall in line with Bartlet. Sam discusses the problem of Laurie with Josh and Toby. Bartlet hires Mandy as his consultant.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8orvStTuojDeA8ZlXByVVEBKVKe.jpg"
+        },
+        {
+            "title": "A Proportional Response",
+            "season": "1",
+            "episode_number": "3",
+            "ep_id": "tv/the-west-wing/0103.mkv",
+            "description": "Still enraged at Morris's death, Bartlet makes a show of deadly force. C.J. is upset about being kept out of the loop about Laurie. Josh hires Bartlet's new personal assistant.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/28pZkjplMLpVCrxO9koLD3TAiZQ.jpg"
+        },
+        {
+            "title": "Five Votes Down",
+            "season": "1",
+            "episode_number": "4",
+            "ep_id": "tv/the-west-wing/0104.mkv",
+            "description": "Five votes keep a very important gun-control bill from being passed and the staff has 72 hours to track down the errant congressmen. Toby is accused of manipulating the stock market by having a friend testify to Commerce on internet stocks. Leo's wife gets fed up with his long hours.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4KCvqBOyrop4jGluhPQSoAAJYD5.jpg"
+        },
+        {
+            "title": "The Crackpots and These Women",
+            "season": "1",
+            "episode_number": "5",
+            "ep_id": "tv/the-west-wing/0105.mkv",
+            "description": "The staffers spend the day (\"Big Block of Cheese day\") dealing with private organizations, aka the crackpots. Throughout the day, Sam deals with a UFO nut, CJ gets a proposal to build a wolves-only road, Toby and Bartlet clash over everything, and Josh is overwhelmed by guilt regarding his sister's death.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dQAyGhFKd8uVrIdaES7NFr9Em7U.jpg"
+        },
+        {
+            "title": "Mr. Willis of Ohio",
+            "season": "1",
+            "episode_number": "6",
+            "ep_id": "tv/the-west-wing/0106.mkv",
+            "description": "Toby and Mandy push for a commerce bill with a census-counting provision, with three votes as the deciding factor. Sam tutors CJ on the finer points of the census. Josh & Sam take Charlie out for a beer and are joined by Zoey and Mallory.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/tktPoaUZu4fkRT1rWcewbDFV93C.jpg"
+        },
+        {
+            "title": "The State Dinner",
+            "season": "1",
+            "episode_number": "7",
+            "ep_id": "tv/the-west-wing/0107.mkv",
+            "description": "The president of Indonesia is honored at a state dinner. The staff deals with Hurricane Sarah, a potential teamster strike, and a raid involving children in Idaho while a reporter flirts with CJ.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2TRHMC9lZI4JnpQIBrwPK4JB81p.jpg"
+        },
+        {
+            "title": "Enemies",
+            "season": "1",
+            "episode_number": "8",
+            "ep_id": "tv/the-west-wing/0108.mkv",
+            "description": "Bartlet and Hoynes argue in front of the Cabinet. CJ fends off Danny's advances when she suspects he's after a big story. Mallory asks Sam out. The staff leaps hurdles to pass a banking bill.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/uZXJdovxpKzsR5eKooOMYJBYtCL.jpg"
+        },
+        {
+            "title": "The Short List",
+            "season": "1",
+            "episode_number": "9",
+            "ep_id": "tv/the-west-wing/0109.mkv",
+            "description": "Bartlet struggles to name a nominee to the Supreme Court when the perfect nominee turns out to be not so perfect. A congressman attacks the staff, claiming that 1 in 3 use drugs.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/m0a33AtGyU8akpzWDpT4ALqooDC.jpg"
+        },
+        {
+            "title": "In Excelsis Deo",
+            "season": "1",
+            "episode_number": "10",
+            "ep_id": "tv/the-west-wing/0110.mkv",
+            "description": "Toby tries to arrange a proper funeral for a homeless veteran. Josh and Sam try to set up a preemptive strike against Lillienfield, who is attacking Leo because of his prior drug and alcohol problem. CJ tries to get the staff to revisit the hate crimes issue. Bartlet sneaks out to do some last minute shopping.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/631nPlejxz755a0eeL1jGgYmN9X.jpg"
+        },
+        {
+            "title": "Lord John Marbury",
+            "season": "1",
+            "episode_number": "11",
+            "ep_id": "tv/the-west-wing/0111.mkv",
+            "description": "War breaks out between India and Pakistan and Bartlet consults with Lord John Marbury. Toby accuses CJ of being too friendly with the press when she objects to being kept in the dark. The staff realizes that Lillienfield's efforts to bring down Leo are going to get ugly when Josh gets a subpoena.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4GYRo5oHAwoTWWwFMHZSRPRScKM.jpg"
+        },
+        {
+            "title": "He Shall, from Time to Time",
+            "season": "1",
+            "episode_number": "12",
+            "ep_id": "tv/the-west-wing/0112.mkv",
+            "description": "Bartlet collapses before his first State of the Union address. Leo publicly admits to his former alcoholism and drug abuse. Things get interesting romantically for both Sam and CJ. Lord John Marbury helps the staff negotiate an agreement between India and Pakistan.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vEBO5t9WZXK9IksKpycrAncLgOf.jpg"
+        },
+        {
+            "title": "Take out the Trash Day",
+            "season": "1",
+            "episode_number": "13",
+            "ep_id": "tv/the-west-wing/0113.mkv",
+            "description": "Josh and Sam are able to make a bargain to keep Leo from going through a hearing, at the expense of a new sex education report. Mandy doesn't think a couple should be present at the signing of a new hate crimes bill instigated by the death of their son. Toby contends with some of PBS's detractors.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xjJEa7uEamJRZMuREaxLYXLWQU5.jpg"
+        },
+        {
+            "title": "Take This Sabbath Day",
+            "season": "1",
+            "episode_number": "14",
+            "ep_id": "tv/the-west-wing/0114.mkv",
+            "description": "After the Supreme Court refuses to stay the execution of a convicted murderer, Bartlet has forty-eight hours to decide whether or not to commute the sentence. Josh faces off with Joey Lucas about his staff's not backing her candidate as vigorously as she'd like.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/fqY86wIig59pa6rg3RUOvxzBnX3.jpg"
+        },
+        {
+            "title": "Celestial Navigation",
+            "season": "1",
+            "episode_number": "15",
+            "ep_id": "tv/the-west-wing/0115.mkv",
+            "description": "Toby and Sam travel to Connecticut to get Roberto Mendoza released from jail; Josh must run a press briefing when CJ has an emergency root canal.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/onGYEB9K17wwLlCaKCL0VJy5gD6.jpg"
+        },
+        {
+            "title": "20 Hours in L. A.",
+            "season": "1",
+            "episode_number": "16",
+            "ep_id": "tv/the-west-wing/0116.mkv",
+            "description": "Bartlet and the senior staff fly to California to attend an important fundraiser. Hoynes must decide whether he will support Bartlet's stance or go with his convictions when the Senate is deadlocked on an ethanol tax bill.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/z7gIjf3AkO3j7ADPJq2p8YPyZoy.jpg"
+        },
+        {
+            "title": "The White House Pro-Am",
+            "season": "1",
+            "episode_number": "17",
+            "ep_id": "tv/the-west-wing/0117.mkv",
+            "description": "Abbey keeps the staff busy with the fallout when she leaks her personal preference for a Federal Reserve Board appointment and discusses child labor on a talk show, prompting a Congresswoman to offer an amendment which could shoot down the entire international tariff bill. Charlie's date with Zoey is cancelled because of threats by a white supremacist group.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dGZVIRtUa6JSnTNk11weDR1x1Ys.jpg"
+        },
+        {
+            "title": "Six Meetings Before Lunch",
+            "season": "1",
+            "episode_number": "18",
+            "ep_id": "tv/the-west-wing/0118.mkv",
+            "description": "Mendoza is confirmed by the Senate; Mandy needs Toby's help to replace a dead panda bear; Sam angers Mallory when she reads a position paper that he wrote supporting school vouchers; Josh meets with Jeff Breckenridge, who is irritating certain Congressmen with his stance on slavery reparations.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7q2LewE9OgfQUaMok4AB7gFuLKK.jpg"
+        },
+        {
+            "title": "Let Bartlet Be Bartlet",
+            "season": "1",
+            "episode_number": "19",
+            "ep_id": "tv/the-west-wing/0119.mkv",
+            "description": "Mandy's old memo about Bartlet administration weaknesses surfaces; Josh tries to get administration nominees appointed to the Federal Elections Committee; Sam works to get a better policy on gays in the military.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/wctjKXylb3Yuw54nGtmYDcVZ2Pr.jpg"
+        },
+        {
+            "title": "Mandatory Minimums",
+            "season": "1",
+            "episode_number": "20",
+            "ep_id": "tv/the-west-wing/0120.mkv",
+            "description": "Andrea Wyatt insists that mandatory minimums be added to a new drug policy the staff is developing; C.J. makes a mistake and sets them back.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/yQJG2MkmiRviUPdIiGrf0PO2Bed.jpg"
+        },
+        {
+            "title": "Lies, Damn Lies and Statistics",
+            "season": "1",
+            "episode_number": "21",
+            "ep_id": "tv/the-west-wing/0121.mkv",
+            "description": "Bartlet gets closer to making the FEC campaign finance reform-friendly, but his opponents strike back by making Sam's former dalliance with the call girl public knowledge; CJ waits anxiously for the administration's approval rating.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/iQgaZKUPgDLJdd5nr455K9pkzFh.jpg"
+        },
+        {
+            "title": "What Kind of Day Has It Been",
+            "season": "1",
+            "episode_number": "22",
+            "ep_id": "tv/the-west-wing/0122.mkv",
+            "description": "The staff deals with the crisis of an American pilot who was shot down in Iraq; Toby's brother is in danger on a space shuttle whose doors won't close; Bartlet and the senior staff walk into trouble as they leave a town meeting.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/24L7zyzTLi8YJu23W35TaRLgxTa.jpg"
+        },
+        {
+            "title": "In the Shadow of Two Gunmen (1)",
+            "season": "2",
+            "episode_number": "1",
+            "ep_id": "tv/the-west-wing/0201.mp4",
+            "description": "\"In the Shadow of Two Gunmen\" is the two-part second season premiere of the American political drama television series The West Wing. Both parts were written by Aaron Sorkin and directed by Thomas Schlamme.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2eMzCGjXb2UMmSF9STzUJEp64CA.jpg"
+        },
+        {
+            "title": "In the Shadow of Two Gunmen (2)",
+            "season": "2",
+            "episode_number": "2",
+            "ep_id": "tv/the-west-wing/0202.mp4",
+            "description": "With the accomplice in custody, it's revealed that the intended target was Charlie, not Bartlet.  The staff still awaits news about Josh, and recalls how C.J. and Donna came to join the Bartlet campaign.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1psPu9IsPFBR7BHLkFTfZ8zMUWs.jpg"
+        },
+        {
+            "title": "The Midterms",
+            "season": "2",
+            "episode_number": "3",
+            "ep_id": "tv/the-west-wing/0203.mp4",
+            "description": "While Josh recovers from bullet wounds there's a noticeable tension among some of the White House Staff. Toby is gung-ho to go after extremist groups in light of the attack. Charlie withdraws from the first family after learning more about the shooting. Bartlet's mind is preoccupied with a small time school election because of an old rivalry. CJ mangles physicist by referring to them as psychics as Josh listens from his sick bed. A subplot involves a reception for radio talk show hosts. Dr. Jenna Jacobs, whose doctorate is in English Lit., is one of those attending. Sam encourages a friend to run for office, unfortunately it doesn't go as he intended.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/77c2iIBrzj02jlq72xyIuxkVFbv.jpg"
+        },
+        {
+            "title": "In this White House",
+            "season": "2",
+            "episode_number": "4",
+            "ep_id": "tv/the-west-wing/0204.mp4",
+            "description": "To investigate the cost and availability of AIDS medication needed in Africa, the White House plays host to representatives of American pharmaceutical companies and the president of an African nation; C.J. accidentally leaks information to a freshman reporter; after Sam is shown up by an amateur Republican operative on a television program, Jed decides to hire her.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/c2TKaPLezzQukd3JEz5aObJF4NX.jpg"
+        },
+        {
+            "title": "And It's Surely to Their Credit",
+            "season": "2",
+            "episode_number": "5",
+            "ep_id": "tv/the-west-wing/0205.mp4",
+            "description": "Leo tries to make Ainsley's arrival as painless as possible, despite resistance from her new boss and several other White House staffers; Donna helps with the President's weekly radio address; C.J. tries to derail a retiring General's attempt to speak out against Bartlet; Sam gives Josh ideas on how to deal with his insurance company.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hTb8MUD1wzBjZHVOdLW7tDWdZup.jpg"
+        },
+        {
+            "title": "The Lame Duck Congress",
+            "season": "2",
+            "episode_number": "6",
+            "ep_id": "tv/the-west-wing/0206.mp4",
+            "description": "The president considers recalling the Senate to push ratification of a nuclear-test-ban treaty. Meanwhile, Donna lobbies new legislation introducing ergonomic standards in the White House; A Ukrainian politician shows up at the White House drunk demanding to see the president.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4K0uS5ZCuDH76nYommcT7usfbEe.jpg"
+        },
+        {
+            "title": "The Portland Trip",
+            "season": "2",
+            "episode_number": "7",
+            "ep_id": "tv/the-west-wing/0207.mp4",
+            "description": "After ridiculing Notre Dame, C.J. is forced to accompany the President on a trip to Oregon; Toby and Sam struggle to write Jed's education speech for the following day; back at the White House, Josh tries to dissuade a gay Congressman who supports legislation banning same-sex marriages and Leo gets divorce papers, which causes Margaret to worry that he may fall off the wagon.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cx1E7nKNZP3Ba3OtTrzxaHQjpIH.jpg"
+        },
+        {
+            "title": "Shibboleth",
+            "season": "2",
+            "episode_number": "8",
+            "ep_id": "tv/the-west-wing/0208.mp4",
+            "description": "Toby encourages the President to appoint Leo's controversial sister to a national education post, against Leo's objections; Bartlet must decide what the do with 83 Chinese citizens who stowed away on a freighter ship and seek asylum on the grounds of religious persecution; CJ has to decide which one of two turkeys the President should \"pardon\" but then tries to save the other from the chopping block; Charlie is tasked with buying the President a new carving knife which is not as easy as it sounds.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/Fo6LMUT9LzROKsbTTBAIjOdHUT.jpg"
+        },
+        {
+            "title": "Galileo",
+            "season": "2",
+            "episode_number": "9",
+            "ep_id": "tv/the-west-wing/0209.mp4",
+            "description": "On the eve of Jed's participation in a national television conference with thousands of school children as the Galileo probe arrives at Mars, NASA loses the communication link; Leo contends with a Russian ambassador who denies that a fire has broken out in a nuclear missile silo; C.J. and Sam accompany Jed to a concert where they're each faced with people they'd rather not see; Josh and Donna work on the nomination for the next person to appear on a postage stamp; C.J. wrangles a minor controversy ignited by a leak that Jed doesn't like green beans.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/41QDpPaKnmzMcKdtkOGz6SzS1wd.jpg"
+        },
+        {
+            "title": "No\u00ebl",
+            "season": "2",
+            "episode_number": "10",
+            "ep_id": "tv/the-west-wing/0210.mp4",
+            "description": "Josh investigates the suicide of a pilot with whom he has things in common; Donna tries to get an invitation to the Congressional Christmas party to hear Yo-Yo Ma perform; Jed insists on signing a mountain of Christmas cards himself; after a White House visitor has a strange reaction to a painting, C.J. sets out to discover its provenance; following weeks of volatile behavior and an outburst in the Oval Office, Josh meets with representatives from the America Trauma Victims Association and finally deals with the trauma from his shooting.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/pA827iJyCveMT9sTCsSxLxPCoQO.jpg"
+        },
+        {
+            "title": "The Leadership Breakfast",
+            "season": "2",
+            "episode_number": "11",
+            "ep_id": "tv/the-west-wing/0211.mp4",
+            "description": "To get real issues to be discussed at a bi-partisan breakfast, Toby makes a deal with a former acquaintance who is the majority leader's new Chief of Staff to strike a bargain and put an issue on the agenda, thereby undermining CJ and setting up the administration to ridicule; The possibility of moving the press corps across the street is briefly explored; Leo and Toby start to face harsh realities about Bartlet's re-election; Josh and Sam build a fire with unfortunate consequences; Leo tells Josh to apologize for him after embarrassing himself in front of a columnist.  Unfortunately the embarrassment continues with Sam and Donna.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5rJWwko5MZSMbIHhT0SRsvUdq9V.jpg"
+        },
+        {
+            "title": "The Drop-In",
+            "season": "2",
+            "episode_number": "12",
+            "ep_id": "tv/the-west-wing/0212.mp4",
+            "description": "The test of a missile defense program meets 9 of 10 essential criteria.  But the 10th is the sticking point: hitting the target. Sam is livid when a speech he wrote is changed without consulting him.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/kBbQ3pQwVfc4tGOKGlfsJJGXRGq.jpg"
+        },
+        {
+            "title": "Bartlet's Third State of the Union",
+            "season": "2",
+            "episode_number": "13",
+            "ep_id": "tv/the-west-wing/0213.mp4",
+            "description": "The President delivers his 3rd State of the Union address, what critics call \"the speech of his political career\" and ends up angering Abbey by what he does and doesn't say; Josh must work the polling center with Joey Lucas, but a power outage delays the results; Sam attempts to introduce Ainsley to the President with disastrous results; CJ must juggle a live recording of the show \"Capitol Beat\" being broadcast within the White House and run damage control when a cop has a (possibly undeserved) black mark on his record; Leo and Bartlet must handle the matter of five DEA officials who are taken hostage by Columbian terrorists.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xF2wtI5kt6NuWt62FSVQ7RrEeuq.jpg"
+        },
+        {
+            "title": "The War at Home",
+            "season": "2",
+            "episode_number": "14",
+            "ep_id": "tv/the-west-wing/0214.mp4",
+            "description": "Bartlet authorizes a special ops team to rescue the five DEA agents only to have them caught in an ambush; CJ arranges for the host of \"Capitol Beat\" to have an exclusive interview with the wronged police officer; Toby must deal with Senator Gilette who threatens to make a third party run for president due to the tone of the changes on social security reform; Sam gives Ainsley another chance to meet the President, but she still fails to create a good impression; Josh finally gets the poll results from Joey; Abbey and Bartlet discuss his running for a second term.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/sh1KnMgC6aiBWQPGzU4UlGvb7te.jpg"
+        },
+        {
+            "title": "Ellie",
+            "season": "2",
+            "episode_number": "15",
+            "ep_id": "tv/the-west-wing/0215.mp4",
+            "description": "During an online chat, the Surgeon General comments favorably on the legalization of marijuana. The controversy heightens when Ellie Bartlet tells a reporter that her father would never fire the Surgeon General. Toby asks his ex-wife, a Congresswoman, for her help in strongly persuading Seth Gillette to participate in the Social Security panel.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/AwehsP63STy0XIFjq5f6cReywXi.jpg"
+        },
+        {
+            "title": "Somebody's Going to Emergency, Somebody's Going to Jail",
+            "season": "2",
+            "episode_number": "16",
+            "ep_id": "tv/the-west-wing/0216.mp4",
+            "description": "It's Big Block of Cheese Day again. Toby meets with World Trade Organization protesters, and CJ meets with a group of cartographers who want the standards for maps changed to be a more accurate reflection of geographical and political reality. Donna asks Sam to look into granting a pardon for a friend's deceased grandfather. Bartlet is having problems selecting a site for his Presidential library.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/fCvSSLC4gjIZ9uGoBGOCvxFn2Jm.jpg"
+        },
+        {
+            "title": "The Stackhouse Filibuster",
+            "season": "2",
+            "episode_number": "17",
+            "ep_id": "tv/the-west-wing/0217.mp4",
+            "description": "The staff is blindsided when an elderly senator stages a Friday night filibuster to block their Family Wellness bill; Toby is confused when VP Hoynes, a strong supporter of the oil industry, volunteers to give a speech attacking the energy sector; CJ tries to locate a valuable Egyptian cat goddess statue given to the President.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cj33S48FItFX0eaZz8yuZtvcriQ.jpg"
+        },
+        {
+            "title": "17 People",
+            "season": "2",
+            "episode_number": "18",
+            "ep_id": "tv/the-west-wing/0218.mp4",
+            "description": "Toby, suspicious that there's something going on with the President, finds out about Bartlet's MS and informs Leo of the legal ramifications; Josh and Donna disagree about the date of their \"anniversary\"; Sam and Ainsley argue about the necessity of the ERA; staffers struggle to punch-up the speech the President will give at the White House Correspondents Dinner.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/do8neePVdm0hjIYYsUM8RaqbE8E.jpg"
+        },
+        {
+            "title": "Bad Moon Rising",
+            "season": "2",
+            "episode_number": "19",
+            "ep_id": "tv/the-west-wing/0219.mp4",
+            "description": "Bartlet confers with Babish on the legal ramifications of his MS cover-up; Sam has a personal interest in an oil spill off the coast of Delaware; Josh and Donna argue about a loan to Mexico; Toby orders C.J. to flush out a leak in the White House staff, which is far from easy.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/odYrTRgOOR5OhGgRRa7Syyc9c5p.jpg"
+        },
+        {
+            "title": "The Fall's Gonna Kill You",
+            "season": "2",
+            "episode_number": "20",
+            "ep_id": "tv/the-west-wing/0220.mp4",
+            "description": "Babish menacingly questions CJ and Abbey about their involvement in the MS cover-up while Josh asks Joey Lucas to create a hypothetical poll the gauge the public's reaction; Sam is happy with a projected smaller-than-expected budget surplus; Donna is the only one worried about a Chinese satellite hurling toward the Earth at 2,000 mph.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/lBoascZ9xDSlmNJLmP0fA1NZPcj.jpg"
+        },
+        {
+            "title": "18th and Potomac",
+            "season": "2",
+            "episode_number": "21",
+            "ep_id": "tv/the-west-wing/0221.mp4",
+            "description": "The staff prepares for the worst as they make arrangements for the public announcement of the President's condition; Sam and Babish grill Abbey about her medical treatment of the President's MS; a crisis erupts in Haiti; Josh deals with two Democratic senators who won't support the administration's suit against tobacco companies; Mrs. Landingham buys her first new car, with tragic consequences.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/w3XIgay3UMrNTGGDVgb17kfq2Ph.jpg"
+        },
+        {
+            "title": "Two Cathedrals",
+            "season": "2",
+            "episode_number": "22",
+            "ep_id": "tv/the-west-wing/0222.mp4",
+            "description": "On the day of Mrs. Landingham's funeral, the staff deals with a Haitian presidential crisis and the law suit against the big tobacco companies, and Bartlet must decide about running for reelection.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/sKGlwZPC59seXrl4WgvyPiSVUFU.jpg"
+        },
+        {
+            "title": "Manchester (1)",
+            "season": "3",
+            "episode_number": "1",
+            "ep_id": "tv/the-west-wing/0301.mp4",
+            "description": "Bartlet's decision about Haiti falls under scrutiny; C.J. makes a horrible blunder in a press conference and is hounded about the president's health by reporters; the staff disagrees about whether Bartlet should apologize for not revealing his medical condition; Abbey is angry that Jed has decided to run for reelection.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/99eM8LFWYJYR9Reo3vKweWpJ9t7.jpg"
+        },
+        {
+            "title": "Manchester (2)",
+            "season": "3",
+            "episode_number": "2",
+            "ep_id": "tv/the-west-wing/0302.mp4",
+            "description": "The senior staff clash with the consultants who are to work on Bartlet's reelection campaign; C.J. is concerned that the press senses the Bartlets' marriage could be in trouble; Josh asks Leo to let him use his connection to postpone the FDA's drug announcement; the situation on Haiti comes to a head.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8wIlDvNhxhfEvM52BVDuugxvfJ2.jpg"
+        },
+        {
+            "title": "Ways and Means",
+            "season": "3",
+            "episode_number": "3",
+            "ep_id": "tv/the-west-wing/0303.mp4",
+            "description": "The Special Prosecutor sets his probe in motion; Sam and Bruno are concerned about the loyalty of a powerful labor leader; Toby and Josh are preoccupied with a congressional battle over the estate tax; Ainsley fixes up Donna with a Republican.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/jUFU2gJEFdZlQ25Yj4TYRz7z63.jpg"
+        },
+        {
+            "title": "On the Day Before",
+            "season": "3",
+            "episode_number": "4",
+            "ep_id": "tv/the-west-wing/0304.mp4",
+            "description": "When Bartlet vetoes the \"death tax\", the staff must scramble to keep the veto from being overridden; Josh tries to smooth talk a promising governor who is considering running against the President; Charlie is urged to ask for immunity in his upcoming testimony.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hQG3qoeeFQp47b7ozuo0jfzuRSS.jpg"
+        },
+        {
+            "title": "War Crimes",
+            "season": "3",
+            "episode_number": "5",
+            "ep_id": "tv/the-west-wing/0305.mp4",
+            "description": "The President has a showdown; Donna lies when she appears before the Congressional committee investigating the President; Leo debates with an old friend about the US future stance regarding the war crimes tribunal; Sam tries to find the logic in a Congressman's proposed legislation to eliminate the penny.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/eP0TLobmroJgDCLRhjV6dfWAN6V.jpg"
+        },
+        {
+            "title": "Gone Quiet",
+            "season": "3",
+            "episode_number": "6",
+            "ep_id": "tv/the-west-wing/0306.mp4",
+            "description": "When an American spy submarine suddenly goes silent in hostile North Korea, Bartlet must decide whether to inform the enemy or attempt a secret rescue operation; Abbey learns her past malpractice suits might compromise Bartlet's criminal investigation; Toby meets with a representative from an appropriations committee who wants to funnel money away from Congress's funding of avant-garde artists.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/kuGOwjrWD41LIwUjDAxIEgrneTf.jpg"
+        },
+        {
+            "title": "The Indians in the Lobby",
+            "season": "3",
+            "episode_number": "7",
+            "ep_id": "tv/the-west-wing/0307.mp4",
+            "description": "While Bartlet worries about where he will be on Thanksgiving--and how to best cook a gourmet turkey -- C.J. meets with two Native Americans, Maggie and Jack, who are camped in the White House lobby.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/iFbDOQhfihyyRKRUUqxCMrfeteW.jpg"
+        },
+        {
+            "title": "The Women of Qumar",
+            "season": "3",
+            "episode_number": "8",
+            "ep_id": "tv/the-west-wing/0308.mp4",
+            "description": "At Abbey's urging, Josh meets with a powerful women's caucus over the proposed language of a United Nations treaty banning prostitution.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xk0LnbIv0EMC16lI0DifOMqZCA0.jpg"
+        },
+        {
+            "title": "Bartlet for America",
+            "season": "3",
+            "episode_number": "9",
+            "ep_id": "tv/the-west-wing/0309.mp4",
+            "description": "Leo fears the worst when he testifies in the congressional investigation into Bartlet's lack of public disclosure about his illness.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/c8ZUIeJlyCaHyjq7poCY7ca3Dbc.jpg"
+        },
+        {
+            "title": "H. Con-172",
+            "season": "3",
+            "episode_number": "10",
+            "ep_id": "tv/the-west-wing/0310.mp4",
+            "description": "Leo defiantly rejects the Congressional Oversight Committee's offer of a public censure of Bartlet that would finally bring an end to the investigation and spare Leo of any possible personal repercussions.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dRKIQSFBAw3ZItpAtZ7LXcFgxZe.jpg"
+        },
+        {
+            "title": "100,000 Airplanes",
+            "season": "3",
+            "episode_number": "11",
+            "ep_id": "tv/the-west-wing/0311.mp4",
+            "description": "On State of the Union night, Sam is being trailed by a magazine reporter to whom he was once engaged; the President' Congressional censure weighs heavily on staffers' minds as they debate whether to include an anti-cancer initiative in the President's address; Josh can't get Amy Gardner to talk to him.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/nuFtUAyahil0rBvha0RP6DzhOA4.jpg"
+        },
+        {
+            "title": "The Two Bartlets",
+            "season": "3",
+            "episode_number": "12",
+            "ep_id": "tv/the-west-wing/0312.mp4",
+            "description": "On the day of the Democratic Caucus, Bartlet, Toby and C.J. go to Iowa to kick off the presidential race, and disagree over Bartlet's making a statement about affirmative action. Back in Washington, Leo forces Josh to intercede with an old friend leading a protest against Navy arms testing at Vieques, Puerto Rico. Sam meets with Bob Engler again, who is now acting on behalf of two congressmen who want an inventory of Fort Knox because they believe that most of the gold bullion has been replaced with alien bodies recovered from Area 51 in Roswell, New Mexico. After Josh rebuffs her request, Donna seeks Sam's help in getting out of jury duty. Josh brings a little bit of Tahiti to his relationship with Amy Gardner.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1HGmxGHq4CowYQfEAPBS7nJTr1b.jpg"
+        },
+        {
+            "title": "Night Five",
+            "season": "3",
+            "episode_number": "13",
+            "ep_id": "tv/the-west-wing/0313.mp4",
+            "description": "Stanley Keyworth revisits the White House to uncover the reason Bartlet hasn't been able to sleep since the night of the Iowa caucus; C.J. enlists Leo's help in freeing a White House reporter kidnapped while on assignment in the Congo; Toby and Andy joust over an upcoming presidential speech condemning Islamic fanaticism by name; Donna is offered a lucrative dot.com job by an old friend; Sam sparks an exchange on radical versus lipstick feminism when he comments on Ainsley's evening attire immediately after asking her to review language in Bartlet's U.N. address.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1Z9g3tqvEDbGcHROXVR6rN71kXU.jpg"
+        },
+        {
+            "title": "Hartsfield's Landing",
+            "season": "3",
+            "episode_number": "14",
+            "ep_id": "tv/the-west-wing/0314.mp4",
+            "description": "On the day before the New Hampshire primary, Josh drafts Donna as his frontwoman to ensure that Bartlet wins the nation's first primary in the small town of Hartsfield's Landing; C.J. and Charlie play an ever-escalating game of practical jokes; Jed plays simultaneous chess games with Sam and Toby while he plays delicate diplomatic and military games with the Chinese government over Taiwan.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rXLucuEMjGGzbxPJqmTAR7siv4E.jpg"
+        },
+        {
+            "title": "Dead Irish Writers",
+            "season": "3",
+            "episode_number": "15",
+            "ep_id": "tv/the-west-wing/0315.mp4",
+            "description": "Concern arises over the medical board's decision on Abbey's actions in treating Jed's M.S.; Sam tries to get a Senator he doesn't like to pass a bill for a super-conducter that he doesn't even understand; Amy tries to influence Josh; Lord Marbury explains to Toby why a member of the IRA cannot be invited to the White House; Donna receives shocking news when the Secret Service won't give her clearance to attend Abbey's birthday party.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6DWKPmvW8yProdrCGGG7dk37Kll.jpg"
+        },
+        {
+            "title": "The U.S. Poet Laureate",
+            "season": "3",
+            "episode_number": "16",
+            "ep_id": "tv/the-west-wing/0316.mp4",
+            "description": "Toby looks forward to meeting the new U.S. Poet Laureate; Jed fires the first salvo of his reelection campaign when he calls his likely opponent less than brilliant, and the national press just can't get enough of it; Ainsley gets promoted; Josh overreacts to posts on the message board of a website devoted to \"all things Josh\".",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vNHJQpsgjnuHFlO7hJcYxajmZhU.jpg"
+        },
+        {
+            "title": "Stirred",
+            "season": "3",
+            "episode_number": "17",
+            "ep_id": "tv/the-west-wing/0317.mp4",
+            "description": "Hoynes and Bartlet each make an unexpected announcement about Hoynes' place on the ticket; fears of a terrorist attack arise when a truck carrying depleted uranium-fuel rods is involved in a head-on collision in an Idaho tunnel; Donna seeks a Presidential Proclamation to honor her high-school teacher/mentor who's retiring; and Bartlet's insistence on helping Charlie with his tax return sparks a discussion on the true nature of a tax rebate.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4bcceAa47PvYNOkFPnOz2YfHIr.jpg"
+        },
+        {
+            "title": "Enemies Foreign and Domestic",
+            "season": "3",
+            "episode_number": "18",
+            "ep_id": "tv/the-west-wing/0318.mp4",
+            "description": "The revelation that a Russian company may be building a heavy water reactor in Iran puts Jed in a difficult position as he prepares to meet with the new Russian president; Jed orders the Secret Service to protect C.J. when she receives death threats after making a comment at a press conference about the deaths of Saudi girls; Leo wants to find a way to help a major campaign contributor whose company is faced with a massive product recall; Charlie ponders the mystery of a strangely out of context letter written to the President.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/f78JLHVM4WujAUR8505lMn2P78Y.jpg"
+        },
+        {
+            "title": "The Black Vera Wang",
+            "season": "3",
+            "episode_number": "19",
+            "ep_id": "tv/the-west-wing/0319.mp4",
+            "description": "Bartlet and the staff are on high alert when they receive reports of an impending attack on a military installation; Josh is furious when he discovers that a gift he passed on to Donna, who in turn passed in on to an unpaid intern, ends up for sale on eBay; C.J. takes her niece shopping for a prom dress while the threats on her life continue, and her stalker manages to get close to her despite the protection of the Secret Service.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1fH64k8frzEqkDvMXKwfjbFXM2u.jpg"
+        },
+        {
+            "title": "We Killed Yamamoto",
+            "season": "3",
+            "episode_number": "20",
+            "ep_id": "tv/the-west-wing/0320.mp4",
+            "description": "While Jed, Leo and Fitzwallace grapple with terrorism and moral absolutes, Josh and Amy grapple with each other over a welfare-reform bill; Donna represents the White House at a North Dakota state-party caucus whose goal is to remove the word \"North\" from the state's name; Toby doesn't want Jed to attend a New York fund-raiser because Ritchie will be there; Charlie is assigned the responsibility of finding Jed a new secretary; C.J. discovers that Simon Donovan is a very straight shooter",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2LAX1cqNNtaC8yGqosU2FTzzeHL.jpg"
+        },
+        {
+            "title": "Posse Comitatus",
+            "season": "3",
+            "episode_number": "21",
+            "ep_id": "tv/the-west-wing/0321.mp4",
+            "description": "Bartlet continues to struggle over the wisdom of assassinating the terrorist Qumari defense minister; after Ritchie declines to meet Bartlet, Sam and Toby play a dirty trick; as the search for Mrs. Landingham's replacement continues, Charlie finds the perfect candidate, who makes less than a stellar first impression on Bartlet; Josh's determination to pass a welfare bill costs Amy; as C.J.'s stalker is finally captured, the night ends in tragedy.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/aj941jckZgfeRcQAoaxCHd8mYh5.jpg"
+        },
+        {
+            "title": "20 Hours in America (1)",
+            "season": "4",
+            "episode_number": "1",
+            "ep_id": "tv/the-west-wing/0401.mp4",
+            "description": "Toby, Josh, and Donna learn the hard way about the lack of accessible public transportation in the heartland when they spend a long day trying to get back to Washington after the motorcade leaves them behind during a campaign stop in Indiana; Bartlet interviews potential replacements for Mrs Landingham while C.J. tries to find someone to fill Simon's shoes as Anthony's Big Brother; the Ritchie campaign whips up a furor when Abbey claims to be \"just a wife and mother\"; Qumar reopens the Shareef investigation; and the Dow takes a dive.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/iTOVNKYx9oXggzAdUlRtCI9416b.jpg"
+        },
+        {
+            "title": "20 Hours in America (2)",
+            "season": "4",
+            "episode_number": "2",
+            "ep_id": "tv/the-west-wing/0402.mp4",
+            "description": "Donna teaches Toby and Josh an important lesson as their trek homeward continues; Sam staffs the President in Josh's absence and welcomes an old friend home; Bartlet hires a secretary and C.J. finds a Big Brother for Anthony; the situation in Qumar continues to escalate; Bartlet gets spooked by a photo op as the Dow continues its dive; and a pipe bomb kills 44 students at a Midwest university swim meet.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/kWv626Z5tXKNv1d192UKDryIATP.jpg"
+        },
+        {
+            "title": "College Kids",
+            "season": "4",
+            "episode_number": "3",
+            "ep_id": "tv/the-west-wing/0403.mp4",
+            "description": "Bartlet decides he needs a lawyer when Qumar goes after Israel; Josh is disturbed to learn that Stackhouse might not endorse Bartlet; a comment Deborah made years ago comes back to haunt her during a security check.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3lLvYt1428kZUOFrjHW14fjoNx6.jpg"
+        },
+        {
+            "title": "The Red Mass",
+            "season": "4",
+            "episode_number": "4",
+            "ep_id": "tv/the-west-wing/0404.mp4",
+            "description": "Leo meets with the Israeli Foreign Minister to enlist Israel's assistance with the Shareef investigation,  but is ultimately foiled by the Qumari; the debate about the Ritchie debates rages on until the staff comes up with a brilliant tactic; Josh and Amy argue over whether Stackhouse is siphoning votes from Bartlet; Ritchie tries to bait Bartlet on needle exchange programs; Bartlet is faced with resolving an 11 day standoff with the KSU bombers in Iowa who are holding an injured child; Josh sends Donna undercover to a seminar held by one of Ritchie's advisors in an effort to expose the \"fortune cookie candidacy\"; Stackhouse comes to a momentous decision about his campaign and provides inspiration for Bartlet.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/puvhWCFS06280zk7ksJEaU1rkn3.jpg"
+        },
+        {
+            "title": "Debate Camp",
+            "season": "4",
+            "episode_number": "5",
+            "ep_id": "tv/the-west-wing/0405.mp4",
+            "description": "As the staff prepares for the presidential debates at a North Carolina conference center, a vexing question about a failed attorney-general nomination (amid charges of racial profiling) leads to flashbacks of the administration's first weeks in office. Back then, Toby's marriage to Andrea Wyatt was about to end; now Sam and Charlie are helping him in his effort to reconcile with her. Meanwhile, the Israeli Air Force weighs in on the Qumari matter, and Joey Lucas reports that the president is likely to lose New Hampshire.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/eq7jULPfh81Hrq4TB7MCSG1P2TX.jpg"
+        },
+        {
+            "title": "Game On",
+            "season": "4",
+            "episode_number": "6",
+            "ep_id": "tv/the-west-wing/0406.mp4",
+            "description": "Bartlet, Leo, Josh, Sam and C.J. pull a practical joke on Toby; Sam's mission to end the Wilde campaign leads him to make a career-altering decision; Jordan backs up Leo as he deals with the Qumari; Toby continues to press his case with a resistant Andrea; and Bartlet cleans Ritchie's clock in their debate.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/d4aipmEjTrUQcN8ichuLTvu0ZM4.jpg"
+        },
+        {
+            "title": "Election Night",
+            "season": "4",
+            "episode_number": "7",
+            "ep_id": "tv/the-west-wing/0407.mp4",
+            "description": "Election day finally arrives with the staff eagerly anticipating the outcome; Sam is increasingly concerned about the Wilde campaign in Orange County; Toby worries about the effect of Andy's pregnancy on the voters; Donna accidentally votes for Richie and tries to rectify the situation by trying to find someone who will vote-swap; Josh resists Deborah's new office rules until she reveals their basis; Bartlet has some new health issues to worry about.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6LJAzkYuuS03T3wES0Wf0akey78.jpg"
+        },
+        {
+            "title": "Process Stories",
+            "season": "4",
+            "episode_number": "8",
+            "ep_id": "tv/the-west-wing/0408.mp4",
+            "description": "The staff celebrates election night and encourages Sam to run for the seat in Orange County; Toby continues to worry about how Andrea's pregnancy will play politically for both of them; a coup develops in Venezuela; Jed and Abbey endure some interruptions at their private celebration.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5pmgphiLmLq1aq4GJ8lSzJcZtKu.jpg"
+        },
+        {
+            "title": "Swiss Diplomacy",
+            "season": "4",
+            "episode_number": "9",
+            "ep_id": "tv/the-west-wing/0409.mp4",
+            "description": "The 15-year old son of an Iranian leader needs a heart transplant in the U.S. Problem is, the only man who could do it is an enemy of the Iranian government; The Senate minority leader threatens to thwart the President's legislative agenda when he believes that Hoynes is doing some political maneuvering for the next Presidential election; Toby offers a Congresswoman a Cabinet position but is forced to take back the offer.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/h2kzjv40D2LNNntrrN538hvTyoP.jpg"
+        },
+        {
+            "title": "Arctic Radar",
+            "season": "4",
+            "episode_number": "10",
+            "ep_id": "tv/the-west-wing/0410.mp4",
+            "description": "When a celebrated female fighter pilot is threatened with a dishonorable discharge for refusing to end her affair with an enlisted man, the staff, though full of opinions, agrees that the White House should not get involved; Donna asks Josh to find out if Jack Reese likes her, and is horrified to discover some of the anecdotes about her that Josh has shared with Jack; Sam heads out to California to begin his election campaign, and sends Will Bailey to the White House to help Toby with the inaugural address; despite the best efforts of Leo and Charlie to keep him out of it, Bartlet blows a gasket over complaints from U.N. diplomats about parking enforcement in New York City; and Josh takes issue with a temporary worker's choice in accessories.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8qimKFfeq7EWY9r32ds0RXVNiWN.jpg"
+        },
+        {
+            "title": "Holy Night",
+            "season": "4",
+            "episode_number": "11",
+            "ep_id": "tv/the-west-wing/0411.mp4",
+            "description": "It's December 23, and the holiday brings several visitors to the White House: Zoey comes home with her new French boyfriend in tow; aided by Josh, Toby's father seeks a reconciliation; and Danny arrives bearing gifts of gold and a heads-up for C.J. about Shareef's death. Will moves into Sam's office at Toby's insistence, and is treated to some good-natured ribbing by the rest of the staff.  Bartlet and Leo try to exorcise their guilt about Shareef by adding eleventh hour funding to combat infant mortality in the federal budget, and promoting peace in the Mideast, respectively.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5mYRjoNFrywXf3MM9IcvWNDJqjl.jpg"
+        },
+        {
+            "title": "Guns Not Butter",
+            "season": "4",
+            "episode_number": "12",
+            "ep_id": "tv/the-west-wing/0412.mp4",
+            "description": "Josh, determined to make sure a foreign aid bill passes even though it's a hopeless cause, sends Donna out to track down a reluctant senator; in an attempt to impress Zoey's new boyfriend, Charlie unwittingly gets over his head with the Department of Defense; Danny continues to pursue the Shareef matter; a Bartlet photo op with Heifer International creates unexpected opportunities -- for C.J. to perfect her spin-doctoring techniques, and for the staff once again to test Will's mettle and sense of humor.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cvLYLkHMZc2dNSLubnxDZwmcbEo.jpg"
+        },
+        {
+            "title": "The Long Goodbye",
+            "season": "4",
+            "episode_number": "13",
+            "ep_id": "tv/the-west-wing/0413.mp4",
+            "description": "While Toby unsuccessfully attempts to fill her shoes in the briefing room, C.J. returns to Dayton, where she gives a speech at her high school reunion, reconnects with an old friend, and struggles with her father's worsening Alzheimer's.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7xNCz2lzsEy1xg6yjuyKiovOVe5.jpg"
+        },
+        {
+            "title": "Inauguration (1)",
+            "season": "4",
+            "episode_number": "14",
+            "ep_id": "tv/the-west-wing/0414.mp4",
+            "description": "The staff wrangles with the State Department over language in the inaugural address; a genocidal war breaks out in Kundu, and Bartlet weighs his options as Will pushes for American military involvement based on Bartlet's statements in the past; the Chief Justice's increased propensity for writing opinions in verse causes concern about his competence; Bartlet keeps Charlie busy on the hunt for the perfect Bible for the inauguration; Donna becomes upset when Jack is transferred out of the White House and reassigned to Italy after getting caught in a squeeze play between the Oval Office and the Pentagon.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/285E7Ug4u16TF4nQlKE4aFoDhWJ.jpg"
+        },
+        {
+            "title": "Inauguration: Over There (2)",
+            "season": "4",
+            "episode_number": "15",
+            "ep_id": "tv/the-west-wing/0415.mp4",
+            "description": "Toby discovers that Will's frankness, stubbornness, and commitment to ideals is much like his own; Charlie remains on the hunt for an inaugural Bible; Bartlet and the staff continue to debate over sending American troops into Kundu to stop a genocidal war until Laurel and Hardy provide some needed inspiration; Bartlet appoints Will Deputy Communications Director; Donna takes one for Jack when a comment he thinks he is making off the record is included in a \"Post\" article by Danny's editor.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vRRY9o14elt82qPJJhIjMsXAQUx.jpg"
+        },
+        {
+            "title": "The California 47th",
+            "season": "4",
+            "episode_number": "16",
+            "ep_id": "tv/the-west-wing/0416.mp4",
+            "description": "Bartlet plays hardball to end the genocide in Kundu; after the entire speechwriting staff quits, Will is forced to rely on Elsie and some inexperienced interns to write tax policy remarks; the trip to California to help Sam's campaign gets off to a rocky start; Sam refuses to let Bartlet hold off the Democratic response to the Republican tax plan because it might hurt the campaign; Toby and Charlie get arrested coming to Andy's defense after a drunk accosts her; Bartlet fires Sam's campaign manager and replaces him with Toby.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/oMx5iVR9koVCEShHhK5wHxOhPh8.jpg"
+        },
+        {
+            "title": "Red Haven's on Fire",
+            "season": "4",
+            "episode_number": "17",
+            "ep_id": "tv/the-west-wing/0417.mp4",
+            "description": "While Toby and C.J. are in California working on Sam's campaign, Josh drops Abbey's agenda in favor of his own, Jed deals with a military hostage situation, and Will runs his intern writing staff ragged.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/98nO3kzssn8jBXY6CRx1CKGaa4y.jpg"
+        },
+        {
+            "title": "Privateers",
+            "season": "4",
+            "episode_number": "18",
+            "ep_id": "tv/the-west-wing/0418.mp4",
+            "description": "Toby's old friend approaches him ready to blow the whistle on his employer's violations of environmental laws; staff pranks abound on Amy's first day at the office; Abbey charges Amy with the task of convincing the President to threaten a veto on a foreign aid bill containing an abortion gag rule provision; claiming that Abbey's ancestor was a pirate rather than a privateer, a prominent member threatens to mount a boycott of the D.A.R. dinner at which Zoey will be inducted until Will, C.J. and Amy devise a plan to defuse the situation; at the behest of Jean Paul, Zoey sends Charlie a \"Dear John\" email, but Charlie refuses to accept the brushoff and declares his love for Zoey; Donna is less than thrilled when Josh assigns her the job of shadowing a possible security risk at Zoey's D.A.R. induction; Will takes one for the team in putting an environmental and political face on the destruction and deaths which resulted from the melting of an Alaskan glacier.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qjIogA3mCo1z4dtQwSB7gsCtmS7.jpg"
+        },
+        {
+            "title": "Angel Maintenance",
+            "season": "4",
+            "episode_number": "19",
+            "ep_id": "tv/the-west-wing/0419.mp4",
+            "description": "Air Force One is forced to keep aloft for almost 24 hours when an indicator light leads the flight crew to believe that the landing gear isn't functioning properly; Bartlet and Will have a spirited discussion on Colombian recertification, which is ultimately rendered moot when Air Force One doesn't land on time; the Black Caucus plays hardball with the Oval Office to gain a Congressional debate on the merits of reinstating the draft; legislation to clean up Chesapeake Bay is sacrificed to partisan politics; Will is unsuccessful in hiding his fear of flying from C.J. and Charlie; deaths in Kundu continue to mount.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/9kk1AyEuWHDPJAKICuQms7lHCK8.jpg"
+        },
+        {
+            "title": "Evidence of Things Not Seen",
+            "season": "4",
+            "episode_number": "20",
+            "ep_id": "tv/the-west-wing/0420.mp4",
+            "description": "The White House is locked down after a gunman on the street fires shots into the West Wing; Josh interviews a candidate to replace Ainsley Hayes; Bartlet negotiates for the return of a spy plane is forced down over Russia; the staff plays poker.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/aEzqUeg0IgKVM5LraEQwyau9Tn7.jpg"
+        },
+        {
+            "title": "Life on Mars",
+            "season": "4",
+            "episode_number": "21",
+            "ep_id": "tv/the-west-wing/0421.mp4",
+            "description": "On his first day at work, Joe Quincy pieces together three news leaks and uncovers a scandal which forces Hoynes to resign.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/9Rm1KQrOumFNbxmJ8ec4RP4sRDu.jpg"
+        },
+        {
+            "title": "Commencement",
+            "season": "4",
+            "episode_number": "22",
+            "ep_id": "tv/the-west-wing/0422.mp4",
+            "description": "Bartlet finally tells the staff the truth about the death of Shareef; Danny agrees to hold off on the story after five alleged terrorists go missing; Andy goes into labor after once again refusing Toby's marriage proposal; Zoey is kidnapped from a nightclub on the night of her college graduation.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/krjW3uuQqQxMscpxbPfYpcaFspQ.jpg"
+        },
+        {
+            "title": "Twenty Five",
+            "season": "4",
+            "episode_number": "23",
+            "ep_id": "tv/the-west-wing/0423.mp4",
+            "description": "When Bartlet learns that Zoey's kidnapping is the work of Qumari terrorists, he invokes the 25th amendment to diminish their leverage and eliminate any conflict of interest; since there's no Vice President, the power of the Presidency passes to Bartlet's chief political rival and the most powerful Republican in the country, the Speaker of the House, who immediately takes a very hard line; now that twins Huck and Molly have arrived, Toby wonders if he's capable of loving them enough.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/81Rh8PHPV3XEcTM2tdt8AiObxo3.jpg"
+        }
+    ]
 }
