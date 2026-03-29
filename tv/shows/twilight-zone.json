@@ -1,47 +1,1255 @@
 {
-	"title": "The Twilight Zone",
-	"logo": "twilight-zone.png",
-	"image_url": "1121967.jpg",
-	"episodes": [
-		{
-			"title": "Where Is Everybody?",
-			"season": "1",
-			"episode_number": "1",
-			"ep_id": "tv/twilight-zone/0101.mkv",
-			"description": "Mike Ferris finds himself alone in the small Oakwood town and without recollection about his name, where he is or who he is. Mike wanders through the town trying to find a living soul.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM4NzA0OTMyNF5BMl5BanBnXkFtZTgwMDA2OTEyMjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Where Is Everybody?",
-			"season": "2",
-			"episode_number": "1",
-			"ep_id": "tv/twilight-zone/0101.mkv",
-			"description": "Mike Ferris finds himself alone in the small Oakwood town and without recollection about his name, where he is or who he is. Mike wanders through the town trying to find a living soul.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM4NzA0OTMyNF5BMl5BanBnXkFtZTgwMDA2OTEyMjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Where Is Everybody?",
-			"season": "3",
-			"episode_number": "1",
-			"ep_id": "tv/twilight-zone/0101.mkv",
-			"description": "Mike Ferris finds himself alone in the small Oakwood town and without recollection about his name, where he is or who he is. Mike wanders through the town trying to find a living soul.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM4NzA0OTMyNF5BMl5BanBnXkFtZTgwMDA2OTEyMjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Where Is Everybody?",
-			"season": "4",
-			"episode_number": "1",
-			"ep_id": "tv/twilight-zone/0101.mkv",
-			"description": "Mike Ferris finds himself alone in the small Oakwood town and without recollection about his name, where he is or who he is. Mike wanders through the town trying to find a living soul.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM4NzA0OTMyNF5BMl5BanBnXkFtZTgwMDA2OTEyMjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Where Is Everybody?",
-			"season": "5",
-			"episode_number": "1",
-			"ep_id": "tv/twilight-zone/0101.mkv",
-			"description": "Mike Ferris finds himself alone in the small Oakwood town and without recollection about his name, where he is or who he is. Mike wanders through the town trying to find a living soul.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM4NzA0OTMyNF5BMl5BanBnXkFtZTgwMDA2OTEyMjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		}
-	]
+    "title": "The Twilight Zone",
+    "logo": "twilight-zone.png",
+    "image_url": "1121967.jpg",
+    "episodes": [
+        {
+            "title": "Where Is Everybody?",
+            "season": "1",
+            "episode_number": "1",
+            "ep_id": "tv/twilight-zone/0101.mkv",
+            "description": "Mike Ferris finds himself in a town strangely devoid of people. But despite the emptiness, he has the odd feeling that he's being watched...",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2H6zZtBqMhDmRaY1juutjefXyNd.jpg"
+        },
+        {
+            "title": "One for the Angels",
+            "season": "1",
+            "episode_number": "2",
+            "ep_id": "tv/twilight-zone/0102.mkv",
+            "description": "A street salesman cleverly eludes Death. But if he lives, a little girl must die in his place.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/svzxIySkFm0YsAfh2uS7vxIWHjj.jpg"
+        },
+        {
+            "title": "Mr. Denton on Doomsday",
+            "season": "1",
+            "episode_number": "3",
+            "ep_id": "tv/twilight-zone/0103.mkv",
+            "description": "A has-been, drunk gunslinger finds his fast-draw abilities magically restored.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5Rq7nc1ZPdoNEcADQoYOZKjp7t2.jpg"
+        },
+        {
+            "title": "The Sixteen-Millimeter Shrine",
+            "season": "1",
+            "episode_number": "4",
+            "ep_id": "tv/twilight-zone/0104.mkv",
+            "description": "An aging, former movie star lives and dreams in the past, constantly watching her old movies alone in her room.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4II1y2EybhOM4NTRFHKzekjRoyG.jpg"
+        },
+        {
+            "title": "Walking Distance",
+            "season": "1",
+            "episode_number": "5",
+            "ep_id": "tv/twilight-zone/0105.mkv",
+            "description": "A stressed advertising executive, driving through the country, leaves his car and starts to walk toward his hometown, Homewood. He finds things exactly as they were when he was a child.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cik76KinHoLxxSqhB9ZpxCxgpSq.jpg"
+        },
+        {
+            "title": "Escape Clause",
+            "season": "1",
+            "episode_number": "6",
+            "ep_id": "tv/twilight-zone/0106.mkv",
+            "description": "A hypochondriac exchanges his soul for immortality and indestructibility.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hlHmxQcvil5dvLG38nGc89DLKo2.jpg"
+        },
+        {
+            "title": "The Lonely",
+            "season": "1",
+            "episode_number": "7",
+            "ep_id": "tv/twilight-zone/0107.mkv",
+            "description": "In 2046, imprisoned for murder on a distant asteroid, Corry receives an unexpected present that brings a semblance of companionship during his isolation.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/fRrmptYgQ9an5em4GUzdGhHIguP.jpg"
+        },
+        {
+            "title": "Time Enough at Last",
+            "season": "1",
+            "episode_number": "8",
+            "ep_id": "tv/twilight-zone/0108.mkv",
+            "description": "A bank teller, obsessed with reading, faces conflicts at work and home because of his passion for literature.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/jH0hENqFj9bASNbmgQTYNEii64D.jpg"
+        },
+        {
+            "title": "Perchance to Dream",
+            "season": "1",
+            "episode_number": "9",
+            "ep_id": "tv/twilight-zone/0109.mkv",
+            "description": "A man with a heart condition explains to his psychiatrist that he feels extremely tired, because he is terrified of falling asleep for fear he might die.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/i9XGfyCy9MBTZ1RVtRl84588nBJ.jpg"
+        },
+        {
+            "title": "Judgment Night",
+            "season": "1",
+            "episode_number": "10",
+            "ep_id": "tv/twilight-zone/0110.mkv",
+            "description": "In 1942, a German wonders why he's on the deck of a British steamship, with no memory of how he got there.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3kArJh9eP72LoABI8xaNhBUtZ7c.jpg"
+        },
+        {
+            "title": "And When the Sky Was Opened",
+            "season": "1",
+            "episode_number": "11",
+            "ep_id": "tv/twilight-zone/0111.mkv",
+            "description": "Recovering in the hospital after a space mission, Major William Gart is visited by his co-pilot Lieutenant Colonel Clegg Forbes, who insists on the existence of a third astronaut.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cRb1ku7aKkzeColiqdi6MSFk0oy.jpg"
+        },
+        {
+            "title": "What You Need",
+            "season": "1",
+            "episode_number": "12",
+            "ep_id": "tv/twilight-zone/0112.mkv",
+            "description": "A two-bit thug thinks he's found the key to a better life in an old sidewalk salesman who has the uncanny ability to tell people what they need the most.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/9eXy0yZZ9QdWGDEOuHa2jNFRpss.jpg"
+        },
+        {
+            "title": "The Four of Us are Dying",
+            "season": "1",
+            "episode_number": "13",
+            "ep_id": "tv/twilight-zone/0113.mkv",
+            "description": "In this noirish tale, a man with the ability to change his face to resemble others gets into hot water with gangsters.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vf3VVj9GBPvXzzuG2vjvY26yJkY.jpg"
+        },
+        {
+            "title": "Third from the Sun",
+            "season": "1",
+            "episode_number": "14",
+            "ep_id": "tv/twilight-zone/0114.mkv",
+            "description": "With all-out nuclear war about to ignite, a scientist and his pilot friend plot to escape on an experimental spaceship.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1FdmTN3HLON0111YynoaBfCoPgW.jpg"
+        },
+        {
+            "title": "I Shot an Arrow into the Air",
+            "season": "1",
+            "episode_number": "15",
+            "ep_id": "tv/twilight-zone/0115.mkv",
+            "description": "Three astronauts crash-land on an unknown planet and must confront survival challenges, unraveling their unity in the face of desperation.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5gOSVu3xYNX8nkhksT4OgB97i15.jpg"
+        },
+        {
+            "title": "The Hitch-Hiker",
+            "season": "1",
+            "episode_number": "16",
+            "ep_id": "tv/twilight-zone/0116.mkv",
+            "description": "Alone on a cross-country trip, a woman continually encounters the same mysterious hitch-hiker who inexplicably reappears at various points in her journey.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qBrH0RtxUz9LxHqRAM0OOOv8xjB.jpg"
+        },
+        {
+            "title": "The Fever",
+            "season": "1",
+            "episode_number": "17",
+            "ep_id": "tv/twilight-zone/0117.mkv",
+            "description": "Tight fisted Franklin Gibbs is not pleased when his wife wins a trip for two to Las Vegas.  But things change when he falls under the spell of a slot machine that calls his name.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dAFRZ2E0m1kxoGV9NaYSC7owOA0.jpg"
+        },
+        {
+            "title": "The Last Flight",
+            "season": "1",
+            "episode_number": "18",
+            "ep_id": "tv/twilight-zone/0118.mkv",
+            "description": "A World War I flying ace flies through a mysterious cloud - and lands at a modern U.S. air base in the year 1959!",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/iRZRyZy7vCsD8nAvdCtC6wAUn1x.jpg"
+        },
+        {
+            "title": "The Purple Testament",
+            "season": "1",
+            "episode_number": "19",
+            "ep_id": "tv/twilight-zone/0119.mkv",
+            "description": "Lieutenant Fitzgerald, serving in World War II, possesses the disquieting ability to foresee impending death by observing a strange glow on the faces of his men before battle.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/wj1zW0Kmg09rLytbrEKqxRLEJt0.jpg"
+        },
+        {
+            "title": "Elegy",
+            "season": "1",
+            "episode_number": "20",
+            "ep_id": "tv/twilight-zone/0120.mkv",
+            "description": "Three astronauts land on what looks like Earth 200 years before they left--only all of the people seem frozen in time.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/gYXWOFwoJUNRBAK8QDSzENbK96V.jpg"
+        },
+        {
+            "title": "Mirror Image",
+            "season": "1",
+            "episode_number": "21",
+            "ep_id": "tv/twilight-zone/0121.mkv",
+            "description": "In a bus depot, Millicent Barnes experiences odd events, leading to concerns about her sanity.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/ycT8ioFhjvarNmeHAnZv2y9vMLp.jpg"
+        },
+        {
+            "title": "The Monsters are Due on Maple Street",
+            "season": "1",
+            "episode_number": "22",
+            "ep_id": "tv/twilight-zone/0122.mkv",
+            "description": "Paranoia strikes the residents of Maple Street when they believe human-looking aliens have invaded the neighborhood.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/yhwVn8sIiOCZQ6Zy5fePsi2pYrn.jpg"
+        },
+        {
+            "title": "A World of Difference",
+            "season": "1",
+            "episode_number": "23",
+            "ep_id": "tv/twilight-zone/0123.mkv",
+            "description": "Arthur Curtis, a successful businessman sitting in his office discovers that he is on a film set and everyone refers to him as Gerry Reagan, a movie star struggling with alcoholism and a declining career.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qie5pDWEMOpwZBui6aVm8NoyDFu.jpg"
+        },
+        {
+            "title": "Long Live Walter Jameson",
+            "season": "1",
+            "episode_number": "24",
+            "ep_id": "tv/twilight-zone/0124.mkv",
+            "description": "Walter Jameson, a popular history professor, is suspected by his fianc\u00e9e's father, another professor at the college, to be an immortal.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8YWTwan5lwrZsepKHSewRKQXvKD.jpg"
+        },
+        {
+            "title": "People are Alike All Over",
+            "season": "1",
+            "episode_number": "25",
+            "ep_id": "tv/twilight-zone/0125.mkv",
+            "description": "After a space exploration crash-lands on Mars, the lone surviving astronaut is surprised to find that Martians are human-looking and friendly.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/n33Ef5QLzzsFSWe6vnzmjPYwyqn.jpg"
+        },
+        {
+            "title": "Execution",
+            "season": "1",
+            "episode_number": "26",
+            "ep_id": "tv/twilight-zone/0126.mkv",
+            "description": "Just before being hanged for shooting a man in the back, an outlaw cowboy in 1880 is transported into the future.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/fVzQb9BLbT6REA2Aabd90atVPcc.jpg"
+        },
+        {
+            "title": "The Big Tall Wish",
+            "season": "1",
+            "episode_number": "27",
+            "ep_id": "tv/twilight-zone/0127.mkv",
+            "description": "Washed-up boxer Bolie Jackson, with the help of a special wish from his young friend Henry, miraculously switches places with his opponent during a comeback fight, turning the tide in his favor.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/AvLa7FyNFNsU8QhORyvtYxpUTzj.jpg"
+        },
+        {
+            "title": "A Nice Place to Visit",
+            "season": "1",
+            "episode_number": "28",
+            "ep_id": "tv/twilight-zone/0128.mkv",
+            "description": "After being shot to death, the criminal Rocky Valentine encounters the amiable white-haired Mr. Pip in the afterlife, who gives him everything he wishes for.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rRj63PLRnA7nKeyzOxclLmeNAkq.jpg"
+        },
+        {
+            "title": "Nightmare as a Child",
+            "season": "1",
+            "episode_number": "29",
+            "ep_id": "tv/twilight-zone/0129.mkv",
+            "description": "Schoolteacher Helen Foley finds a strange and very serious little girl on the stairs outside her apartment, who tries to jog Helen's memory about a man she saw earlier that day.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/jFJaJT95aqPZF1siJ31OKCdqHvj.jpg"
+        },
+        {
+            "title": "A Stop at Willoughby",
+            "season": "1",
+            "episode_number": "30",
+            "ep_id": "tv/twilight-zone/0130.mkv",
+            "description": "Riding home on the train one day, a stressed businessman falls asleep and dreams it is 1888, and he is entering a small, idyllic town called Willoughby.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/zPHwTRQ8MuW5ViI0jcuQmYJDocY.jpg"
+        },
+        {
+            "title": "The Chaser",
+            "season": "1",
+            "episode_number": "31",
+            "ep_id": "tv/twilight-zone/0131.mkv",
+            "description": "A man, desperate to win the affection of a beautiful woman, seeks the help of an old professor, who provides him with a love potion.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/90AkHNhVFb1ILbwlgcdSskthZir.jpg"
+        },
+        {
+            "title": "A Passage for Trumpet",
+            "season": "1",
+            "episode_number": "32",
+            "ep_id": "tv/twilight-zone/0132.mkv",
+            "description": "A down-and-out trumpet player who's convinced he'll never amount to anything attempts suicide and finds himself in a world where no one can hear or see him.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1rWJAblX5cfyrZl0RsgEpoh9rXw.jpg"
+        },
+        {
+            "title": "Mr. Bevis",
+            "season": "1",
+            "episode_number": "33",
+            "ep_id": "tv/twilight-zone/0133.mkv",
+            "description": "After losing his job, his car and his apartment on the same day, an eccentric loser gets a new lease on life from his guardian angel, but there is a price for keeping it.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/tu4FQ8ejeGoBI0Eb7zjgeE6XLSy.jpg"
+        },
+        {
+            "title": "The After Hours",
+            "season": "1",
+            "episode_number": "34",
+            "ep_id": "tv/twilight-zone/0134.mkv",
+            "description": "Puzzled and unsettled by the odd behavior of the salespeople, a woman discovers that the floor of a department store, on which she bought a gold thimble, doesn't exist.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/gvYapEaIl73wTdSYE5I08G92Ayv.jpg"
+        },
+        {
+            "title": "The Mighty Casey",
+            "season": "1",
+            "episode_number": "35",
+            "ep_id": "tv/twilight-zone/0135.mkv",
+            "description": "A baseball manager takes his team to the championships thanks to a robot pitcher.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/AgwSUZ8zCbV7Hz2UGZEfeWLlcUW.jpg"
+        },
+        {
+            "title": "A World of His Own",
+            "season": "1",
+            "episode_number": "36",
+            "ep_id": "tv/twilight-zone/0136.mkv",
+            "description": "Coming home, Victoria catches her husband Gregory flirting with a beautiful woman in his study. His explanation that characters come to life before his eyes when he speaks into his dictation machine, leads Victoria to question his sanity.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cMKqHLiuec1b0kOFz4wvC5kzVGL.jpg"
+        },
+        {
+            "title": "King Nine Will Not Return",
+            "season": "2",
+            "episode_number": "1",
+            "ep_id": "tv/twilight-zone/0201.mkv",
+            "description": "A WWII captain finds himself in the desert, next to his crashed plane, and desperately tries to find out what happened to the rest of his crew.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/l3B1D9U9CpeQT9yRBubgLuAcIdk.jpg"
+        },
+        {
+            "title": "The Man in the Bottle",
+            "season": "2",
+            "episode_number": "2",
+            "ep_id": "tv/twilight-zone/0202.mkv",
+            "description": "A discontented curio shop owner thinks he's finally found happiness when a genie he discovers in an old bottle grants him four wishes.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/b9i5QYslKLssBNj2i21x7nd1B5k.jpg"
+        },
+        {
+            "title": "Nervous Man in a Four Dollar Room",
+            "season": "2",
+            "episode_number": "3",
+            "ep_id": "tv/twilight-zone/0203.mkv",
+            "description": "Ordered to commit a murder he doesn't want to perform, a smalltime hood nervously looks in the mirror and sees the man he could have been--confident, strong...and determined to get out.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/eHFHwQeV6LYASVtsvO0Feul5ABw.jpg"
+        },
+        {
+            "title": "A Thing About Machines",
+            "season": "2",
+            "episode_number": "4",
+            "ep_id": "tv/twilight-zone/0204.mkv",
+            "description": "A writer feels that the machines in his house are conspiring against him.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/iXuifFlbq1ekiEk95RPNo2vTjbC.jpg"
+        },
+        {
+            "title": "The Howling Man",
+            "season": "2",
+            "episode_number": "5",
+            "ep_id": "tv/twilight-zone/0205.mkv",
+            "description": "A man on a walking trip of post-World War I Europe gets caught in a storm. He comes across a remote monastery with a mysterious prisoner.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/crTvXZvOOO01ob62JEHwbWOI6hG.jpg"
+        },
+        {
+            "title": "Eye of the Beholder",
+            "season": "2",
+            "episode_number": "6",
+            "ep_id": "tv/twilight-zone/0206.mkv",
+            "description": "A young woman lying in a hospital bed awaits the outcome of an experimental treatment in an attempt to make her look normal.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3DbhzAtUZNicnfjgvPvI5rdrnyH.jpg"
+        },
+        {
+            "title": "Nick of Time",
+            "season": "2",
+            "episode_number": "7",
+            "ep_id": "tv/twilight-zone/0207.mkv",
+            "description": "A superstitious newlywed becomes obsessed by a penny fortune-telling machine when he and his new wife are stranded with car trouble.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/kTvcuR0jzIWWGlhq6iiTkJiKxzC.jpg"
+        },
+        {
+            "title": "The Lateness of the Hour",
+            "season": "2",
+            "episode_number": "8",
+            "ep_id": "tv/twilight-zone/0208.mkv",
+            "description": "Jana, the daughter of inventor Dr. Loren, struggles with her parents' reliance on lifelike robot servants, urging her father to dismantle them despite his attachment to his creations.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rXNkywXQR97k3aG5mZPSiawfeqr.jpg"
+        },
+        {
+            "title": "The Trouble with Templeton",
+            "season": "2",
+            "episode_number": "9",
+            "ep_id": "tv/twilight-zone/0209.mkv",
+            "description": "Booth Templeton is an aging actor who longs for the old days when his wife was alive.  Miraculously, he is given a sobering glimpse of the past he holds so dear.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2dsJf17OKldZoTZORo6K0DDspDG.jpg"
+        },
+        {
+            "title": "A Most Unusual Camera",
+            "season": "2",
+            "episode_number": "10",
+            "ep_id": "tv/twilight-zone/0210.mkv",
+            "description": "Chester Diedrich and his wife Paula, after burglarizing a curio shop, end up with a camera that takes pictures of events five minutes into the future.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/Ac9fKLi1Hnwoi5Y9QfQdKZZBFQx.jpg"
+        },
+        {
+            "title": "The Night of the Meek",
+            "season": "2",
+            "episode_number": "11",
+            "ep_id": "tv/twilight-zone/0211.mkv",
+            "description": "A down-on-his-luck department store Santa Claus discovers a bottomless sack of toys.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/neRPyCkCPF1iKurSTkDJeDDLw5G.jpg"
+        },
+        {
+            "title": "Dust",
+            "season": "2",
+            "episode_number": "12",
+            "ep_id": "tv/twilight-zone/0212.mkv",
+            "description": "After selling the rope for a hanging, a greedy peddler, tries to sell the condemned man's father a bag of \"magic dust.\"",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/zIlqflIeal6gzg3Sok3ZhnIjFkW.jpg"
+        },
+        {
+            "title": "Back There",
+            "season": "2",
+            "episode_number": "13",
+            "ep_id": "tv/twilight-zone/0213.mkv",
+            "description": "It's April 14, 1961. Peter Corrigan and friends are discussing time travel at their men's club. Corrigan suddenly becomes dizzy. When his head clears, he has moved back to April 14, 1865 - the date of Lincoln's assassination.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qCn8NuKJWyEQ6IUm5CWSk7622fU.jpg"
+        },
+        {
+            "title": "The Whole Truth",
+            "season": "2",
+            "episode_number": "14",
+            "ep_id": "tv/twilight-zone/0214.mkv",
+            "description": "A peculiar Model A automobile compels a used car dealer to tell only the truth.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/gr2EvjTOxcGLyYU1GXYbB5EzWVe.jpg"
+        },
+        {
+            "title": "The Invaders",
+            "season": "2",
+            "episode_number": "15",
+            "ep_id": "tv/twilight-zone/0215.mkv",
+            "description": "An old woman in an isolated farmhouse encounters tiny, hostile aliens.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/mXTDdZMMZ85Jh1cfuEF4ldGzvEA.jpg"
+        },
+        {
+            "title": "A Penny for Your Thoughts",
+            "season": "2",
+            "episode_number": "16",
+            "ep_id": "tv/twilight-zone/0216.mkv",
+            "description": "The lucky flip of a coin seems to give a mild-mannered bank clerk the power to read minds. But he soon learns that you can't believe everything you read.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1YGZrD2UKBl87GrJqoNQLIlqPX9.jpg"
+        },
+        {
+            "title": "Twenty Two",
+            "season": "2",
+            "episode_number": "17",
+            "ep_id": "tv/twilight-zone/0217.mkv",
+            "description": "Miss Powell has a recurring nightmare about room 22 \u2013 a morgue.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/bTLKQ9qgpjnJoFdA3EyN9bwdsIs.jpg"
+        },
+        {
+            "title": "The Odyssey of Flight 33",
+            "season": "2",
+            "episode_number": "18",
+            "ep_id": "tv/twilight-zone/0218.mkv",
+            "description": "A commercial aircraft mysteriously travels back through time.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/txErlG1XHXTX0CFPbV5pyRNDxhF.jpg"
+        },
+        {
+            "title": "Mr. Dingle, the Strong",
+            "season": "2",
+            "episode_number": "19",
+            "ep_id": "tv/twilight-zone/0219.mkv",
+            "description": "Martians give Luther Dingle the strength of 300 men.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/x7OSI7ftI52M17crj9QlSm61FGs.jpg"
+        },
+        {
+            "title": "Static",
+            "season": "2",
+            "episode_number": "20",
+            "ep_id": "tv/twilight-zone/0220.mkv",
+            "description": "Ed Lindsay hates television, so he gets his old radio out of the basement of the boardinghouse where he lives. He soon finds he can receive programs from the past when he's alone.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4YbKah7bW5iYLnCpWCVJA4WVBKB.jpg"
+        },
+        {
+            "title": "The Prime Mover",
+            "season": "2",
+            "episode_number": "21",
+            "ep_id": "tv/twilight-zone/0221.mkv",
+            "description": "Ace Larsen discovers his business partner has the ability to control objects with his mind. The pair head to Vegas to win big.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8mZdU4Qeo3T6MxGjcCHj1KE22GS.jpg"
+        },
+        {
+            "title": "Long Distance Call",
+            "season": "2",
+            "episode_number": "22",
+            "ep_id": "tv/twilight-zone/0222.mkv",
+            "description": "A young boy find he can communicate with his dead grandmother through a toy phone.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/wacGDQEr5ekXL2yH3HG1afkj7YQ.jpg"
+        },
+        {
+            "title": "A Hundred Yards Over the Rim",
+            "season": "2",
+            "episode_number": "23",
+            "ep_id": "tv/twilight-zone/0223.mkv",
+            "description": "In 1847 a western settler sets out to find medicine for his dying son - and stumbles into modern-day New Mexico.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/o1npwOPeh3pAG5q5FHIEhF3Oy9k.jpg"
+        },
+        {
+            "title": "The Rip Van Winkle Caper",
+            "season": "2",
+            "episode_number": "24",
+            "ep_id": "tv/twilight-zone/0224.mkv",
+            "description": "Thieves put themselves into suspended animation for 100 years after hiding a million dollars worth of gold bars.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2nD3UTctXWAIWLemOoD8EjZTej6.jpg"
+        },
+        {
+            "title": "The Silence",
+            "season": "2",
+            "episode_number": "25",
+            "ep_id": "tv/twilight-zone/0225.mkv",
+            "description": "A talkative man takes an offer to keep silent for a year for $500,000.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/bsOgtxqK1TezXve30I7ttzoGXXb.jpg"
+        },
+        {
+            "title": "Shadow Play",
+            "season": "2",
+            "episode_number": "26",
+            "ep_id": "tv/twilight-zone/0226.mkv",
+            "description": "Trapped in a recurring nightmare, a man tries to persuade those who are sentencing him to death that the whole scenario is not real.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xaWt04XW0eAsoP4QfRoTybTp4Al.jpg"
+        },
+        {
+            "title": "The Mind and the Matter",
+            "season": "2",
+            "episode_number": "27",
+            "ep_id": "tv/twilight-zone/0227.mkv",
+            "description": "A book on the power of thought enables an irritable worker to re-create the world exactly as he wants it. But what he wants and what he gets are two different things!",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/uNCHYMdQdSSHbwIH5P4gerRu7xA.jpg"
+        },
+        {
+            "title": "Will the Real Martian Please Stand Up?",
+            "season": "2",
+            "episode_number": "28",
+            "ep_id": "tv/twilight-zone/0228.mkv",
+            "description": "State Troopers follow the tracks from a frozen pond, into a diner. Inside they find a soda jerk, a bus driver and his seven passengers. The bus driver is certain only six people boarded his bus\u2026",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/r5Kz7bvLpk7E4Vj8hJ1jAgUVXp2.jpg"
+        },
+        {
+            "title": "The Obsolete Man",
+            "season": "2",
+            "episode_number": "29",
+            "ep_id": "tv/twilight-zone/0229.mkv",
+            "description": "In a future state where religion and books have been banned, a librarian is judged obsolete and sentenced to death.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6FiSkV1k5elrzcHNyP2YdcjsvvX.jpg"
+        },
+        {
+            "title": "Two",
+            "season": "3",
+            "episode_number": "1",
+            "ep_id": "tv/twilight-zone/0301.mkv",
+            "description": "A man and a woman, on opposite sides of a future war, encounter each other in a deserted town.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/zqeSAeaFbIrBZajV9xLzdCuJjLG.jpg"
+        },
+        {
+            "title": "The Arrival",
+            "season": "3",
+            "episode_number": "2",
+            "ep_id": "tv/twilight-zone/0302.mkv",
+            "description": "A plane lands safely, but all its passengers, pilot and crew are missing.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/r1nOxjPM6DrOGDZt7N9jZkRaJw3.jpg"
+        },
+        {
+            "title": "The Shelter",
+            "season": "3",
+            "episode_number": "3",
+            "ep_id": "tv/twilight-zone/0303.mkv",
+            "description": "When a nuclear attack appears imminent, several suburban friends and neighbors fight over control of a single bomb shelter.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3xssVDqqh0Lj5gsmeZr29ovVW82.jpg"
+        },
+        {
+            "title": "The Passersby",
+            "season": "3",
+            "episode_number": "4",
+            "ep_id": "tv/twilight-zone/0304.mkv",
+            "description": "On the road home from the Civil War, a Confederate soldier stops at a burned-out house and gets to know the owner, a recent widow.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8FDE82T4hljlkR3PqUDVmclVFQj.jpg"
+        },
+        {
+            "title": "A Game of Pool",
+            "season": "3",
+            "episode_number": "5",
+            "ep_id": "tv/twilight-zone/0305.mkv",
+            "description": "Championship pool player Fats Brown returns from the grave for one last game.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/ecmoGpNz1I64f4CvjEvinhcU179.jpg"
+        },
+        {
+            "title": "The Mirror",
+            "season": "3",
+            "episode_number": "6",
+            "ep_id": "tv/twilight-zone/0306.mkv",
+            "description": "After a poor but ambitious Central American farm worker overthrows his country's tyrannical leader, he believes he sees assassins everywhere. A look in the mirror reveals his most dangerous enemy.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6mOOSgXEjcbDEI4KvSVMG5mV7Wa.jpg"
+        },
+        {
+            "title": "The Grave",
+            "season": "3",
+            "episode_number": "7",
+            "ep_id": "tv/twilight-zone/0307.mkv",
+            "description": "Before he died, notorious gunslinger Pinto Sykes put a curse on hired-gun Conny Miller. Miller returns to town and is challenged to visit the grave of Sykes, despite the curse.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hNwxpQipqJDqTwWtrIxbC34zJjW.jpg"
+        },
+        {
+            "title": "It's a Good Life",
+            "season": "3",
+            "episode_number": "8",
+            "ep_id": "tv/twilight-zone/0308.mkv",
+            "description": "On an isolated family farm in Peakesville, Ohio, young Anthony Fremont, who has vast mental powers but lacks emotional development, holds his terrified family and neighbors in thrall to his every juvenile wish.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/bEqEWYIPACi7uQ4eYXBaVBFm34J.jpg"
+        },
+        {
+            "title": "Deaths-Head Revisited",
+            "season": "3",
+            "episode_number": "9",
+            "ep_id": "tv/twilight-zone/0309.mkv",
+            "description": "A former Nazi SS Captain returns to the ruins of a concentration camp to reminisce, and is met by one of his victims.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/akzDgd4PyZOwpo0WU1IcBMErv7E.jpg"
+        },
+        {
+            "title": "The Midnight Sun",
+            "season": "3",
+            "episode_number": "10",
+            "ep_id": "tv/twilight-zone/0310.mkv",
+            "description": "The Earth's orbit has been changed, drawing ever closer to the sun and promising imminent destruction.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/wJO7QLcEKXHiI21xK0nej8HBkYX.jpg"
+        },
+        {
+            "title": "Still Valley",
+            "season": "3",
+            "episode_number": "11",
+            "ep_id": "tv/twilight-zone/0311.mkv",
+            "description": "Confederacy scout Sgt. Joseph Paradine finds a town full of Union soldiers, and an old man who claims he used witchcraft to paralyze them.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/aReAHhT72Paf2bXt5e6aMHKhC23.jpg"
+        },
+        {
+            "title": "The Jungle",
+            "season": "3",
+            "episode_number": "12",
+            "ep_id": "tv/twilight-zone/0312.mkv",
+            "description": "Alan Richards plans to build a dam in Africa on a tribe's ancestral land. The tribe's voodoo doctor puts a curse on him.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/67fZhlkEupn68NxB9vorqFBV30p.jpg"
+        },
+        {
+            "title": "Once Upon a Time",
+            "season": "3",
+            "episode_number": "13",
+            "ep_id": "tv/twilight-zone/0313.mkv",
+            "description": "Woodrow, a janitor living in the year 1890, accidentally activates a time travelling helmet which transports him to 1962.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/95p2aGV1aN6wlWR5jDkzIaEF53C.jpg"
+        },
+        {
+            "title": "Five Characters in Search of an Exit",
+            "season": "3",
+            "episode_number": "14",
+            "ep_id": "tv/twilight-zone/0314.mkv",
+            "description": "A hobo, clown, bagpipe player, ballerina and military officer are trapped in a huge cylinder.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/orykjw5PULuKNSjkJ7C2dGLkKXT.jpg"
+        },
+        {
+            "title": "A Quality of Mercy",
+            "season": "3",
+            "episode_number": "15",
+            "ep_id": "tv/twilight-zone/0315.mkv",
+            "description": "A gung ho young soldier gets a new viewpoint on war when he inexplicably changes places with a Japanese officer trying to stop his superior from leading a charge against American forces.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cZHtM5dUQWN09X1nEfSv5RfaEJd.jpg"
+        },
+        {
+            "title": "Nothing in the Dark",
+            "season": "3",
+            "episode_number": "16",
+            "ep_id": "tv/twilight-zone/0316.mkv",
+            "description": "A lonely old woman refuses to leave her apartment for fear of meeting \"Mr. Death.\"",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2hSg9csep9frRvgkaIhoXnesjh.jpg"
+        },
+        {
+            "title": "One More Pallbearer",
+            "season": "3",
+            "episode_number": "17",
+            "ep_id": "tv/twilight-zone/0317.mkv",
+            "description": "Paul Radin has invited three people to join him in his bomb shelter.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cSq1Y4CqqZHmfxg8uNA1ieArwFM.jpg"
+        },
+        {
+            "title": "Dead Man's Shoes",
+            "season": "3",
+            "episode_number": "18",
+            "ep_id": "tv/twilight-zone/0318.mkv",
+            "description": "A vagrant steps into a murdered gangster's expensive shoes and is taken over by the dead man's ghost, who vows to remain on Earth to seek revenge against his killer.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/nUm509AyHFPQcBlyPE6EU6lciQw.jpg"
+        },
+        {
+            "title": "The Hunt",
+            "season": "3",
+            "episode_number": "19",
+            "ep_id": "tv/twilight-zone/0319.mkv",
+            "description": "On a hunting trip, Hyder Simpson and his dog Rip dive into a lake after a raccoon. When he gets home he finds that no one can see or hear him.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6ftvCGzZGTrKKKKXEEZOXDTRKRF.jpg"
+        },
+        {
+            "title": "Showdown with Rance McGrew",
+            "season": "3",
+            "episode_number": "20",
+            "ep_id": "tv/twilight-zone/0320.mkv",
+            "description": "The star of a Western TV series suddenly finds himself transported back in time to the real Wild West, and face-to-face with the real Jesse James.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/uKQTZG0tjVINQA68aiDBtA21gE1.jpg"
+        },
+        {
+            "title": "Kick the Can",
+            "season": "3",
+            "episode_number": "21",
+            "ep_id": "tv/twilight-zone/0321.mkv",
+            "description": "A retiree living in a rest home thinks he has discovered the secret of youth \u2014 acting young, and in particular playing a children's game called \"kick-the-can\".",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vyMFY3f52iQueeWt9WYjvc2l1xR.jpg"
+        },
+        {
+            "title": "A Piano in the House",
+            "season": "3",
+            "episode_number": "22",
+            "ep_id": "tv/twilight-zone/0322.mkv",
+            "description": "Fortune discovers that a piano he bought his wife for her birthday has magical properties - the music that it plays makes people reveal their true essence.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vF7257FXMrdZaMjOeNavT8hwETf.jpg"
+        },
+        {
+            "title": "The Last Rites of Jeff Myrtlebank",
+            "season": "3",
+            "episode_number": "23",
+            "ep_id": "tv/twilight-zone/0323.mkv",
+            "description": "Jeff Myrtlebank comes back to life at his own funeral and soon begins to act very strangely...",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1XYU3KLynX52OOyWIcl1wmhOZjA.jpg"
+        },
+        {
+            "title": "To Serve Man",
+            "season": "3",
+            "episode_number": "24",
+            "ep_id": "tv/twilight-zone/0324.mkv",
+            "description": "An alien race comes to Earth, promising peace and sharing technology. A team of linguists sets out to translate the aliens' language, using a book whose title they deduce to be \"To Serve Man.\"",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/mGeCsyqqcnmL0UcBcfcGFLdFKwj.jpg"
+        },
+        {
+            "title": "The Fugitive",
+            "season": "3",
+            "episode_number": "25",
+            "ep_id": "tv/twilight-zone/0325.mkv",
+            "description": "Old Ben, who is able to transform himself into anything, tries to help a crippled little girl.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/pmBbz6Utnvhv0sXilOGVVt60Enr.jpg"
+        },
+        {
+            "title": "Little Girl Lost",
+            "season": "3",
+            "episode_number": "26",
+            "ep_id": "tv/twilight-zone/0326.mkv",
+            "description": "Awakened by the cries of their daughter Bettina, Chris and Ruth Miller enter her room to find that she has vanished, even though they still hear her crying for help. Chris' physicist friend Bill thinks she moved into another dimension.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/lKoUBbQzEs51gi76QAiswm427Sv.jpg"
+        },
+        {
+            "title": "Person or Persons Unknown",
+            "season": "3",
+            "episode_number": "27",
+            "ep_id": "tv/twilight-zone/0327.mkv",
+            "description": "David Gurney wakes up to find that no one - his wife, his co-workers, his best friend, not even his own mother knows him.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/AolnkPgXTKJQnWhBTzfwPo3TKXP.jpg"
+        },
+        {
+            "title": "The Little People",
+            "season": "3",
+            "episode_number": "28",
+            "ep_id": "tv/twilight-zone/0328.mkv",
+            "description": "An astronaut declares himself a god when his ship lands on a planet populated by people smaller than ants.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rTE9246VrCFUm8zBs73arEpZztc.jpg"
+        },
+        {
+            "title": "Four O'Clock",
+            "season": "3",
+            "episode_number": "29",
+            "ep_id": "tv/twilight-zone/0329.mkv",
+            "description": "Oliver Crangle is a bitter, prejudiced man. Through unknown means he intends to shrink every evil person in the world at four o'clock.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/nlL10AswwprOsPaiYMuNxCqkJlg.jpg"
+        },
+        {
+            "title": "Hocus-Pocus and Frisby",
+            "season": "3",
+            "episode_number": "30",
+            "ep_id": "tv/twilight-zone/0330.mkv",
+            "description": "A loud-mouthed braggart's boasts attract the attention of some aliens.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6X4RITcKVFWHdVMoCRzJDI3Tz2d.jpg"
+        },
+        {
+            "title": "The Trade-Ins",
+            "season": "3",
+            "episode_number": "31",
+            "ep_id": "tv/twilight-zone/0331.mkv",
+            "description": "An elderly couple visit the New Life Corporation, hoping to transport their personalities into youthful artificial bodies.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2axTcWTIfuMM5E6HwxJ8VwQzqLs.jpg"
+        },
+        {
+            "title": "The Gift",
+            "season": "3",
+            "episode_number": "32",
+            "ep_id": "tv/twilight-zone/0332.mkv",
+            "description": "An alien who crash-lands into a remote mountain village stirs up the villagers' fears and animosity, but he befriends a little boy and gives him a mysterious present.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4gfuhA2wsIkbJV98JbnyQlG93Ev.jpg"
+        },
+        {
+            "title": "The Dummy",
+            "season": "3",
+            "episode_number": "33",
+            "ep_id": "tv/twilight-zone/0333.mkv",
+            "description": "A ventriloquist is convinced that his dummy, Willie, is alive and evil.  He makes plans for a new act with a new dummy:  plans that Willie doesn't support!",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/oQvzAYWfBSuUfzkrEYmOwqFayKE.jpg"
+        },
+        {
+            "title": "Young Man's Fancy",
+            "season": "3",
+            "episode_number": "34",
+            "ep_id": "tv/twilight-zone/0334.mkv",
+            "description": "When a newlywed couple briefly return to the groom's childhood home, the ties of the past prove too strong to resist.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/spWXgT2Xbxp6iTUntyIf08YMtpR.jpg"
+        },
+        {
+            "title": "I Sing the Body Electric",
+            "season": "3",
+            "episode_number": "35",
+            "ep_id": "tv/twilight-zone/0335.mkv",
+            "description": "A widower buys a robot grandmother for his three children.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/mRkExUGQRJy9Q01pDz7vT4OxPGY.jpg"
+        },
+        {
+            "title": "Cavender is Coming",
+            "season": "3",
+            "episode_number": "36",
+            "ep_id": "tv/twilight-zone/0336.mkv",
+            "description": "Cavender, an angel trying to win his wings, tries to help down-on-her-luck Agnes, who has just been fired.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hIRZKkPH5YfSxuiDMcOeXXoq5Ph.jpg"
+        },
+        {
+            "title": "The Changing of the Guard",
+            "season": "3",
+            "episode_number": "37",
+            "ep_id": "tv/twilight-zone/0337.mkv",
+            "description": "An elderly private school teacher wonders if his life has meant anything as he contemplates suicide on Christmas Eve and is reminded by former students that he has, indeed, made an effect on the lives of his students over the years.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/9Mn6ZXGAOCaoMz8KTAVTJtnm6dI.jpg"
+        },
+        {
+            "title": "In His Image",
+            "season": "4",
+            "episode_number": "1",
+            "ep_id": "tv/twilight-zone/0401.mkv",
+            "description": "A scientist tries to correct his imperfections by building a mechanical likeness of himself, which includes of all the finer qualities he is lacking.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6GG98uorThxtk1U1UahrvHZp1xX.jpg"
+        },
+        {
+            "title": "The Thirty-Fathom Grave",
+            "season": "4",
+            "episode_number": "2",
+            "ep_id": "tv/twilight-zone/0402.mkv",
+            "description": "A US naval destroyer investigates a mysterious tapping sound coming from a sunken submarine.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4M5evqqCws4n6CLJRXpmNinsnDK.jpg"
+        },
+        {
+            "title": "Valley of the Shadow",
+            "season": "4",
+            "episode_number": "3",
+            "ep_id": "tv/twilight-zone/0403.mkv",
+            "description": "A reporter finds himself trapped in a small town where people can reverse time and do many other amazing things.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3urPQHC8eed4Yr5cvsWvNEL9O9t.jpg"
+        },
+        {
+            "title": "He's Alive",
+            "season": "4",
+            "episode_number": "4",
+            "ep_id": "tv/twilight-zone/0404.mkv",
+            "description": "Peter Vollmer, a small-time neo-Nazi leader, yearns for more power. Advised by a shadowy benefactor, Vollmer's following grows, as does his ego...",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/TXEQrU6cbHXjcvd3ZMh0URtWFB.jpg"
+        },
+        {
+            "title": "Mute",
+            "season": "4",
+            "episode_number": "5",
+            "ep_id": "tv/twilight-zone/0405.mkv",
+            "description": "A 12-year-old girl who lost her parents in a fire doesn't speak because she has grown up in a secret telepathic community. The couple who take her in, and her teacher, are determined to help her adapt to their society, no matter the cost.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xXt6aVk9JDKy5dpU9PANVKqc2yg.jpg"
+        },
+        {
+            "title": "Death Ship",
+            "season": "4",
+            "episode_number": "6",
+            "ep_id": "tv/twilight-zone/0406.mkv",
+            "description": "A three-man spacecraft lands on a planet only to discover the wreckage of a spacecraft identical to their own. Two of the crew are convinced that they are dead, but the captain refuses to see the truth.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qZ8eaAzhcKgfkyAfwZbYzewnYHd.jpg"
+        },
+        {
+            "title": "Jess-Belle",
+            "season": "4",
+            "episode_number": "7",
+            "ep_id": "tv/twilight-zone/0407.mkv",
+            "description": "Jess-Belle enlists the aid of a local witch who casts a spell that makes Billy-Ben Turner fall in love with her.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/lwuevJW5579dbk3R2szw3emK852.jpg"
+        },
+        {
+            "title": "Miniature",
+            "season": "4",
+            "episode_number": "8",
+            "ep_id": "tv/twilight-zone/0408.mkv",
+            "description": "A lonely man falls in love with a mini museum doll, which he believes is alive.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1e9ua1QARt2kqFPhclMyYJOEHd3.jpg"
+        },
+        {
+            "title": "Printer's Devil",
+            "season": "4",
+            "episode_number": "9",
+            "ep_id": "tv/twilight-zone/0409.mkv",
+            "description": "A wily old man, hired by a bankrupt newspaper editor, has the knack of predicting headline stories and claims to be the Devil.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/9BUDiFFkmaRnX4xf9YbIYRpIGol.jpg"
+        },
+        {
+            "title": "No Time Like the Past",
+            "season": "4",
+            "episode_number": "10",
+            "ep_id": "tv/twilight-zone/0410.mkv",
+            "description": "A man travels back in time to try to prevent some of history's catastrophes.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vTw7TCbFAt9emS89FWC43znRFIJ.jpg"
+        },
+        {
+            "title": "The Parallel",
+            "season": "4",
+            "episode_number": "11",
+            "ep_id": "tv/twilight-zone/0411.mkv",
+            "description": "An astronaut blacks out while orbiting the earth and ends up in a parallel universe.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/op7l5MIxhCrRLMtZBFmwgBVUQkf.jpg"
+        },
+        {
+            "title": "I Dream of Genie",
+            "season": "4",
+            "episode_number": "12",
+            "ep_id": "tv/twilight-zone/0412.mkv",
+            "description": "A man considers several possibilities when offered one wish by a genie.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/zECxGYwVeEUtiKqawTjFemEcwLl.jpg"
+        },
+        {
+            "title": "The New Exhibit",
+            "season": "4",
+            "episode_number": "13",
+            "ep_id": "tv/twilight-zone/0413.mkv",
+            "description": "The curator of a murderers' row in a soon-to-be-defunct wax museum persuades the owner to let him keep the figures for awhile. When his wife attempts to destroy them, a new murderous rampage begins...",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/eE2ciCuiJs1DbDbUBn5ZwZcFvFS.jpg"
+        },
+        {
+            "title": "Of Late I Think of Cliffordville",
+            "season": "4",
+            "episode_number": "14",
+            "ep_id": "tv/twilight-zone/0414.mkv",
+            "description": "A bored, wealthy businessman gets a chance to go back in time and start over, armed with all the knowledge he's acquired...an arsenal that's not as powerful as he thinks.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/k33poLVPj9l2NWRN1ZpZumULLVt.jpg"
+        },
+        {
+            "title": "The Incredible World of Horace Ford",
+            "season": "4",
+            "episode_number": "15",
+            "ep_id": "tv/twilight-zone/0415.mkv",
+            "description": "Toy designer Horace Ford spends most of his time reminiscing about his idyllic childhood. But when he gets a chance to go back to those years he gets a bitter taste of reality.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7QxIM4f8ufJL7HQAZ7Qh3ntwbAr.jpg"
+        },
+        {
+            "title": "On Thursday We Leave for Home",
+            "season": "4",
+            "episode_number": "16",
+            "ep_id": "tv/twilight-zone/0416.mkv",
+            "description": "The leader of an expedition on an asteroid tries to convince the others that Earth is not worth returning to.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/i08BlyZLiFnf4s7zkcUjgN5dQtk.jpg"
+        },
+        {
+            "title": "Passage on the Lady Anne",
+            "season": "4",
+            "episode_number": "17",
+            "ep_id": "tv/twilight-zone/0417.mkv",
+            "description": "A quarrelsome young couple find themselves taking a trip on the Lady Anne, an old passenger liner that is transporting a group of equally old passengers.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/9N8J6sPbhdEbtKRqVP2tVWGAxj6.jpg"
+        },
+        {
+            "title": "The Bard",
+            "season": "4",
+            "episode_number": "18",
+            "ep_id": "tv/twilight-zone/0418.mkv",
+            "description": "An untalented would-be writer's career takes off when the ghost of William Shakespeare writes his script.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/i10vXn2d34bGYLB8CUlblkHEvPv.jpg"
+        },
+        {
+            "title": "In Praise of Pip",
+            "season": "5",
+            "episode_number": "1",
+            "ep_id": "tv/twilight-zone/0501.mkv",
+            "description": "Max Phillips is an alcoholic bookie that regrets that he wasn't a better father to his son, Pip, critically wounded in South Vietnam. A visit to an amusement park gives them both a second chance.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/68pRh83VmEeYL0x34WzSqmdmCQ5.jpg"
+        },
+        {
+            "title": "Steel",
+            "season": "5",
+            "episode_number": "2",
+            "ep_id": "tv/twilight-zone/0502.mkv",
+            "description": "A small-time promoter desperately in need of money takes the place of his broken-down robot in a prize fight where humans are barred from participating.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/udRhyKyzpfymKqTCNWHuAnvVfKL.jpg"
+        },
+        {
+            "title": "Nightmare at 20,000 Feet",
+            "season": "5",
+            "episode_number": "3",
+            "ep_id": "tv/twilight-zone/0503.mkv",
+            "description": "A man, newly recovered from a nervous breakdown, becomes convinced that a monster only he sees is damaging the plane he's flying in.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/444DcbomD0rUQvFomKIj23pg44e.jpg"
+        },
+        {
+            "title": "A Kind of a Stopwatch",
+            "season": "5",
+            "episode_number": "4",
+            "ep_id": "tv/twilight-zone/0504.mkv",
+            "description": "The world's biggest bore and most avid talker gets a magical stopwatch that can stop everything except him.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qx0IGjiascwvaa7yJ5jaE5H1nz1.jpg"
+        },
+        {
+            "title": "The Last Night of a Jockey",
+            "season": "5",
+            "episode_number": "5",
+            "ep_id": "tv/twilight-zone/0505.mkv",
+            "description": "Barred from the track for life, crooked jockey Grady boozily expresses the wish to escape his sordid surroundings and become a truly \"big man.\" His wish is granted by his lookalike alter ego, but there's a heavy price to be paid at fadeout time.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/j8yP9sgAtkW3dINMNMpYMjyz5jz.jpg"
+        },
+        {
+            "title": "Living Doll",
+            "season": "5",
+            "episode_number": "6",
+            "ep_id": "tv/twilight-zone/0506.mkv",
+            "description": "Erich is displeased when his wife buys an expensive doll for his step-daughter.  He becomes even more displeased when the doll tells him it doesn't like him!",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5cQeOtQLLHLDmyaQwBlidF7n6yB.jpg"
+        },
+        {
+            "title": "The Old Man in the Cave",
+            "season": "5",
+            "episode_number": "7",
+            "ep_id": "tv/twilight-zone/0507.mkv",
+            "description": "A mysterious guardian helps a tiny community survive after the Bomb destroys much of the Earth.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/h34BCHSWAuDGmovoLYvOtS2XVTa.jpg"
+        },
+        {
+            "title": "Uncle Simon",
+            "season": "5",
+            "episode_number": "8",
+            "ep_id": "tv/twilight-zone/0508.mkv",
+            "description": "To inherit her insufferable Uncle's estate, a woman learns she must serve his latest invention, which is endowed with his own persona.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/bUzPMGuQn1SaEBBSlJXhWVo91qf.jpg"
+        },
+        {
+            "title": "Probe 7, Over and Out",
+            "season": "5",
+            "episode_number": "9",
+            "ep_id": "tv/twilight-zone/0509.mkv",
+            "description": "The lone survivors of two annihilated worlds are stranded on a distant planet.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/bmgE514XGHvWzJvi83RFgEMcPsD.jpg"
+        },
+        {
+            "title": "The 7th Is Made Up of Phantoms",
+            "season": "5",
+            "episode_number": "10",
+            "ep_id": "tv/twilight-zone/0510.mkv",
+            "description": "A modern day National Guard unit find themselves in the middle of Custer's Last Stand at the Battle of Little Big Horn.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xC1piQGi6qUQFhaSHxlRtbcicGz.jpg"
+        },
+        {
+            "title": "A Short Drink from a Certain Fountain",
+            "season": "5",
+            "episode_number": "11",
+            "ep_id": "tv/twilight-zone/0511.mkv",
+            "description": "Trying to keep up with his younger wife, Harmon convinces his brother to inject him with an experimental youth serum.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cueFCUytUf134Bei9LOuUJ8xlUl.jpg"
+        },
+        {
+            "title": "Ninety Years Without Slumbering",
+            "season": "5",
+            "episode_number": "12",
+            "ep_id": "tv/twilight-zone/0512.mkv",
+            "description": "An old man fears that he will die if his grandfather clock stops running.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vtokDSXVAVRWqU53t3OdX0KBjuT.jpg"
+        },
+        {
+            "title": "Ring-a-Ding Girl",
+            "season": "5",
+            "episode_number": "13",
+            "ep_id": "tv/twilight-zone/0513.mkv",
+            "description": "A fan-club gift draws a movie star back home, where she disrupts local plans for a town picnic by offering a one-woman show.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/kriUdZyzakwbkCWWioOkObuslFQ.jpg"
+        },
+        {
+            "title": "You Drive",
+            "season": "5",
+            "episode_number": "14",
+            "ep_id": "tv/twilight-zone/0514.mkv",
+            "description": "Driving home one rainy evening, Oliver Pope accidentally hits a boy on a bicycle. Pope flees the scene, determined to hide his guilt, but his car has other ideas.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/79VkR2mqv4RXjJRRLczy6ssgHUp.jpg"
+        },
+        {
+            "title": "The Long Morrow",
+            "season": "5",
+            "episode_number": "15",
+            "ep_id": "tv/twilight-zone/0515.mkv",
+            "description": "Before leaving on a decades long mission, astronaut Douglas Stansfield meets a woman and falls in love.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/lYULRHBHUBlNx8dr4sFyG7N6h6i.jpg"
+        },
+        {
+            "title": "The Self-Improvement of Salvadore Ross",
+            "season": "5",
+            "episode_number": "16",
+            "ep_id": "tv/twilight-zone/0516.mkv",
+            "description": "A man finds that he can trade characteristics with others.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/tKLj57AfB4lGImomOZAPvDuTC08.jpg"
+        },
+        {
+            "title": "Number 12 Looks Just Like You",
+            "season": "5",
+            "episode_number": "17",
+            "ep_id": "tv/twilight-zone/0517.mkv",
+            "description": "In a future where everyone must undergo an operation at the age of 19 to make them identical to everyone else, one woman desperately tries to hang onto her own identity.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xNa2MJpMcA1S6oHkB2WtruEj3Vz.jpg"
+        },
+        {
+            "title": "Black Leather Jackets",
+            "season": "5",
+            "episode_number": "18",
+            "ep_id": "tv/twilight-zone/0518.mkv",
+            "description": "Three tough-looking men on motorcycles disrupt a peaceful suburb when they move in. Yet the neighbors could never imagine just how dangerous these men really are.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vltHOZ1DHBETd9bUu2gaq6eUgfv.jpg"
+        },
+        {
+            "title": "Night Call",
+            "season": "5",
+            "episode_number": "19",
+            "ep_id": "tv/twilight-zone/0519.mkv",
+            "description": "An elderly, wheelchair-bound lady receives strange anonymous phone calls in the middle of the night.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/jN8wiOSqi1xh9WrHKhzmMCkJUth.jpg"
+        },
+        {
+            "title": "From Agnes \u2013 With Love",
+            "season": "5",
+            "episode_number": "20",
+            "ep_id": "tv/twilight-zone/0520.mkv",
+            "description": "A computer technician must deal with the queen of all femme fatales: a computer named Agnes who wreaks havoc on his love life.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/zA16fxRPc8J7dBlZmPpvGTNzL9J.jpg"
+        },
+        {
+            "title": "Spur of the Moment",
+            "season": "5",
+            "episode_number": "21",
+            "ep_id": "tv/twilight-zone/0521.mkv",
+            "description": "After being chased on horseback by a terrifying, unidentified figure in black, Anne Henderson faces the biggest decision of her life.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/soHN0vtSk6n9Ku3qV5oKwfTeouI.jpg"
+        },
+        {
+            "title": "An Occurrence at Owl Creek Bridge",
+            "season": "5",
+            "episode_number": "22",
+            "ep_id": "tv/twilight-zone/0522.mkv",
+            "description": "As a Confederate spy is about to be hanged, the rope breaks and he falls to the water below. Finally free, he races for his home where his family awaits... as does the terrible truth of his future...",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/r1btFwY5wTHMhYxLTKFbTB6i5U8.jpg"
+        },
+        {
+            "title": "Queen of the Nile",
+            "season": "5",
+            "episode_number": "23",
+            "ep_id": "tv/twilight-zone/0523.mkv",
+            "description": "A columnist interviews a famous movie actress who has a secret to her eternal beauty.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5flM7P4P9YFW6GQQ8lkBLsomJx9.jpg"
+        },
+        {
+            "title": "What's in the Box",
+            "season": "5",
+            "episode_number": "24",
+            "ep_id": "tv/twilight-zone/0524.mkv",
+            "description": "A cheating husband sees his secret revealed and it's horrible consequences on his just-repaired TV set.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/nhbZJOmeaWMsRJUWHMwUmnmM2rD.jpg"
+        },
+        {
+            "title": "The Masks",
+            "season": "5",
+            "episode_number": "25",
+            "ep_id": "tv/twilight-zone/0525.mkv",
+            "description": "A wealthy dying man invites his family to a Mardi Gras party and insists that they wear masks specially made for them, threatening to cut off their inheritance if they refuse.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/AmAN7mzn5TeeXcJ8b8b7vs1WlYW.jpg"
+        },
+        {
+            "title": "I Am the Night - Color Me Black",
+            "season": "5",
+            "episode_number": "26",
+            "ep_id": "tv/twilight-zone/0526.mkv",
+            "description": "On the day an unpopular idealist is to be executed for the killing of a racist bully, the townsfolk are shocked to see the skies have turned pitch black.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dsqdexf7nujWBDGwqiHrGuwQ9F6.jpg"
+        },
+        {
+            "title": "Sounds and Silences",
+            "season": "5",
+            "episode_number": "27",
+            "ep_id": "tv/twilight-zone/0527.mkv",
+            "description": "A man's wish to listen to loud noise backfires.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7HXS0G1fiNgGijhaRGfbB3ZEEtg.jpg"
+        },
+        {
+            "title": "Caesar and Me",
+            "season": "5",
+            "episode_number": "28",
+            "ep_id": "tv/twilight-zone/0528.mkv",
+            "description": "A ventriloquist's dummy goads him into committing  burglaries.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/jwDs2y3oits1a35LVPPndhrw9Oj.jpg"
+        },
+        {
+            "title": "The Jeopardy Room",
+            "season": "5",
+            "episode_number": "29",
+            "ep_id": "tv/twilight-zone/0529.mkv",
+            "description": "A KGB agent plays games with a defector, whose life he's been ordered to take, by giving him three hours to find and defuse a bomb he has hidden in his room.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/j8btOd13UKqyNtecyS3YXzmwUs4.jpg"
+        },
+        {
+            "title": "Stopover in a Quiet Town",
+            "season": "5",
+            "episode_number": "30",
+            "ep_id": "tv/twilight-zone/0530.mkv",
+            "description": "The morning after a wild night of partying, a hungover married couple awaken in an unfamiliar and artificial place.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/AilwBZmb3cKaii3Ev9UPy8pQX3i.jpg"
+        },
+        {
+            "title": "The Encounter",
+            "season": "5",
+            "episode_number": "31",
+            "ep_id": "tv/twilight-zone/0531.mkv",
+            "description": "A World War II veteran and a Japanese-American gardener battle each other over a war that ended more than 20 years ago.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dmm2QVaeqy8k851a9hxgAfX1Heg.jpg"
+        },
+        {
+            "title": "Mr. Garrity and the Graves",
+            "season": "5",
+            "episode_number": "32",
+            "ep_id": "tv/twilight-zone/0532.mkv",
+            "description": "Jared Garrity arrives in the Old West town of Happiness, Arizona, proclaiming he can revive the dead.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/fBmyoV8deKmzMXzuocaKdCOF6tV.jpg"
+        },
+        {
+            "title": "The Brain Center at Whipple's",
+            "season": "5",
+            "episode_number": "33",
+            "ep_id": "tv/twilight-zone/0533.mkv",
+            "description": "A factory CEO replaces human workers with machines.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/ey87e9ORqpRtpWIwqYDOgqZzkJC.jpg"
+        },
+        {
+            "title": "Come Wander with Me",
+            "season": "5",
+            "episode_number": "34",
+            "ep_id": "tv/twilight-zone/0534.mkv",
+            "description": "A singer searches for an authentic folk song.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/gjrBoDoYeBivBJcDOTK345F4Amx.jpg"
+        },
+        {
+            "title": "The Fear",
+            "season": "5",
+            "episode_number": "35",
+            "ep_id": "tv/twilight-zone/0535.mkv",
+            "description": "Two people in a remote cabin find signs of an extraterrestrial.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/e1zP4FOWN1jsPhDloIx9kIQNXod.jpg"
+        },
+        {
+            "title": "The Bewitchin' Pool",
+            "season": "5",
+            "episode_number": "36",
+            "ep_id": "tv/twilight-zone/0536.mkv",
+            "description": "Two unhappy children find a happy escape in a swimming pool.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/14dGGthtsrdrh6w9104eDJiun95.jpg"
+        }
+    ]
 }
