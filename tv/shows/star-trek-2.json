@@ -1,183 +1,1415 @@
 {
-	"title": "Star Trek: The Next Generation",
-	"logo": "hAYOfsQNftmuKQjqkBzeiUuO0YH.webp",
-	"image_url": "wp15741164.jpg",
-	"episodes": [
-		{
-			"title": "The Child",
-			"season": "2",
-			"episode_number": "1",
-			"ep_id": "tv/star-trek/next-generation/0201.mkv",
-			"description": "Deanna is impregnated by an unknown alien life-form, and Dr. Katherine Pulaski joins the Enterprise as the ship's new Chief Medical Officer.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNjg1MzBhNTYtMDRkMS00MDdhLTk4ZTMtZTMxZmI1YWZiZTQ4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,89,1000,563_.jpg"
-		},
-		{
-			"title": "Where Silence Has Lease",
-			"season": "2",
-			"episode_number": "2",
-			"ep_id": "tv/star-trek/next-generation/0202.mkv",
-			"description": "The Enterprise encounters a mysterious void in space, and when they move in closer to investigate further, it envelops them and they can't get out.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNGY3OTk1MmUtOWNmMi00ZWZkLWFmNmItYmUwN2JhNzE1MWNjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,91,1000,563_.jpg"
-		},
-		{
-			"title": "Elementary, Dear Data",
-			"season": "2",
-			"episode_number": "3",
-			"ep_id": "tv/star-trek/next-generation/0203.mkv",
-			"description": "An attempt to provide Data with a challenging Sherlock Holmes holodeck program backfires when its Professor Moriarty character accidentally becomes self-aware.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BOGMyZDcwN2EtMDNhZS00ZDE5LWEyNmYtMzQyODdkYjA3NTdlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,89,1000,563_.jpg"
-		},
-		{
-			"title": "The Outrageous Okona",
-			"season": "2",
-			"episode_number": "4",
-			"ep_id": "tv/star-trek/next-generation/0204.mkv",
-			"description": "The Enterprise rescues the captain of a broken-down freighter, only to become involved in a dispute between feuding worlds, each demanding custody of their guest. Data seeks help from Guinan in understanding humor.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMDMyNDg0ZGMtYTBkZS00MjY5LTk5MDItNTQyNDIyZTk1ZGUyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
-		},
-		{
-			"title": "Loud as a Whisper",
-			"season": "2",
-			"episode_number": "5",
-			"ep_id": "tv/star-trek/next-generation/0205.mkv",
-			"description": "The crew ferries a deaf mediator to Solais V to negotiate an end to a civil war.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMWMzODU2MWQtM2IxZi00ZjA5LTkyOWEtMjIxZTY2MzY5ZWYzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
-		},
-		{
-			"title": "The Schizoid Man",
-			"season": "2",
-			"episode_number": "6",
-			"ep_id": "tv/star-trek/next-generation/0206.mkv",
-			"description": "A dying anti-social scientist unintentionally comes upon the perfect vessel in which to preserve his intellect and arrogant personality - Data.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTU1NzQ0MTA2Nl5BMl5BanBnXkFtZTgwNTQwNTg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Unnatural Selection",
-			"season": "2",
-			"episode_number": "7",
-			"ep_id": "tv/star-trek/next-generation/0207.mkv",
-			"description": "Enhanced DNA developments trigger an epidemic of rapid aging. Caught among its victims - Dr. Pulaski.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzNjAwNzQzM15BMl5BanBnXkFtZTgwMjg4NDg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "A Matter of Honor",
-			"season": "2",
-			"episode_number": "8",
-			"ep_id": "tv/star-trek/next-generation/0208.mkv",
-			"description": "Under an Officers Exchange Program, Riker serves aboard a Klingon ship, whose aging captain seeks an unwarranted bloody retaliation for suspected Enterprise treachery.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNmJiMzM1ZTYtZjAyYy00NWRkLTllOTMtM2QzYzRlMThiY2NjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
-		},
-		{
-			"title": "The Measure of a Man",
-			"season": "2",
-			"episode_number": "9",
-			"ep_id": "tv/star-trek/next-generation/0209.mkv",
-			"description": "When Data resigns his commission rather than be dismantled for examination by an inadequately skilled scientist, a formal hearing is convened to determine whether Data is considered property without rights or is a sentient being.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZGY1ZTMzZjUtYmNlMy00NTI1LWExODktYzcxZTE3YjQyZDU5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
-		},
-		{
-			"title": "The Dauphin",
-			"season": "2",
-			"episode_number": "10",
-			"ep_id": "tv/star-trek/next-generation/0210.mkv",
-			"description": "Wesley falls for the young future leader of Daled IV, unaware just how dangerous the girl's protective and overly restrictive guardian can be.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZWEzMjc4MjktNWFiNi00NTk4LWJiYzYtMmY0NzljMTM1NzQ1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
-		},
-		{
-			"title": "Contagion",
-			"season": "2",
-			"episode_number": "11",
-			"ep_id": "tv/star-trek/next-generation/0211.mkv",
-			"description": "Encountering the superior technology of a very ancient race creates system malfunctions for a doomed Federation starship, for the Enterprise, and for an eavesdropping Romulan warbird.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTM2ZDBmNDctNzlhOS00OTNkLWJkYTEtZTY0NGMwZThhODQwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,89,1000,563_.jpg"
-		},
-		{
-			"title": "The Royale",
-			"season": "2",
-			"episode_number": "12",
-			"ep_id": "tv/star-trek/next-generation/0212.mkv",
-			"description": "Worf, Data, and Riker find themselves trapped in a re-creation of a poorly written novel.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BOGM2YmM1OTYtOTMxYi00YmFkLTk4MjEtYjJkYWJjYWE3MGRiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,86,1000,563_.jpg"
-		},
-		{
-			"title": "Time Squared",
-			"season": "2",
-			"episode_number": "13",
-			"ep_id": "tv/star-trek/next-generation/0213.mkv",
-			"description": "The Enterprise comes across its own shuttlecraft adrift in space - a duplicate - with an unconscious duplicate Capt. Picard inside.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BN2FiMzQ2NGQtMmY4Ni00NWE3LWI0ZWMtOTMxMjI3ZGE4M2U3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,88,1000,563_.jpg"
-		},
-		{
-			"title": "The Icarus Factor",
-			"season": "2",
-			"episode_number": "14",
-			"ep_id": "tv/star-trek/next-generation/0214.mkv",
-			"description": "Riker's delight at being offered a command of the USS Ares turns to frustration when the man sent to prepare him for his mission is his estranged father; Worf's behavior leads Wesley to delve into Klingon tradition.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZjEyOGVhMmQtY2JkNC00MTE3LWI3N2EtNzQ4NzljNGNhY2FkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,90,1000,563_.jpg"
-		},
-		{
-			"title": "Pen Pals",
-			"season": "2",
-			"episode_number": "15",
-			"ep_id": "tv/star-trek/next-generation/0215.mkv",
-			"description": "Data befriends an alien girl in distress, breaking the Prime Directive, while Wesley commands his first team.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTgxMjE3NTYzNl5BMl5BanBnXkFtZTgwNjUwNTg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Q Who",
-			"season": "2",
-			"episode_number": "16",
-			"ep_id": "tv/star-trek/next-generation/0216.mkv",
-			"description": "Q tries to prove that Picard needs him as part of their crew by hurling the Enterprise 7,000 light years away where they encounter the Borg for the first time.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE1YTEwM2ItNTYxNC00OWE4LTgyZmMtMWFhNzZkZjg0N2Q0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,97,1000,563_.jpg"
-		},
-		{
-			"title": "Samaritan Snare",
-			"season": "2",
-			"episode_number": "17",
-			"ep_id": "tv/star-trek/next-generation/0217.mkv",
-			"description": "With Picard away for routine surgery, the Enterprise responds to an apparent distress call from a Pakled vessel.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ4MjExMDQ1Nl5BMl5BanBnXkFtZTgwNzAwNTg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Up the Long Ladder",
-			"season": "2",
-			"episode_number": "18",
-			"ep_id": "tv/star-trek/next-generation/0218.mkv",
-			"description": "An antiquated distress signal leads to two lost 22nd century Earth colonies, each facing doom in different ways, one by fire, the other by prolonged cloning.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BOTBjNzBiZWItMTQ3ZS00MWRhLTg1OGUtOGU0OGQwYmRlNzYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,89,1000,563_.jpg"
-		},
-		{
-			"title": "Manhunt",
-			"season": "2",
-			"episode_number": "19",
-			"ep_id": "tv/star-trek/next-generation/0219.mkv",
-			"description": "A midlife Betazoid condition renders Ambassador Troi hot on the hunt for romance and wedlock with Captain Picard - or any man.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ4MDIxMTcwMV5BMl5BanBnXkFtZTgwNTIwNTg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Emissary",
-			"season": "2",
-			"episode_number": "20",
-			"ep_id": "tv/star-trek/next-generation/0220.mkv",
-			"description": "The Enterprise addresses the emergency of an old Klingon ship coming out of stasis and ready to fight the Federation. A half-Human/half Klingon emissary arrives to help, who once knew Worf intimately.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNzAxZTlhYjItMDI5OC00NGU1LWE1YWMtYWU0OGYxYTE4YWVjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,88,1000,563_.jpg"
-		},
-		{
-			"title": "Peak Performance",
-			"season": "2",
-			"episode_number": "21",
-			"ep_id": "tv/star-trek/next-generation/0221.mkv",
-			"description": "The crew of the Enterprise participates in war games.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZjRhNmJkZDYtZTU3ZC00MzAxLWI2ODMtNmYyMTYxNTgzMjI3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Shades of Gray",
-			"season": "2",
-			"episode_number": "22",
-			"ep_id": "tv/star-trek/next-generation/0222.mkv",
-			"description": "When Commander Riker comes down with a dangerous alien infection after an away mission, the only way to treat it may be through reliving his memories.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQwODk1MjQ0OV5BMl5BanBnXkFtZTgwOTg5NDg0MjE@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		}
-	]
+    "title": "Star Trek: The Next Generation",
+    "logo": "hAYOfsQNftmuKQjqkBzeiUuO0YH.webp",
+    "image_url": "wp15741164.jpg",
+    "episodes": [
+        {
+            "title": "Encounter at Farpoint",
+            "season": "1",
+            "episode_number": "1",
+            "ep_id": "tv/star-trek-next-generation/0101.mkv",
+            "description": "Stardate: 41153.7. The new commander of the recently built U.S.S. Enterprise (NCC1701-D), Captain Jean-Luc Picard  takes the crew on their first mission to discover the secret of Farpoint Station. During their journey, they encounter an omnipotent being known as Q. Q accuses humanity of barbarism, and places humanity on trial. Jean-Luc must prove otherwise or the human race will be annihilated.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/y5UXwnxTTSW8vPmIBwP0BffodQA.jpg"
+        },
+        {
+            "title": "The Naked Now",
+            "season": "1",
+            "episode_number": "2",
+            "ep_id": "tv/star-trek-next-generation/0102.mkv",
+            "description": "Stardate: 41209.2. The crew of the Enterprise are infected with a virus contracted by the away team while they were investigating  the mysterious deaths of the entire crew of the Starship Tsilkovsky.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/mhDWO4T9GvrWKY95ZdyJX4oMd3g.jpg"
+        },
+        {
+            "title": "Code of Honor",
+            "season": "1",
+            "episode_number": "3",
+            "ep_id": "tv/star-trek-next-generation/0103.mkv",
+            "description": "Stardate: 41235.25. Tasha Yar must fight for her life and a vaccine to save a race of people when she is kidnapped and forced to battle with her abductor's wife.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/iArvevcAuymdhe2WlcmmaQ2XALD.jpg"
+        },
+        {
+            "title": "The Last Outpost",
+            "season": "1",
+            "episode_number": "4",
+            "ep_id": "tv/star-trek-next-generation/0104.mkv",
+            "description": "Stardate: 41386.4. A powerful entity disables the Enterprise and a Ferengi ship. Their only means of escape is if they can correctly answer the riddles he asks.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5xh0aAaEhxyBXDVo7bxMy0qZC3W.jpg"
+        },
+        {
+            "title": "Where No One Has Gone Before",
+            "season": "1",
+            "episode_number": "5",
+            "ep_id": "tv/star-trek-next-generation/0105.mkv",
+            "description": "Stardate: 41263.1. The Enterprise is flung across space into a distant galaxy billions of light years away when a propulsion engineer and his mysterious companion, attempt to re-design the ship's engine systems.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xjxMagQIXYiYkrSaI5T6fkO6yo5.jpg"
+        },
+        {
+            "title": "Lonely Among Us",
+            "season": "1",
+            "episode_number": "6",
+            "ep_id": "tv/star-trek-next-generation/0106.mkv",
+            "description": "Stardate: 41249.3. Picard's mind is taken over by an energy field that the Enterprise passes through.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/gs5JpbqZOgmhsruKTCeRS5MBdDx.jpg"
+        },
+        {
+            "title": "Justice",
+            "season": "1",
+            "episode_number": "7",
+            "ep_id": "tv/star-trek-next-generation/0107.mkv",
+            "description": "Stardate: 41255.6. Picard is forced to choose between friendship and the Prime Directive when Wesley Crusher is sentenced to death for accidentally breaking the law on Rubicon III.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/trvcmdI2kbwnKxi6uYcjXCUfKMh.jpg"
+        },
+        {
+            "title": "The Battle",
+            "season": "1",
+            "episode_number": "8",
+            "ep_id": "tv/star-trek-next-generation/0108.mkv",
+            "description": "Stardate: 41723.9. The Ferengi hand over an old ship which Picard once captained, the U.S.S. Stargazer. The Ferengi have installed a mind altering device that alters Picard's mind to make him think that he is reliving a past battle, and the target is the Enterprise.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8l6tDcrJzHh4mUcDPxAt4PFiUyi.jpg"
+        },
+        {
+            "title": "Hide and Q",
+            "season": "1",
+            "episode_number": "9",
+            "ep_id": "tv/star-trek-next-generation/0109.mkv",
+            "description": "Stardate: 41590.5. Q places the senior crew of the Enterprise in a war game that pits them against a boar-faced, Napoleonic enemy.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5jM7aB9t8TdSrOkDhf2sD1QgZ2v.jpg"
+        },
+        {
+            "title": "Haven",
+            "season": "1",
+            "episode_number": "10",
+            "ep_id": "tv/star-trek-next-generation/0110.mkv",
+            "description": "Stardate: 41294.5. The mother of Deanna Troi, Lwaxana,  pays a surprise visit to the Enterprise and announces the prearranged marriage of Deanna to the son of her mother's late husband's best friend.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/y9IwQKZFVi5uRrZcYLiZH0yqyxj.jpg"
+        },
+        {
+            "title": "The Big Goodbye",
+            "season": "1",
+            "episode_number": "11",
+            "ep_id": "tv/star-trek-next-generation/0111.mkv",
+            "description": "Stardate: 41997.7. Picard, Dr. Crusher and Data are placed in great danger when the holodeck malfunctions while they are running a Dixon Hill program, which pits them against 1940's mobsters.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qpsg0V1vy7eUgAbqnn6L8rMpMMp.jpg"
+        },
+        {
+            "title": "Datalore",
+            "season": "1",
+            "episode_number": "12",
+            "ep_id": "tv/star-trek-next-generation/0112.mkv",
+            "description": "Stardate: 41242.4.  While exploring his homeworld, the crew of the Enterprise find android parts that are identical to Data's. When assembled, an 'evil' twin of Data named Lore is revived.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rCTtAQaHRMPDFNft1UgiXJHPNeo.jpg"
+        },
+        {
+            "title": "Angel One",
+            "season": "1",
+            "episode_number": "13",
+            "ep_id": "tv/star-trek-next-generation/0113.mkv",
+            "description": "Stardate: 41636.9. The Enterprise discovers the male crew of a crashed Federation freighter are hiding as fugitives on the planet Angel One, which is dominated and ruled by women.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/jvYDpyI9TEm8ok6Vn5z4x3srG7Y.jpg"
+        },
+        {
+            "title": "11001001",
+            "season": "1",
+            "episode_number": "14",
+            "ep_id": "tv/star-trek-next-generation/0114.mkv",
+            "description": "Stardate: 41365.9. While undergoing repairs, the Bynar Engineers steal the Enterprise to save their planet from destruction.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hEKcK2GCdHqXLw9OQNi1mld7bHJ.jpg"
+        },
+        {
+            "title": "Too Short a Season",
+            "season": "1",
+            "episode_number": "15",
+            "ep_id": "tv/star-trek-next-generation/0115.mkv",
+            "description": "Stardate: 41309.5. The aging and terminally ill Starfleet Admiral Mark Jameson, who is negotiating the release of hostages, suddenly begins growing younger through an unexplained phenomenon.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/95d2Zh8xzzJTaYlvGcagJP6Ke74.jpg"
+        },
+        {
+            "title": "When the Bough Breaks",
+            "season": "1",
+            "episode_number": "16",
+            "ep_id": "tv/star-trek-next-generation/0116.mkv",
+            "description": "Stardate: 41509.1. The children of the Enterprise, including Wesley Crusher, are abducted by a race of sterile people who are unable to have children of their own.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/q8rkEAvnu3e9M5jbrdcIGnDDrMt.jpg"
+        },
+        {
+            "title": "Home Soil",
+            "season": "1",
+            "episode_number": "17",
+            "ep_id": "tv/star-trek-next-generation/0117.mkv",
+            "description": "Stardate: 41463.9. The members of an away team investigating the death of an engineer encounter vengeful microscopic life forms.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vFdoBdTjLZ7HStOuf3f0VmwX8Jx.jpg"
+        },
+        {
+            "title": "Coming of Age",
+            "season": "1",
+            "episode_number": "18",
+            "ep_id": "tv/star-trek-next-generation/0118.mkv",
+            "description": "Stardate: 41416.2. While Wesley takes the entrance exam to Starfleet Academy, the Enterprise is investigated by the Inspector General's office and Picard's competency is questioned.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5KWy4qmCRiw1STSYquMmgUxmEAu.jpg"
+        },
+        {
+            "title": "Heart of Glory",
+            "season": "1",
+            "episode_number": "19",
+            "ep_id": "tv/star-trek-next-generation/0119.mkv",
+            "description": "Stardate: 41503.7. Two Klingons, rescued by the Enterprise, try to take over the ship.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/nFsh5KFS5Wu53iwrrmN39D6sefm.jpg"
+        },
+        {
+            "title": "The Arsenal of Freedom",
+            "season": "1",
+            "episode_number": "20",
+            "ep_id": "tv/star-trek-next-generation/0120.mkv",
+            "description": "Stardate: 41798.2. The crew encounters bizarre phenomena while searching for the missing U.S.S. Drake.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7jVabDT4WdbuH7kYfHZmY4sUBcy.jpg"
+        },
+        {
+            "title": "Symbiosis",
+            "season": "1",
+            "episode_number": "21",
+            "ep_id": "tv/star-trek-next-generation/0121.mkv",
+            "description": "Stardate: Unknown. Picard attempts to break an ancient co-dependency between two species on one planet without violating the Prime Directive.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5z4RbWeiCPZ4KBza5pp0Yet4WRm.jpg"
+        },
+        {
+            "title": "Skin of Evil",
+            "season": "1",
+            "episode_number": "22",
+            "ep_id": "tv/star-trek-next-generation/0122.mkv",
+            "description": "Stardate: 41601.3. When Troi's shuttle crashes on an alien planet, a new being is discovered: an entity that thrives on the suffering of others.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/lUGIGfmU81NQsgHdC64S0RkzZar.jpg"
+        },
+        {
+            "title": "We'll Always Have Paris",
+            "season": "1",
+            "episode_number": "23",
+            "ep_id": "tv/star-trek-next-generation/0123.mkv",
+            "description": "Stardate: 41697.9. Picard meets an old flame, whose husband has created a haywire dimensional experiment.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/u2Em614jAh1L9lwG480KmK3zDAz.jpg"
+        },
+        {
+            "title": "Conspiracy",
+            "season": "1",
+            "episode_number": "24",
+            "ep_id": "tv/star-trek-next-generation/0124.mkv",
+            "description": "Stardate: 41775.5. The strange behavior of high-ranking officers leads Picard to uncover a twisted alien conspiracy within Starfleet.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/gSN6vCu6MfcLvGyAsn62GqM7St4.jpg"
+        },
+        {
+            "title": "The Neutral Zone",
+            "season": "1",
+            "episode_number": "25",
+            "ep_id": "tv/star-trek-next-generation/0125.mkv",
+            "description": "Stardate: 41986.0. A derelict satellite is found with cryonically frozen humans aboard as the USS Enterprise is sent to investigate the destruction of outposts near Romulan space.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xubo0bohwfjAVQJtmLyvjcBoIjV.jpg"
+        },
+        {
+            "title": "The Child",
+            "season": "2",
+            "episode_number": "1",
+            "ep_id": "tv/star-trek-next-generation/0201.mkv",
+            "description": "Stardate: 42073.1. Troi undergoes a mysterious pregnancy when the Enterprise tries to escape from a system that has recently fallen victim to a deadly plague.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/uY8hu899b7Zz7ueYmiYZ8OzpNaI.jpg"
+        },
+        {
+            "title": "Where Silence Has Lease",
+            "season": "2",
+            "episode_number": "2",
+            "ep_id": "tv/star-trek-next-generation/0202.mkv",
+            "description": "Stardate: 42193.6. A mysterious life form known as the 'Nagilum' threatens the life of the crew in his attempt to understand humanity.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/ckD1WFbehdYqi6SJfQUW5y4AxdA.jpg"
+        },
+        {
+            "title": "Elementary, Dear Data",
+            "season": "2",
+            "episode_number": "3",
+            "ep_id": "tv/star-trek-next-generation/0203.mkv",
+            "description": "Stardate: 42286.3. Data and Geordi become involved with a holodeck program about Sherlock Holmes and his investigations, when they create Sherlock's arch nemesis, Moriarty; however, modifications to the Moriarty character include the capability of out-smarting Data, which leads to some unexpected consequences.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/oXlgCMXPLbvjb2q2k0rN8qXHryh.jpg"
+        },
+        {
+            "title": "The Outrageous Okona",
+            "season": "2",
+            "episode_number": "4",
+            "ep_id": "tv/star-trek-next-generation/0204.mkv",
+            "description": "Stardate: 42402.7. The Enterprise is placed in a compromising situation when the captain of a disabled starship places the crew in the middle of a love triangle.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3dVyuT7MdxMajD4ZZ39fxpzuI2a.jpg"
+        },
+        {
+            "title": "Loud as a Whisper",
+            "season": "2",
+            "episode_number": "5",
+            "ep_id": "tv/star-trek-next-generation/0205.mkv",
+            "description": "Stardate: 42477.2. A deaf-mute mediator meets with disaster while being escorted by the Enterprise.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cYiMgSqZxy7e1pvnTaOWTAR0P0c.jpg"
+        },
+        {
+            "title": "The Schizoid Man",
+            "season": "2",
+            "episode_number": "6",
+            "ep_id": "tv/star-trek-next-generation/0206.mkv",
+            "description": "Stardate: 42437.5. Data is possessed by the consciousness of a brilliant scientist. However, it has a disturbing impact on Data's personality.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/tVFOetrLjdNGbI1XiUL41vMJ64J.jpg"
+        },
+        {
+            "title": "Unnatural Selection",
+            "season": "2",
+            "episode_number": "7",
+            "ep_id": "tv/star-trek-next-generation/0207.mkv",
+            "description": "Stardate: 42494.8. A mysterious hyper-ageing sickness kills the crew of a Federation cargo ship, and Dr. Pulaski must race against time to find a cure.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/WBVNHTqOzCtImarNMXpgcavNgJ.jpg"
+        },
+        {
+            "title": "A Matter of Honor",
+            "season": "2",
+            "episode_number": "8",
+            "ep_id": "tv/star-trek-next-generation/0208.mkv",
+            "description": "Commander Riker participates in an officer's exchange program which lands him an assignment on a Klingon Bird-of-Prey.  Meanwhile, a Bezite ensign has trouble assimilating to the routines of the Enterprise.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5jfiXTsWXVpRZ3n57CFW6IXQ8Pu.jpg"
+        },
+        {
+            "title": "The Measure of a Man",
+            "season": "2",
+            "episode_number": "9",
+            "ep_id": "tv/star-trek-next-generation/0209.mkv",
+            "description": "Stardate: 42523.7. When Data's rights as a sentient individual are placed under trial, Starfleet forces Riker into a position where he must prove that Data is only an Android.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6aL9k5NktAIZH22AV1lpmOkDhop.jpg"
+        },
+        {
+            "title": "The Dauphin",
+            "season": "2",
+            "episode_number": "10",
+            "ep_id": "tv/star-trek-next-generation/0210.mkv",
+            "description": "Stardate: 42568.8. Wesley falls in love with a passenger the Enterprise is escorting, who has the secret ability to shape-shift.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vbPX8M4ZiBSHI2LbFDJpCfyQYXC.jpg"
+        },
+        {
+            "title": "Contagion",
+            "season": "2",
+            "episode_number": "11",
+            "ep_id": "tv/star-trek-next-generation/0211.mkv",
+            "description": "Stardate: 42609.1. A strange power source disables the Enterprise's computer systems, damages Data's programming and leaves the ship and crew vulnerable to a Romulan attack.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7ZpxyjlZfgviLx5Ajc1QdHP75WA.jpg"
+        },
+        {
+            "title": "The Royale",
+            "season": "2",
+            "episode_number": "12",
+            "ep_id": "tv/star-trek-next-generation/0212.mkv",
+            "description": "Stardate: 42625.4. An away team is trapped in an alien environment based around a novel entitled 'The Hotel Royale.'",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/kKps2wj1WwTReUqTgo4REvOfM1T.jpg"
+        },
+        {
+            "title": "Time Squared",
+            "season": "2",
+            "episode_number": "13",
+            "ep_id": "tv/star-trek-next-generation/0213.mkv",
+            "description": "Stardate: 42679.2. Picard encounters his double from six hours in the future, whose Enterprise had been destroyed.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/kqF81z2mMzDIkeLpHQa94rNpkZb.jpg"
+        },
+        {
+            "title": "The Icarus Factor",
+            "season": "2",
+            "episode_number": "14",
+            "ep_id": "tv/star-trek-next-generation/0214.mkv",
+            "description": "Stardate: 42686.4. Riker is promoted to Captain of another Federation ship. Worf must confront his past and his Klingon heritage.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/ffTMcPms5gqGM3UiFgErQodTCCC.jpg"
+        },
+        {
+            "title": "Pen Pals",
+            "season": "2",
+            "episode_number": "15",
+            "ep_id": "tv/star-trek-next-generation/0215.mkv",
+            "description": "Stardate: 42695.3. Wesley must investigate the causes of strange tectonic activity on the planet where Data's pen pal lives.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qH9CgijwOUzfC9hvRHALPYAQaef.jpg"
+        },
+        {
+            "title": "Q Who",
+            "season": "2",
+            "episode_number": "16",
+            "ep_id": "tv/star-trek-next-generation/0216.mkv",
+            "description": "Stardate: 42761.3. Q hurls the Enterprise into the Delta Quadrant and introduces the Federation to a powerful new enemy that may destroy the Alpha Quadrant: The Borg.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7mp2AGdizeDFGSmNRG1dcAcCMJg.jpg"
+        },
+        {
+            "title": "Samaritan Snare",
+            "season": "2",
+            "episode_number": "17",
+            "ep_id": "tv/star-trek-next-generation/0217.mkv",
+            "description": "Stardate: 42779.1. A race known as the Pakleds kidnap Geordi La Forge. Picard must face surgery when he is left in a near-dead state.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5P7eE2ULzIPByMLbNi2X4PY0O6C.jpg"
+        },
+        {
+            "title": "Up the Long Ladder",
+            "season": "2",
+            "episode_number": "18",
+            "ep_id": "tv/star-trek-next-generation/0218.mkv",
+            "description": "Stardate: 42823.2. Picard must convince two dying civilizations that they must co-exist on the same planet to survive, however, they have other plans to ensure their survival: in the form of clones of the Enterprise crew.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2vpwjO0b8cgEGJ6npAVcenRjAmc.jpg"
+        },
+        {
+            "title": "Manhunt",
+            "season": "2",
+            "episode_number": "19",
+            "ep_id": "tv/star-trek-next-generation/0219.mkv",
+            "description": "Stardate: 42859.2. While being escorted to a Federation conference by the Enterprise, Lwaxana hunts for a man to satisfy her needs when her sex-drive is quadrupled during a natural mid-life cycle.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/h9jEYRTi0ug36UR8I4SOqEZSwqs.jpg"
+        },
+        {
+            "title": "The Emissary",
+            "season": "2",
+            "episode_number": "20",
+            "ep_id": "tv/star-trek-next-generation/0220.mkv",
+            "description": "Stardate: 42901.3. Worf is re-united with his former lover, K'Ehleyr, while the Enterprise is ordered to intercept a Klingon ship whose crew has been in stasis for a century.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5bvkq7oZrF1rWQBYA7oSgYCgS8E.jpg"
+        },
+        {
+            "title": "Peak Performance",
+            "season": "2",
+            "episode_number": "21",
+            "ep_id": "tv/star-trek-next-generation/0221.mkv",
+            "description": "Stardate: 42923.4. Trouble begins when a Ferengi warship stumbles over a war simulation between Riker and Picard, each on different ships, and begins attacking them.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/uo3Zrcb12xKZKPwZ3YkhARw3nxH.jpg"
+        },
+        {
+            "title": "Shades of Gray",
+            "season": "2",
+            "episode_number": "22",
+            "ep_id": "tv/star-trek-next-generation/0222.mkv",
+            "description": "Stardate: 42976.1. Riker is infected with an alien organism that takes over his mind. Dr. Pulaski must force Riker's mind back to a state where it can access primitive survival skills.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8WBCx1Cj0akiTPik8RcCie9mByV.jpg"
+        },
+        {
+            "title": "Evolution",
+            "season": "3",
+            "episode_number": "1",
+            "ep_id": "tv/star-trek-next-generation/0301.mkv",
+            "description": "Stardate: 43125.8. A system-wide computer malfunction places the crew of the U.S.S. Enterprise in grave danger while they are escorting a scientist to a star in the process of exploding.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/A11EFKgifRteVHS4ejLiedDGJbe.jpg"
+        },
+        {
+            "title": "The Ensigns of Command",
+            "season": "3",
+            "episode_number": "2",
+            "ep_id": "tv/star-trek-next-generation/0302.mkv",
+            "description": "Stardate: 43133.3. A human colony is forced to evacuate a planet when the original inhabitants return and threaten the colonists with annihilation if they do not leave within four days.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rnqUppIYQ69b96Q5NNS3XFHeyh9.jpg"
+        },
+        {
+            "title": "The Survivors",
+            "season": "3",
+            "episode_number": "3",
+            "ep_id": "tv/star-trek-next-generation/0303.mkv",
+            "description": "Stardate: 43152.4. The Enterprise discovers a planet that has had all life eradicated, except for two mysterious residents and their home, which has been left in perfect condition.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/69NQq8GDmv4hWPHLn4hkUyt9xAH.jpg"
+        },
+        {
+            "title": "Who Watches the Watchers",
+            "season": "3",
+            "episode_number": "4",
+            "ep_id": "tv/star-trek-next-generation/0304.mkv",
+            "description": "Stardate: 43173.5. An away team inadvertently breaks the Prime Directive and reveal themselves to a primitive culture on Mintaka III, causing the inhabitants believe that Captain Picard is a God.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1kyhDFxlzu9bV91d0OA6Rzwg8ld.jpg"
+        },
+        {
+            "title": "The Bonding",
+            "season": "3",
+            "episode_number": "5",
+            "ep_id": "tv/star-trek-next-generation/0305.mkv",
+            "description": "Worf and Wesley must help a 12 year old boy cope with the death of his mother; an archaeologist killed during an away mission to a deserted planet.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/wpzXuTkkRTRaEy41WZxb44r77eT.jpg"
+        },
+        {
+            "title": "Booby Trap",
+            "season": "3",
+            "episode_number": "6",
+            "ep_id": "tv/star-trek-next-generation/0306.mkv",
+            "description": "Stardate: 43205.6. While investigating an ancient ship left adrift in space, the Enterprise accidentally trips the ancient booby trap that disabled the old vessel over 1000 years ago.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1HCseDMup6JfjOAEOEuFVxQYl8f.jpg"
+        },
+        {
+            "title": "The Enemy",
+            "season": "3",
+            "episode_number": "7",
+            "ep_id": "tv/star-trek-next-generation/0307.mkv",
+            "description": "Stardate:43349.2. A blind Geordie is trapped on a hazardous planet with a paranoid and severely injured Romulan. In orbit, a Romulan Warbird is preventing the Enterprise from attempting a rescue mission.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xMHNrM5kWpcXMjdRkdSM7GqccKh.jpg"
+        },
+        {
+            "title": "The Price",
+            "season": "3",
+            "episode_number": "8",
+            "ep_id": "tv/star-trek-next-generation/0308.mkv",
+            "description": "Stardate: 43385.6. The Enterprise hosts the negotiations for the rights to a newly discovered, stable wormhole to the Delta Quadrant. One of the negotiators, Devinoni Ral, becomes attracted to Deanna Troi, but he holds a dubious secret.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/39XGqwNYnRTXfVH4sOHkslaj4P0.jpg"
+        },
+        {
+            "title": "The Vengeance Factor",
+            "season": "3",
+            "episode_number": "9",
+            "ep_id": "tv/star-trek-next-generation/0309.mkv",
+            "description": "Stardate: 43421.9. The Enterprise crew tries to mend the relationship between a race known as the Acamarians and a faction known as the Gatherers.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/sUxTRNgsZuxfrXtAVhLblcQSyoo.jpg"
+        },
+        {
+            "title": "The Defector",
+            "season": "3",
+            "episode_number": "10",
+            "ep_id": "tv/star-trek-next-generation/0310.mkv",
+            "description": "Stardate: 43462.5. A defecting Romulan warns the Federation about an impending attack by the Romulans, who are secretly establishing bases within the Neutral Zone.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dhVqwIoQpeMxZEgMir2nOdDOerq.jpg"
+        },
+        {
+            "title": "The Hunted",
+            "season": "3",
+            "episode_number": "11",
+            "ep_id": "tv/star-trek-next-generation/0311.mkv",
+            "description": "Stardate: 43489.2. A potentially new member of the Federation enlists the help of the Enterprise to track down a wanted criminal who has a reputation for his excessive violence. However, the fugitive's actions may not be of his own will.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/ady9Vbwbu5GyxABGbqHTbP8t6l1.jpg"
+        },
+        {
+            "title": "The High Ground",
+            "season": "3",
+            "episode_number": "12",
+            "ep_id": "tv/star-trek-next-generation/0312.mkv",
+            "description": "Stardate: 43510.7. Dr. Crusher is abducted by a group of terrorists while delivering crucial medical supplies to a planet ravaged by civil war.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/yjWeK36ehANV2NYIcnA3sgawhun.jpg"
+        },
+        {
+            "title": "D\u00e9j\u00e0 Q",
+            "season": "3",
+            "episode_number": "13",
+            "ep_id": "tv/star-trek-next-generation/0313.mkv",
+            "description": "Stardate: 43539.1. A Calamarian starts attacking the Enterprise while seeking revenge on a powerless Q.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/lVhkvjaFyicnMdSBoGjPf0sNzIj.jpg"
+        },
+        {
+            "title": "A Matter of Perspective",
+            "season": "3",
+            "episode_number": "14",
+            "ep_id": "tv/star-trek-next-generation/0314.mkv",
+            "description": "Stardate: 43610.4. Riker is accused of murder when a scientist is killed in an explosion. Picard must recreate the recent events in the holodeck to prove his commander's innocence.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/kDkZ9OhpFNUMHqSHbrfzF5slzPc.jpg"
+        },
+        {
+            "title": "Yesterday's Enterprise",
+            "season": "3",
+            "episode_number": "15",
+            "ep_id": "tv/star-trek-next-generation/0315.mkv",
+            "description": "Stardate: 43625.2. A rift in the space/time continuum brings the U.S.S. Enterprise - C forward into the 24th Century, and alters the timeline. In this future, the Federation is at war with the Klingons, Tasha Yar is on the bridge, Worf did not join the Federation, and only Guinan's unique perception of reality may restore the timeline.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/v7e4iJ6oCzIcyReUpO4fZOLuI3F.jpg"
+        },
+        {
+            "title": "The Offspring",
+            "season": "3",
+            "episode_number": "16",
+            "ep_id": "tv/star-trek-next-generation/0316.mkv",
+            "description": "Stardate: 43657.0. Data becomes a father when he creates a Soong-type android in the form of a daughter named Lal. Issues are complicated when Lal starts showing signs of a more evolved consciousness, including the ability to feel emotions, which attracts the attention of Starfleet scientists who want to take her away from Data and examine her advanced systems.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/eCFXkP3KkoazNGyRxc58X3ZnmP6.jpg"
+        },
+        {
+            "title": "Sins of the Father",
+            "season": "3",
+            "episode_number": "17",
+            "ep_id": "tv/star-trek-next-generation/0317.mkv",
+            "description": "Stardate: 43685.2. Worf is reunited with his long-lost brother when their father is charged with treason for helping the Romulans. Together they make an appeal to the Klingon High Council to challenge the charges, and have them revoked.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/sguEYhepkqAwrqBU3RZNEg2mVMl.jpg"
+        },
+        {
+            "title": "Allegiance",
+            "season": "3",
+            "episode_number": "18",
+            "ep_id": "tv/star-trek-next-generation/0318.mkv",
+            "description": "Stardate: 43714.1. Picard is secretly abducted and switched with an alien double. The crews' suspicions are raised when he starts exhibiting unusual behaviour, and is relieved of command.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rPgQupEFENqMp1T4lsUdrVf8sZm.jpg"
+        },
+        {
+            "title": "Captain's Holiday",
+            "season": "3",
+            "episode_number": "19",
+            "ep_id": "tv/star-trek-next-generation/0319.mkv",
+            "description": "Stardate: 43745.2. While on vacation on Risa, Captain Picard encounters two Vorgons from the 27th Century who claim they are searching for a powerful weapon hidden somewhere on the planet.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/u7yth2Ykam7bbgylLdmjolJEfPE.jpg"
+        },
+        {
+            "title": "Tin Man",
+            "season": "3",
+            "episode_number": "20",
+            "ep_id": "tv/star-trek-next-generation/0320.mkv",
+            "description": "Stardate: 43779.3. The Enterprise encounters a 'living' ship in the Neutral Zone, and risks breaking the Romulan Federation alliance in order to bring it into contact with a Betazoid emissary.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dt1GaGhKvuxONrVo63bWPSAJxZB.jpg"
+        },
+        {
+            "title": "Hollow Pursuits",
+            "season": "3",
+            "episode_number": "21",
+            "ep_id": "tv/star-trek-next-generation/0321.mkv",
+            "description": "Stardate: 43807.4. A nervous and insecure officer, Lt. Reginald Barclay, places the Enterprise in great danger when he neglects his duties in Engineering, and instead spends his time acting out his fantasies on the holodeck.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7xmOy0WoU1j9bXGvfyMLEmRRCCi.jpg"
+        },
+        {
+            "title": "The Most Toys",
+            "season": "3",
+            "episode_number": "22",
+            "ep_id": "tv/star-trek-next-generation/0322.mkv",
+            "description": "Stardate: 43872.2. The crew are shattered by the apparent death of Data in a shuttle explosion, and are prevented from carrying out a detailed investigation when Starfleet gives them orders for a new mission elsewhere. However, the crew don't realize that he was actually abducted and placed on display as part of a collection of rare and valuable items held by a disreputable character.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5UMsRJMxzep7ixDsxdWqRPmZ25a.jpg"
+        },
+        {
+            "title": "Sarek",
+            "season": "3",
+            "episode_number": "23",
+            "ep_id": "tv/star-trek-next-generation/0323.mkv",
+            "description": "Stardate: 43917.4. Spock's Vulcan father, Sarek, boards the Enterprise to negotiate political relations with the Legaran. However, Sarek has contract Bendii syndrome, which causes a Vulcan to gradually lose control, and become overpowered with emotions.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/u2kqYrx1S4OwayDbM7ZGnY7OQiV.jpg"
+        },
+        {
+            "title": "M\u00e9nage \u00e0 Troi",
+            "season": "3",
+            "episode_number": "24",
+            "ep_id": "tv/star-trek-next-generation/0324.mkv",
+            "description": "Stardate: 43930.7. Riker and Deanna, both on shoreleave, are unexpectedly joined by Deanna's mother, Lwaxana, on Betazed. Shortly, all three are kidnapped by the Ferengi who want to study Lwaxana's telepathic abilities.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/zUn96lmkSsNBSZsAiQAcZROZttj.jpg"
+        },
+        {
+            "title": "Transfigurations",
+            "season": "3",
+            "episode_number": "25",
+            "ep_id": "tv/star-trek-next-generation/0325.mkv",
+            "description": "Stardate: 43957.2. Dr. Crusher becomes attracted to an injured alien with mysterious powers, who is being tracked down by his government like a wanted criminal.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/q9MBiryuttIxZepRPJBkVoaRVCq.jpg"
+        },
+        {
+            "title": "The Best of Both Worlds (1)",
+            "season": "3",
+            "episode_number": "26",
+            "ep_id": "tv/star-trek-next-generation/0326.mkv",
+            "description": "Stardate: 43989.1  An Starfleet expert on the Borg, Lt. Cmdr. Shelby, is assigned to the Enterprise to investigate the disappearance of a Federation colony. Picard is abducted by the Borg and assimilated into the Collective, which forces Riker to attempt a rescue mission.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/n2rpDKMHU3wZTNFawrsANW5JYEs.jpg"
+        },
+        {
+            "title": "The Best of Both Worlds (2)",
+            "season": "4",
+            "episode_number": "1",
+            "ep_id": "tv/star-trek-next-generation/0401.mkv",
+            "description": "Stardate: 44001.4. Riker must pull out all the stops in order to save Earth from a Borg invasion being lead by none other than Locutus - otherwise known as Captain Jean-Luc Picard.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xcfWEHsOe9qCxheSjHu0GYvfrE5.jpg"
+        },
+        {
+            "title": "Family",
+            "season": "4",
+            "episode_number": "2",
+            "ep_id": "tv/star-trek-next-generation/0402.mkv",
+            "description": "Stardate 44012.3. Picard meets with his older brother in France, and contemplates resigning his Starfleet commission after his ordeal with the Borg. Worf's adoptive parents spend time with their son on the Enterprise, and succeed in embarrassing him in front of his crewmates.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/pCf04LBEc7u3aSxTOnXI8yhJokV.jpg"
+        },
+        {
+            "title": "Brothers",
+            "season": "4",
+            "episode_number": "3",
+            "ep_id": "tv/star-trek-next-generation/0403.mkv",
+            "description": "Stardate: 44085.7  While escorting a seriously ill boy to the closest Federation Starbase for treatment, Data mysteriously takes control of the Enterprise and takes it to a distant planet. He learns that his creator has summoned him for an important meeting that could change his life. However, Dr. Soong unknowingly summoned Data's twin brother Lore, into the bargain.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/jdr7UiSO0c5wEcPV9btJDhKWEim.jpg"
+        },
+        {
+            "title": "Suddenly Human",
+            "season": "4",
+            "episode_number": "4",
+            "ep_id": "tv/star-trek-next-generation/0404.mkv",
+            "description": "Stardate: 44143.7. A custody battle between Picard and a child's adoptive father arises when a boy showing evidence of abuse is discovered.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/q4kKdRD6s9byDr3KcBaug78mXyY.jpg"
+        },
+        {
+            "title": "Remember Me",
+            "season": "4",
+            "episode_number": "5",
+            "ep_id": "tv/star-trek-next-generation/0405.mkv",
+            "description": "Stardate: 44161.2. Dr. Crusher begins to question her sanity when members of the crew start disappearing one by one, and all evidence of their existence is erased.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5aiQoxQdzfUe5KgajxQQW1t5Szg.jpg"
+        },
+        {
+            "title": "Legacy",
+            "season": "4",
+            "episode_number": "6",
+            "ep_id": "tv/star-trek-next-generation/0406.mkv",
+            "description": "Stardate: 44215.2. The Enterprise is caught in the middle of a civil war when they encounter Tasha Yar's long-lost younger sister, Ishara.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hDCJtGfWKqlsXbnh1BOBa0fpdJH.jpg"
+        },
+        {
+            "title": "Reunion",
+            "season": "4",
+            "episode_number": "7",
+            "ep_id": "tv/star-trek-next-generation/0407.mkv",
+            "description": "Stardate: 44246.3. Picard is asked to choose between two candidates to succeed the current Chancellor of the Klingon High Council as the new ruler of the Empire. Worf is disturbed by unexpected news when he is paid a visit by his former lover.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5yWdoZRF8mItXVBd43eg4gowd04.jpg"
+        },
+        {
+            "title": "Future Imperfect",
+            "season": "4",
+            "episode_number": "8",
+            "ep_id": "tv/star-trek-next-generation/0408.mkv",
+            "description": "Stardate: 44286.5. Riker awakens one morning to discover he is suddenly 16 years in the future as the captain of the Enterprise, and negotiating a peace treaty with the Romulans with no recollection of how he arrived at that point in time, or of any recent events.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/79YY7xzYI9FebqJHWf64okUeKJc.jpg"
+        },
+        {
+            "title": "Final Mission",
+            "season": "4",
+            "episode_number": "9",
+            "ep_id": "tv/star-trek-next-generation/0409.mkv",
+            "description": "Stardate: 44307.3. Wesley must keep Captain Picard alive on the eve of his entrance exam to Starfleet Academy when their shuttle crashes on a barren moon.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/mucfPkJYxMhouwn3DAVcmkXnztJ.jpg"
+        },
+        {
+            "title": "The Loss",
+            "season": "4",
+            "episode_number": "10",
+            "ep_id": "tv/star-trek-next-generation/0410.mkv",
+            "description": "Stardate: 44356.9. Troi loses her empathic abilities when the Enterprise is caught in the gravitational pull of a black hole.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qTAsjnWjQQ8aRdn2io6FDgzh2RO.jpg"
+        },
+        {
+            "title": "Data's Day",
+            "season": "4",
+            "episode_number": "11",
+            "ep_id": "tv/star-trek-next-generation/0411.mkv",
+            "description": "Stardate: 44356.9. A Vulcan Ambassador being escorted by the Enterprise starts exhibiting suspicious behavior. Miles O'Brien marries his fianc\u00e9e, Keiko Ishikawa in Ten-Forward.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5efgms5DvBeFas8pwJuqo9cK5Hi.jpg"
+        },
+        {
+            "title": "The Wounded",
+            "season": "4",
+            "episode_number": "12",
+            "ep_id": "tv/star-trek-next-generation/0412.mkv",
+            "description": "Stardate: 44429.6. When the Cardassians start re-arming themselves, a Federation Captain takes it upon himself to remove a potential threat before it escalated. Now, Picard must fight for the Cardassians and stop the renegade from slaughtering innocents.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3NKwYIbS5ZxqznCB2HsUd4tFkq1.jpg"
+        },
+        {
+            "title": "Devil's Due",
+            "season": "4",
+            "episode_number": "13",
+            "ep_id": "tv/star-trek-next-generation/0413.mkv",
+            "description": "Stardate: 44474.5. The crew of the Enterprise must defend the planet Ventax from a mythological Devil who re-appears when a 1000 year long era of peace comes to an end.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rGuL4CgUc2x8c3LaiW0XOy8QiXD.jpg"
+        },
+        {
+            "title": "Clues",
+            "season": "4",
+            "episode_number": "14",
+            "ep_id": "tv/star-trek-next-generation/0414.mkv",
+            "description": "Stardate: 44502.7. Picard orders a secret investigation when the crew suspects Data of lying about the discovery of a wormhole.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5gOWsrYlOcR8TO4OUYnxfBR7puO.jpg"
+        },
+        {
+            "title": "First Contact",
+            "season": "4",
+            "episode_number": "15",
+            "ep_id": "tv/star-trek-next-generation/0415.mkv",
+            "description": "Riker is abducted by a xenophobic race of aliens during a first contact mission. They believe the Enterprise is a scout for an invasion.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/fppZ7lrL3BfsPIff6ICbWVoauwV.jpg"
+        },
+        {
+            "title": "Galaxy's Child",
+            "season": "4",
+            "episode_number": "16",
+            "ep_id": "tv/star-trek-next-generation/0416.mkv",
+            "description": "Stardate: 44614.6. Geordi must work with the real Leah Brahms when she arrives on the Enterprise when a space-borne alien life form thinks the ship is its mother. Tensions rise when she learns that Geordi created a holographic version of her several months before in order to save the ship from danger.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hniLA7qsMYPUOVGFnQNFIBJnTFw.jpg"
+        },
+        {
+            "title": "Night Terrors",
+            "season": "4",
+            "episode_number": "17",
+            "ep_id": "tv/star-trek-next-generation/0417.mkv",
+            "description": "Stardate: 44631.2. Troi faces a recurring nightmare when the Enterprise is caught in a rift in space. Soon, the crew begins to slip into insanity through dream deprivation.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/mKud4Lkb6IVJ2zXCPaIjf1if0HM.jpg"
+        },
+        {
+            "title": "Identity Crisis",
+            "season": "4",
+            "episode_number": "18",
+            "ep_id": "tv/star-trek-next-generation/0418.mkv",
+            "description": "Stardate: 44664.5. Geordi and a former crew mate begin evolving into bizarre creatures when they return to a planet both of them were on during an Away Mission five years earlier.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/t0xHRNNgeMr4t1aZnkadU59b7BM.jpg"
+        },
+        {
+            "title": "The Nth Degree",
+            "season": "4",
+            "episode_number": "19",
+            "ep_id": "tv/star-trek-next-generation/0419.mkv",
+            "description": "Stardate: 44704.2. An alien probe transforms Barclay from a shy, awkward character into an arrogant super-genius who is able to interface with the Enterprise's computer through the holodeck.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/jMn71vOTkidJdjnQjbWLeXY24ps.jpg"
+        },
+        {
+            "title": "Qpid",
+            "season": "4",
+            "episode_number": "20",
+            "ep_id": "tv/star-trek-next-generation/0420.mkv",
+            "description": "Stardate:44741.9. Q places Vash and the senior Enterprise crew in a recreation of Robin Hood and his merry men.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/jyjAfYdQWjC4CPkAyycgu0nz60s.jpg"
+        },
+        {
+            "title": "The Drumhead",
+            "season": "4",
+            "episode_number": "21",
+            "ep_id": "tv/star-trek-next-generation/0421.mkv",
+            "description": "Stardate: 44769.2. Picard is accused of treason when an explosion aboard the Enterprise is investigated by a ruthless and paranoid Starfleet Admiral.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/lBWrhV1BhMhM0huyMvfQeVTsCfy.jpg"
+        },
+        {
+            "title": "Half a Life",
+            "season": "4",
+            "episode_number": "22",
+            "ep_id": "tv/star-trek-next-generation/0422.mkv",
+            "description": "Stardate: 44805.3. Lwaxana Troi falls in love with a man who must return home to commit suicide, as is customary for their race when they reach a certain age.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/h8q4iSJDIvEzx77MYA5TD5fDMSh.jpg"
+        },
+        {
+            "title": "The Host",
+            "season": "4",
+            "episode_number": "23",
+            "ep_id": "tv/star-trek-next-generation/0423.mkv",
+            "description": "Startdate: 44821.3. Dr. Crusher falls in love with a Trill Ambassador, until she discovers the Trill's symbiotic relationship.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/iyZ65NdetL5zppvReSs4aNUR6UQ.jpg"
+        },
+        {
+            "title": "The Mind's Eye",
+            "season": "4",
+            "episode_number": "24",
+            "ep_id": "tv/star-trek-next-generation/0424.mkv",
+            "description": "Stardate: 44885.5. While en route to Risa for shore leave, Geordi is abducted by the Romulans and brainwashed into becoming an assassin.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dqpepbEykFdd4uFj1u8qN0SxCEk.jpg"
+        },
+        {
+            "title": "In Theory",
+            "season": "4",
+            "episode_number": "25",
+            "ep_id": "tv/star-trek-next-generation/0425.mkv",
+            "description": "Stardate: 44932.3. Data experiences the complexities of love when a fellow crewmate becomes attracted to him.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/z3crEUC5FIe0PiVvNzi2HqIseBR.jpg"
+        },
+        {
+            "title": "Redemption (1)",
+            "season": "4",
+            "episode_number": "26",
+            "ep_id": "tv/star-trek-next-generation/0426.mkv",
+            "description": "Stardate: 44995.3. Worf must choose between his people and the Federation when a civil war threatens to destroy the Klingon Empire.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/biV4bv0UQc4zNmfvvrR81Mklk4u.jpg"
+        },
+        {
+            "title": "Redemption (2)",
+            "season": "5",
+            "episode_number": "1",
+            "ep_id": "tv/star-trek-next-generation/0501.mkv",
+            "description": "Stardate: 45020.4. Picard suspects a Romulan influence in the recent Klingon civil war, and must force the Federation to intervene before the Empire collapses.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1ZDUCGay2nMpi0YfqGoiJf23l6I.jpg"
+        },
+        {
+            "title": "Darmok",
+            "season": "5",
+            "episode_number": "2",
+            "ep_id": "tv/star-trek-next-generation/0502.mkv",
+            "description": "Stardate: 45047.2. Picard must find a way to communicate with the newly discovered Tamarians, who speak entirely in metaphors, when a Tamarian Captain is brutally killed.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4Qdx3ArjlHZOZ8Gp7a6vGhKfcTa.jpg"
+        },
+        {
+            "title": "Ensign Ro",
+            "season": "5",
+            "episode_number": "3",
+            "ep_id": "tv/star-trek-next-generation/0503.mkv",
+            "description": "Stardate: 45076.3. Picard exposes a planned genocidal attack on the Bajorans with the help of a new officer, Ensign Ro Laren.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rEwFLjLyowIAK97cSajFt9JaPLc.jpg"
+        },
+        {
+            "title": "Silicon Avatar",
+            "season": "5",
+            "episode_number": "4",
+            "ep_id": "tv/star-trek-next-generation/0504.mkv",
+            "description": "Stardate: 45122.3. Picard attempts communications with the Crystalline Entity - a life form responsible for hundreds of deaths throughout the Alpha Quadrant. However, a scientist on board the Enterprise has plans of revenge over the death of her only son at the hands of the Entity.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/sJUuvl6qx9GRAY52Yvb5uD3t2au.jpg"
+        },
+        {
+            "title": "Disaster",
+            "season": "5",
+            "episode_number": "5",
+            "ep_id": "tv/star-trek-next-generation/0505.mkv",
+            "description": "Stardate: 45156.1. A natural disaster leaves Troi in command of the Enterprise, Picard stuck in a turbo lift with three small children and Keiko O'Brien stuck in Ten-Forward giving birth with an anxious Worf.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/tbdnfUNoOMYt7YK5cHeQSdhxuU3.jpg"
+        },
+        {
+            "title": "The Game",
+            "season": "5",
+            "episode_number": "6",
+            "ep_id": "tv/star-trek-next-generation/0506.mkv",
+            "description": "Stardate: 45208.2. An addictive game is distributed among the crew of the Enterprise, however, it appears that this game interferes with a person's logic and reason, which leaves the crew open to manipulation. Only a young Ensign and a vacationing Wesley Crusher are able to think for themselves, and must find a way to reverse the damage before the ship falls into the wrong hands.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/sf9ELwh6iRf4FK87JtDKVk7oXiB.jpg"
+        },
+        {
+            "title": "Unification (1)",
+            "season": "5",
+            "episode_number": "7",
+            "ep_id": "tv/star-trek-next-generation/0507.mkv",
+            "description": "Stardate: 45233.1. Ambassador Spock has disappeared and intelligence finds him on Romulus.  Captain Picard is sent to Romulus to find Spock.  Meanwhile Riker and the rest of the crew investigate the fragments of a Vulcan ship discovered in the wreck of a Ferengi vessel.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8RvbzKHk5eXox1UEF71jIHfaOaZ.jpg"
+        },
+        {
+            "title": "Unification (2)",
+            "season": "5",
+            "episode_number": "8",
+            "ep_id": "tv/star-trek-next-generation/0508.mkv",
+            "description": "Stardate: 45245.8. Picard and Data find Spock and discover the reason behind the secret meetings. However, a darker scheme planned by the Romulans is also uncovered in the process.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/65Vztl6vsSKtqlabnUggiy3gNDX.jpg"
+        },
+        {
+            "title": "A Matter of Time",
+            "season": "5",
+            "episode_number": "9",
+            "ep_id": "tv/star-trek-next-generation/0509.mkv",
+            "description": "Stardate: 45349.1. While on a mission to help a planet recently struck by an asteroid, the Enterprise is paid a visit by a man who claims to be from the future.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xWJLvkMEbPVBBvnuLFn25NwcUDk.jpg"
+        },
+        {
+            "title": "New Ground",
+            "season": "5",
+            "episode_number": "10",
+            "ep_id": "tv/star-trek-next-generation/0510.mkv",
+            "description": "Stardate: 45376.3. Worf's son, Alexander, unexpectedly arrives on the Enterprise to stay with his father. However, Alexander wants to stay permanently.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/as4R5ptV8AhDgkaEH0eQsRQyMOm.jpg"
+        },
+        {
+            "title": "Hero Worship",
+            "season": "5",
+            "episode_number": "11",
+            "ep_id": "tv/star-trek-next-generation/0511.mkv",
+            "description": "Stardate: 45397.3. The Enterprise investigates the cause of an explosion that destroyed a small ship and its entire crew, except for a small boy.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/z6utDf7egwevgzWjAu9yt3D49GB.jpg"
+        },
+        {
+            "title": "Violations",
+            "season": "5",
+            "episode_number": "12",
+            "ep_id": "tv/star-trek-next-generation/0512.mkv",
+            "description": "Stardate: 45429.3. While escorting a group of telepaths, crew members on board the Enterprise suddenly start to slip into comas.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/bvNQQGDP15Ri6MgrIugUnVGMwfJ.jpg"
+        },
+        {
+            "title": "The Masterpiece Society",
+            "season": "5",
+            "episode_number": "13",
+            "ep_id": "tv/star-trek-next-generation/0513.mkv",
+            "description": "Stardate: 45470.1. A natural disaster in the core of a system's sun threatens to destroy a colony of genetically engineered people on an otherwise desolate planet. However, the crew's intervention may cause more harm than good.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/aVgGGmKRmeRKlOXZuvyvByNC1Fe.jpg"
+        },
+        {
+            "title": "Conundrum",
+            "season": "5",
+            "episode_number": "14",
+            "ep_id": "tv/star-trek-next-generation/0514.mkv",
+            "description": "Stardate: 45494.2. The Enterprise crew unknowingly receives a new first officer who claims that the Federation is at war with another species.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/e7OF2ZIDCdflsfX9fGjP43HvatO.jpg"
+        },
+        {
+            "title": "Power Play",
+            "season": "5",
+            "episode_number": "15",
+            "ep_id": "tv/star-trek-next-generation/0515.mkv",
+            "description": "Stardate: 45571.2. While en route to the source of a subspace distress signal coming from a desolate moon, Data, Troi and O'Brien take over the bridge and force the ship to change course.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5vci52WU3MjzB5qqM64a9ufhSR6.jpg"
+        },
+        {
+            "title": "Ethics",
+            "season": "5",
+            "episode_number": "16",
+            "ep_id": "tv/star-trek-next-generation/0516.mkv",
+            "description": "Stardate: 45587.3. When Worf is paralysed in an accident he must undergo drastic back surgery. However, this experimental technique may cost him his life.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1z6r1UaFYZGqhaQTQyFb0ahCVqG.jpg"
+        },
+        {
+            "title": "The Outcast",
+            "season": "5",
+            "episode_number": "17",
+            "ep_id": "tv/star-trek-next-generation/0517.mkv",
+            "description": "Stardate: 45614.6. While investigating the disappearance of a J'naii shuttlecraft, the crew finds reason to believe the missing ship is stranded in an abnormal pocket called \"null space.\" Riker and Soren, a member of the J'naii race, begin preparing to rescue the craft, and the two strike up a friendship. Their relationship develops quickly as the pair question each other about mating habits, since the J'naii are androgynous and do not identify themselves as either male or female. Despite this difference, sparks begin to fly between them.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/Aw7MBDxIfd9ZSwDyMomrPPkPki9.jpg"
+        },
+        {
+            "title": "Cause and Effect",
+            "season": "5",
+            "episode_number": "18",
+            "ep_id": "tv/star-trek-next-generation/0518.mkv",
+            "description": "Stardate: 45652.1. While exploring the Typhon Expanse, the Enterprise is caught in a time warp in which they are repeatedly destroyed while colliding with another starship.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/c7CC1nCNbztg4Ovwsq8y69izXHO.jpg"
+        },
+        {
+            "title": "The First Duty",
+            "season": "5",
+            "episode_number": "19",
+            "ep_id": "tv/star-trek-next-generation/0519.mkv",
+            "description": "Stardate: 45703.9. Wesley is involved in a cover-up at Starfleet Academy when a cadet is killed and five shuttles are destroyed during a forbidden maneuver performed by Starfleet Academy's best cadets.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/59Hi9OUwGA9WKkMrLI0Ujyfh1ap.jpg"
+        },
+        {
+            "title": "Cost of Living",
+            "season": "5",
+            "episode_number": "20",
+            "ep_id": "tv/star-trek-next-generation/0520.mkv",
+            "description": "Stardate: 45733.6. Deanna's mother pays a surprise visit to the Enterprise with even more surprising news: she plans to marry a man she has never met. After destroying an asteroid, the ship becomes infected with parasites that eat away at the ship's hull.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/tcWVGpzfxxAXUx2OCTjPediykoO.jpg"
+        },
+        {
+            "title": "The Perfect Mate",
+            "season": "5",
+            "episode_number": "21",
+            "ep_id": "tv/star-trek-next-generation/0521.mkv",
+            "description": "Stardate: 45761.3. The Ferengi try to abduct an empathic Metamorph who could bring peace between two warring worlds.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6DfTVYD4bMJEV70SDeCT2tXvxsv.jpg"
+        },
+        {
+            "title": "Imaginary Friend",
+            "season": "5",
+            "episode_number": "22",
+            "ep_id": "tv/star-trek-next-generation/0522.mkv",
+            "description": "Stardate: 45832.1. While exploring a strange form of energy in a region of space, a little girl's imaginary friend becomes real and places the Enterprise in great danger.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/wzR5S7Y6xcfL8SziuJ5csozl6U4.jpg"
+        },
+        {
+            "title": "I, Borg",
+            "season": "5",
+            "episode_number": "23",
+            "ep_id": "tv/star-trek-next-generation/0523.mkv",
+            "description": "Stardate: 45854.2. An injured Borg is discovered and brought back to the Enterprise where he is 'repaired' by Dr. Crusher and befriended by Geordi, who names him 'Hugh.' Soon, Hugh starts showing signs of individuality while Picard must choose between destroying him or returning him to the collective.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/tV2OZQXHKHonLEMqnNzygYnx5z2.jpg"
+        },
+        {
+            "title": "The Next Phase",
+            "season": "5",
+            "episode_number": "24",
+            "ep_id": "tv/star-trek-next-generation/0524.mkv",
+            "description": "Stardate: 45092.4. While the Enterprise helps a Romulan science vessel, an accident occurs which forces Geordi LaForge and Ro Laren slightly out of 'phase', causing them to become undetectable to everyone but each other. As a result, the crew thinks they are dead and make arrangements for their funerals, even though they are closer than the crew realise.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2xnTT3POhDldl1xVdhvIBBCtymK.jpg"
+        },
+        {
+            "title": "The Inner Light",
+            "season": "5",
+            "episode_number": "25",
+            "ep_id": "tv/star-trek-next-generation/0525.mkv",
+            "description": "Stardate: 45944.1. Picard awakes to find himself living in a small village where he is a well-known member of the community who is suffering from a delusion of being a starship captain.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/lWwu5irGyONH9hqPW6knD4PKMBO.jpg"
+        },
+        {
+            "title": "Time's Arrow (1)",
+            "season": "5",
+            "episode_number": "26",
+            "ep_id": "tv/star-trek-next-generation/0526.mkv",
+            "description": "Stardate: 45959.1. Data's head is uncovered in an archaeological dig on Earth, where evidence is also found that aliens may have been on Earth as early as the 19th Century. Using modified technology, an away team follows Data into the late 1890s to investigate.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/22BqrWJvWmPdOoUBfLnBCfz2uYm.jpg"
+        },
+        {
+            "title": "Time's Arrow (2)",
+            "season": "6",
+            "episode_number": "1",
+            "ep_id": "tv/star-trek-next-generation/0601.mkv",
+            "description": "Stardate: 46001.3. The away team's investigations are hampered by a nosy Samuel Clemens. Picard discovers that he originally met Guinan in the 1890s on Earth.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/g8iqy5wpAV4ZIYGdJp9sHjQNOf4.jpg"
+        },
+        {
+            "title": "Realm of Fear",
+            "season": "6",
+            "episode_number": "2",
+            "ep_id": "tv/star-trek-next-generation/0602.mkv",
+            "description": "Stardate: 46041.1. Lt. Barclay's fear of using transporters is eerily justified when he sees bizarre aliens within the transporter beam.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/da7U7d0FUB2QNkvqZxbAgsl0Ekc.jpg"
+        },
+        {
+            "title": "Man of the People",
+            "season": "6",
+            "episode_number": "3",
+            "ep_id": "tv/star-trek-next-generation/0603.mkv",
+            "description": "Stardate: 46071.6. Deanna becomes attracted to an alien ambassador. Shortly thereafter, she starts ageing rapidly and starts becoming violent.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/22e7ajBLD3MQQimxKNZrBVirgGk.jpg"
+        },
+        {
+            "title": "Relics",
+            "season": "6",
+            "episode_number": "4",
+            "ep_id": "tv/star-trek-next-generation/0604.mkv",
+            "description": "Stardate: 46125.3. Montgomery 'Scotty' Scott is discovered suspended in a transporter beam 75 years after he disappeared. After the Enterprise crew re-materialise him, he has a hard time adjusting to the new society.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/oKQYSaACEIY6cMSKlYhc0ykOsR8.jpg"
+        },
+        {
+            "title": "Schisms",
+            "season": "6",
+            "episode_number": "5",
+            "ep_id": "tv/star-trek-next-generation/0605.mkv",
+            "description": "Stardate: 46154.2. Members of the crew are secretly abducted from the Enterprise to be used in bizarre experiments where they are dismembered and re-assembled without anyone's knowledge - including their own. The only signs that anything is wrong is a strange form of tiredness and no recollection of having slept well the night before.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hScW3GrXIHaT3jYNXbk6d6i3Mra.jpg"
+        },
+        {
+            "title": "True Q",
+            "season": "6",
+            "episode_number": "6",
+            "ep_id": "tv/star-trek-next-generation/0606.mkv",
+            "description": "Stardate: 46192.3. A young intern visiting the Enterprise captures the interest of Q when she starts displaying Q-like powers.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/aNhrfQPyH0bggWeP4Cz1ngu84r4.jpg"
+        },
+        {
+            "title": "Rascals",
+            "season": "6",
+            "episode_number": "7",
+            "ep_id": "tv/star-trek-next-generation/0607.mkv",
+            "description": "Stardate: 46235.7. A transporter accident transforms Picard, Ro Laren, Guinan and Keiko O'Brien into small children who appear to be about 12 years old. Matters are complicated when the Ferengi seize the Enterprise.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8kH9E1XMevAWVgiaM7k0OYM8ZPu.jpg"
+        },
+        {
+            "title": "A Fistful of Datas",
+            "season": "6",
+            "episode_number": "8",
+            "ep_id": "tv/star-trek-next-generation/0608.mkv",
+            "description": "Stardate: 46271.5. Worf and his son, Alexander, become trapped in the holodeck when their Wild West program malfunctions. However, they must find a way to defeat the holographic bandits who have Data's appearance and abilities.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/s5CSgy7ncOLfpR2KifQnqJ0HfSe.jpg"
+        },
+        {
+            "title": "The Quality of Life",
+            "season": "6",
+            "episode_number": "9",
+            "ep_id": "tv/star-trek-next-generation/0609.mkv",
+            "description": "Stardate: 46315.2. Data discovers that the maintenance robots built by Dr. Farallon may have become sentient.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/d38X3XcjKaQtqbZlhbrHWzuGsDx.jpg"
+        },
+        {
+            "title": "Chain of Command (1)",
+            "season": "6",
+            "episode_number": "10",
+            "ep_id": "tv/star-trek-next-generation/0610.mkv",
+            "description": "Stardate: 46357.4. Picard resigns as Captain of the Enterprise to lead a top-secret espionage mission into Cardassia with Worf and Dr. Crusher.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/vvEeJkAt2Rb4Ax8doGBZoUtgBeF.jpg"
+        },
+        {
+            "title": "Chain of Command (2)",
+            "season": "6",
+            "episode_number": "11",
+            "ep_id": "tv/star-trek-next-generation/0611.mkv",
+            "description": "Stardate: 46360.8. Picard is captured and tortured by the Cardassians, while Riker tries to prevent a Federation attack on Cardassia.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hvYWb8wxj25lmid7hdFiPNpCH4b.jpg"
+        },
+        {
+            "title": "Ship in a Bottle",
+            "season": "6",
+            "episode_number": "12",
+            "ep_id": "tv/star-trek-next-generation/0612.mkv",
+            "description": "Stardate: 46424.1. While performing holodeck maintenance, Barclay accesses the stored hologram of Professor Moriarty, who wreaks havoc on board the Enterprise.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8Nn4kvqpcIFvgJThpj1z8gdOVHC.jpg"
+        },
+        {
+            "title": "Aquiel",
+            "season": "6",
+            "episode_number": "13",
+            "ep_id": "tv/star-trek-next-generation/0613.mkv",
+            "description": "Stardate: 46461.3. Geordie falls in love with a lieutenant who is the prime suspect in a murder case.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hztRr9mGfOxWkquEdeLlgSg2iAy.jpg"
+        },
+        {
+            "title": "Face of the Enemy",
+            "season": "6",
+            "episode_number": "14",
+            "ep_id": "tv/star-trek-next-generation/0614.mkv",
+            "description": "Stardate: 46519.1. Troi is abducted and surgically altered by the Romulans as part of a ploy to smuggle intelligence operatives into the Federation.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6Wj3pIR8dX75FPHsQ3KvB7hAdTQ.jpg"
+        },
+        {
+            "title": "Tapestry",
+            "season": "6",
+            "episode_number": "15",
+            "ep_id": "tv/star-trek-next-generation/0615.mkv",
+            "description": "Stardate: Unknown. A mortally wounded Picard is forced into re-living a time of his life when he was back in Starfleet Academy, with the intervention of Q.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/l4iPwnD7SIVNTnSt8zZBv6LN8GO.jpg"
+        },
+        {
+            "title": "Birthright (1)",
+            "season": "6",
+            "episode_number": "16",
+            "ep_id": "tv/star-trek-next-generation/0616.mkv",
+            "description": "Stardate: 46578.4. While visiting Deep Space Nine, Worf learns that his father is still alive and being held captive in a secret Romulan prison camp.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/ingvHW7tzEWUEhG312h0iCld2iG.jpg"
+        },
+        {
+            "title": "Birthright (2)",
+            "season": "6",
+            "episode_number": "17",
+            "ep_id": "tv/star-trek-next-generation/0617.mkv",
+            "description": "Stardate: 46759.2. Worf is captured by the Romulans where he learns why the other captives did not attempt an escape years before.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/oABAgh4LrpOzoxryc9AyzHPFK9q.jpg"
+        },
+        {
+            "title": "Starship Mine",
+            "season": "6",
+            "episode_number": "18",
+            "ep_id": "tv/star-trek-next-generation/0618.mkv",
+            "description": "Stardate: 46682.4. The crew evacuates the Enterprise when the ship needs to be cleaned of particles that have built up over the ship's hull. However, Picard accidentally stumbles over a terrorist group who plan on destroying the ship. He only has a short time to stop their attempts before the ship is swept by a beam of radiation to remove the particles that is lethal to all forms of life.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/bleLREDHg50VbxqPRCVBMg9swoT.jpg"
+        },
+        {
+            "title": "Lessons",
+            "season": "6",
+            "episode_number": "19",
+            "ep_id": "tv/star-trek-next-generation/0619.mkv",
+            "description": "Stardate: 46693.1. Picard must choose between love and command when he must make a decision that could place the woman he loves in a potentially deadly and high-risk mission.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/conZgR5Fc0VfpseLe20QMMQyPbL.jpg"
+        },
+        {
+            "title": "The Chase",
+            "season": "6",
+            "episode_number": "20",
+            "ep_id": "tv/star-trek-next-generation/0620.mkv",
+            "description": "Stardate: 46731.5. Picard's old archaeology professor is found murdered, the crew try to complete his research. Soon, the crew must compete with Romulans and Klingons and Cardassians to uncover the truth behind his discoveries.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4ovUqUiXUl12I4JRjyXBUkqADsJ.jpg"
+        },
+        {
+            "title": "Frame of Mind",
+            "season": "6",
+            "episode_number": "21",
+            "ep_id": "tv/star-trek-next-generation/0621.mkv",
+            "description": "Stardate: 46778.1. Riker questions his sanity when his reality seems to shift between an alien psychiatric hospital and a play he is performing with other members of the crew.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/ziJwtjTE3IuHfcdnnYWzl2CTvz5.jpg"
+        },
+        {
+            "title": "Suspicions",
+            "season": "6",
+            "episode_number": "22",
+            "ep_id": "tv/star-trek-next-generation/0622.mkv",
+            "description": "Stardate: 46830.1. Dr. Crusher puts her career on the line when she tries to clear the name of a murdered scientist whose invention could allow starships to pass through a sun's corona.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/sOTJNCuJteOLU7vgMsAavKd5QCi.jpg"
+        },
+        {
+            "title": "Rightful Heir",
+            "season": "6",
+            "episode_number": "23",
+            "ep_id": "tv/star-trek-next-generation/0623.mkv",
+            "description": "Stardate: 46852.2. While on a quest to summon a vision of Kahless, Worf questions his faith when the real Kahless rises from the dead to lead the Empire.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/wZoda9RvhyeGjIKyElC8XgT1mnM.jpg"
+        },
+        {
+            "title": "Second Chances",
+            "season": "6",
+            "episode_number": "24",
+            "ep_id": "tv/star-trek-next-generation/0624.mkv",
+            "description": "Stardate: 46915.2. Riker discovers that eight years ago, an exact clone of him was created when he beamed through a planet's surface while returning to his starship. This clone, named Thomas Riker, has secretly remained on the planet for the past eight years, and still has romantic feelings for Troi.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/tqPV9hFDo8VDMb5ryZPi6ATOT82.jpg"
+        },
+        {
+            "title": "Timescape",
+            "season": "6",
+            "episode_number": "25",
+            "ep_id": "tv/star-trek-next-generation/0625.mkv",
+            "description": "Stardate: 46944.2. Picard, Geordi, Troi and Data return from a Federation conference to find the Enterprise frozen in time and under attack from a frozen Romulan Warbird.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/sZor4j7NgQVM3VyHuPnr57MBeqx.jpg"
+        },
+        {
+            "title": "Descent (1)",
+            "season": "6",
+            "episode_number": "26",
+            "ep_id": "tv/star-trek-next-generation/0626.mkv",
+            "description": "Stardate: 46982.1. The Borg return to threaten the Federation under the new leadership of Lore. Data experiences a disturbing facet of human emotions - he feels pleasure after killing a Borg drone.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/nmwhaxcnimcS8rE7vvXWwgb9HSz.jpg"
+        },
+        {
+            "title": "Descent (2)",
+            "season": "7",
+            "episode_number": "1",
+            "ep_id": "tv/star-trek-next-generation/0701.mkv",
+            "description": "Stardate: 47025.4. Data abducts Picard, Troi and Geordi and holds them prisoners of the Borg, while he derives pleasure from being evil. Dr. Crusher is left in command of the Enterprise as it comes under attack from a Borg vessel.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/5nx4uuNdT7qw1QmxuHMFDSluADo.jpg"
+        },
+        {
+            "title": "Liaisons",
+            "season": "7",
+            "episode_number": "2",
+            "ep_id": "tv/star-trek-next-generation/0702.mkv",
+            "description": "Stardate: Unknown. During an exchange program, Picard's shuttle crashes on an unknown planet where he is rescued by the sole survivor of another crash.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1ruclbBDrgZV8crCokjC0AlG1py.jpg"
+        },
+        {
+            "title": "Interface",
+            "season": "7",
+            "episode_number": "3",
+            "ep_id": "tv/star-trek-next-generation/0703.mkv",
+            "description": "Stardate: 47215.5. Geordi defies direct orders from Captain Picard in an attempt to rescue his mother who had recently been reported as missing.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6oUu3B0Qf9ZY3P2az5BoVZXEad1.jpg"
+        },
+        {
+            "title": "Gambit (1)",
+            "season": "7",
+            "episode_number": "4",
+            "ep_id": "tv/star-trek-next-generation/0704.mkv",
+            "description": "Stardate: 47135.2. An away team investigates the apparent death of Jean-Luc Picard who was supposedly killed in a bar fight. When Riker is abducted by a band of criminals who loot archaeological digs, he is shocked to find Picard alive and well, and undercover as a renegade archaeologist.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/59NGV4AHXW0PQbhwWK5aU2C6alq.jpg"
+        },
+        {
+            "title": "Gambit (2)",
+            "season": "7",
+            "episode_number": "5",
+            "ep_id": "tv/star-trek-next-generation/0705.mkv",
+            "description": "Stardate: 47160.1. Picard and Riker covertly work together in an attempt to find out why the criminals are looting archaeological digs.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/iM76OmQV1Zt3RJpR7bj95ESgQVr.jpg"
+        },
+        {
+            "title": "Phantasms",
+            "season": "7",
+            "episode_number": "6",
+            "ep_id": "tv/star-trek-next-generation/0706.mkv",
+            "description": "Stardate: 47225.7. Data's new dream subroutine causes him to experience nightmares which provide a unique insight into strange events that are occurring on board the Enterprise.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/mIRiD06kLMsROtTQMQRg4xDZCea.jpg"
+        },
+        {
+            "title": "Dark Page",
+            "season": "7",
+            "episode_number": "7",
+            "ep_id": "tv/star-trek-next-generation/0707.mkv",
+            "description": "Stardate: 47254.1. Lwaxana Troi collapses with a repressed memory related illness. Her only chance for survival is if Deanna can probe her subconscious and find out what is killing her. However, the secret Lwaxana holds is deeper than Deanna imagined.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/lKQRIcHZZ3flssojrisPa636NfZ.jpg"
+        },
+        {
+            "title": "Attached",
+            "season": "7",
+            "episode_number": "8",
+            "ep_id": "tv/star-trek-next-generation/0708.mkv",
+            "description": "Stardate: 47304.2. While on a a diplomatic mission, Dr. Crusher and Picard are captured and imprisoned. As a result, they are linked together via a telepathic device.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rEAmqiiCLSDVL509WxyG4CAfRP1.jpg"
+        },
+        {
+            "title": "Force of Nature",
+            "season": "7",
+            "episode_number": "9",
+            "ep_id": "tv/star-trek-next-generation/0709.mkv",
+            "description": "Stardate: 47310.2. The Enterprise is drawn to a region of space where many starships have been mysteriously disabled. They soon learn that a brother and sister team has been working together to bring attention to the fact that frequent high-warp travel is damaging the very fabric of space/time.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7EHRzbKYDZHhREyoArTt6EkbzyN.jpg"
+        },
+        {
+            "title": "Inheritance",
+            "season": "7",
+            "episode_number": "10",
+            "ep_id": "tv/star-trek-next-generation/0710.mkv",
+            "description": "Stardate: 47410.2. Data is disturbed by the claims of a woman who says she is Noonien Soong's ex-wife.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/9JAmD9pJ4K1NW01URIlhSwufJi7.jpg"
+        },
+        {
+            "title": "Parallels",
+            "season": "7",
+            "episode_number": "11",
+            "ep_id": "tv/star-trek-next-generation/0711.mkv",
+            "description": "Stardate: 47391.2. Worf returns from a Klingon competition to find that he is shifting through different realities.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/zIQ4EmUGxpw0CIStZntF1X2EfEe.jpg"
+        },
+        {
+            "title": "The Pegasus",
+            "season": "7",
+            "episode_number": "12",
+            "ep_id": "tv/star-trek-next-generation/0712.mkv",
+            "description": "Stardate: 47457.1. Riker is placed on a covert mission to find the missing starship he was once a member aboard, but the mission holds a secret that could destroy the peace treaty between the Federation and the Romulans.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/nAupr45vAKxghouNMVvFYSir2Q2.jpg"
+        },
+        {
+            "title": "Homeward",
+            "season": "7",
+            "episode_number": "13",
+            "ep_id": "tv/star-trek-next-generation/0713.mkv",
+            "description": "Stardate: 47423.9. Worf's adoptive brother violates the Prime Directive to save an alien society whose planet is dying.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/cuL8dJ6qZJDtj7e3JKIfutuJy1k.jpg"
+        },
+        {
+            "title": "Sub Rosa",
+            "season": "7",
+            "episode_number": "14",
+            "ep_id": "tv/star-trek-next-generation/0714.mkv",
+            "description": "Stardate: Unknown. Dr. Crusher attends her grandmother's funeral, to find that she had been in romantic encounters with a mysterious man who had been haunting the Howard family women for generations.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/u7tRn6Fu678HI6Gyqrw5GTP5hrj.jpg"
+        },
+        {
+            "title": "Lower Decks",
+            "season": "7",
+            "episode_number": "15",
+            "ep_id": "tv/star-trek-next-generation/0715.mkv",
+            "description": "Stardate: 47566.7. Four young ensigns compete for a promotion that only one of them will receive. However, they are soon placed on a top secret mission that places some of their lives in danger.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/tSZEvMRLB4CMoLolUNWMTxXv2xI.jpg"
+        },
+        {
+            "title": "Thine Own Self",
+            "season": "7",
+            "episode_number": "16",
+            "ep_id": "tv/star-trek-next-generation/0716.mkv",
+            "description": "Stardate: 47611.2. Data find himself mysteriously stranded on a planet with no recollection of who he is or how he arrived there. Soon he is accused of spreading a plague among the inhabitants. Troi takes the bridge officer's test in an attempt to gain the rank of Commander.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/m4CV3c0cGvSl5k3uaZEviFY8qlg.jpg"
+        },
+        {
+            "title": "Masks",
+            "season": "7",
+            "episode_number": "17",
+            "ep_id": "tv/star-trek-next-generation/0717.mkv",
+            "description": "Stardate: 47615.2. The Enterprise is slowly transformed into an ancient alien temple when Data discovers an alien archive full of information about an ancient culture. Shortly after opening the archive, Data becomes possessed with several different personalities.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3hqbRYD3lRyv5IXRMyGAnSMtHJV.jpg"
+        },
+        {
+            "title": "Eye of the Beholder",
+            "season": "7",
+            "episode_number": "18",
+            "ep_id": "tv/star-trek-next-generation/0718.mkv",
+            "description": "Stardate: 47622.1. While investigating the mysterious suicide of a crew member, Troi and Worf begin to show romantic feeling towards one another.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/dBTaRlmvy1mrbb1fHvYkvRJxlXX.jpg"
+        },
+        {
+            "title": "Genesis",
+            "season": "7",
+            "episode_number": "19",
+            "ep_id": "tv/star-trek-next-generation/0719.mkv",
+            "description": "Stardate: 47653.2. Upon returning from an away mission, Picard and Data find the ship drifting in space, and the crew de-evolving into their animal ancestors.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7hBBfJMrq6Tn6wCXo3gObNF72jU.jpg"
+        },
+        {
+            "title": "Journey's End",
+            "season": "7",
+            "episode_number": "20",
+            "ep_id": "tv/star-trek-next-generation/0720.mkv",
+            "description": "Stardate: 47751.2. Under the terms of the new Federation/Cardassian alliance, Picard is ordered to evacuate a colony of native Americans, but protests from Wesley hamper the process. Wesley's destiny is finally revealed to him when the Traveler returns.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/65rs5pydeQMbnSfMXxE13kKHa1x.jpg"
+        },
+        {
+            "title": "Firstborn",
+            "season": "7",
+            "episode_number": "21",
+            "ep_id": "tv/star-trek-next-generation/0721.mkv",
+            "description": "Stardate: 47779.4. A disinterested Alexander must face his first Right of Ascension passage, but a mysterious warrior by the name of K'Mtar brings with him a disturbing request.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/1kOINsR9j4owAZs4rQ2Auh8THSM.jpg"
+        },
+        {
+            "title": "Bloodlines",
+            "season": "7",
+            "episode_number": "22",
+            "ep_id": "tv/star-trek-next-generation/0722.mkv",
+            "description": "Stardate: 47829.1. Picard tries to save his newly-discovered son from the retaliation of a vengeful Ferengi whose only son was killed by Picard during the Battle of Maxia many years before.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8sNFbUiw4ahEp5Zb6BmdXbYULCc.jpg"
+        },
+        {
+            "title": "Emergence",
+            "season": "7",
+            "episode_number": "23",
+            "ep_id": "tv/star-trek-next-generation/0723.mkv",
+            "description": "Stardate: 47869.2. The Enterprise's computer systems starts having repeated malfunctions, leading the crew to believe that it may be evolving into a new life form.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/aHL5OKLosZ2qFH1Jfy11zoUSGIm.jpg"
+        },
+        {
+            "title": "Preemptive Strike",
+            "season": "7",
+            "episode_number": "24",
+            "ep_id": "tv/star-trek-next-generation/0724.mkv",
+            "description": "Stardate: 47941.7. Fresh from Starfleet's Advanced Tactical Training course, Ro Laren is assigned to infiltrate the Maquis. However, over time she begins to sympathize with them, which forces her to choose between her loyalty to the Federation, and her new friends in the Maquis.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/x5FW8If7Bv2kZHqSi11rWxsljFw.jpg"
+        },
+        {
+            "title": "All Good Things...",
+            "season": "7",
+            "episode_number": "25",
+            "ep_id": "tv/star-trek-next-generation/0725.mkv",
+            "description": "Stardate: 47988.0. Shortly after Picard is diagnosed with a long-term, potentially debilitating brain disorder, he starts experiencing bizarre shifts into three main time periods: 25 years into the future, a few days before the Enterprise-D is sent on its mission to Farpoint station, and the present. Picard realizes that Q is behind these shifts through time.\n\nStardate:  47988.1. After his encounter with Q, Picard assembles the senior staff, and wonders if Q is actually giving him a chance to save humanity by showing him that the spatial anomaly also exists in the past. As they talk, the ship reaches the Neutral Zone, then Picard returns to the future, where Beverly's ship is also on the edge of the Neutral Zone. He convinces a reluctant Worf to accompany the group into Klingon territory, and then travels to the past, where he orders the crew into the Devron system.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/yBS5Zba5poZ8xzgGZqeLNoelXR2.jpg"
+        }
+    ]
 }
