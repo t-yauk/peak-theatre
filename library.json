@@ -2210,6 +2210,23 @@
             "endTime": "356"
         },
         {
+            "title": "A Million Ways to Die in the West",
+            "director": "Seth MacFarlane",
+            "year": "2014",
+            "duration": "2h 16m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0NDcyNjg0MV5BMl5BanBnXkFtZTgwMzk4NTA4MTE@._V1_FMjpg_UY2048_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTAwMDgwNzUyMjFeQTJeQWpwZ15BbWU4MDU5NDM4MDEx._V1_FMjpg_UX2048_.jpg",
+            "description": "As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his newly-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Western"
+            ],
+            "id": "a-million-ways-to-die.mkv",
+            "endTime": "354"
+        },
+        {
             "title": "Misery",
             "director": "Rob Reiner",
             "year": "1990",
