@@ -1,135 +1,135 @@
 {
-	"title": "Euphoria",
-	"logo": "05dd000d-a5ea-401b-86ae-1356a26b375b.avif",
-	"image_url": "euphoria.jpg",
-	"episodes": [
-		{
-			"title": "Pilot",
-			"season": "1",
-			"episode_number": "1",
-			"ep_id": "tv/euphoria/0101.mkv",
-			"description": "Rue returns home from rehab and meets Jules; Nate and Maddy attempt to make each other jealous; Kat is pressured to lose something.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNzIzOWIxZTAtYWE5NS00YjYwLTg5YTktNmI1YzAxYjUxNTk3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Stuntin' Like My Daddy",
-			"season": "1",
-			"episode_number": "2",
-			"ep_id": "tv/euphoria/0102.mkv",
-			"description": "On the first day of school, Rue struggles to put the past behind her; Nate's obsessions turn violent; Kat finds a video of her online.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTRhODBmYzMtNjhkZi00NDIyLWJkM2QtNzdiYjU4MmNkMmQ0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Made You Look",
-			"season": "1",
-			"episode_number": "3",
-			"ep_id": "tv/euphoria/0103.mkv",
-			"description": "Kat starts camming; Jules falls for a boy online; Rue is confronted about her lies at NA; Cassie and McKay spend the weekend at his college.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNmJlMDMwM2ItODNiZi00ZWViLTg3ZTUtY2JmZDkyMzg3NzhjXkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Shook Ones Pt II",
-			"season": "1",
-			"episode_number": "4",
-			"ep_id": "tv/euphoria/0104.mkv",
-			"description": "Rue, trying to get clean for Jules, chaperones Gia at the carnival; Kat misreads a situation; Jules encounters Cal; Nate reveals who he really is.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BYjBlYmM5Y2YtY2EzOS00YTBjLWE3YmYtYjAwZjAxZDlhMmE3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,43,1000,563_.jpg"
-		},
-		{
-			"title": "'03 Bonnie and Clyde",
-			"season": "1",
-			"episode_number": "5",
-			"ep_id": "tv/euphoria/0105.mkv",
-			"description": "In the aftermath of the carnival, Maddy and Nate are forced to deal with a police investigation; Jules begins to feel pressured by her role in Rue's sobriety; Cal worries about his actions.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY5MzA1NWEtOGQxZS00OWE2LTg0OTUtMWE1Y2JlNmJhYTNiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "The Next Episode",
-			"season": "1",
-			"episode_number": "6",
-			"ep_id": "tv/euphoria/0106.mkv",
-			"description": "On Halloween, Jules starts exhibiting concerning behavior; McKay questions his future in football; Cassie spends some time with Daniel; Kat continues to push Ethan away; Nate comes up with a plan.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BODA4MDM1OWEtN2EyMS00ZmNiLThhNjktYjQxYTFhZDQ1MDg5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "The Trials and Tribulations of Trying to Pee While Depressed",
-			"season": "1",
-			"episode_number": "7",
-			"ep_id": "tv/euphoria/0107.mkv",
-			"description": "Rue falls into a depressive episode and binge-watches 22 episodes of a British reality show; Jules visits an old friend; Cassie looks for advice to help her deal with the fallout of Halloween night.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc1ODkyMzUtNjkyNC00NWIzLWI5Y2ItOTU1NTU5Njc5MWNhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
-		},
-		{
-			"title": "And Salt the Earth Behind You",
-			"season": "1",
-			"episode_number": "8",
-			"ep_id": "tv/euphoria/0108.mkv",
-			"description": "It's the winter formal at East Highland.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTE1MmU1NjItNTEwNC00ZjlhLWI3ZDUtYzU4ZWJlZWI1YWRhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
-		},
-		{
-			"title": "Trying to Get to Heaven Before They Close the Door",
-			"season": "2",
-			"episode_number": "1",
-			"ep_id": "tv/euphoria/0201.mkv",
-			"description": "Rue and Jules cross paths for the first time since Christmas as East Highland rings in the new year.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZTA1MzMwM2YtN2FkYi00YmQ1LTk4YzktMzYyODNkODkzNGMxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Out of Touch",
-			"season": "2",
-			"episode_number": "2",
-			"ep_id": "tv/euphoria/0202.mkv",
-			"description": "As the semester kicks off, Jules questions Rue and Elliot's new friendship. The lines between fantasy and reality begin to blur as Kat considers her relationship.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZDU2NWRkZjUtNzAxMi00YzJmLTk0Y2ItZjEwNWVlNTQ4ODk5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Ruminations: Big and Little Bullys",
-			"season": "2",
-			"episode_number": "3",
-			"ep_id": "tv/euphoria/0203.mkv",
-			"description": "Maddy considers getting back together with Nate, Rue pursues a new business venture as she helps to form a friendship between Jules and Elliot.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMDBjZmEyZGQtYzljMS00YmMwLWExODItMmIyYjM0MDcxMjE1XkEyXkFqcGc@._V1_QL75_UY563_CR20,0,1000,563_.jpg"
-		},
-		{
-			"title": "You Who Cannot See, Think of Those Who Can",
-			"season": "2",
-			"episode_number": "4",
-			"ep_id": "tv/euphoria/0204.mkv",
-			"description": "At Maddy's birthday party, relationships are celebrated and questioned. Jules turns to Elliot for advice. Cal takes a trip down memory lane.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BOGNmMzdjY2ItZjBhYS00ZWY3LTkxOTAtNWJjZTRmY2Q1YTA2XkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg"
-		},
-		{
-			"title": "Stand Still Like the Hummingbird",
-			"season": "2",
-			"episode_number": "5",
-			"ep_id": "tv/euphoria/0205.mkv",
-			"description": "Fate has a way of catching up with those who try to outrun it.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZDNlMWQ4ODktYWJlNC00NjJhLWIyNjAtNWIxNjUwNzc3ZTQ2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,209,1000,563_.jpg"
-		},
-		{
-			"title": "A Thousand Little Trees of Blood",
-			"season": "2",
-			"episode_number": "6",
-			"ep_id": "tv/euphoria/0206.mkv",
-			"description": "As relationships with mothers are tested, Rue tries to recover. Nate enjoys his newfound freedom.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQyNWNiZmEtMzYzNy00NjBjLWJjNDEtOGFkZWZmMmMzYTYyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "The Theater and Its Double",
-			"season": "2",
-			"episode_number": "7",
-			"ep_id": "tv/euphoria/0207.mkv",
-			"description": "Art imitates life as the East Highland crew watches their complicated dynamics reflected in Lexi's long-awaited play.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BODNmNGNkZGUtNDNhYy00ZDNjLTk4Y2YtMjcxZDJhNmI1NzQ1XkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg"
-		},
-		{
-			"title": "All My Life, My Heart Has Yearned for a Thing I Cannot Name",
-			"season": "2",
-			"episode_number": "8",
-			"ep_id": "tv/euphoria/0208.mkv",
-			"description": "Snippets of memory collide with the present and future.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZWZiZmEyM2UtNGUxNS00MzQ1LTg2NzItZGI4NGFiNGI1YmE3XkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg"
-		}
-	]
+    "title": "Euphoria",
+    "logo": "05dd000d-a5ea-401b-86ae-1356a26b375b.avif",
+    "image_url": "euphoria.jpg",
+    "episodes": [
+        {
+            "title": "Pilot",
+            "season": "1",
+            "episode_number": "1",
+            "ep_id": "tv/euphoria/0101.mp4",
+            "description": "Rue returns home from rehab and meets Jules; Nate and Maddy attempt to make each other jealous; Kat is pressured to lose something.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzIzOWIxZTAtYWE5NS00YjYwLTg5YTktNmI1YzAxYjUxNTk3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Stuntin' Like My Daddy",
+            "season": "1",
+            "episode_number": "2",
+            "ep_id": "tv/euphoria/0102.mp4",
+            "description": "On the first day of school, Rue struggles to put the past behind her; Nate's obsessions turn violent; Kat finds a video of her online.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTRhODBmYzMtNjhkZi00NDIyLWJkM2QtNzdiYjU4MmNkMmQ0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Made You Look",
+            "season": "1",
+            "episode_number": "3",
+            "ep_id": "tv/euphoria/0103.mp4",
+            "description": "Kat starts camming; Jules falls for a boy online; Rue is confronted about her lies at NA; Cassie and McKay spend the weekend at his college.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmJlMDMwM2ItODNiZi00ZWViLTg3ZTUtY2JmZDkyMzg3NzhjXkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Shook Ones Pt II",
+            "season": "1",
+            "episode_number": "4",
+            "ep_id": "tv/euphoria/0104.mp4",
+            "description": "Rue, trying to get clean for Jules, chaperones Gia at the carnival; Kat misreads a situation; Jules encounters Cal; Nate reveals who he really is.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjBlYmM5Y2YtY2EzOS00YTBjLWE3YmYtYjAwZjAxZDlhMmE3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,43,1000,563_.jpg"
+        },
+        {
+            "title": "'03 Bonnie and Clyde",
+            "season": "1",
+            "episode_number": "5",
+            "ep_id": "tv/euphoria/0105.mp4",
+            "description": "In the aftermath of the carnival, Maddy and Nate are forced to deal with a police investigation; Jules begins to feel pressured by her role in Rue's sobriety; Cal worries about his actions.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY5MzA1NWEtOGQxZS00OWE2LTg0OTUtMWE1Y2JlNmJhYTNiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+        },
+        {
+            "title": "The Next Episode",
+            "season": "1",
+            "episode_number": "6",
+            "ep_id": "tv/euphoria/0106.mp4",
+            "description": "On Halloween, Jules starts exhibiting concerning behavior; McKay questions his future in football; Cassie spends some time with Daniel; Kat continues to push Ethan away; Nate comes up with a plan.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BODA4MDM1OWEtN2EyMS00ZmNiLThhNjktYjQxYTFhZDQ1MDg5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "The Trials and Tribulations of Trying to Pee While Depressed",
+            "season": "1",
+            "episode_number": "7",
+            "ep_id": "tv/euphoria/0107.mp4",
+            "description": "Rue falls into a depressive episode and binge-watches 22 episodes of a British reality show; Jules visits an old friend; Cassie looks for advice to help her deal with the fallout of Halloween night.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc1ODkyMzUtNjkyNC00NWIzLWI5Y2ItOTU1NTU5Njc5MWNhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+        },
+        {
+            "title": "And Salt the Earth Behind You",
+            "season": "1",
+            "episode_number": "8",
+            "ep_id": "tv/euphoria/0108.mp4",
+            "description": "It's the winter formal at East Highland.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTE1MmU1NjItNTEwNC00ZjlhLWI3ZDUtYzU4ZWJlZWI1YWRhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+        },
+        {
+            "title": "Trying to Get to Heaven Before They Close the Door",
+            "season": "2",
+            "episode_number": "1",
+            "ep_id": "tv/euphoria/0201.mp4",
+            "description": "Rue and Jules cross paths for the first time since Christmas as East Highland rings in the new year.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTA1MzMwM2YtN2FkYi00YmQ1LTk4YzktMzYyODNkODkzNGMxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Out of Touch",
+            "season": "2",
+            "episode_number": "2",
+            "ep_id": "tv/euphoria/0202.mp4",
+            "description": "As the semester kicks off, Jules questions Rue and Elliot's new friendship. The lines between fantasy and reality begin to blur as Kat considers her relationship.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDU2NWRkZjUtNzAxMi00YzJmLTk0Y2ItZjEwNWVlNTQ4ODk5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Ruminations: Big and Little Bullys",
+            "season": "2",
+            "episode_number": "3",
+            "ep_id": "tv/euphoria/0203.mp4",
+            "description": "Maddy considers getting back together with Nate, Rue pursues a new business venture as she helps to form a friendship between Jules and Elliot.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDBjZmEyZGQtYzljMS00YmMwLWExODItMmIyYjM0MDcxMjE1XkEyXkFqcGc@._V1_QL75_UY563_CR20,0,1000,563_.jpg"
+        },
+        {
+            "title": "You Who Cannot See, Think of Those Who Can",
+            "season": "2",
+            "episode_number": "4",
+            "ep_id": "tv/euphoria/0204.mp4",
+            "description": "At Maddy's birthday party, relationships are celebrated and questioned. Jules turns to Elliot for advice. Cal takes a trip down memory lane.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGNmMzdjY2ItZjBhYS00ZWY3LTkxOTAtNWJjZTRmY2Q1YTA2XkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg"
+        },
+        {
+            "title": "Stand Still Like the Hummingbird",
+            "season": "2",
+            "episode_number": "5",
+            "ep_id": "tv/euphoria/0205.mp4",
+            "description": "Fate has a way of catching up with those who try to outrun it.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDNlMWQ4ODktYWJlNC00NjJhLWIyNjAtNWIxNjUwNzc3ZTQ2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,209,1000,563_.jpg"
+        },
+        {
+            "title": "A Thousand Little Trees of Blood",
+            "season": "2",
+            "episode_number": "6",
+            "ep_id": "tv/euphoria/0206.mp4",
+            "description": "As relationships with mothers are tested, Rue tries to recover. Nate enjoys his newfound freedom.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQyNWNiZmEtMzYzNy00NjBjLWJjNDEtOGFkZWZmMmMzYTYyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "The Theater and Its Double",
+            "season": "2",
+            "episode_number": "7",
+            "ep_id": "tv/euphoria/0207.mp4",
+            "description": "Art imitates life as the East Highland crew watches their complicated dynamics reflected in Lexi's long-awaited play.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BODNmNGNkZGUtNDNhYy00ZDNjLTk4Y2YtMjcxZDJhNmI1NzQ1XkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg"
+        },
+        {
+            "title": "All My Life, My Heart Has Yearned for a Thing I Cannot Name",
+            "season": "2",
+            "episode_number": "8",
+            "ep_id": "tv/euphoria/0208.mp4",
+            "description": "Snippets of memory collide with the present and future.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWZiZmEyM2UtNGUxNS00MzQ1LTg2NzItZGI4NGFiNGI1YmE3XkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg"
+        }
+    ]
 }
