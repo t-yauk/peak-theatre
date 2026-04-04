@@ -3983,6 +3983,22 @@
             "endTime": "172"
         },
         {
+            "title": "Wuthering Heights",
+            "director": "Emerald Fennell",
+            "year": "2026",
+            "duration": "2h 16m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMGFlMTVkMDktZGMzMC00Yjk4LWFmNzEtNTFmMzM2YzM3MWFkXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BOTZiOTU0MjMtN2JkMy00OTRiLWI5NzEtNWVjZmJlYWFiMDI1XkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
+            "description": "A passionate and tumultuous love story set against the backdrop of the Yorkshire moors, exploring the intense and destructive relationship between Heathcliff and Catherine Earnshaw.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Romance"
+            ],
+            "id": "wuthering-heights.mkv",
+            "endTime": "318"
+        },
+        {
             "title": "X",
             "director": "Ti West",
             "year": "2022",
