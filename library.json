@@ -251,6 +251,23 @@
             "endTime": "553"
         },
         {
+            "title": "Avatar: Fire & Ash",
+            "director": "James Cameron",
+            "year": "2025",
+            "duration": "3h 17m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZDY0MDA5ZWUtZWZjYS00ZDBkLWI0NGEtZDc2YzE3NDBkZmZkXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNzZkYjRmMzMtYjk3MC00NzExLTllZGYtOTZiOGFlMTg2YzIyXkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
+            "description": "Jake and Neytiri's family grapples with grief, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Action"
+            ],
+            "id": "avatar-3.mkv",
+            "endTime": "548"
+        },
+        {
             "title": "Badlands",
             "director": "Terrence Malick",
             "year": "1973",
@@ -1150,25 +1167,21 @@
             "endTime": "245"
         },
         {
-            "title": "F1",
-            "director": "Joseph Kosinski",
-            "year": "2025",
-            "duration": "2h 35m",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_.jpg",
-            "previewImage": "https://m.media-amazon.com/images/M/MV5BMDBkNzMyNGMtMTk3NC00ZDA1LWJiYWQtNTI3NzRkY2E3MmY4XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
-            "description": "A Formula One driver comes out of retirement to mentor and team up with a younger driver.",
+            "title": "Fargo",
+            "director": "Joel Coen & Ethan Coen",
+            "year": "1996",
+            "duration": "1h 38m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_FMjpg_UY1938_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMmM1ZmRhYjMtOTNmNi00OGJhLWFiMTItMDZiNGE3MjU5MDRlXkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
+            "description": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
             "featured": "false",
             "theatre_optimized": "true",
             "genre": [
-                "Sport",
-                "Action"
+                "Crime",
+                "Thriller"
             ],
-            "id": "f1.mkv",
-            "trailer_id": "f1.webm",
-            "endTime": "354",
-            "oscars": [
-                "picture"
-            ]
+            "id": "fargo.mkv",
+            "endTime": "218"
         },
         {
             "title": "Fear and Loathing in Las Vegas",
@@ -1831,6 +1844,23 @@
             "id": "la-haine.mkv",
             "subtitle_id": "la-haine.vtt",
             "endTime": "37"
+        },
+        {
+            "title": "The Last of the Mohicans",
+            "director": "Michael Mann",
+            "year": "1992",
+            "duration": "1h 54m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BODAxNTAxMDItMzkwZS00ZTEyLWJlZmMtYTc0MGI1NDdkNWZkXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BOWM1YzEzMzItM2IzNi00OGNkLWI0NjktZWNmMzZjYzY4OWZiXkEyXkFqcGc@._V1_FMjpg_UX1280_.jpg",
+            "description": "Three Mohican trappers agree to protect the daughters of a British Colonel in the midst of the French and Indian War.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "War",
+                "Action"
+            ],
+            "id": "last-of-mohicans.mp4",
+            "endTime": "309"
         },
         {
             "title": "Late Night With The Devil",
@@ -3049,7 +3079,7 @@
             "year": "1948",
             "duration": "1h 20m",
             "image_url": "https://m.media-amazon.com/images/M/MV5BMDM1YzdlZjAtZWFiZS00ZjYyLTgxYzctNzBiYmE0OWFiMGU1XkEyXkFqcGc@._V1_FMjpg_UY2818_.jpg",
-            "previewImage": "https://images.mubicdn.net/images/film/2451/cache-9468-1745489551/image-w1280.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYzBjODVlNzYtNTZjOS00NThkLWE1NTAtMDFhODRmM2E2MTQ5XkEyXkFqcGc@._V1_FMjpg_UX1325_.jpg",
             "description": "Two men try to convince themselves they've committed the perfect murder by hosting a dinner party after strangling a former classmate to death.",
             "featured": "false",
             "theatre_optimized": "true",
@@ -3059,6 +3089,23 @@
             ],
             "id": "rope.mkv",
             "endTime": "30"
+        },
+        {
+            "title": "Rosemary's Baby",
+            "director": "Roman Polanski",
+            "year": "1968",
+            "duration": "2h 16m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNDlhMDI3OTQtNTBkYy00NWQ5LWJmNWEtZGQwYzZlMTQ4MDI1XkEyXkFqcGc@._V1_FMjpg_UY2208_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjMyNzE4MTEzOF5BMl5BanBnXkFtZTgwNDY3NDU5MTE@._V1_FMjpg_UX1024_.jpg",
+            "description": "A young woman suspects her neighbors have sinister plans for her pregnancy.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Drama"
+            ],
+            "id": "rosemarys-baby.mkv",
+            "endTime": "38"
         },
         {
             "title": "Rumble Fish",
