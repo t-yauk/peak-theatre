@@ -1,159 +1,160 @@
 {
-	"title": "Severance",
-	"logo": "severance.png",
-	"image_url": "severance.jpg",
-	"episodes": [
-		{
-			"title": "Good News About Hell",
-			"season": "1",
-			"episode_number": "1",
-			"ep_id": "tv/severance/0101.mp4",
-			"description": "Mark is promoted to lead a team who've had their memories surgically divided between their work and personal lives.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc1YzhiNTQtMzEyNC00YjdkLWFmMWUtYWJmYTQwMmI4OTg0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
-		},
-		{
-			"title": "Half Loop",
-			"season": "1",
-			"episode_number": "2",
-			"ep_id": "tv/severance/0102.mp4",
-			"description": "The team train new hire Helly on macrodata refinement. Mark takes a day off to meet with a mysterious former colleague.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNzM3ODc5NzEtNzJkOC00MDM4LWI0MTYtZTkyNmY3ZTBhYzkxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
-		},
-		{
-			"title": "In Perpetuity",
-			"season": "1",
-			"episode_number": "3",
-			"ep_id": "tv/severance/0103.mp4",
-			"description": "Mark takes the team on a field trip, but Helly continues to rebel. A deteriorating Petey struggles to tell Mark about Lumon's misdeeds.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BYzc2MzA1MDYtMjNlMC00YmNkLTg2OTItMzQwM2I3ZTQxZjI0XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "The You You Are",
-			"season": "1",
-			"episode_number": "4",
-			"ep_id": "tv/severance/0104.mp4",
-			"description": "Irving finds an intriguing book at work. Helly aggressively pursues a meeting with her Outie. Mark attends a funeral with Ms. Selvig.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BOTY2OWNkNTEtMDdlYy00ZWU2LWIyZjEtMjQzODMzYzRjMDg0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
-		},
-		{
-			"title": "The Grim Barbarity of Optics and Design",
-			"season": "1",
-			"episode_number": "5",
-			"ep_id": "tv/severance/0105.mp4",
-			"description": "Irving and Dylan confront Burt about his lies. Mark and Helly discover a strange new department.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNGQ5NTcwMDMtNzdiYy00OTllLWEyMGUtYjNhNTk0Y2EzYWRlXkEyXkFqcGc@._V1_QL75_UY563_CR174,0,1000,563_.jpg"
-		},
-		{
-			"title": "Hide and Seek",
-			"season": "1",
-			"episode_number": "6",
-			"ep_id": "tv/severance/0106.mp4",
-			"description": "The team angers Cobel by forming an alliance.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzZjOWYxNGQtMjBjOS00MDk1LWIyYWUtOTE2YzZmZDAxOGI2XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Defiant Jazz",
-			"season": "1",
-			"episode_number": "7",
-			"ep_id": "tv/severance/0107.mp4",
-			"description": "Mark and the team encounter new security measures from Cobel.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNDIxZDNjMDctZWEyZC00MWRlLTlhNGYtNGQ5MDc1Nzc0OWRhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
-		},
-		{
-			"title": "What's for Dinner?",
-			"season": "1",
-			"episode_number": "8",
-			"ep_id": "tv/severance/0108.mp4",
-			"description": "The team prepares a plan. Mark attends Devon and Ricken's party.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BYjJkNTk2ZTYtMDQyNi00MTFmLTlkZjYtYjYzYzViMTVjMmE3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "The We We Are",
-			"season": "1",
-			"episode_number": "9",
-			"ep_id": "tv/severance/0109.mp4",
-			"description": "The team discovers troubling revelations.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMDYyYmQyNjQtMTEwNy00ZTg4LTllNzctOTRiMjkyZmMyZmQ1XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Hello, Ms. Cobel",
-			"season": "2",
-			"episode_number": "1",
-			"ep_id": "tv/severance/0201.mp4",
-			"description": "Mark returns to work under different circumstances. Secrets from the Outie world come to light.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ2YWE5YTgtODUzZS00ZDIyLTg3M2YtMzQ2NTJkZjM3MGRhXkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Goodbye, Mrs. Selvig",
-			"season": "2",
-			"episode_number": "2",
-			"ep_id": "tv/severance/0202.mp4",
-			"description": "Outie Mark contemplates the meaning of a message. Lumon grapples with the fallout of the Overtime Contingency.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMzM3MjA2N2QtOGM0Zi00NjBmLTlmY2QtN2U5YmJjMjA5ZGRkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Who Is Alive?",
-			"season": "2",
-			"episode_number": "3",
-			"ep_id": "tv/severance/0203.mp4",
-			"description": "Four employees of a mysterious company, Mark, Helly, Irving, and Dylan, are trying to uncover the truth about their workplace and the secrets that surround them.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BODQzNWEyYzgtYjA0ZS00OTY0LWI4OWMtZDNjNTQ0YjYzNTljXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
-		},
-		{
-			"title": "Woe's Hollow",
-			"season": "2",
-			"episode_number": "4",
-			"ep_id": "tv/severance/0204.mp4",
-			"description": "The team comes together for a collective activity that will strengthen their relationships and test their team spirit.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BZjFlOTMyZjYtNDU3MS00OTA4LWE4YzgtMGEyZmUwMDVhNWFmXkEyXkFqcGc@._V1_QL75_UY563_CR177,0,1000,563_.jpg"
-		},
-		{
-			"title": "Trojan's Horse",
-			"season": "2",
-			"episode_number": "5",
-			"ep_id": "tv/severance/0205.mp4",
-			"description": "Tensions emerge after the team suffers a loss.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNDUzMGI3ZjctMjcxMS00OWMzLTg4ZTMtODhkYzIyYzk4MTQ3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Attila",
-			"season": "2",
-			"episode_number": "6",
-			"ep_id": "tv/severance/0206.mp4",
-			"description": "TAlliances are put to the test. Irving attends a somewhat tense dinner and Mark takes an excessive risk.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTZmMWRjODEtZDhkYS00N2ZjLTkwMTktZTcwY2M4ZTA2MDc3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Chikhai Bardo",
-			"season": "2",
-			"episode_number": "7",
-			"ep_id": "tv/severance/0207.mp4",
-			"description": "An old romance intersects with a deadly present threat.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMGE3N2Y0YjEtYzYxYS00YzI3LWFiODMtYTJhN2UxZjIzOWVmXkEyXkFqcGc@._V1_QL75_UY563_CR58,0,1000,563_.jpg"
-		},
-		{
-			"title": "Sweet Vitriol",
-			"season": "2",
-			"episode_number": "8",
-			"ep_id": "tv/severance/0208.mp4",
-			"description": "Discoveries are made.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNmY2MGU1MTctOGIzOS00NTA1LWE0ZGItZjcxODQzZmNhYjE4XkEyXkFqcGc@._V1_QL75_UY563_CR182,0,1000,563_.jpg"
-		},
-		{
-			"title": "The After Hours",
-			"season": "2",
-			"episode_number": "9",
-			"ep_id": "tv/severance/0209.mp4",
-			"description": "Mark and Devon team with an ally. Helly investigates further.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BOWMyOTM3YWUtYzZhZS00MDUzLWIxYjgtN2ZhNDU0NmM5N2I2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
-		},
-		{
-			"title": "Cold Harbor",
-			"season": "2",
-			"episode_number": "10",
-			"ep_id": "tv/severance/0210.mp4",
-			"description": "Mark forms a shaky alliance in an all-or-nothing play, while the team makes a dangerous last stand.",
-			"thumbnail": "https://m.media-amazon.com/images/M/MV5BNTRhMjIxNTItMmZmMy00YTNhLWFiNTgtMzJiZjhhNDVmM2ZlXkEyXkFqcGc@._V1_QL75_UY563_CR191,0,1000,563_.jpg"
-		}
-	]
+    "title": "Severance",
+    "logo": "severance.png",
+    "image_url": "severance.jpg",
+    "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+    "episodes": [
+        {
+            "title": "Good News About Hell",
+            "season": "1",
+            "episode_number": "1",
+            "ep_id": "tv/severance/0101.mp4",
+            "description": "Mark is promoted to lead a team who've had their memories surgically divided between their work and personal lives.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc1YzhiNTQtMzEyNC00YjdkLWFmMWUtYWJmYTQwMmI4OTg0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+        },
+        {
+            "title": "Half Loop",
+            "season": "1",
+            "episode_number": "2",
+            "ep_id": "tv/severance/0102.mp4",
+            "description": "The team train new hire Helly on macrodata refinement. Mark takes a day off to meet with a mysterious former colleague.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzM3ODc5NzEtNzJkOC00MDM4LWI0MTYtZTkyNmY3ZTBhYzkxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+        },
+        {
+            "title": "In Perpetuity",
+            "season": "1",
+            "episode_number": "3",
+            "ep_id": "tv/severance/0103.mp4",
+            "description": "Mark takes the team on a field trip, but Helly continues to rebel. A deteriorating Petey struggles to tell Mark about Lumon's misdeeds.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzc2MzA1MDYtMjNlMC00YmNkLTg2OTItMzQwM2I3ZTQxZjI0XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "The You You Are",
+            "season": "1",
+            "episode_number": "4",
+            "ep_id": "tv/severance/0104.mp4",
+            "description": "Irving finds an intriguing book at work. Helly aggressively pursues a meeting with her Outie. Mark attends a funeral with Ms. Selvig.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTY2OWNkNTEtMDdlYy00ZWU2LWIyZjEtMjQzODMzYzRjMDg0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+        },
+        {
+            "title": "The Grim Barbarity of Optics and Design",
+            "season": "1",
+            "episode_number": "5",
+            "ep_id": "tv/severance/0105.mp4",
+            "description": "Irving and Dylan confront Burt about his lies. Mark and Helly discover a strange new department.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGQ5NTcwMDMtNzdiYy00OTllLWEyMGUtYjNhNTk0Y2EzYWRlXkEyXkFqcGc@._V1_QL75_UY563_CR174,0,1000,563_.jpg"
+        },
+        {
+            "title": "Hide and Seek",
+            "season": "1",
+            "episode_number": "6",
+            "ep_id": "tv/severance/0106.mp4",
+            "description": "The team angers Cobel by forming an alliance.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzZjOWYxNGQtMjBjOS00MDk1LWIyYWUtOTE2YzZmZDAxOGI2XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Defiant Jazz",
+            "season": "1",
+            "episode_number": "7",
+            "ep_id": "tv/severance/0107.mp4",
+            "description": "Mark and the team encounter new security measures from Cobel.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDIxZDNjMDctZWEyZC00MWRlLTlhNGYtNGQ5MDc1Nzc0OWRhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+        },
+        {
+            "title": "What's for Dinner?",
+            "season": "1",
+            "episode_number": "8",
+            "ep_id": "tv/severance/0108.mp4",
+            "description": "The team prepares a plan. Mark attends Devon and Ricken's party.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjJkNTk2ZTYtMDQyNi00MTFmLTlkZjYtYjYzYzViMTVjMmE3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "The We We Are",
+            "season": "1",
+            "episode_number": "9",
+            "ep_id": "tv/severance/0109.mp4",
+            "description": "The team discovers troubling revelations.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDYyYmQyNjQtMTEwNy00ZTg4LTllNzctOTRiMjkyZmMyZmQ1XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Hello, Ms. Cobel",
+            "season": "2",
+            "episode_number": "1",
+            "ep_id": "tv/severance/0201.mp4",
+            "description": "Mark returns to work under different circumstances. Secrets from the Outie world come to light.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ2YWE5YTgtODUzZS00ZDIyLTg3M2YtMzQ2NTJkZjM3MGRhXkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Goodbye, Mrs. Selvig",
+            "season": "2",
+            "episode_number": "2",
+            "ep_id": "tv/severance/0202.mp4",
+            "description": "Outie Mark contemplates the meaning of a message. Lumon grapples with the fallout of the Overtime Contingency.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzM3MjA2N2QtOGM0Zi00NjBmLTlmY2QtN2U5YmJjMjA5ZGRkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Who Is Alive?",
+            "season": "2",
+            "episode_number": "3",
+            "ep_id": "tv/severance/0203.mp4",
+            "description": "Four employees of a mysterious company, Mark, Helly, Irving, and Dylan, are trying to uncover the truth about their workplace and the secrets that surround them.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BODQzNWEyYzgtYjA0ZS00OTY0LWI4OWMtZDNjNTQ0YjYzNTljXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+        },
+        {
+            "title": "Woe's Hollow",
+            "season": "2",
+            "episode_number": "4",
+            "ep_id": "tv/severance/0204.mp4",
+            "description": "The team comes together for a collective activity that will strengthen their relationships and test their team spirit.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjFlOTMyZjYtNDU3MS00OTA4LWE4YzgtMGEyZmUwMDVhNWFmXkEyXkFqcGc@._V1_QL75_UY563_CR177,0,1000,563_.jpg"
+        },
+        {
+            "title": "Trojan's Horse",
+            "season": "2",
+            "episode_number": "5",
+            "ep_id": "tv/severance/0205.mp4",
+            "description": "Tensions emerge after the team suffers a loss.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDUzMGI3ZjctMjcxMS00OWMzLTg4ZTMtODhkYzIyYzk4MTQ3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Attila",
+            "season": "2",
+            "episode_number": "6",
+            "ep_id": "tv/severance/0206.mp4",
+            "description": "TAlliances are put to the test. Irving attends a somewhat tense dinner and Mark takes an excessive risk.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTZmMWRjODEtZDhkYS00N2ZjLTkwMTktZTcwY2M4ZTA2MDc3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Chikhai Bardo",
+            "season": "2",
+            "episode_number": "7",
+            "ep_id": "tv/severance/0207.mp4",
+            "description": "An old romance intersects with a deadly present threat.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGE3N2Y0YjEtYzYxYS00YzI3LWFiODMtYTJhN2UxZjIzOWVmXkEyXkFqcGc@._V1_QL75_UY563_CR58,0,1000,563_.jpg"
+        },
+        {
+            "title": "Sweet Vitriol",
+            "season": "2",
+            "episode_number": "8",
+            "ep_id": "tv/severance/0208.mp4",
+            "description": "Discoveries are made.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmY2MGU1MTctOGIzOS00NTA1LWE0ZGItZjcxODQzZmNhYjE4XkEyXkFqcGc@._V1_QL75_UY563_CR182,0,1000,563_.jpg"
+        },
+        {
+            "title": "The After Hours",
+            "season": "2",
+            "episode_number": "9",
+            "ep_id": "tv/severance/0209.mp4",
+            "description": "Mark and Devon team with an ally. Helly investigates further.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWMyOTM3YWUtYzZhZS00MDUzLWIxYjgtN2ZhNDU0NmM5N2I2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        },
+        {
+            "title": "Cold Harbor",
+            "season": "2",
+            "episode_number": "10",
+            "ep_id": "tv/severance/0210.mp4",
+            "description": "Mark forms a shaky alliance in an all-or-nothing play, while the team makes a dangerous last stand.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTRhMjIxNTItMmZmMy00YTNhLWFiNTgtMzJiZjhhNDVmM2ZlXkEyXkFqcGc@._V1_QL75_UY563_CR191,0,1000,563_.jpg"
+        }
+    ]
 }
