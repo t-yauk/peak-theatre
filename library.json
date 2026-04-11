@@ -634,6 +634,23 @@
             "endTime": "7"
         },
         {
+            "title": "The Bride!",
+            "director": "Maggie Gyllenhaal",
+            "year": "2026",
+            "duration": "2h 6m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BM2VmMDVlNzgtNThhZC00ZGMwLTg4MmEtZTUzNmRiYTkxYzUyXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjZkMTAyNTUtMjA2Yi00ZGM4LWJlYjEtOGU5OTE2MDQwNDFjXkEyXkFqcGc@._V1_.jpg",
+            "description": "In 1930s Chicago, Frankenstein asks Dr. Euphronius to help create a companion. They give life to a murdered woman as the Bride, sparking romance, police interest, and radical social change.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Romance"
+            ],
+            "id": "the-bride.mkv",
+            "endTime": "480"
+        },
+        {
             "title": "Broadcast News",
             "director": "James L. Brooks",
             "year": "1987",
@@ -3462,6 +3479,23 @@
             ],
             "id": "steve-jobs.mkv",
             "endTime": "242"
+        },
+        {
+            "title": "Stop Making Sense",
+            "director": "Jonathan Demme",
+            "year": "1984",
+            "duration": "1h 28m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOTY2Y2EzMTctYTZiMC00YzEzLWIwMDItODQyYWUyY2U2MTk4XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNGFlYjU0MTItNjYyNS00YmYzLWJkYjUtYmQ3ZjIzYTk2NTBjXkEyXkFqcGc@._V1_.jpg",
+            "description": "A live performance of the band Talking Heads shot over the course of three nights at Hollywood's Pantages Theater in December of 1983 and featuring their most memorable songs.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Musical",
+                "Concert"
+            ],
+            "id": "stop-making-sense.mkv",
+            "endTime": "156"
         },
         {
             "title": "Sunset BLVD.",
