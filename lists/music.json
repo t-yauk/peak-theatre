@@ -1,1662 +1,1708 @@
 
 {
-	"music": [
-		{
-			"title": "1999",
-			"id": "1999",
-			"artist": "Prince",
-			"year": "1982",
-			"genre": "Rock",
-			"artwork": "886448877554.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "1999"
-				},
-				{
-					"id": "2.flac",
-					"title": "Little Red Corvette"
-				},
-				{
-					"id": "3.flac",
-					"title": "Delirious"
-				},
-				{
-					"id": "4.flac",
-					"title": "Let's Pretend We're Married"
-				},
-				{
-					"id": "5.flac",
-					"title": "D.M.S.R."
-				},
-				{
-					"id": "6.flac",
-					"title": "Automatic"
-				},
-				{
-					"id": "7.flac",
-					"title": "Something in the Water (Does Not Compute)"
-				},
-				{
-					"id": "8.flac",
-					"title": "Free"
-				},
-				{
-					"id": "9.flac",
-					"title": "Lady Cab Driver"
-				},
-				{
-					"id": "10.flac",
-					"title": "All the Critics Love U in New York"
-				},
-				{
-					"id": "11.flac",
-					"title": "International Lover"
-				}
-			]
-		},
-		{
-			"title": "Abbey Road",
-			"id": "abbey-road",
-			"artist": "The Beatles",
-			"year": "1969",
-			"genre": "Rock",
-			"artwork": "13UMGIM63890.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Come Together"
-				},
-				{
-					"id": "2.flac",
-					"title": "Something"
-				},
-				{
-					"id": "3.flac",
-					"title": "Maxwell's Silver Hammer"
-				},
-				{
-					"id": "4.flac",
-					"title": "Oh! Darling"
-				},
-				{
-					"id": "5.flac",
-					"title": "Octopus's Garden"
-				},
-				{
-					"id": "6.flac",
-					"title": "I Want You (She's So Heavy)"
-				},
-				{
-					"id": "7.flac",
-					"title": "Here Comes the Sun"
-				},
-				{
-					"id": "8.flac",
-					"title": "Because"
-				},
-				{
-					"id": "9.flac",
-					"title": "You Never Give Me Your Money"
-				},
-				{
-					"id": "10.flac",
-					"title": "Sun King"
-				},
-				{
-					"id": "11.flac",
-					"title": "Mean Mr Mustard"
-				},
-				{
-					"id": "12.flac",
-					"title": "Polythene Pam"
-				},
-				{
-					"id": "13.flac",
-					"title": "She Came In Through the Bathroom Window"
-				},
-				{
-					"id": "14.flac",
-					"title": "Golden Slumbers"
-				},
-				{
-					"id": "15.flac",
-					"title": "Carry That Weight"
-				},
-				{
-					"id": "16.flac",
-					"title": "The End"
-				},
-				{
-					"id": "17.flac",
-					"title": "Her Majesty"
-				}
-			]
-		},
-		{
-			"title": "APT.",
-			"id": "apt",
-			"artist": "ROSÉ and Bruno Mars",
-			"year": "2024",
-			"genre": "Pop",
-			"artwork": "075679628312.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "APT."
-				}
-			]
-		},
-		{
-			"title": "Batman",
-			"id": "batman",
-			"artist": "Prince",
-			"year": "1989",
-			"genre": "Soundtrack",
-			"artwork": "djeqwnskig.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "The Future"
-				},
-				{
-					"id": "2.flac",
-					"title": "Electric Chair"
-				},
-				{
-					"id": "3.flac",
-					"title": "The Arms of Orion"
-				},
-				{
-					"id": "4.flac",
-					"title": "Partyman"
-				},
-				{
-					"id": "5.flac",
-					"title": "Vicki Waiting"
-				},
-				{
-					"id": "6.flac",
-					"title": "Trust"
-				},
-				{
-					"id": "7.flac",
-					"title": "Lemon Crush"
-				},
-				{
-					"id": "8.flac",
-					"title": "Scandalous"
-				},
-				{
-					"id": "9.flac",
-					"title": "Batdance"
-				}
-			]
-		},
-		{
-			"title": "Big Mess",
-			"id": "big-mess",
-			"artist": "Danny Elfman",
-			"year": "2021",
-			"genre": "Alternative",
-			"artwork": "0045778781164.png",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Sorry"
-				},
-				{
-					"id": "2.flac",
-					"title": "True"
-				},
-				{
-					"id": "3.flac",
-					"title": "In Time"
-				},
-				{
-					"id": "4.flac",
-					"title": "Everybody Loves You"
-				},
-				{
-					"id": "5.flac",
-					"title": "Dance with the Lemurs"
-				},
-				{
-					"id": "6.flac",
-					"title": "Serious Ground"
-				},
-				{
-					"id": "7.flac",
-					"title": "Choose Your Side"
-				},
-				{
-					"id": "8.flac",
-					"title": "We Belong"
-				},
-				{
-					"id": "9.flac",
-					"title": "Happy"
-				},
-				{
-					"id": "10.flac",
-					"title": "Just a Human"
-				},
-				{
-					"id": "11.flac",
-					"title": "Devil Take Away"
-				},
-				{
-					"id": "12.flac",
-					"title": "Love in the Time of Covid"
-				},
-				{
-					"id": "13.flac",
-					"title": "Native Intelligence"
-				},
-				{
-					"id": "14.flac",
-					"title": "Better Times"
-				},
-				{
-					"id": "15.flac",
-					"title": "Cruel Compensation"
-				},
-				{
-					"id": "16.flac",
-					"title": "Kick Me"
-				},
-				{
-					"id": "17.flac",
-					"title": "Get over it"
-				},
-				{
-					"id": "18.flac",
-					"title": "Insects"
-				}
-			]
-		},
-		{
-			"title": "Chess",
-			"id": "chess",
-			"artist": "Benny Andersson, Tim Rice & Björn Ulveaus",
-			"year": "1984",
-			"genre": "Musical",
-			"artwork": "00602547084149.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Merano"
-				},
-				{
-					"id": "2.flac",
-					"title": "Press Conference"
-				},
-				{
-					"id": "3.flac",
-					"title": "Where I Want To Be"
-				},
-				{
-					"id": "4.flac",
-					"title": "Opening Ceremony"
-				},
-				{
-					"id": "5.flac",
-					"title": "Quartet"
-				},
-				{
-					"id": "6.flac",
-					"title": "Nobody's Side"
-				},
-				{
-					"id": "7.flac",
-					"title": "Intro to Mountain Duet"
-				},
-				{
-					"id": "8.flac",
-					"title": "Mountain Duet"
-				},
-				{
-					"id": "9.flac",
-					"title": "Chess"
-				},
-				{
-					"id": "10.flac",
-					"title": "Florence Quits"
-				},
-				{
-					"id": "11.flac",
-					"title": "Heaven Help My Heart"
-				},
-				{
-					"id": "12.flac",
-					"title": "Embassy Lament"
-				},
-				{
-					"id": "13.flac",
-					"title": "Anthem"
-				},
-				{
-					"id": "14.flac",
-					"title": "One Night in Bangkok"
-				},
-				{
-					"id": "15.mp3",
-					"title": "He's A Man, He's A Child"
-				},
-				{
-					"id": "16.flac",
-					"title": "Argument"
-				},
-				{
-					"id": "17.flac",
-					"title": "I Know Him So Well"
-				},
-				{
-					"id": "18.flac",
-					"title": "The Deal (No Deal)"
-				},
-				{
-					"id": "19.flac",
-					"title": "Pity The Child"
-				},
-				{
-					"id": "20.flac",
-					"title": "Endgame"
-				},
-				{
-					"id": "21.mp3",
-					"title": "Someone Else's Story"
-				},
-				{
-					"id": "22.flac",
-					"title": "You and I"
-				},
-				{
-					"id": "23.flac",
-					"title": "Anthem (Orchestral)"
-				}
-			]
-		},
-		{
-			"title": "Come On Over",
-			"id": "come-on-over",
-			"artist": "Shania Twain",
-			"year": "1997",
-			"genre": "Country",
-			"artwork": "06UMGIM07033.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Man! I Feel Like a Woman!"
-				},
-				{
-					"id": "2.flac",
-					"title": "I'm Holding On to Live (To Save My Life)"
-				},
-				{
-					"id": "3.flac",
-					"title": "Love Gets Me Every Time"
-				},
-				{
-					"id": "4.flac",
-					"title": "Don't Be Stupid"
-				},
-				{
-					"id": "5.flac",
-					"title": "From This Moment On"
-				},
-				{
-					"id": "6.flac",
-					"title": "Come On Over"
-				},
-				{
-					"id": "7.flac",
-					"title": "When"
-				},
-				{
-					"id": "8.flac",
-					"title": "Whatever You Do! Don't!"
-				},
-				{
-					"id": "9.flac",
-					"title": "If You Wanna Touch Her, Ask!"
-				},
-				{
-					"id": "10.flac",
-					"title": "You're Still the One"
-				},
-				{
-					"id": "11.flac",
-					"title": "Honey, I'm Home"
-				},
-				{
-					"id": "12.flac",
-					"title": "That Don't Impress Me Much"
-				},
-				{
-					"id": "13.flac",
-					"title": "Black Eyes, Blue Tears"
-				},
-				{
-					"id": "14.flac",
-					"title": "I Won't Leave You Lonely"
-				},
-				{
-					"id": "15.flac",
-					"title": "Rock This Country"
-				},
-				{
-					"id": "16.flac",
-					"title": "You've Got a Way"
-				}
-			]
-		},
-		{
-			"title": "Dangerous",
-			"id": "dangerous",
-			"artist": "Michael Jackson",
-			"year": "1991",
-			"genre": "Pop",
-			"artwork": "884977307832.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Jam"
-				},
-				{
-					"id": "2.flac",
-					"title": "Why You Wanna Trip On Me"
-				},
-				{
-					"id": "3.flac",
-					"title": "In the Closet"
-				},
-				{
-					"id": "4.flac",
-					"title": "She Drives Me Wild"
-				},
-				{
-					"id": "5.flac",
-					"title": "Remember the Time"
-				},
-				{
-					"id": "6.flac",
-					"title": "Can't Let Her Get Away"
-				},
-				{
-					"id": "7.flac",
-					"title": "Heal the World"
-				},
-				{
-					"id": "8.flac",
-					"title": "Black or White"
-				},
-				{
-					"id": "9.flac",
-					"title": "Who Is It"
-				},
-				{
-					"id": "10.flac",
-					"title": "Give In to Me"
-				},
-				{
-					"id": "11.flac",
-					"title": "Will You Be There"
-				},
-				{
-					"id": "12.flac",
-					"title": "Keep the Faith"
-				},
-				{
-					"id": "13.flac",
-					"title": "Gone Too Soon"
-				},
-				{
-					"id": "14.flac",
-					"title": "Dangerous"
-				}
-			]
-		},
-		{
-			"title": "The Dark Side of the Moon",
-			"id": "dark-side-moon",
-			"artist": "Pink Floyd",
-			"year": "1973",
-			"genre": "Rock",
-			"artwork": "196589805232.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Speak To Me"
-				},
-				{
-					"id": "2.flac",
-					"title": "Breath (In the Air)"
-				},
-				{
-					"id": "3.flac",
-					"title": "On the Run"
-				},
-				{
-					"id": "4.flac",
-					"title": "Time"
-				},
-				{
-					"id": "5.flac",
-					"title": "The Great Gig in the Sky"
-				},
-				{
-					"id": "6.flac",
-					"title": "Money"
-				},
-				{
-					"id": "7.flac",
-					"title": "Us and Them"
-				},
-				{
-					"id": "8.flac",
-					"title": "Any Colour You Like"
-				},
-				{
-					"id": "9.flac",
-					"title": "Brain Damage"
-				},
-				{
-					"id": "10.flac",
-					"title": "Eclipse"
-				}
-			]
-		},
-		{
-			"title": "Face Value",
-			"id": "face-value",
-			"artist": "Phil Collins",
-			"year": "1981",
-			"genre": "Rock",
-			"artwork": "603497889754.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "In the Air Tonight"
-				},
-				{
-					"id": "2.flac",
-					"title": "This Must Be Love"
-				},
-				{
-					"id": "3.flac",
-					"title": "Behind the Lines"
-				},
-				{
-					"id": "4.flac",
-					"title": "The Roof is Leaking"
-				},
-				{
-					"id": "5.flac",
-					"title": "Droned"
-				},
-				{
-					"id": "6.flac",
-					"title": "Hand in Hand"
-				},
-				{
-					"id": "7.flac",
-					"title": "I Missed Again"
-				},
-				{
-					"id": "8.flac",
-					"title": "You Know What I Mean"
-				},
-				{
-					"id": "9.flac",
-					"title": "Thunder and Lightning"
-				},
-				{
-					"id": "10.flac",
-					"title": "I'm Not Moving"
-				},
-				{
-					"id": "11.flac",
-					"title": "If Leaving Me Is Easy"
-				},
-				{
-					"id": "12.flac",
-					"title": "Tomorrow Never Knows"
-				},
-				{
-					"id": "13.flac",
-					"title": "Over The Rainbow"
-				}
-			]
-		},
-		{
-			"title": "Gershwin: Rhapsody in Blue - An American in Paris",
-			"id": "gershwin",
-			"artist": "George Gershwin",
-			"year": "1958",
-			"genre": "Classical",
-			"artwork": "886443706699.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Rhapsody in Blue"
-				},
-				{
-					"id": "2.flac",
-					"title": "An American in Paris"
-				}
-			]
-		},
-		{
-			"title": "GUTS",
-			"id": "guts",
-			"artist": "Olivia Rodrigo",
-			"year": "2023",
-			"genre": "Pop",
-			"artwork": "23UMGIM71510.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "all-american bitch"
-				},
-				{
-					"id": "2.flac",
-					"title": "bad idea right?"
-				},
-				{
-					"id": "3.flac",
-					"title": "vampire"
-				},
-				{
-					"id": "4.flac",
-					"title": "lacy"
-				},
-				{
-					"id": "5.flac",
-					"title": "ballad of a homeschool girl"
-				},
-				{
-					"id": "6.flac",
-					"title": "making the bed"
-				},
-				{
-					"id": "7.flac",
-					"title": "logical"
-				},
-				{
-					"id": "8.flac",
-					"title": "get him back!"
-				},
-				{
-					"id": "9.flac",
-					"title": "love is embarrassing"
-				},
-				{
-					"id": "10.flac",
-					"title": "the grudge"
-				},
-				{
-					"id": "11.flac",
-					"title": "pretty isn't pretty"
-				},
-				{
-					"id": "12.flac",
-					"title": "teenage dream"
-				}
-			]
-		},
-		{
-			"title": "Hotel California",
-			"id": "hotel-california",
-			"artist": "Eagles",
-			"year": "1976",
-			"genre": "Rock",
-			"artwork": "075596050920.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Hotel California"
-				},
-				{
-					"id": "2.flac",
-					"title": "New Kid in Town"
-				},
-				{
-					"id": "3.flac",
-					"title": "Life in the Fast Lane"
-				},
-				{
-					"id": "4.flac",
-					"title": "Wasted Time"
-				},
-				{
-					"id": "5.flac",
-					"title": "Wasted Time (Reprise)"
-				},
-				{
-					"id": "6.flac",
-					"title": "Victim of Love"
-				},
-				{
-					"id": "7.flac",
-					"title": "Pretty Maids All in a Row"
-				},
-				{
-					"id": "8.flac",
-					"title": "Try and Love Again"
-				},
-				{
-					"id": "9.flac",
-					"title": "The Last Resort"
-				}
-			]
-		},
-		{
-			"title": "I Warned Myself - Single",
-			"id": "i-warned-myself",
-			"artist": "Charlie Puth",
-			"year": "2019",
-			"genre": "Pop",
-			"artwork": "075679839497.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "I Warned Myself"
-				}
-			]
-		},
-		{
-			"title": "A Kind of Magic",
-			"id": "kind-of-magic",
-			"artist": "Queen",
-			"year": "1986",
-			"genre": "Rock",
-			"artwork": "14DMGIM05557.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "One Vision"
-				},
-				{
-					"id": "2.flac",
-					"title": "A Kind of Magic"
-				},
-				{
-					"id": "3.flac",
-					"title": "One Year of Love"
-				},
-				{
-					"id": "4.flac",
-					"title": "Pain Is So Close to Pleasure"
-				},
-				{
-					"id": "5.flac",
-					"title": "Friends Will Be Friends"
-				},
-				{
-					"id": "6.flac",
-					"title": "Who Wants to Live Forever"
-				},
-				{
-					"id": "7.flac",
-					"title": "Gimme The Prize"
-				},
-				{
-					"id": "8.flac",
-					"title": "Don't Lose Your Head"
-				},
-				{
-					"id": "9.flac",
-					"title": "Prince of the Universe"
-				}
-			]
-		},
-		{
-			"title": "The Mission",
-			"id": "the-mission",
-			"artist": "Ennio Morricone",
-			"year": "1986",
-			"genre": "Soundtrack",
-			"artwork": "00077778600152.jpg",
-			"tracks": [
-				{
-					"id": "1.mp3",
-					"title": "On Earth As It Is In Heaven"
-				},
-				{
-					"id": "2.mp3",
-					"title": "Falls"
-				},
-				{
-					"id": "3.mp3",
-					"title": "Gabriel's Oboe"
-				},
-				{
-					"id": "4.mp3",
-					"title": "Ave Maria Guarani"
-				},
-				{
-					"id": "5.mp3",
-					"title": "Brothers"
-				},
-				{
-					"id": "6.mp3",
-					"title": "Carlotta"
-				},
-				{
-					"id": "7.mp3",
-					"title": "Vita Nostra"
-				},
-				{
-					"id": "8.mp3",
-					"title": "Climb"
-				},
-				{
-					"id": "9.mp3",
-					"title": "Remorse"
-				},
-				{
-					"id": "10.mp3",
-					"title": "Penance"
-				},
-				{
-					"id": "11.mp3",
-					"title": "The Mission"
-				},
-				{
-					"id": "12.mp3",
-					"title": "River"
-				},
-				{
-					"id": "13.mp3",
-					"title": "Gabriel's Oboe"
-				},
-				{
-					"id": "14.mp3",
-					"title": "Te Deum Guarani"
-				},
-				{
-					"id": "15.mp3",
-					"title": "Refusal"
-				},
-				{
-					"id": "16.mp3",
-					"title": "Asunción"
-				},
-				{
-					"id": "17.mp3",
-					"title": "Alone"
-				},
-				{
-					"id": "18.mp3",
-					"title": "Guarani"
-				},
-				{
-					"id": "19.mp3",
-					"title": "The Sword"
-				},
-				{
-					"id": "20.mp3",
-					"title": "Miserere"
-				}
-			]
-		},
-		{
-			"title": "Mother - Single",
-			"id": "mother",
-			"artist": "Charlie Puth",
-			"year": "2019",
-			"genre": "Pop",
-			"artwork": "075679833815.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Mother"
-				}
-			]
-		},
-		{
-			"title": "Moving Pictures",
-			"id": "moving-pictures",
-			"artist": "Rush",
-			"year": "1980",
-			"genre": "Rock",
-			"artwork": "21UMGIM68387.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Tom Sawyer"
-				},
-				{
-					"id": "2.flac",
-					"title": "Red Barchetta"
-				},
-				{
-					"id": "3.flac",
-					"title": "YYZ"
-				},
-				{
-					"id": "4.flac",
-					"title": "Limelight"
-				},
-				{
-					"id": "5.flac",
-					"title": "The Camera Eye"
-				},
-				{
-					"id": "6.flac",
-					"title": "Witch Hunt"
-				},
-				{
-					"id": "7.flac",
-					"title": "Vital Signs"
-				}
-			]
-		},
-		{
-			"title": "No Jacket Required",
-			"id": "no-jacket-required",
-			"artist": "Phil Collins",
-			"year": "1985",
-			"genre": "Pop",
-			"artwork": "603497879700.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Sussudio"
-				},
-				{
-					"id": "2.flac",
-					"title": "Only You Know and I Know"
-				},
-				{
-					"id": "3.flac",
-					"title": "Long Long Way to Go"
-				},
-				{
-					"id": "4.flac",
-					"title": "I Don't Wanna Know"
-				},
-				{
-					"id": "5.flac",
-					"title": "One More Night"
-				},
-				{
-					"id": "6.flac",
-					"title": "Don't Lose My Number"
-				},
-				{
-					"id": "7.flac",
-					"title": "Who Said I Would"
-				},
-				{
-					"id": "8.flac",
-					"title": "Doesn't Anybody Stay Together Anymore"
-				},
-				{
-					"id": "9.flac",
-					"title": "Inside Out"
-				},
-				{
-					"id": "10.flac",
-					"title": "Take Me Home"
-				}
-			]
-		},
-		{
-			"title": "Originals",
-			"id": "originals",
-			"artist": "Prince",
-			"year": "2019",
-			"genre": "Pop",
-			"artwork": "603497851775.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Sex Shooter"
-				},
-				{
-					"id": "2.flac",
-					"title": "Jungle Love"
-				},
-				{
-					"id": "3.flac",
-					"title": "Manic Monday"
-				},
-				{
-					"id": "4.flac",
-					"title": "Noon Rendezvous"
-				},
-				{
-					"id": "5.flac",
-					"title": "Make-Up"
-				},
-				{
-					"id": "6.flac",
-					"title": "100 Mph"
-				},
-				{
-					"id": "7.flac",
-					"title": " You're My Love"
-				},
-				{
-					"id": "8.flac",
-					"title": "Holly Rock"
-				},
-				{
-					"id": "9.flac",
-					"title": "Baby, You're a Trip"
-				},
-				{
-					"id": "10.flac",
-					"title": "The Glamorous Life"
-				},
-				{
-					"id": "11.flac",
-					"title": "Gigolos Get Lonely Too"
-				},
-				{
-					"id": "12.flac",
-					"title": "Love...Thy Will Be Donw"
-				},
-				{
-					"id": "13.flac",
-					"title": "Dear Michaelangelo"
-				},
-				{
-					"id": "14.flac",
-					"title": "Wouldn't You Love to Love Me?"
-				},
-				{
-					"id": "15.flac",
-					"title": "Nothing Compares 2 U"
-				}
-			]
-		},
-		{
-			"title": "Purple Rain",
-			"id": "purple-rain",
-			"artist": "Prince",
-			"year": "1984",
-			"genre": "Rock",
-			"artwork": "603497822065.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Let's Go Crazy"
-				},
-				{
-					"id": "2.flac",
-					"title": "Take Me with U"
-				},
-				{
-					"id": "3.flac",
-					"title": "The Beautiful Ones"
-				},
-				{
-					"id": "4.flac",
-					"title": "Computer Blue"
-				},
-				{
-					"id": "5.flac",
-					"title": "Darling Nikki"
-				},
-				{
-					"id": "6.flac",
-					"title": "When Doves Cry"
-				},
-				{
-					"id": "7.flac",
-					"title": "I Would Die 4 U"
-				},
-				{
-					"id": "8.flac",
-					"title": "Baby I'm a Star"
-				},
-				{
-					"id": "9.flac",
-					"title": "Purple Rain"
-				}
-			]
-		},
-		{
-			"title": "Rides Again",
-			"id": "rides-again",
-			"artist": "James Gang",
-			"year": "1970",
-			"genre": "Rock",
-			"artwork": "06UMGIM12677.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Funk #49"
-				},
-				{
-					"id": "2.flac",
-					"title": "Asshtonpark"
-				},
-				{
-					"id": "3.flac",
-					"title": "Woman"
-				},
-				{
-					"id": "4.flac",
-					"title": "The Bomber A: Closet Queen B: Bolero C: Cast Your Fate To the Wind (Medley)"
-				},
-				{
-					"id": "5.flac",
-					"title": "Tend My Garden"
-				},
-				{
-					"id": "6.flac",
-					"title": "Garden Gate"
-				},
-				{
-					"id": "8.flac",
-					"title": "There I Go Again"
-				},
-				{
-					"id": "8.flac",
-					"title": "Thanks"
-				},
-				{
-					"id": "9.flac",
-					"title": "Ashes the Rain and I"
-				}
-			]
-		},
-		{
-			"title": "Sgt. Pepper's Lonely Hearts Club Band",
-			"id": "sgt-peppers",
-			"artist": "The Beatles",
-			"year": "1984",
-			"genre": "Rock",
-			"artwork": "00602567725428.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Sgt. Pepper's Lonely Hearts Club Band"
-				},
-				{
-					"id": "2.flac",
-					"title": "With a Little Help From My Friends"
-				},
-				{
-					"id": "3.flac",
-					"title": "Lucy In The Sky with Diamonds"
-				},
-				{
-					"id": "4.flac",
-					"title": "Getting Better"
-				},
-				{
-					"id": "5.flac",
-					"title": "Fixing a Hole"
-				},
-				{
-					"id": "6.flac",
-					"title": "She's Leaving Home"
-				},
-				{
-					"id": "7.flac",
-					"title": "Being For the Benefit of Mr. Kite!"
-				},
-				{
-					"id": "8.flac",
-					"title": "Within You Without You"
-				},
-				{
-					"id": "9.flac",
-					"title": "When I'm Sixty-Four"
-				},
-				{
-					"id": "10.flac",
-					"title": "Lovely Rita"
-				},
-				{
-					"id": "11.flac",
-					"title": "Good Morning Good Morning"
-				},
-				{
-					"id": "12.flac",
-					"title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)"
-				},
-				{
-					"id": "13.flac",
-					"title": "A Day In the Life"
-				}
-			]
-		},
-		{
-			"title": "The Smoker You Drink, the Player You Get",
-			"id": "the-smoker",
-			"artist": "Joe Walsh",
-			"year": "1973",
-			"genre": "Rock",
-			"artwork": "00602567833659.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Rocky Mountain Way"
-				},
-				{
-					"id": "2.flac",
-					"title": "Book Ends"
-				},
-				{
-					"id": "3.flac",
-					"title": "Wolf"
-				},
-				{
-					"id": "4.flac",
-					"title": "Midnight Moodies"
-				},
-				{
-					"id": "5.flac",
-					"title": "Happy Ways"
-				},
-				{
-					"id": "6.flac",
-					"title": "Meadows"
-				},
-				{
-					"id": "7.flac",
-					"title": "Dreams"
-				},
-				{
-					"id": "8.flac",
-					"title": "Days Gone By"
-				},
-				{
-					"id": "9.flac",
-					"title": "(Day Dream) Prayer"
-				}
-			]
-		},
-		{
-			"title": "SUNSET BLVD.",
-			"id": "sunset-blvd",
-			"artist": "Andrew Lloyd Webber",
-			"year": "2024",
-			"genre": "Musical",
-			"theme": ["204", "53", "52"],
-			"artwork": "198588261118.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Overture"
-				},
-				{
-					"id": "2.flac",
-					"title": "Let Me Take You Back"
-				},
-				{
-					"id": "3.flac",
-					"title": "Let's Do Lunch"
-				},
-				{
-					"id": "4.flac",
-					"title": "Betty's Pitch"
-				},
-				{
-					"id": "5.flac",
-					"title": "The Car Chase"
-				},
-				{
-					"id": "6.flac",
-					"title": "Surrender"
-				},
-				{
-					"id": "7.flac",
-					"title": "With One Look"
-				},
-				{
-					"id": "8.flac",
-					"title": "Scene: Did you say you were a writer?"
-				},
-				{
-					"id": "9.flac",
-					"title": "Salome"
-				},
-				{
-					"id": "10.flac",
-					"title": "The Greates Star Of All"
-				},
-				{
-					"id": "11.flac",
-					"title": "Schwab's Drugstore"
-				},
-				{
-					"id": "12.flac",
-					"title": "Girl Meets Boy"
-				},
-				{
-					"id": "13.flac",
-					"title": "Scene: Where have you been?"
-				},
-				{
-					"id": "14.flac",
-					"title": "I Started Work"
-				},
-				{
-					"id": "15.flac",
-					"title": "What's On This Evening?"
-				},
-				{
-					"id": "16.flac",
-					"title": "New Ways To Dream"
-				},
-				{
-					"id": "17.flac",
-					"title": "Scene: Today's the day"
-				},
-				{
-					"id": "18.flac",
-					"title": "New Year's Tango"
-				},
-				{
-					"id": "19.flac",
-					"title": "The Perfect Year"
-				},
-				{
-					"id": "20.flac",
-					"title": "This Time Next Year"
-				},
-				{
-					"id": "21.flac",
-					"title": "Scene: Happy New Year, darling"
-				},
-				{
-					"id": "22.flac",
-					"title": "Entr'acte"
-				},
-				{
-					"id": "23.flac",
-					"title": "Sunset Boulevard"
-				},
-				{
-					"id": "24.flac",
-					"title": "There's Been A Call"
-				},
-				{
-					"id": "25.flac",
-					"title": "Arrival at Paramount"
-				},
-				{
-					"id": "26.flac",
-					"title": "Norma In The Studio"
-				},
-				{
-					"id": "27.flac",
-					"title": "As If We Never Said Goodbye"
-				},
-				{
-					"id": "28.flac",
-					"title": "Paramount Conversations"
-				},
-				{
-					"id": "29.flac",
-					"title": "Girl Meets Boy (Reprise)"
-				},
-				{
-					"id": "30.flac",
-					"title": "Scene: Who's Betty Schaefer?"
-				},
-				{
-					"id": "31.flac",
-					"title": "Scene: The Back Lot"
-				},
-				{
-					"id": "32.flac",
-					"title": "Too Much In Love To Care"
-				},
-				{
-					"id": "33.flac",
-					"title": "Scene: I made her a star"
-				},
-				{
-					"id": "34.flac",
-					"title": "New Ways To Dream (Reprise)"
-				},
-				{
-					"id": "35.flac",
-					"title": "The Phone Call"
-				},
-				{
-					"id": "36.flac",
-					"title": "What's Going On, Joe?"
-				},
-				{
-					"id": "37.flac",
-					"title": "No One Ever Leaves A Star"
-				},
-				{
-					"id": "38.flac",
-					"title": "Max, Where Am I?"
-				},
-				{
-					"id": "39.flac",
-					"title": "End Credits"
-				}
-			]
-		},
-		{
-			"title": "Tommy",
-			"id": "tommy",
-			"artist": "The Who",
-			"year": "1969",
-			"genre": "Rock",
-			"artwork": "18UMGIM35635.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Overture"
-				},
-				{
-					"id": "2.flac",
-					"title": "It's A Boy"
-				},
-				{
-					"id": "3.flac",
-					"title": "1921"
-				},
-				{
-					"id": "4.flac",
-					"title": "Amazing Journey"
-				},
-				{
-					"id": "5.flac",
-					"title": "Sparks"
-				},
-				{
-					"id": "6.flac",
-					"title": "Eyesight To The Blind (The Hawker)"
-				},
-				{
-					"id": "7.flac",
-					"title": "Christmas"
-				},
-				{
-					"id": "8.flac",
-					"title": "Cousin Kevin"
-				},
-				{
-					"id": "9.flac",
-					"title": "The Acid Queen"
-				},
-				{
-					"id": "10.flac",
-					"title": "Underture"
-				},
-				{
-					"id": "11.flac",
-					"title": "Do You Think It's Alright?"
-				},
-				{
-					"id": "12.flac",
-					"title": "Fiddle About"
-				},
-				{
-					"id": "13.flac",
-					"title": "Pinball Wizard"
-				},
-				{
-					"id": "14.flac",
-					"title": "There's A Doctor"
-				},
-				{
-					"id": "15.flac",
-					"title": "Go To The Mirror!"
-				},
-				{
-					"id": "16.flac",
-					"title": "Tommy Can You Hear Me?"
-				},
-				{
-					"id": "17.flac",
-					"title": "Smash The Mirror"
-				},
-				{
-					"id": "18.flac",
-					"title": "Sensation"
-				},
-				{
-					"id": "19.flac",
-					"title": "Miracle Cure"
-				},
-				{
-					"id": "20.flac",
-					"title": "Sally Simpson"
-				},
-				{
-					"id": "21.flac",
-					"title": "I'm Free"
-				},
-				{
-					"id": "22.flac",
-					"title": "Welcome"
-				},
-				{
-					"id": "23.flac",
-					"title": "Tommy's Holiday Camp"
-				},
-				{
-					"id": "24.flac",
-					"title": "We're Not Gonna Take It"
-				}
-			]
-		},
-		{
-			"title": "Voicenotes",
-			"id": "voicenotes",
-			"artist": "Charlie Puth",
-			"year": "2018",
-			"genre": "Pop",
-			"artwork": "075679884336.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "The Way I Am"
-				},
-				{
-					"id": "2.flac",
-					"title": "Attention"
-				},
-				{
-					"id": "3.flac",
-					"title": "LA Girls"
-				},
-				{
-					"id": "4.flac",
-					"title": "How Long"
-				},
-				{
-					"id": "5.flac",
-					"title": "Done For Me (feat. Kehlani)"
-				},
-				{
-					"id": "6.flac",
-					"title": "Patient"
-				},
-				{
-					"id": "7.flac",
-					"title": "If You Leave Me Now (feat. Boyz II Men)"
-				},
-				{
-					"id": "8.flac",
-					"title": "BOY"
-				},
-				{
-					"id": "9.flac",
-					"title": "Slow It Down"
-				},
-				{
-					"id": "10.flac",
-					"title": "Change (feat. James Taylor)"
-				},
-				{
-					"id": "11.flac",
-					"title": "Somebody Told Me"
-				},
-				{
-					"id": "12.flac",
-					"title": "Empty Cups"
-				},
-				{
-					"id": "13.flac",
-					"title": "Through It All"
-				}
-			]
-		},
-		{
-			"title": "Xanadu",
-			"id": "xanadu",
-			"artist": "Electric Light Orchestra",
-			"year": "1980",
-			"genre": "Soundtrack",
-			"artwork": "06UMGIM04228.jpg",
-			"tracks": [
-				{
-					"id": "1.flac",
-					"title": "Magic"
-				},
-				{
-					"id": "2.flac",
-					"title": "Suddenly"
-				},
-				{
-					"id": "3.flac",
-					"title": "Dancin'"
-				},
-				{
-					"id": "4.flac",
-					"title": "Suspended in Time"
-				},
-				{
-					"id": "5.flac",
-					"title": "Whenever You're Away from Me"
-				},
-				{
-					"id": "6.flac",
-					"title": "I'm Alive"
-				},
-				{
-					"id": "7.flac",
-					"title": "The Fall"
-				},
-				{
-					"id": "8.flac",
-					"title": "Don't Walk Away"
-				},
-				{
-					"id": "9.flac",
-					"title": "All Over the World"
-				},
-				{
-					"id": "10.flac",
-					"title": "Xanadu"
-				}
-			]
-		}
-	]
+    "music": [
+        {
+            "title": "1999",
+            "id": "1999",
+            "artist": "Prince",
+            "year": "1982",
+            "genre": "Rock",
+            "artwork": "886448877554.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "1999"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Little Red Corvette"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Delirious"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Let's Pretend We're Married"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "D.M.S.R."
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Automatic"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Something in the Water (Does Not Compute)"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Free"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Lady Cab Driver"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "All the Critics Love U in New York"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "International Lover"
+                }
+            ]
+        },
+        {
+            "title": "Abbey Road",
+            "id": "abbey-road",
+            "artist": "The Beatles",
+            "year": "1969",
+            "genre": "Rock",
+            "artwork": "13UMGIM63890.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Come Together"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Something"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Maxwell's Silver Hammer"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Oh! Darling"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Octopus's Garden"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "I Want You (She's So Heavy)"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Here Comes the Sun"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Because"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "You Never Give Me Your Money"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Sun King"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Mean Mr Mustard"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Polythene Pam"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "She Came In Through the Bathroom Window"
+                },
+                {
+                    "id": "14.flac",
+                    "title": "Golden Slumbers"
+                },
+                {
+                    "id": "15.flac",
+                    "title": "Carry That Weight"
+                },
+                {
+                    "id": "16.flac",
+                    "title": "The End"
+                },
+                {
+                    "id": "17.flac",
+                    "title": "Her Majesty"
+                }
+            ]
+        },
+        {
+            "title": "APT.",
+            "id": "apt",
+            "artist": "ROSÉ and Bruno Mars",
+            "year": "2024",
+            "genre": "Pop",
+            "artwork": "075679628312.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "APT."
+                }
+            ]
+        },
+        {
+            "title": "Batman",
+            "id": "batman",
+            "artist": "Prince",
+            "year": "1989",
+            "genre": "Soundtrack",
+            "artwork": "djeqwnskig.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "The Future"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Electric Chair"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "The Arms of Orion"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Partyman"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Vicki Waiting"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Trust"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Lemon Crush"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Scandalous"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Batdance"
+                }
+            ]
+        },
+        {
+            "title": "Big Mess",
+            "id": "big-mess",
+            "artist": "Danny Elfman",
+            "year": "2021",
+            "genre": "Alternative",
+            "artwork": "0045778781164.png",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Sorry"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "True"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "In Time"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Everybody Loves You"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Dance with the Lemurs"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Serious Ground"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Choose Your Side"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "We Belong"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Happy"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Just a Human"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Devil Take Away"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Love in the Time of Covid"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "Native Intelligence"
+                },
+                {
+                    "id": "14.flac",
+                    "title": "Better Times"
+                },
+                {
+                    "id": "15.flac",
+                    "title": "Cruel Compensation"
+                },
+                {
+                    "id": "16.flac",
+                    "title": "Kick Me"
+                },
+                {
+                    "id": "17.flac",
+                    "title": "Get over it"
+                },
+                {
+                    "id": "18.flac",
+                    "title": "Insects"
+                }
+            ]
+        },
+        {
+            "title": "Chess",
+            "id": "chess",
+            "artist": "Benny Andersson, Tim Rice & Björn Ulveaus",
+            "year": "1984",
+            "genre": "Musical",
+            "artwork": "00602547084149.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Merano"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Press Conference"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Where I Want To Be"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Opening Ceremony"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Quartet"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Nobody's Side"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Intro to Mountain Duet"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Mountain Duet"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Chess"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Florence Quits"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Heaven Help My Heart"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Embassy Lament"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "Anthem"
+                },
+                {
+                    "id": "14.flac",
+                    "title": "One Night in Bangkok"
+                },
+                {
+                    "id": "15.mp3",
+                    "title": "He's A Man, He's A Child"
+                },
+                {
+                    "id": "16.flac",
+                    "title": "Argument"
+                },
+                {
+                    "id": "17.flac",
+                    "title": "I Know Him So Well"
+                },
+                {
+                    "id": "18.flac",
+                    "title": "The Deal (No Deal)"
+                },
+                {
+                    "id": "19.flac",
+                    "title": "Pity The Child"
+                },
+                {
+                    "id": "20.flac",
+                    "title": "Endgame"
+                },
+                {
+                    "id": "21.mp3",
+                    "title": "Someone Else's Story"
+                },
+                {
+                    "id": "22.flac",
+                    "title": "You and I"
+                },
+                {
+                    "id": "23.flac",
+                    "title": "Anthem (Orchestral)"
+                }
+            ]
+        },
+        {
+            "title": "Come On Over",
+            "id": "come-on-over",
+            "artist": "Shania Twain",
+            "year": "1997",
+            "genre": "Country",
+            "artwork": "06UMGIM07033.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Man! I Feel Like a Woman!"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "I'm Holding On to Live (To Save My Life)"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Love Gets Me Every Time"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Don't Be Stupid"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "From This Moment On"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Come On Over"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "When"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Whatever You Do! Don't!"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "If You Wanna Touch Her, Ask!"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "You're Still the One"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Honey, I'm Home"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "That Don't Impress Me Much"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "Black Eyes, Blue Tears"
+                },
+                {
+                    "id": "14.flac",
+                    "title": "I Won't Leave You Lonely"
+                },
+                {
+                    "id": "15.flac",
+                    "title": "Rock This Country"
+                },
+                {
+                    "id": "16.flac",
+                    "title": "You've Got a Way"
+                }
+            ]
+        },
+        {
+            "title": "Dangerous",
+            "id": "dangerous",
+            "artist": "Michael Jackson",
+            "year": "1991",
+            "genre": "Pop",
+            "artwork": "884977307832.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Jam"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Why You Wanna Trip On Me"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "In the Closet"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "She Drives Me Wild"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Remember the Time"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Can't Let Her Get Away"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Heal the World"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Black or White"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Who Is It"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Give In to Me"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Will You Be There"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Keep the Faith"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "Gone Too Soon"
+                },
+                {
+                    "id": "14.flac",
+                    "title": "Dangerous"
+                }
+            ]
+        },
+        {
+            "title": "The Dark Side of the Moon",
+            "id": "dark-side-moon",
+            "artist": "Pink Floyd",
+            "year": "1973",
+            "genre": "Rock",
+            "artwork": "196589805232.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Speak To Me"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Breath (In the Air)"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "On the Run"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Time"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "The Great Gig in the Sky"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Money"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Us and Them"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Any Colour You Like"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Brain Damage"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Eclipse"
+                }
+            ]
+        },
+        {
+            "title": "Face Value",
+            "id": "face-value",
+            "artist": "Phil Collins",
+            "year": "1981",
+            "genre": "Rock",
+            "artwork": "603497889754.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "In the Air Tonight"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "This Must Be Love"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Behind the Lines"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "The Roof is Leaking"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Droned"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Hand in Hand"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "I Missed Again"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "You Know What I Mean"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Thunder and Lightning"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "I'm Not Moving"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "If Leaving Me Is Easy"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Tomorrow Never Knows"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "Over The Rainbow"
+                }
+            ]
+        },
+        {
+            "title": "Gershwin: Rhapsody in Blue - An American in Paris",
+            "id": "gershwin",
+            "artist": "George Gershwin",
+            "year": "1958",
+            "genre": "Classical",
+            "artwork": "886443706699.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Rhapsody in Blue"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "An American in Paris"
+                }
+            ]
+        },
+        {
+            "title": "GUTS",
+            "id": "guts",
+            "artist": "Olivia Rodrigo",
+            "year": "2023",
+            "genre": "Pop",
+            "artwork": "23UMGIM71510.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "all-american bitch"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "bad idea right?"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "vampire"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "lacy"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "ballad of a homeschool girl"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "making the bed"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "logical"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "get him back!"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "love is embarrassing"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "the grudge"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "pretty isn't pretty"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "teenage dream"
+                }
+            ]
+        },
+        {
+            "title": "Hotel California",
+            "id": "hotel-california",
+            "artist": "Eagles",
+            "year": "1976",
+            "genre": "Rock",
+            "artwork": "075596050920.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Hotel California"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "New Kid in Town"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Life in the Fast Lane"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Wasted Time"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Wasted Time (Reprise)"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Victim of Love"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Pretty Maids All in a Row"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Try and Love Again"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "The Last Resort"
+                }
+            ]
+        },
+        {
+            "title": "I Warned Myself - Single",
+            "id": "i-warned-myself",
+            "artist": "Charlie Puth",
+            "year": "2019",
+            "genre": "Pop",
+            "artwork": "075679839497.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "I Warned Myself"
+                }
+            ]
+        },
+        {
+            "title": "A Kind of Magic",
+            "id": "kind-of-magic",
+            "artist": "Queen",
+            "year": "1986",
+            "genre": "Rock",
+            "artwork": "14DMGIM05557.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "One Vision"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "A Kind of Magic"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "One Year of Love"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Pain Is So Close to Pleasure"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Friends Will Be Friends"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Who Wants to Live Forever"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Gimme The Prize"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Don't Lose Your Head"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Prince of the Universe"
+                }
+            ]
+        },
+        {
+            "title": "The Mission",
+            "id": "the-mission",
+            "artist": "Ennio Morricone",
+            "year": "1986",
+            "genre": "Soundtrack",
+            "artwork": "00077778600152.jpg",
+            "tracks": [
+                {
+                    "id": "1.mp3",
+                    "title": "On Earth As It Is In Heaven"
+                },
+                {
+                    "id": "2.mp3",
+                    "title": "Falls"
+                },
+                {
+                    "id": "3.mp3",
+                    "title": "Gabriel's Oboe"
+                },
+                {
+                    "id": "4.mp3",
+                    "title": "Ave Maria Guarani"
+                },
+                {
+                    "id": "5.mp3",
+                    "title": "Brothers"
+                },
+                {
+                    "id": "6.mp3",
+                    "title": "Carlotta"
+                },
+                {
+                    "id": "7.mp3",
+                    "title": "Vita Nostra"
+                },
+                {
+                    "id": "8.mp3",
+                    "title": "Climb"
+                },
+                {
+                    "id": "9.mp3",
+                    "title": "Remorse"
+                },
+                {
+                    "id": "10.mp3",
+                    "title": "Penance"
+                },
+                {
+                    "id": "11.mp3",
+                    "title": "The Mission"
+                },
+                {
+                    "id": "12.mp3",
+                    "title": "River"
+                },
+                {
+                    "id": "13.mp3",
+                    "title": "Gabriel's Oboe"
+                },
+                {
+                    "id": "14.mp3",
+                    "title": "Te Deum Guarani"
+                },
+                {
+                    "id": "15.mp3",
+                    "title": "Refusal"
+                },
+                {
+                    "id": "16.mp3",
+                    "title": "Asunción"
+                },
+                {
+                    "id": "17.mp3",
+                    "title": "Alone"
+                },
+                {
+                    "id": "18.mp3",
+                    "title": "Guarani"
+                },
+                {
+                    "id": "19.mp3",
+                    "title": "The Sword"
+                },
+                {
+                    "id": "20.mp3",
+                    "title": "Miserere"
+                }
+            ]
+        },
+        {
+            "title": "Mother - Single",
+            "id": "mother",
+            "artist": "Charlie Puth",
+            "year": "2019",
+            "genre": "Pop",
+            "artwork": "075679833815.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Mother"
+                }
+            ]
+        },
+        {
+            "title": "Moving Pictures",
+            "id": "moving-pictures",
+            "artist": "Rush",
+            "year": "1980",
+            "genre": "Rock",
+            "artwork": "21UMGIM68387.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Tom Sawyer"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Red Barchetta"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "YYZ"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Limelight"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "The Camera Eye"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Witch Hunt"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Vital Signs"
+                }
+            ]
+        },
+        {
+            "title": "No Jacket Required",
+            "id": "no-jacket-required",
+            "artist": "Phil Collins",
+            "year": "1985",
+            "genre": "Pop",
+            "artwork": "603497879700.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Sussudio"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Only You Know and I Know"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Long Long Way to Go"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "I Don't Wanna Know"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "One More Night"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Don't Lose My Number"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Who Said I Would"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Doesn't Anybody Stay Together Anymore"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Inside Out"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Take Me Home"
+                }
+            ]
+        },
+        {
+            "title": "Originals",
+            "id": "originals",
+            "artist": "Prince",
+            "year": "2019",
+            "genre": "Pop",
+            "artwork": "603497851775.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Sex Shooter"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Jungle Love"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Manic Monday"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Noon Rendezvous"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Make-Up"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "100 Mph"
+                },
+                {
+                    "id": "7.flac",
+                    "title": " You're My Love"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Holly Rock"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Baby, You're a Trip"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "The Glamorous Life"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Gigolos Get Lonely Too"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Love...Thy Will Be Donw"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "Dear Michaelangelo"
+                },
+                {
+                    "id": "14.flac",
+                    "title": "Wouldn't You Love to Love Me?"
+                },
+                {
+                    "id": "15.flac",
+                    "title": "Nothing Compares 2 U"
+                }
+            ]
+        },
+        {
+            "title": "Purple Rain",
+            "id": "purple-rain",
+            "artist": "Prince",
+            "year": "1984",
+            "genre": "Rock",
+            "artwork": "603497822065.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Let's Go Crazy"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Take Me with U"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "The Beautiful Ones"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Computer Blue"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Darling Nikki"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "When Doves Cry"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "I Would Die 4 U"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Baby I'm a Star"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Purple Rain"
+                }
+            ]
+        },
+        {
+            "title": "Rides Again",
+            "id": "rides-again",
+            "artist": "James Gang",
+            "year": "1970",
+            "genre": "Rock",
+            "artwork": "06UMGIM12677.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Funk #49"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Asshtonpark"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Woman"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "The Bomber A: Closet Queen B: Bolero C: Cast Your Fate To the Wind (Medley)"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Tend My Garden"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Garden Gate"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "There I Go Again"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Thanks"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Ashes the Rain and I"
+                }
+            ]
+        },
+        {
+            "title": "Sgt. Pepper's Lonely Hearts Club Band",
+            "id": "sgt-peppers",
+            "artist": "The Beatles",
+            "year": "1984",
+            "genre": "Rock",
+            "artwork": "00602567725428.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "With a Little Help From My Friends"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Lucy In The Sky with Diamonds"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Getting Better"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Fixing a Hole"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "She's Leaving Home"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Being For the Benefit of Mr. Kite!"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Within You Without You"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "When I'm Sixty-Four"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Lovely Rita"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Good Morning Good Morning"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "A Day In the Life"
+                }
+            ]
+        },
+        {
+            "title": "The Smoker You Drink, the Player You Get",
+            "id": "the-smoker",
+            "artist": "Joe Walsh",
+            "year": "1973",
+            "genre": "Rock",
+            "artwork": "00602567833659.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Rocky Mountain Way"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Book Ends"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Wolf"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Midnight Moodies"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Happy Ways"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Meadows"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Dreams"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Days Gone By"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "(Day Dream) Prayer"
+                }
+            ]
+        },
+        {
+            "title": "Speaking In Tongues",
+            "id": "speaking-tongues",
+            "artist": "Talking Heads",
+            "year": "1983",
+            "genre": "Pop",
+            "artwork": "mziorgozngz.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Burning Down the House"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Making Flippy Floppy"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Girlfriend is Better"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Slippery People"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "I Get Wild / Wild Gravity"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Swamp"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Moon Rocks"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Pull Up the Roots"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "This Must Be The Place"
+                }
+            ]
+        },
+        {
+            "title": "SUNSET BLVD.",
+            "id": "sunset-blvd",
+            "artist": "Andrew Lloyd Webber",
+            "year": "2024",
+            "genre": "Musical",
+            "theme": ["204", "53", "52"],
+            "artwork": "198588261118.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Overture"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Let Me Take You Back"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Let's Do Lunch"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Betty's Pitch"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "The Car Chase"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Surrender"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "With One Look"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Scene: Did you say you were a writer?"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Salome"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "The Greates Star Of All"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Schwab's Drugstore"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Girl Meets Boy"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "Scene: Where have you been?"
+                },
+                {
+                    "id": "14.flac",
+                    "title": "I Started Work"
+                },
+                {
+                    "id": "15.flac",
+                    "title": "What's On This Evening?"
+                },
+                {
+                    "id": "16.flac",
+                    "title": "New Ways To Dream"
+                },
+                {
+                    "id": "17.flac",
+                    "title": "Scene: Today's the day"
+                },
+                {
+                    "id": "18.flac",
+                    "title": "New Year's Tango"
+                },
+                {
+                    "id": "19.flac",
+                    "title": "The Perfect Year"
+                },
+                {
+                    "id": "20.flac",
+                    "title": "This Time Next Year"
+                },
+                {
+                    "id": "21.flac",
+                    "title": "Scene: Happy New Year, darling"
+                },
+                {
+                    "id": "22.flac",
+                    "title": "Entr'acte"
+                },
+                {
+                    "id": "23.flac",
+                    "title": "Sunset Boulevard"
+                },
+                {
+                    "id": "24.flac",
+                    "title": "There's Been A Call"
+                },
+                {
+                    "id": "25.flac",
+                    "title": "Arrival at Paramount"
+                },
+                {
+                    "id": "26.flac",
+                    "title": "Norma In The Studio"
+                },
+                {
+                    "id": "27.flac",
+                    "title": "As If We Never Said Goodbye"
+                },
+                {
+                    "id": "28.flac",
+                    "title": "Paramount Conversations"
+                },
+                {
+                    "id": "29.flac",
+                    "title": "Girl Meets Boy (Reprise)"
+                },
+                {
+                    "id": "30.flac",
+                    "title": "Scene: Who's Betty Schaefer?"
+                },
+                {
+                    "id": "31.flac",
+                    "title": "Scene: The Back Lot"
+                },
+                {
+                    "id": "32.flac",
+                    "title": "Too Much In Love To Care"
+                },
+                {
+                    "id": "33.flac",
+                    "title": "Scene: I made her a star"
+                },
+                {
+                    "id": "34.flac",
+                    "title": "New Ways To Dream (Reprise)"
+                },
+                {
+                    "id": "35.flac",
+                    "title": "The Phone Call"
+                },
+                {
+                    "id": "36.flac",
+                    "title": "What's Going On, Joe?"
+                },
+                {
+                    "id": "37.flac",
+                    "title": "No One Ever Leaves A Star"
+                },
+                {
+                    "id": "38.flac",
+                    "title": "Max, Where Am I?"
+                },
+                {
+                    "id": "39.flac",
+                    "title": "End Credits"
+                }
+            ]
+        },
+        {
+            "title": "Tommy",
+            "id": "tommy",
+            "artist": "The Who",
+            "year": "1969",
+            "genre": "Rock",
+            "artwork": "18UMGIM35635.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Overture"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "It's A Boy"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "1921"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Amazing Journey"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Sparks"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Eyesight To The Blind (The Hawker)"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Christmas"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Cousin Kevin"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "The Acid Queen"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Underture"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Do You Think It's Alright?"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Fiddle About"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "Pinball Wizard"
+                },
+                {
+                    "id": "14.flac",
+                    "title": "There's A Doctor"
+                },
+                {
+                    "id": "15.flac",
+                    "title": "Go To The Mirror!"
+                },
+                {
+                    "id": "16.flac",
+                    "title": "Tommy Can You Hear Me?"
+                },
+                {
+                    "id": "17.flac",
+                    "title": "Smash The Mirror"
+                },
+                {
+                    "id": "18.flac",
+                    "title": "Sensation"
+                },
+                {
+                    "id": "19.flac",
+                    "title": "Miracle Cure"
+                },
+                {
+                    "id": "20.flac",
+                    "title": "Sally Simpson"
+                },
+                {
+                    "id": "21.flac",
+                    "title": "I'm Free"
+                },
+                {
+                    "id": "22.flac",
+                    "title": "Welcome"
+                },
+                {
+                    "id": "23.flac",
+                    "title": "Tommy's Holiday Camp"
+                },
+                {
+                    "id": "24.flac",
+                    "title": "We're Not Gonna Take It"
+                }
+            ]
+        },
+        {
+            "title": "Voicenotes",
+            "id": "voicenotes",
+            "artist": "Charlie Puth",
+            "year": "2018",
+            "genre": "Pop",
+            "artwork": "075679884336.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "The Way I Am"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Attention"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "LA Girls"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "How Long"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Done For Me (feat. Kehlani)"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Patient"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "If You Leave Me Now (feat. Boyz II Men)"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "BOY"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Slow It Down"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Change (feat. James Taylor)"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Somebody Told Me"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Empty Cups"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "Through It All"
+                }
+            ]
+        },
+        {
+            "title": "Xanadu",
+            "id": "xanadu",
+            "artist": "Electric Light Orchestra",
+            "year": "1980",
+            "genre": "Soundtrack",
+            "artwork": "06UMGIM04228.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Magic"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Suddenly"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Dancin'"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Suspended in Time"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Whenever You're Away from Me"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "I'm Alive"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "The Fall"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Don't Walk Away"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "All Over the World"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Xanadu"
+                }
+            ]
+        }
+    ]
 }
