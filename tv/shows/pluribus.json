@@ -17,6 +17,7 @@
             "season": "1",
             "episode_number": "2",
             "ep_id": "tv/pluribus/0102.mp4",
+            "subtitles": "0102.vtt",
             "description": "A curiously familiar face introduces Carol to the bizarre new normal. A gathering in Europe brings strangers together...and causes friction.",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjMzNjdlYjQtNDMyNS00ZjhhLTgzYzctNDcxMTk4Y2IxOWUxXkEyXkFqcGc@._V1_QL75_UY281_CR86,0,500,281_.jpg"
         },
@@ -33,6 +34,7 @@
             "season": "1",
             "episode_number": "4",
             "ep_id": "tv/pluribus/0104.mp4",
+            "subtitles": "0104.vtt",
             "description": "Carol tests the boundaries of this weirdly honest world at the expense of her ego. Far away, a resolute individual learns he's not alone.",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTc0NTkwODctYWQyNS00YWM3LWJkOWMtMjVmMzkyMDI5NjIzXkEyXkFqcGc@._V1_QL75_UY281_CR86,0,500,281_.jpg"
         },
@@ -49,6 +51,7 @@
             "season": "1",
             "episode_number": "6",
             "ep_id": "tv/pluribus/0106.mp4",
+            "subtitles": "0106.vtt",
             "description": "Carol shares a horrific discovery and learns new truths in the process. Mr. Diabaté lives life to the fullest in Sin City.",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWJlYmM4ZDUtNGVmNS00Yjg4LWE1YjUtMjBlMTQ1MDgzNmNhXkEyXkFqcGc@._V1_QL75_UY281_CR86,0,500,281_.jpg"
         },
@@ -57,6 +60,7 @@
             "season": "1",
             "episode_number": "7",
             "ep_id": "tv/pluribus/0107.mp4",
+            "subtitles": "0107.vtt",
             "description": "Manousos begins a dangerous trek to meet Carol. Returning home from Las Vegas, Carol gets creative with her rebellion.",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTlmMDI1NjEtODZiOS00OWFjLTkzNzctZjhkODM1YzUwMmNiXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
         },
@@ -65,6 +69,7 @@
             "season": "1",
             "episode_number": "8",
             "ep_id": "tv/pluribus/0108.mp4",
+            "subtitles": "0108.vtt",
             "description": "Carol takes a different tack with The Others and discovers more than she anticipated. Manousos awakens in unfamiliar surroundings.",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTlhNzFiMDItMTRhOS00NDZmLTgxMDQtMjFmY2EyYjkyNzcwXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
         },
@@ -73,6 +78,7 @@
             "season": "1",
             "episode_number": "9",
             "ep_id": "tv/pluribus/0109.mp4",
+            "subtitles": "0109.vtt",
             "description": "Manousos arrives in Albuquerque and complications ensue. Carol visits the last best place on Earth.",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTNmMDg1N2YtMDY2YS00NmMwLWJhNGYtYTcyYWUxOTYxYzAxXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
         }
