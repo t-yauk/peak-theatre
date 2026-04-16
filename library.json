@@ -3191,14 +3191,23 @@
             "id": "sentimental-value.mkv",
             "subtitle_id": "sentimental-value.vtt",
             "endTime": "407",
-            "oscars": [
-                "picture",
-                "director",
-                "actress",
-                "supporting-actress",
-                "supporting-actor",
-                "original"
-            ]
+        },
+        {
+            "title": "Send Help",
+            "director": "Sam Raimi",
+            "year": "2026",
+            "duration": "1h 53m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOTgxOWY5NTMtYjdiNi00NTIyLTkwMTQtMWNjM2IzYTU0ODgyXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYzJjMTAyOWQtODMyOC00ZWJjLTgzOTAtYTYyYjY1MDk4ODY2XkEyXkFqcGc@._V1_.jpg",
+            "description": "When an employee and her insufferable boss become stranded on a deserted island, the only survivors of a plane crash, they must overcome past grievances and work together to make it out alive.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Comedy"
+            ],
+            "id": "send-help.mkv",
+            "endTime": "395",
         },
         {
             "title": "The Seventh Seal",
