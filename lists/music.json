@@ -630,6 +630,60 @@
             ]
         },
         {
+            "title": "Fear Of Music",
+            "id": "fear-of-music",
+            "artist": "Talking Heads",
+            "year": "1979",
+            "genre": "Pop",
+            "artwork": "dj.vwcxdnqx.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "I Zimbra"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Mind"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Paper"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Cities"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Life During Wartime"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Memories Can't Wait"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Air"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Heaven"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Animals"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Electric Guitar"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Drugs"
+                }
+            ]
+        }
+        {
             "title": "Gershwin: Rhapsody in Blue - An American in Paris",
             "id": "gershwin",
             "artist": "George Gershwin",
@@ -1119,6 +1173,48 @@
                 }
             ]
         },
+        {
+            "title": "Remain In Light",
+            "id": "remain-in-light",
+            "artist": "Talking Heads",
+            "year": "1980",
+            "genre": "Alternative",
+            "artwork": "dj.bpkztuma.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Born Under Punches (The Heat Goes On)"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Crosseyed and Painless"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "The Great Curve"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Once In a Lifetime"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Houses In Motion"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Seen and Not Seen"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Listening Wind"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "The Overload"
+                }
+            ]
+        }
         {
             "title": "Rides Again",
             "id": "rides-again",
