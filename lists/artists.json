@@ -1,56 +1,44 @@
 {
-	"artists": [
-		{
-			"name": "The Beatles",
-			"image": "https://i8.amplience.net/i/naras/the-beatles_MI0003995354-MN0000754032"
-		},
-		{
-			"name": "Bruno Mars",
-			"image": "https://www.billboard.com/wp-content/uploads/2025/01/Bruno-Mars-cr-2025-billboard-1548.jpg"
-		},
-		{
-			"name": "Danny Elfman",
-			"image": "https://media.soundoflife.com/34/resources/J7WDUjowx0mm8rwp2xCGjKYT8yYNyzLkfMMFB9Eh.jpg"
-		},
-		{
-			"name": "Eagles",
-			"image": "https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb"
-		},
-		{
-			"name": "Electric Light Orchestra",
-			"image": "https://images.squarespace-cdn.com/content/v1/5a1a21ac6f4ca3e5e9a4e3c0/1638370000751-3SWF1MA96IJNGYJTBULI/elo3.jpeg"
-		},
-		{
-			"name": "Ennio Morricone",
-			"image": "https://www.tarantino.info/wp-content/uploads/2020/12/maxresdefault.jpeg"
-		},
-		{
-			"name": "George Gershwin",
-			"image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-514887332-copy.jpg"
-		},
-		{
-			"name": "Michael Jackson",
-			"image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd"
-		},
-		{
-			"name": "Prince",
-			"image": "https://assets.exclaim.ca/dr2uqw6xy/image/upload/c_limit,w_890/f_auto/q_auto/prince_2?_a=BAVAfVIB0"
-		},
-		{
-			"name": "ROSÉ",
-			"image": "https://i.scdn.co/image/ab6761610000e5ebcfb4350222919670128ff2dc"
-		},
-		{
-			"name": "Rush",
-			"image": "https://ew.com/thmb/PWhSCaqzrOUQMAzVG84v3TwA6r8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-84885264-5a79a9ce33a144429dd4aac4bda1a404.jpg"
-		},
-		{
-			"name": "Shania Twain",
-			"image": "https://i.scdn.co/image/ab6761610000e5eb909899cd7ed1cd7353ac24f1"
-		},
-		{
-			"name": "Queen",
-			"image": "https://www.udiscovermusic.com/wp-content/uploads/2018/08/GH008-web-optimised-1000-1000x600.jpg"
-		}
-	]
+    "artists": [
+        {
+            "name": "The Beatles",
+            "artwork": "beatles.jpeg"
+        },
+        {
+            "name": "Benny Andersson",
+            "artwork": "benny-andersson.jpeg"
+        },
+        {
+            "name": "Charlie Puth",
+            "artwork": "charlie-puth.jpeg"
+        },
+        {
+            "name": "Eagles",
+            "artwork": "eagles.jpeg"
+        },
+        {
+            "name": "James Gang",
+            "artwork": "james-gang.webp"
+        },
+        {
+            "name": "Joe Walsh",
+            "artwork": "joe-walsh.jpeg"
+        },
+        {
+            "name": "Michael Jackson",
+            "artwork": "michael-jackson.jpeg"
+        },
+        {
+            "name": "Olivia Rodrigo",
+            "artwork": "olivia-rodrigo.jpeg"
+        },
+        {
+            "name": "Phil Collins",
+            "artwork": "phil-collins.jpg"
+        },
+        {
+            "name": "Pink Floyd",
+            "artwork": "pink-floyd.webp"
+        }
+    ]
 }
