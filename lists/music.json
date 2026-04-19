@@ -148,6 +148,60 @@
             ]
         },
         {
+            "title": "Bad",
+            "id": "bad",
+            "artist": "Michael Jackson",
+            "year": "1987",
+            "genre": "Pop",
+            "artwork": "886443546264.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Bad"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "The Way You Make Me Feel"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Speed Demon"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Liberian Girl"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Just Good Friends"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Another Part Of Me"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Man In The Mirror"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "I Just Can't Stop Loving You"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Dirty Diana"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Smooth Criminal"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Leave Me Alone"
+                }
+            ]
+        },
+        {
             "title": "Batman",
             "id": "batman",
             "artist": "Prince",
@@ -564,6 +618,60 @@
                 {
                     "id": "10.flac",
                     "title": "Eclipse"
+                }
+            ]
+        },
+        {
+            "title": "Desperado",
+            "id": "desperado",
+            "artist": "Eagles",
+            "year": "1973",
+            "genre": "Rock",
+            "artwork": "075596062725.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Doolin-Dalton"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Twenty-One"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Out of Control"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Tequila Sunrise"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Desperado"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Certain Kind of Fool"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Doolin-Dalton (Instrumental)"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Outlaw Man"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "Saturday Night"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Bitter Creek"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Doolin-Dalton / Desperado (Reprise)"
                 }
             ]
         },
@@ -1054,6 +1162,56 @@
                 {
                     "id": "10.flac",
                     "title": "Take Me Home"
+                }
+            ]
+        },
+        {
+            "title": "Off The Wall",
+            "id": "off-the-wall",
+            "artist": "Michael Jackson",
+            "year": "1979",
+            "genre": "Pop",
+            "artwork": "074643574525.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Don't Stop 'Til You Get Enough"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Rock With You"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "Workin' Day and Night"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Get On the Floor"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Off the Wall"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Girlfriend"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "She's Out of My Life"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "I Can't Help It"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "It's Falling in Love"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Burn This Disco Out"
                 }
             ]
         },
@@ -1579,6 +1737,52 @@
                 {
                     "id": "39.flac",
                     "title": "End Credits"
+                }
+            ]
+        },
+        {
+            "title": "Thriller",
+            "id": "thriller",
+            "artist": "Michael Jackson",
+            "year": "1982",
+            "genre": "Pop",
+            "artwork": "074643811224.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Wanna Be Startin' Somethin'"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Baby Be Mine"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "The Girl Is Mine"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Thriller"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Beat It"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Billie Jean"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "Human Nature"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "P.Y.T. (Pretty Young Thing)"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "The Lady in My Life"
                 }
             ]
         },
