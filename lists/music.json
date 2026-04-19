@@ -338,6 +338,10 @@
             "artwork": "00602547084149.jpg",
             "tracks": [
                 {
+                    "id": "0.wav",
+                    "title": "Preface / The Story Of Chess"
+                },
+                {
                     "id": "1.flac",
                     "title": "Merano"
                 },
