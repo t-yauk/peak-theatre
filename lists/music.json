@@ -330,7 +330,7 @@
             ]
         },
         {
-            "title": "Chess",
+            "title": "CHESS",
             "id": "chess",
             "artist": "Benny Andersson, Tim Rice & Björn Ulveaus",
             "year": "1984",
@@ -339,7 +339,7 @@
             "tracks": [
                 {
                     "id": "0.wav",
-                    "title": "Preface / The Story Of Chess"
+                    "title": "Preface / The Story Of CHESS"
                 },
                 {
                     "id": "1.flac",
@@ -375,7 +375,7 @@
                 },
                 {
                     "id": "9.flac",
-                    "title": "Chess"
+                    "title": "CHESS"
                 },
                 {
                     "id": "10.flac",
@@ -447,7 +447,7 @@
                 },
                 {
                     "id": "27.flac",
-                    "title": "Chess Medley"
+                    "title": "CHESS Medley"
                 }
             ]
         },
