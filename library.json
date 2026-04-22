@@ -1828,6 +1828,23 @@
             "endTime": "573"
         },
         {
+            "title": "Knights of the Round Table",
+            "director": "Richard Thorpe",
+            "year": "1953",
+            "duration": "1h 55m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOTQ2MjNhMmQtY2Q5Mi00M2NlLWI2MDUtYzlkMThhMDUwZjdmXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNDBlYWY5YzYtZjE0OC00NjQ5LTk3NzItMGZiNWZkZDM2Njg5XkEyXkFqcGc@._V1_.jpg",
+            "description": "King Arthur's rule is threatened by the adulterous love between Sir Lancelot and Queen Guinevere, a relationship the king's enemies hope to exploit.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "knights-round-table.mp4",
+            "endTime": "49"
+        },
+        {
             "title": "Kramer vs. Kramer",
             "director": "Robert Benton",
             "year": "1979",
@@ -2959,7 +2976,7 @@
             "year": "1984",
             "duration": "1h 51m",
             "image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2022/01/25141254/9Sqomx8pfr6aAkyKZf1d5h7ghID.jpg",
-            "previewImage": "https://www.thefeedbacksociety.com/wp-content/uploads/2016/06/prince.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNzdkYWQzZmEtNzIxMy00NDJlLWExZWYtYzRiYzA4ZWFlZTYzXkEyXkFqcGc@._V1_.jpg",
             "description": "A young musician, tormented by an abusive situation at home, must contend with a rival singer, a burgeoning romance, and his own dissatisfied band, as his star begins to rise.",
             "featured": "false",
             "theatre_optimized": "false",
