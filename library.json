@@ -1477,6 +1477,23 @@
             "endTime": "135"
         },
         {
+            "title": "The Green Mile",
+            "director": "Frank Darabont",
+            "year": "1999",
+            "duration": "3h 9m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BM2IyOWE3MDAtYzYyMi00MTAxLWI1MjgtZTQ0ZDk4MGQ2OWEwXkEyXkFqcGc@._V1_.jpg",
+            "description": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Fantasy",
+                "Crime"
+            ],
+            "id": "the-green-mile.mkv",
+            "endTime": "479"
+        },
+        {
             "title": "Hearts of Darkness",
             "subtitle": "A Filmmakers Apocalypse",
             "director": "Eleanor Coppola, Fax Bahr, George Hickenlooper",
@@ -1692,6 +1709,23 @@
             "endTime": "44"
         },
         {
+            "title": "It's Complicated",
+            "director": "Nancy Meyers",
+            "year": "2009",
+            "duration": "2 hours",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjQ0NjM2NTI4N15BMl5BanBnXkFtZTcwNjQ2MDc5Mg@@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNzYzODQ2ODIyM15BMl5BanBnXkFtZTcwMTIzODQwMw@@._V1_.jpg",
+            "description": "When attending their son's college graduation, a couple reignite the spark in their relationship. But the complicated fact is they're divorced and he's remarried.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "id": "its-complicated.mkv",
+            "endTime": "329"
+        },
+        {
             "title": "Jackass: The Movie",
             "director": "Jeff Tremaine",
             "year": "2002",
@@ -1825,6 +1859,24 @@
             "endTime": "78"
         },
         {
+            "title": "Jules et Jim",
+            "director": "François Truffaut",
+            "year": "1962",
+            "duration": "1h 45m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTk4Nzg0MzQ2OV5BMl5BanBnXkFtZTgwNjIyNzk4MjE@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTY1MjMxNDMwMV5BMl5BanBnXkFtZTcwMjQ0NTU5Ng@@._V1_.jpg",
+            "description": "Decades of a love triangle concerning two friends and an impulsive woman.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "id": "jules-jim.mp4",
+            "subtitle_id": "jules-jim.vtt",
+            "endTime": "11"
+        },
+        {
             "title": "Killers Of The Flower Moon",
             "director": "Martin Scorsese",
             "year": "2023",
@@ -1892,24 +1944,6 @@
             ],
             "id": "kramer-vs-kramer.mkv",
             "endTime": "120"
-        },
-        {
-            "title": "The Lighthouse",
-            "director": "Robert Eggers",
-            "year": "2019",
-            "duration": "1h 38m",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg",
-            "previewImage": "https://static01.nyt.com/images/2019/10/24/arts/lighthouse-anatomy1/lighthouse-anatomy1-superJumbo.jpg",
-            "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
-            "featured": "false",
-            "theatre_optimized": "true",
-            "genre": [
-                "Horror",
-                "Fantasy"
-            ],
-            "id": "lighthouse.mkv",
-            "trailer_id": "lighthouse.mp4",
-            "endTime": "171"
         },
         {
             "title": "La Haine",
@@ -1980,6 +2014,23 @@
             "endTime": "208"
         },
         {
+            "title": "Licorice Pizza",
+            "director": "Paul Thomas Anderson",
+            "year": "2021",
+            "duration": "2h 13m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNDc2YmE5YjMtOTI1MS00YTQ3LTk1YWEtZDhlOGY3OWI3NTUxXkEyXkFqcGc@._V1_.jpg",
+            "description": "A young man and a young woman grow up, run around, and fall in love in the San Fernando Valley, 1973.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Romance",
+                "Comedy"
+            ],
+            "id": "licorice-pizza.mkv",
+            "endTime": "331"
+        },
+        {
             "title": "The Life And Death of Colonel Blimp",
             "director": "Michael Powell, Emeric Pressburger",
             "year": "1943",
@@ -1995,6 +2046,24 @@
             ],
             "id": "the-life-and-death-of-colonel-blimp.mp4",
             "endTime": "94"
+        },
+        {
+            "title": "The Lighthouse",
+            "director": "Robert Eggers",
+            "year": "2019",
+            "duration": "1h 38m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg",
+            "previewImage": "https://static01.nyt.com/images/2019/10/24/arts/lighthouse-anatomy1/lighthouse-anatomy1-superJumbo.jpg",
+            "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Fantasy"
+            ],
+            "id": "lighthouse.mkv",
+            "trailer_id": "lighthouse.mp4",
+            "endTime": "171"
         },
         {
             "title": "The Lost Boys",
@@ -3666,6 +3735,23 @@
             "endTime": "156"
         },
         {
+            "title": "Summer Stock",
+            "director": "Charles Walters",
+            "year": "1950",
+            "duration": "1h 49m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwOTg3MTM3MF5BMl5BanBnXkFtZTgwNzk1NDgyMTE@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BN2JiN2M4ZWItMzk4ZS00NzdkLTlmOGMtN2I0YzJkMWI3NGM5XkEyXkFqcGc@._V1_.jpg",
+            "description": "A small-town farmer, down on her luck, finds her homestead invaded by a theatrical troupe invited to stay by her ne'er-do-well sister.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Musical",
+                "Romance"
+            ],
+            "id": "summer-stock.mp4",
+            "endTime": "24"
+        },
+        {
             "title": "Sunset BLVD.",
             "director": "Billy Wilder",
             "year": "1950",
@@ -3822,6 +3908,23 @@
             "endTime": "222"
         },
         {
+            "title": "The Thin Red Line",
+            "director": "Terrence Malick",
+            "year": "1998",
+            "duration": "2h 50m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZjAwYTk5ZjktNGIwYS00YTA5LWJlZDktNmMxMzIwOWMwYTVlXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZTA5NDMzM2QtOGU3Yy00MGJiLWE4YTktZWE3NThkNTViYmZiXkEyXkFqcGc@._V1_.jpg",
+            "description": "Adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "War",
+                "Adventure"
+            ],
+            "id": "the-thin-red-line.mp4",
+            "endTime": "420"
+        },
+        {
             "title": "Three Colors: Blue",
             "director": "Krzysztof Kieslowski",
             "year": "1993",
@@ -3938,6 +4041,23 @@
             "id": "the-tragedy-of-macbeth.mkv",
             "trailer_id": "macbeth.mp4",
             "endTime": "193"
+        },
+        {
+            "title": "The Tree of Life",
+            "director": "Terrence Malick",
+            "year": "2011",
+            "duration": "2h 19m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTM3MTY5NTczN15BMl5BanBnXkFtZTcwNjA4NjM4NA@@._V1_.jpg",
+            "description": "The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Fantasy",
+                "Drama"
+            ],
+            "id": "the-tree-of-life.mp4",
+            "endTime": "348"
         },
         {
             "title": "True Romance",
