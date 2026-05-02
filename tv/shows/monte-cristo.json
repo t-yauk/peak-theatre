@@ -1,0 +1,72 @@
+{
+    "title": "The Count of Monte Cristo",
+    "logo": "88JubsWMJ8WuG9qPwEJLrTKkgEB.webp",
+    "description": "Edmond Dantes, a sailor falsely accused of treason, is imprisoned in the Château d'If off Marseille. After escaping, and adopting the identity of the Count of Monte Cristo, he plans revenge against those who wrongly accused him.",
+    "image_url": "bxT8jFcWNuWK5LmVo1oGhAm4dnZ.webp",
+    "episodes": [
+        {
+            "title": "The Letter",
+            "season": "1",
+            "episode_number": "1",
+            "ep_id": "tv/monte-cristo/0101.mkv",
+            "description": "After returning from sea, a 19-year-old sailor is falsely imprisoned for treason in the island fortress Château d'If near Marseille without trial.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmIxYjIyMTItZjJhOS00OTRhLThkOGEtN2RjNzVmMmY3MTIzXkEyXkFqcGc@._V1_QL75_UX500_CR0,26,500,281_.jpg"
+        },
+        {
+            "title": "The Castle",
+            "season": "1",
+            "episode_number": "2",
+            "ep_id": "tv/monte-cristo/0102.mkv",
+            "description": "After a decade in prison, Edmond befriends Abbé Faria, an elderly priest who reveals the location of a treasure. Upon Faria's death, Edmond seizes the opportunity to escape, armed with knowledge of the Monte Cristo treasure's whereabouts.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGViYmZlODMtYjRjNC00ODgzLWJlMDItMWY4MGEyN2NkN2M5XkEyXkFqcGc@._V1_QL75_UX500_CR0,26,500,281_.jpg"
+        },
+        {
+            "title": "The Treasure",
+            "season": "1",
+            "episode_number": "3",
+            "ep_id": "tv/monte-cristo/0103.mkv",
+            "description": "Edmond discovers his father's death and Mercedes' marriage. He finds treasure on Monte Cristo island and assumes his Count of Monte Cristo persona to enact revenge in Marseille and Paris.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzg2Y2YwZjgtYjFjOS00ZTkzLTgyZGMtM2UwMTEyNDA0N2RlXkEyXkFqcGc@._V1_QL75_UY281_CR31,0,500,281_.jpg"
+        },
+        {
+            "title": "The Red Room",
+            "season": "1",
+            "episode_number": "4",
+            "ep_id": "tv/monte-cristo/0104.mkv",
+            "description": "Five years after Edmond becomes the Count of Monte Cristo, he meets his enemies in Paris. Edmond invites them all to dinner and tells a spooky story about a newborn baby buried alive, which horrifies several of his guests.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTJiNmZlNzAtNjkwZC00MjIyLTg5OWYtNDZjNzAwNDM0NjAxXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+        },
+        {
+            "title": "The Ball",
+            "season": "1",
+            "episode_number": "5",
+            "ep_id": "tv/monte-cristo/0105.mkv",
+            "description": "Edmond frees the slave Haydée, daughter of Ali Pascha, and takes her to Paris. At a ball, Haydée reveals that Fernand betrayed her father. Mercedes begins to suspect that there is something wrong with the count's identity.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmMyYWM0YjEtNTRmMi00ZmM1LWFiMjctYzRjOWY1YzcyZWYxXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+        },
+        {
+            "title": "Providence",
+            "season": "1",
+            "episode_number": "6",
+            "ep_id": "tv/monte-cristo/0106.mkv",
+            "description": "Edmond introduces Vampa, now in the role of the wealthy Count of Spada, to society. Spada says he came to Paris to find a wife. Edmond convinces old Noirtier to reveal a secret.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzkzOWVhZWUtMDAyOS00NzBjLTlhYmUtNDcwMDIxNzk4ZjczXkEyXkFqcGc@._V1_QL75_UX500_CR0,26,500,281_.jpg"
+        },
+        {
+            "title": "The Duel",
+            "season": "1",
+            "episode_number": "7",
+            "ep_id": "tv/monte-cristo/0107.mkv",
+            "description": "Edmond finds Villefort's illegitimate son Gaston, who has become a thief. Danglars reveals Fernand's betrayal in Algeria, Fernand's son Albert becomes enraged and challenges Edmond to a duel.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWNjNzkzZmItNTM1YS00YTkwLTg3ZWYtMDFkYmI1Y2UwZTRiXkEyXkFqcGc@._V1_QL75_UX500_CR0,47,500,281_.jpg"
+        },
+        {
+            "title": "The Last Two",
+            "season": "1",
+            "episode_number": "8",
+            "ep_id": "tv/monte-cristo/0108.mkv",
+            "description": "Edmond exposes Heloise's poisoning plot. Midwife testifies against father at Gaston's murder trial. Edmond reunites with Mercedes in Marseille, questioning his ability to love again.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWRjMTljYTgtOWYzMi00ZjliLTk4NGQtM2RmOWZjN2QwZjU3XkEyXkFqcGc@._V1_QL75_UX500_CR0,47,500,281_.jpg"
+        }
+    ]
+}
