@@ -1444,6 +1444,23 @@
             "endTime": "241"
         },
         {
+            "title": "Good Luck, Have Fun, Don't Die",
+            "director": "Gore Verbinski",
+            "year": "2026",
+            "duration": "2h 14m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOTQ0NzYzM2QtOWYzMC00MGU5LWJmMTQtYTU1ODU0ZjUwYjk0XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYjE1ZGRlMjQtOTYyNS00MDgwLThjYjctODcxNmVmZGZjYzllXkEyXkFqcGc@._V1_.jpg",
+            "description": "A \"Man From the Future\" arrives at a diner in Los Angeles where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Sci-Fi"
+            ],
+            "id": "good-luck-have-fun-dont-die.mkv",
+            "endTime": "360"
+        },
+        {
             "title": "Good Time",
             "director": "Josh Safdie, Bennie Safdie",
             "year": "2017",
@@ -1527,6 +1544,23 @@
             "id": "highest-2-lowest.mkv",
             "trailer_id": "highest-lowest.mp4",
             "endTime": "320"
+        },
+        {
+            "title": "Hoppers",
+            "director": "Daniel Chong",
+            "year": "2025",
+            "duration": "1h 44m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNzRiMzZlMTMtNmU3OC00MDUwLThmNDUtMTBjZmQ3MWQ4NTljXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTM3MGE1ODktYWJlNS00OGE4LTg0MzctYTNhMDUzNDJkNTllXkEyXkFqcGc@._V1_.jpg",
+            "description": "A 19-year-old animal lover uses technology that places her consciousness into a robotic beaver to uncover mysteries within the animal world beyond her imagination.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Comedy"
+            ],
+            "id": "hoppers.mkv",
+            "endTime": "720"
         },
         {
             "title": "The Housemaid",
