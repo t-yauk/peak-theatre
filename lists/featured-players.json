@@ -1,0 +1,22 @@
+{
+	"movies": [
+		{
+			"name": "12 Angry Men",
+			"id": "12-angry-men.mkv",
+			"overture": ["18000", "18000"],
+			"intermission": "18000",
+			"entracte": ["18000", "18000"],
+			"credits": "40",
+			"theme": "default"
+		},
+		{
+			"name": "My Fair Lady",
+			"id": "my-fair-lady.mkv",
+			"overture": ["10384", "10185"],
+			"intermission": "4282",
+			"entracte": ["4270", "4205"],
+			"credits": "91",
+			"theme": "pink"
+		}
+	]
+}
