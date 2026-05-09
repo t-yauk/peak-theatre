@@ -3,11 +3,20 @@
 		{
 			"name": "12 Angry Men",
 			"id": "12-angry-men.mkv",
-			"overture": ["18000", "18000"],
+			"overture": ["18000", "5753"],
 			"intermission": "18000",
 			"entracte": ["18000", "18000"],
 			"credits": "40",
 			"theme": "default"
+		},
+		{
+			"name": "Lawrence Of Arabia",
+			"id": "lawrence-of-arabia.mkv",
+			"overture": ["18000", "13090"],
+			"intermission": "5019",
+			"entracte": ["18000", "5000"],
+			"credits": "207",
+			"theme": "lightblue"
 		},
 		{
 			"name": "My Fair Lady",
@@ -17,6 +26,24 @@
 			"entracte": ["4270", "4205"],
 			"credits": "91",
 			"theme": "pink"
+		},
+		{
+			"name": "The Sound Of Music",
+			"id": "the-sound-of-music.mkv",
+			"overture": ["18000", "10477"],
+			"intermission": "4332",
+			"entracte": ["4311", "4199"],
+			"credits": "43",
+			"theme": "gold"
+		},
+		{
+			"name": "Spartacus",
+			"id": "spartacus.mkv",
+			"overture": ["11795", "11555"],
+			"intermission": "5343",
+			"entracte": ["5320", "5182"],
+			"credits": "179",
+			"theme": "red"
 		}
 	]
 }
