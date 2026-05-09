@@ -2618,6 +2618,23 @@
             "endTime": "285"
         },
         {
+            "title": "Moonage Daydream",
+            "director": "Brett Morgen",
+            "year": "2022",
+            "duration": "2h 15m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjgyZGU2ODAtMzg2ZC00ZWMxLWJhZWItNjk2NjE4OTI2MjQyXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTk3YjE2MDItM2NiOS00ZjExLTllZjgtMTk1ZmYyMDk5YjNhXkEyXkFqcGc@._V1_.jpg",
+            "description": "A cinematic odyssey exploring David Bowie's creative and musical journey. From visionary filmmaker Brett Morgen, and sanctioned by the Bowie estate.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Documentary",
+                "Music"
+            ],
+            "id": "moonage-daydream.mkv",
+            "endTime": "374"
+        },
+        {
             "title": "Mr. Smith Goes To Washington",
             "director": "Frank Capra",
             "year": "1939",
@@ -3794,13 +3811,49 @@
             "previewImage": "https://assets.mubicdn.net/images/film/167/image-w1280.jpg",
             "description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
             "featured": "false",
-            "theatre_optimized": "false",
+            "theatre_optimized": "true",
             "genre": [
                 "Noir",
                 "Crime"
             ],
             "id": "sunset-blvd.mkv",
             "endTime": "30"
+        },
+        {
+            "title": "The Super Mario Bros. Movie",
+            "director": "Aaron Horvath, Michael Jelenic, Pierre Leduc",
+            "year": "2023",
+            "duration": "1h 32m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOGZlN2EzOTYtMzUzOS00NTM3LTg0MTQtZDVjZGM4YmJlNWNhXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BY2U2ODcyNGYtZDk1NC00NTk5LTkyZGQtNjI4YjNiYzgyMGUxXkEyXkFqcGc@._V1_.jpg",
+            "description": "Brooklyn plumbers Mario and Luigi are warped to the magical Mushroom Kingdom, and Mario must team up with Princess Peach, Toad, and Donkey Kong to save Luigi from the evil Bowser.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Adventure"
+            ],
+            "id": "super-mario.mkv",
+            "trailer_id": "super-mario.mp4",
+            "endTime": "515"
+        },
+        {
+            "title": "The Super Mario Galaxy Movie",
+            "director": "Aaron Horvath, Michael Jelenic, Pierre Leduc",
+            "year": "2026",
+            "duration": "1h 38m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMDg5MjRkNWEtYmU1Mi00MTExLTk5MDQtY2RiMWVkZWNiOThjXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYTMxOTY4MmUtZjUwZS00Zjk0LTg5NzgtOWQ0Y2ZmNzY3OTQ2XkEyXkFqcGc@._V1_.jpg",
+            "description": "Mario ventures into space, exploring cosmic worlds and tackling galactic challenges far from the familiar Mushroom Kingdom.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Adventure"
+            ],
+            "id": "mario-galaxy.mkv",
+            "trailer_id": "mario-galaxy.mp4",
+            "endTime": "481"
         },
         {
             "title": "Superman",
