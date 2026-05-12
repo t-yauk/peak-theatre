@@ -1460,6 +1460,23 @@
             "endTime": "241"
         },
         {
+            "title": "GoodFellas",
+            "director": "Martin Scorsese",
+            "year": "1990",
+            "duration": "2h 25m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_FMjpg_UY2972_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjA3MTM2MjM0M15BMl5BanBnXkFtZTgwMTg5MzY1NDM@._V1_FMjpg_UX2048_.jpg",
+            "description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Crime",
+                "Thriller"
+            ],
+            "id": "goodfellas.mkv",
+            "endTime": "286"
+        },
+        {
             "title": "Good Luck, Have Fun, Don't Die",
             "director": "Gore Verbinski",
             "year": "2026",
