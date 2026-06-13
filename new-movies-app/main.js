@@ -352,7 +352,9 @@ function profileListener(key){
 
 document.addEventListener('keydown', function(event) {
 
-    if(action == "features"){
+    if(event.key === 'h'){
+        window.location.href = "home.html";
+    }else if(action == "features"){
         featuresListener(event.key);
     }else if(action == "menu"){
         menuListener(event.key);
