@@ -20,6 +20,8 @@ let p = 0;
 let light;
 let keyVal = 0;
 let searchArray = [];
+const vw = (document.getElementsByClassName("video-wrapper"))[0];
+const v = document.getElementById("video");
 
 window.onload = function() {
 
@@ -141,6 +143,30 @@ function populateProfile() {
     }
 
     pw.classList.add("active");
+
+}
+
+function populateVideo() {
+
+    if(profType == "features"){
+        v.src = "/Volumes/pkTH/peaktheatre/movies/trailers/" + featured[fK].trailer_id;
+    }else{
+        v.src = "/Volumes/pkTH/peaktheatre/movies/trailers/" + catalog[k].trailer_id;
+    }
+
+    pw.classList.remove("active");
+    vw.classList.add("active");
+
+    light = "dim";
+    localStorage.setItem('lights', 'dim');
+    api.controlLights({
+        light
+    });
+
+    setTimeout(function() {
+        v.play();
+        v.volume = 0.25;
+    }, 500);
 
 }
 
@@ -379,6 +405,9 @@ function profileListener(key){
                 light
             });
             window.location.href = "watch.html";
+        }else if(p == 1){
+            action = "video";
+            populateVideo();
         }
     }
 
@@ -435,6 +464,26 @@ function searchListener(key){
 
 }
 
+function videoListener(key){
+
+    if(key === 'ArrowRight'){
+        v.currentTime += 10;
+    }else if(key === 'ArrowLeft'){
+        v.currentTime -= 10;
+    }else if(key === 'Backspace'){
+        light = "movies-on";
+        localStorage.setItem('lights', 'on');
+        api.controlLights({
+            light
+        });
+        v.pause();
+        vw.classList.remove("active");
+        pw.classList.add("active");
+        action = "profile";
+    }
+
+}
+
 document.addEventListener('keydown', function(event) {
 
     if(event.key === 'h'){
@@ -449,6 +498,8 @@ document.addEventListener('keydown', function(event) {
         profileListener(event.key);
     }else if(action == "search"){
         searchListener(event.key);
+    }else if(action == "video"){
+        videoListener(event.key);
     }else if(action == "awaitSearch"){
         if(event.key === 'ArrowDown'){
             action = "features";
