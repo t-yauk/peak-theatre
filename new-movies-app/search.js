@@ -66,7 +66,7 @@ function populateProfile() {
 
 function populateVideo() {
 
-    v.src = "/Volumes/pkTH/peaktheatre/movies/trailers/" + results[k].trailer_id;
+    v.src = "D:\\peaktheatre\\movies\\trailers\\" + results[k].trailer_id;
 
     pw.classList.remove("active");
     vw.classList.add("active");
