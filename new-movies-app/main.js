@@ -18,6 +18,8 @@ let catalog;
 let profType;
 let p = 0;
 let light;
+let keyVal = 0;
+let searchArray = [];
 
 window.onload = function() {
 
@@ -38,6 +40,26 @@ window.onload = function() {
     defineFeatures();
 
     populate();
+
+}
+
+function search(){
+
+    const keys = document.getElementsByClassName("key");
+
+    if(keys[keyVal].innerHTML == "space"){
+        searchArray.push(" ");
+    }else if(keys[keyVal].innerHTML == "back"){
+        searchArray.length = searchArray.length - 1;
+    }else if(keys[keyVal].innerHTML == "enter"){
+        const searchString = searchArray.join("");
+        localStorage.setItem('search-term', searchString);
+        window.location.href = "search-results.html";
+    }else{
+        searchArray.push(keys[keyVal].innerHTML);
+    }
+
+    document.getElementById("search").innerHTML = searchArray.join("") + "|";
 
 }
 
@@ -191,6 +213,20 @@ function syncLibrary(){
 
 }
 
+function syncKeyboard(){
+
+    const items = document.getElementsByClassName("key");
+
+    for(let i=0;i<items.length;i++){
+        if(i == keyVal){
+            items[i].classList.add("active");
+        }else{
+            items[i].classList.remove("active");
+        }
+    }
+
+}
+
 function featuresListener(key){
 
     const container = (document.getElementsByClassName("featured-players-container"))[0];
@@ -211,10 +247,16 @@ function featuresListener(key){
         container.classList.remove("active");
         action = "menu";
         syncMenu(key);
+    }else if(key === 'ArrowUp'){
+        action = "awaitSearch";
+        const sb = document.getElementsByClassName("searchbar");
+        sb[0].style.border = "solid 5px white";
     }else if(key === 'Enter'){
         profType = "features";
         action = "profile";
         populateProfile();
+    }else if(key === 'Backspace'){
+        window.location.href = "home.html";
     }
 
 }
@@ -256,6 +298,8 @@ function menuListener(key){
         k = 0;
         action = "movies";
         syncLibrary();
+    }else if(key === 'Backspace'){
+        window.location.href = "home.html";
     }
 
 }
@@ -280,7 +324,7 @@ function libraryListener(key){
             }
             syncLibrary();
         }
-    }else if(key === 'ArrowUp'){
+    }else if(key === 'ArrowUp' || key === 'Backspace'){
         const menuItems = document.getElementsByClassName("menu-item");
         action = "menu";
         for(let i=0;i<items.length;i++){
@@ -350,6 +394,47 @@ function profileListener(key){
 
 }
 
+function searchListener(key){
+
+    if(key === 'ArrowRight'){
+        if(keyVal == 9 || keyVal == 19 || keyVal == 28){
+            keyVal = keyVal;
+        }else{
+            keyVal = keyVal + 1;
+        }
+    }else if(key === 'ArrowLeft'){
+        if(keyVal == 0 || keyVal == 10 || keyVal == 20){
+            keyVal = keyVal;
+        }else{
+            keyVal = keyVal - 1;
+        }
+    }else if(key === 'ArrowDown'){
+        if(keyVal < 20){
+            if(keyVal == 19){
+                keyVal = 28;
+            }else{
+                keyVal = keyVal + 10;
+            }
+        }
+    }else if(key === 'ArrowUp'){
+        if(keyVal > 9){
+            keyVal = keyVal - 10;
+        }
+    }else if(key === 'Enter'){
+        search();
+    }else if(key === 'Backspace'){
+        action = "features";
+        const sb = document.getElementsByClassName("searchbar");
+        const sw = document.getElementsByClassName("search-wrapper");
+        document.getElementById("search").innerHTML = "search";
+        sb[0].style.border = "solid 5px #393e3f";
+        sw[0].classList.remove("active");
+    }
+
+    syncKeyboard();
+
+}
+
 document.addEventListener('keydown', function(event) {
 
     if(event.key === 'h'){
@@ -362,6 +447,18 @@ document.addEventListener('keydown', function(event) {
         libraryListener(event.key);
     }else if(action == "profile"){
         profileListener(event.key);
+    }else if(action == "search"){
+        searchListener(event.key);
+    }else if(action == "awaitSearch"){
+        if(event.key === 'ArrowDown'){
+            action = "features";
+            const sb = document.getElementsByClassName("searchbar");
+            sb[0].style.border = "solid 5px #393e3f";
+        }else if(event.key === 'Enter'){
+            action = "search";
+            const sw = document.getElementsByClassName("search-wrapper");
+            sw[0].classList.add("active");
+        }
     }
 
 });
