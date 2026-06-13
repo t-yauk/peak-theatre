@@ -1376,7 +1376,7 @@
             "image_url": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_FMjpg_UX1012_.jpg",
             "previewImage": "https://images6.alphacoders.com/140/thumb-1920-1401577.jpg",
             "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-            "featured": "true",
+            "featured": "false",
             "theatre_optimized": "true",
             "genre": [
                 "Horror",
@@ -1385,12 +1385,7 @@
             "id": "frankenstein.mkv",
             "trailer_id": "frankenstein.mp4",
             "subtitle_id": "frankenstein.vtt",
-            "endTime": "639",
-            "oscars": [
-                "picture",
-                "supporting-actor",
-                "adapted"
-            ]
+            "endTime": "639"
         },
         {
             "title": "Friendship",
@@ -2492,6 +2487,22 @@
             ],
             "id": "metropolis.mkv",
             "endTime": "130"
+        },
+        {
+            "title": "Michael",
+            "director": "Antoine Fuqua",
+            "year": "2026",
+            "duration": "2h 7m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYjBkZDdiNDctZmQ1OC00MWVkLWIwZTMtZjJmNzUyNDJlZGRhXkEyXkFqcGc@._V1_.jpg",
+            "description": "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Musical"
+            ],
+            "id": "michael.mkv",
+            "endTime": "548"
         },
         {
             "title": "Mickey 17",
@@ -3914,7 +3925,7 @@
             "image_url": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
             "previewImage": "https://images3.alphacoders.com/137/thumb-1920-1379856.jpg",
             "description": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the human way he soon finds himself in a world that views these as old-fashioned.",
-            "featured": "true",
+            "featured": "false",
             "theatre_optimized": "true",
             "genre": [
                 "Action",
@@ -4412,7 +4423,7 @@
             "image_url": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
             "previewImage": "https://www.bollywoodhungama.com/wp-content/uploads/2025/08/Weapons-1.jpg",
             "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-            "featured": "true",
+            "featured": "false",
             "theatre_optimized": "true",
             "genre": [
                 "Horror",
