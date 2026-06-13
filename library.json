@@ -2300,22 +2300,21 @@
             "endTime": "274"
         },
         {
-            "title": "The Mastermind",
-            "director": "Kelly Reichardt",
-            "year": "2025",
-            "duration": "1h 50m",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BYmEzYzMwZDUtMjdiYi00YmRlLWJiNjYtYzY2N2E3ZWZjOTcxXkEyXkFqcGc@._V1_FMjpg_UY2880_.jpg",
-            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTg0N2FhNzctNGVmMC00NTZiLWJkN2EtMWQ2Y2I0OGUyYzFiXkEyXkFqcGdeQWFybm8@._V1_.jpg",
-            "description": "In 1970, failed architect James Blaine Mooney and cohorts wander into a museum in broad daylight and steal four paintings. When holding onto the art proves more difficult than stealing them, Mooney is relegated to a life on the run.",
+            "title": "A Matter of Life and Death",
+            "director": "Michael Powell, Emeric Pressburger",
+            "year": "1946",
+            "duration": "1h 44m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMDM3NmJkNjUtMWIyNS00NWU4LWIwOGMtNzUwZDQ2MTQ5NWY3XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTYxODQ1ODU1Ml5BMl5BanBnXkFtZTgwMTIyNDQzNzE@._V1_.jpg",
+            "description": "A British wartime aviator who cheats death must argue for his life before a celestial court, hoping to prolong his fledgling romance with an American girl.",
             "featured": "false",
-            "theatre_optimized": "true",
+            "theatre_optimized": "false",
             "genre": [
-                "Crime",
-                "Heist"
+                "Romance",
+                "Fantasy"
             ],
-            "id": "mastermind.mkv",
-            "trailer_id": "the-mastermind.webm",
-            "endTime": "288"
+            "id": "matter-of-life-death.mp4",
+            "endTime": "24"
         },
         {
             "title": "Materialists",
@@ -2694,6 +2693,91 @@
             ],
             "id": "mr-smith-goes-to-washington.mkv",
             "endTime": "36"
+        },
+        {
+            "title": "The Muppet Movie",
+            "director": "James Frawley",
+            "year": "1979",
+            "duration": "1h 35m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTE0ODE3N2ItYjRiOS00ZGU4LThjZTgtOGY5ZTFhMTNlZTNlXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMzUyOTRmNWMtZDEwNC00ZDA4LWJiNTctYjg1ZjgwNWE4M2M3XkEyXkFqcGc@._V1_.jpg",
+            "description": "Kermit and his newfound friends trek across America to find success in Hollywood, but a frog legs merchant is after Kermit.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Family"
+            ],
+            "id": "muppet-movie.mp4",
+            "endTime": "173"
+        },
+        {
+            "title": "The Great Muppet Caper",
+            "director": "Jim Henson",
+            "year": "1981",
+            "duration": "1h 37m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMGMwN2JkOTgtMDZjYi00YjkxLWI4YWQtMDFkMTQzNTgxYzgxXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMzUxMTY0MjQzNV5BMl5BanBnXkFtZTgwOTA5NzIwMjE@._V1_.jpg",
+            "description": "Kermit the Frog, The Great Gonzo, and Fozzie Bear are reporters who travel to Britain to interview a rich victim of jewel thieves and help her along with her secretary, Miss Piggy.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Mystery"
+            ],
+            "id": "muppet-caper.mp4",
+            "endTime": "161"
+        },
+        {
+            "title": "The Muppets Take Manhattan",
+            "director": "Frank Oz, Steve Gomer",
+            "year": "1984",
+            "duration": "1h 34m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNWMyNmNjNmYtNGZkMy00OTY2LWFkOTAtMDZjYmQ2ODRkZDFiXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZWU4Nzg5NTQtYzFkMS00ZDEzLWFlNWUtMmY3NmY4MWMzNTA0XkEyXkFqcGc@._V1_.jpg",
+            "description": "Kermit and his friends go to New York City to get their musical on Broadway only to find it's a more difficult task than they anticipated.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Musical"
+            ],
+            "id": "muppets-manhattan.mp4",
+            "endTime": "208"
+        },
+        {
+            "title": "The Muppets",
+            "director": "James Bobin",
+            "year": "2011",
+            "duration": "1h 43m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjE0MTM4NTc3NF5BMl5BanBnXkFtZTcwMjYzOTIxNg@@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZTY5NzMxNzgtZDkzNS00NzdjLWE5MTQtMmJhNzQ5NTFiZGZjXkEyXkFqcGc@._V1_.jpg",
+            "description": "A Muppet fanatic with some help from his 2 human compatriots must regroup the Muppet gang to stop an avaricious oil mogul from taking down one of their precious life-longing treasures.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Family"
+            ],
+            "id": "the-muppets.mp4",
+            "endTime": "358"
+        },
+        {
+            "title": "Muppets Most Wanted",
+            "director": "James Bobin",
+            "year": "2014",
+            "duration": "1h 47m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNDY2MTE0ODM4NF5BMl5BanBnXkFtZTgwMDI3Mjc2MDE@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQxMTM3Njc4NV5BMl5BanBnXkFtZTgwMjMzNDgxMTE@._V1_.jpg",
+            "description": "While on a grand world tour, The Muppets find themselves wrapped into an European jewel-heist caper headed by a Kermit the Frog look-alike and his dastardly sidekick.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Mystery"
+            ],
+            "id": "muppets-most-wanted.mp4",
+            "endTime": "515"
         },
         {
             "title": "My Fair Lady",
@@ -3971,6 +4055,24 @@
             "endTime": "276"
         },
         {
+            "title": "The Tales of Hoffmann",
+            "director": "Michael Powell, Emeric Pressburger",
+            "year": "1951",
+            "duration": "2h 8m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYzg5YWNjMjItNTM2NS00ZjEzLTljMmEtOTQxMDdmZDViYzUwXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMGIyNzg0MjUtNDFlOS00YmZhLWE2NjUtZjZjZTFkMDk2OGRmXkEyXkFqcGc@._V1_.jpg",
+            "description": "A melancholy poet reflects on three women he loved and lost in the past: a mechanical performing doll, a Venetian courtesan, and the consumptive daughter of a celebrated composer.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Musical",
+                "Fantasy"
+            ],
+            "id": "tales-of-hoffman.mp4",
+            "endTime": "215"
+        },
+        {
+
             "title": "Tampopo",
             "director": "J\u00fbz\u00f4 Itami",
             "year": "1985",
@@ -4055,6 +4157,23 @@
             ],
             "id": "thelma-and-louise.mkv",
             "endTime": "222"
+        },
+        {
+            "title": "The Thief of Bagdad",
+            "director": "Ludwig Berger, Michael Powell, Tim Whelan",
+            "year": "1940",
+            "duration": "1h 46m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMWQ1NGQ0YmItZTA3OC00YmRjLWEwYzEtZDY2NTdjMmIzZTk3XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjlhNjZhZDMtMjRkZi00NGU1LTgwZDAtZDRkZmU2ZDc2ZDQ5XkEyXkFqcGc@._V1_.jpg",
+            "description": "After being tricked and cast out of Bagdad by the evil Jaffar, King Ahmad joins forces with a thief named Abu to reclaim his throne, the city, and the Princess he loves.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Fantasy",
+                "Adventure"
+            ],
+            "id": "thief-of-bagdad.mp4",
+            "endTime": "29"
         },
         {
             "title": "The Thin Red Line",
