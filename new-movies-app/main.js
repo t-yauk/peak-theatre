@@ -149,9 +149,9 @@ function populateProfile() {
 function populateVideo() {
 
     if(profType == "features"){
-        v.src = "/Volumes/pkTH/peaktheatre/movies/trailers/" + featured[fK].trailer_id;
+        v.src = "D:\\peaktheatre\\movies\\trailers\\" + featured[fK].trailer_id;
     }else{
-        v.src = "/Volumes/pkTH/peaktheatre/movies/trailers/" + catalog[k].trailer_id;
+        v.src = "D:\\peaktheatre\\movies\\trailers\\" + catalog[k].trailer_id;
     }
 
     pw.classList.remove("active");
