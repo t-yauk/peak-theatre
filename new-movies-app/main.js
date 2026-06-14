@@ -37,13 +37,13 @@ window.onload = function() {
 
     library = data;
 
-    if(lights == 'off'){
-        light = "movies-on";
-        localStorage.setItem('lights', 'on');
-        api.controlLights({
-            light
-        });
-    }
+
+    light = "movies-on";
+    localStorage.setItem('lights', 'on');
+    api.controlLights({
+        light
+    });
+
     
     defineFeatures();
 
