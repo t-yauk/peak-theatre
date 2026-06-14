@@ -59,6 +59,11 @@ function populateProfile() {
     document.getElementById("director").innerHTML = "Directed By " + results[k].director;
     document.getElementById("description").innerHTML = results[k].description;
     document.getElementById("year").innerHTML = results[k].year;
+    if((results[k].genre).length > 1){
+            document.getElementById("genres").innerHTML = "<span class='genre'><span class='fa-solid fa-clock'></span> " + results[k].duration + "</span><span class='genre'>" + results[k].genre[0] + "</span><span class='genre'>" + results[k].genre[1] + "</span>";
+        }else{
+            document.getElementById("genres").innerHTML = "<span class='genre'>" + results[k].duration + "</span><span class='genre'>" + results[k].genre[0] + "</span>";
+        }
 
     pw.classList.add("active");
 
@@ -159,11 +164,7 @@ function profileListener(key){
         pw.classList.remove("active");
     }else if(key === 'Enter'){
         if(p == 0){
-            if(profType == "features"){
-                title = featured[fK].title;
-            }else if(profType == "library"){
-                title = catalog[k].title;
-            }
+            title = results[k].title;
             localStorage.setItem('the_title', title);
             light = "off";
             light;
