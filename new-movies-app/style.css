@@ -183,7 +183,6 @@ body{
     display: block;
     width: 100%;
     height: 47.5vh;
-    overflow: hidden;
 }
 
 .featured-players-container{
@@ -206,8 +205,13 @@ body{
     background-position: center;
     margin-left: 0;
     transform: scale(1.0);
+    filter: drop-shadow(0 0 1rem rgba(255,255,255,0));
     opacity: 1;
     transition: 1s;
+}
+
+.featured-player.active{
+    filter: drop-shadow(0 0 0.4rem rgba(255,255,255,0.8));
 }
 
 .featured-player .title{
@@ -311,19 +315,44 @@ body{
     top: 0;
     width: 100%;
     height: 47.5vh;
-    background: white;
+    background: #192329;
     overflow: hidden;
     opacity: 0;
+    transition: 0.5s;
+}
+
+.hero.active{
+    opacity: 1;
+    transition: 1s;
 }
 
 .hero-item{
-    position: absolute;
+    position: relative;
+    display: flex;
     left: 0;
     top: 0;
+    align-items: center;
     width: 90%;
-    height: 100vh;
+    height: 100%;
+    border-radius: 30px;
     background-size: cover;
-    background-position: bottom right;
+    background-position: center 30%;
+}
+
+.hero-item .title{
+    display: block;
+    margin-left: 50px;
+    font-size: 7rem;
+    line-height: 1;
+    font-weight: 600;
+    color: white;
+    filter: drop-shadow(0 0 1rem rgba(0,0,0,0.5));
+}
+
+.hero-item .title .year{
+    display: block;
+    font-size: 0.7em;
+    margin-top: 15px;
 }
 
 .profile-wrapper{
@@ -376,7 +405,7 @@ body{
     line-height: 1;
     color: black;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 600;
     margin-bottom: 12px;
 }
 
@@ -425,22 +454,42 @@ body{
     border-radius: 10px;
     transform: scale(1.0);
     margin-right: 0px;
-    transition: transform 0.3s;
+    transition: transform 0.3s, margin-left 0.3s, margin-right 0.3s;
 }
 
 .profile-menu-item.active{
-    background: #7f8489;
+    background: rgb(44,112,244);
     filter: drop-shadow(0 0 0.1rem rgba(0,0,0,1));
 }
 
 .profile-menu-item:first-child.active{
     transform: scale(1.1);
     margin-right: 10px;
+    margin-left: 10px;
 }
 
 .profile-menu-item:nth-child(2).active{
     transform: scale(1.1);
     margin-left: 10px;
+}
+
+.profile .content .details{
+    position: absolute;
+    bottom: 5%;
+    display: block;
+    margin-top: 40px;
+}
+
+.profile .genre{
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 1.3rem;
+    line-height: 1;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: #192329;
+    border-radius: 25px;
+    margin-right: 10px;
 }
 
 .search-wrapper{
@@ -462,7 +511,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     bottom: 10%;
-    width: 70vw;
+    width: 1344px;
     background: #959ca3;
     border: solid 5px #959ca3;
     border-radius: 30px;
@@ -580,7 +629,8 @@ body{
     justify-content: center;
     width: 100%;
     height: 100vh;
-    background: rgba(0,0,0,0.75);
+    background: rgba(148,157,163,0.2);
+    backdrop-filter: blur(5px);
     z-index: 500;
     opacity: 0;
 }
@@ -593,7 +643,7 @@ body{
     height: 80vh;
     aspect-ratio: 16/9;
     border-radius: 30px;
-    background: white;
+    background: black;
     overflow: hidden;
 }
 
@@ -607,4 +657,49 @@ body{
 .video-wrapper.active{
     display: flex;
     opacity: 1;
+}
+
+.sidebar{
+    padding-top: 50px;
+}
+
+.sidebar-menu{
+    display: block;
+    width: 130%;
+    margin-left: 15px;
+}
+
+.sidebar-menu-item{
+    display: block;
+    font-size: 1.5rem;
+    line-height: 1;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background: #192329;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.sidebar-menu-item .icon{
+    margin-right: 12.5px;
+}
+
+.sidebar-menu-item.active{
+    background: white;
+    color: #192329;
+}
+
+.sidebar-menu-item.active .icon{
+    color: #192329;
+}
+
+.sidebar-menu .label{
+    display: inline-block;
+    margin-left: 20px;
+    padding: 30px 140px 15px 0px;
+    font-size: 1.5rem;
+    line-height: 1;
+    font-weight: 500;
+    border-top: solid 1px rgb(162, 162, 162);
 }
