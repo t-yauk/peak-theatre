@@ -1939,6 +1939,40 @@
             "endTime": "11"
         },
         {
+            "title": "Kill Bill: Vol. 1",
+            "director": "Quentin Tarantino",
+            "year": "2003",
+            "duration": "1h 51m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYmJlYmMxNTItODA5OC00MmI3LWExNmQtZGMyMTcwYjE2NjAzXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTUwNzY4ODY3OV5BMl5BanBnXkFtZTgwNDc4MzA4MTI@._V1_.jpg",
+            "description": "After waking from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "id": "kill-bill-1.mkv",
+            "endTime": "447"
+        },
+        {
+            "title": "Kill Bill: Vol. 2",
+            "director": "Quentin Tarantino",
+            "year": "2004",
+            "duration": "2h 17m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMWQ0ZWI0YmUtZGYzMi00YjRjLTk2MzItNDgxOWRjYWNjMmNiXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNzMzMTI2Mjg5N15BMl5BanBnXkFtZTgwOTc3NjE5MDI@._V1_FMjpg_UX1473_.jpg",
+            "description": "After waking from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "id": "kill-bill-2.mkv",
+            "endTime": "577"
+        },
+        {
             "title": "Killers Of The Flower Moon",
             "director": "Martin Scorsese",
             "year": "2023",
