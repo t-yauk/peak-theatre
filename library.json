@@ -2929,6 +2929,22 @@
             "endTime": "8"
         },
         {
+            "title": "Nirvanna: The Band - The Show - The Movie",
+            "director": "Matt Johnson",
+            "year": "2026",
+            "duration": "1h 40m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjMwYmZmZjgtOTYwZC00MzMyLTllMTMtNTcxNTVmNjdhODVhXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://mountaintimes.info/wp-content/uploads/2026/02/screensandstreamsNirvanatheBandtheShowtheMovie.jpg",
+            "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy"
+            ],
+            "id": "nirvanna.mkv",
+            "endTime": "303"
+        },
+        {
             "title": "No Country for Old Men",
             "director": "Ethan Coen, Joel Coen",
             "year": "2007",
