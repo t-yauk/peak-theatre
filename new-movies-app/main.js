@@ -361,7 +361,9 @@ function menuListener(key){
     if(key === 'ArrowRight'){
         if(m < (items.length-1)){
             m = m + 1;
-            xVal = xVal - xOff;
+            if(m > 1){
+                xVal = xVal - xOff;
+            }
             container.style.transition = "0s";
             container.style.transform = "translateX(0px)";
             syncMenu();
@@ -369,7 +371,9 @@ function menuListener(key){
     }else if(key === 'ArrowLeft'){
         if(m > 0){
             m = m - 1;
-            xVal = xVal + xOff;
+            if(m > 0){
+                xVal = xVal + xOff;
+            }
             container.style.transition = "0s";
             container.style.transform = "translateX(0px)";
             syncMenu();
