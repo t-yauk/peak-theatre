@@ -1,0 +1,507 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+
+body{
+    margin: 0;
+    background: #192329;
+    overflow: hidden;
+    cursor: none;
+}
+
+
+.sidebar{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 15vw;
+    height: 100vh;
+    background: #222f38;
+    filter: drop-shadow(0 0 0.7rem rgba(0,0,0,0.5));
+    z-index: 10;
+}
+
+.library{
+    position: fixed;
+    left: 20vw;
+    top: -5%;
+    width: 75vw;
+    height: 500vh;
+    transform: translateY(0px);
+    transition: 1s;
+}
+
+.library h1{
+    display: block;
+    font-size: 10rem;
+    line-height: 1;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.library-item{
+    display: inline-block;
+    width: 300px;
+    margin: 50px;
+    margin-right: 30px;
+    margin-left: 0px;
+    vertical-align: top;
+    transform: scale(1.0);
+    transition: 0.3s;
+}
+
+.library-item .artwork{
+    position: relative;
+    display: block;
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    filter: drop-shadow(0 0 0.7rem rgba(0,0,0,0.75));
+    transform: scale(1.0);
+    margin-bottom: 0px;
+    transition: 0.3s;
+}
+
+.library-item .artwork .gradient{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    background-image: linear-gradient(to top, rgba(255,255,255,0.25), rgba(255,255,255,0));
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.library-item.active{
+    transform: scale(1.1);
+}
+
+.library-item.active .artwork{
+    filter: drop-shadow(0 0 1rem rgba(0,0,0,0.9));
+}
+
+.library-item.active .artwork .gradient{
+    opacity: 1;
+}
+
+.library-item .content{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.library-item .content .title{
+    display: block;
+    font-size: 2rem;
+    line-height: 1;
+}
+
+.library-item .content .artist{
+    display: block;
+    margin-top: 15px;
+    transition: 0.3s;
+}
+
+.library-item.active .content .artist{
+    margin-top: 5px;
+}
+
+.album{
+  position: fixed;
+  display: flex;
+  left: 0;
+  top: 0;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background: #192329;
+  z-index: 50;
+  opacity: 0;
+}
+
+.album.active{
+  opacity: 1;
+}
+
+.album #artwork{
+  display: block;
+  width: 50vw;
+  aspect-ratio: 1/1;
+  border-radius: 30px;
+  filter: drop-shadow(0 0 0.5rem rgba(0,0,0,0.5));
+}
+
+.album .content{
+  display: block;
+  width: 40vw;
+  margin-left: 50px;
+}
+
+.album .content #album-title{
+  display: block;
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.album .content #the-artist{
+  display: block;
+  margin-bottom: 20px;
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 300;
+}
+
+.album .content .track-wrapper{
+  position: relative;
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  background: #192329;
+  filter: drop-shadow(0 0 0.5rem rgba(0,0,0,0.6));
+  border-radius: 20px;
+}
+
+.album .content .track-container{
+  display: block;
+  width: 100%;
+  transform: translateY(0px);
+  transition: 0.5s;
+}
+
+.album .content .track-container .track{
+  display: block;
+  padding: 20px 30px;
+  font-size: 1.5rem;
+}
+
+.album .content .track-container .track:nth-child(odd){
+  background: rgba(255,255,255,0.05);
+}
+
+.album .content .track-container .track.active{
+  background: white;
+  font-weight: 600;
+  color: #192329;
+}
+
+.player{
+  position: fixed;
+  display: none;
+  left: 0;
+  top: 0;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center top;
+  z-index: 100;
+}
+
+.blur{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0,0,0,0.75);
+  backdrop-filter: blur(20px);
+  z-index: -1;
+}
+
+.player.active{
+  display: flex;
+}
+
+#the-artwork{
+  position: absolute;
+  width: 40vw;
+  aspect-ratio: 1/1;
+  border-radius: 30px;
+  margin-bottom: 160px;
+}
+
+#track-name{
+  position: absolute;
+  bottom: 18%;
+  font-size: 2.5rem;
+}
+
+#album-details{
+  position: absolute;
+  bottom: 14%;
+  font-size: 1.7rem;
+  text-transform: uppercase;
+}
+
+.main-wrapper{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background: rgb(150,150,150,1);
+    backdrop-filter: blur(30px);
+    
+}
+
+.main-wrapper #artwork{
+    display: block;
+    height: 65vh;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 50px;
+    filter: drop-shadow(0 0 0.7rem rgba(0,0,0,0.3));
+    transform: translateY(-10px);
+}
+
+.main-wrapper .details{
+    display: block;
+    width: 70%;
+}
+
+.main-wrapper .details .timeline-full{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 15px;
+    background: rgba(255,255,255,0.5);
+    backdrop-filter: blur(10px);
+    border-radius: 7px;
+}
+
+#the-timeline{
+    display: block;
+    width: 100%;
+    height: 15px;
+    background: rgb(44,112,244) !important;
+    border-radius: 7px 0px 0px 7px;
+    opacity: 1;
+    transform-origin: left center;
+    transform: scaleX(0);
+    transition: 0.3s;
+}
+
+.timespot{
+    position: absolute;
+    left: 0%;
+    width: 6px;
+    height: 30px;
+    background: white;
+    backdrop-filter: blur(10px);
+    border-radius: 3px;
+    transition: 0.3s;
+}
+
+.song{
+    position: absolute;
+    left: 0;
+    top: 74.75vh;
+    width: 100%;
+    min-height: 50px;
+    text-align: center;
+}
+
+.song #the-album-title{
+    display: block;
+    color: white;
+    font-size: 2.5rem;
+    line-height: 1;
+}
+
+.song #details{
+    display: block;
+    color: white;
+    font-size: 1.35rem;
+    line-height: 1;
+    font-weight: 300;
+    margin-top: 15px;
+}
+
+.controls{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    left: 0px;
+    top: 83.5vh;
+    width: 100%;
+}
+
+.control-item{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background: rgba(255,255,255,0.3);
+    backdrop-filter: blur(10px);
+    margin-left: 7px;
+    margin-right: 7px;
+    font-size: 1.3rem;
+    line-height: 1;
+    color: black;
+    transform: scale(0.9);
+    transition: transform 0.3s;
+}
+
+.control-item.active{
+    background: white;
+    transform: scale(1.1);
+}
+
+
+.timecode-wrapper{
+    position: absolute;
+    left: 0;
+    top: 93.5vh;
+    width: 100%;
+    text-align: center;
+}
+
+#the-time{
+    display: block;
+    color: white;
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.cover{
+    position: absolute;
+    left: 50vw;
+    top: 79vh;
+    width: 45vw;
+    height: 260px;
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,1));
+    z-index: 12000;
+}
+
+.cover.sec{
+    top: 0;
+    background: white;
+    height: 210px;
+}
