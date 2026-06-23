@@ -233,6 +233,10 @@ function playerListener(key) {
 
 document.addEventListener('keydown', function(event) {
 
+    if(event.key === "h"){
+        window.location.href = "home.html";
+    }
+
     if(action == "library"){
         libraryListener(event.key);
     }else if(action == "album"){
