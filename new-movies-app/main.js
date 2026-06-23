@@ -418,7 +418,7 @@ function libraryListener(key){
     if(key === 'ArrowRight'){
         if(k < (items.length - 1)){
             k = k + 1;
-            if(items.length > 7){
+            if(items.length > 7 && k > 1){
                 libX = libX - 212;
             }
             syncLibrary();
@@ -426,7 +426,7 @@ function libraryListener(key){
     }else if(key === 'ArrowLeft'){
         if(k > 0){
             k = k - 1;
-            if(items.length > 7){
+            if(items.length > 7 && k > 0){
                 libX = libX + 212;
             }
             syncLibrary();
