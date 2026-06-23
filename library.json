@@ -1061,6 +1061,23 @@
             "endTime": "355"
         },
         {
+            "title": "Bram Stoker's Dracula",
+            "director": "Francis Ford Coppola",
+            "year": "1992",
+            "duration": "2h 8m",
+            "image_url": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/movie-elements/bram-stokers-dracula.png",
+            "previewImage": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/movie-elements/dracula-wallpaper.png",
+            "description": "Centuries-old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and wreak havoc in the foreign land.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Romance"
+            ],
+            "id": "dracula.mkv",
+            "endTime": "378"
+        },
+        {
             "title": "The Drama",
             "director": "Kristoffer Borgli",
             "year": "2026",
