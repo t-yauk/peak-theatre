@@ -1,0 +1,72 @@
+{
+    "title": "The Bear",
+    "logo": "bear-logo.webp",
+    "description": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
+    "image_url": "the-bear.jpg",
+    "episodes": [
+        {
+            "title": "Soda",
+            "season": "5",
+            "episode_number": "1",
+            "ep_id": "tv/bear/0501.mp4",
+            "description": "A storm hits.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTY0NTM2NTQtMzIyNC00ZWNmLTkwZTQtMzcwMzc1NTU5YTFmXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+        },
+        {
+            "title": "Lamb",
+            "season": "5",
+            "episode_number": "2",
+            "ep_id": "tv/bear/0502.mp4",
+            "description": "The staff prepares for the day.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTUzZmI0NmMtMTdkMS00ZjQyLWJiYjYtYjljNTJkNTZjMjk3XkEyXkFqcGc@._V1_QL75_UY281_CR86,0,500,281_.jpg"
+        },
+        {
+            "title": "Mint",
+            "season": "5",
+            "episode_number": "3",
+            "ep_id": "tv/bear/0503.mp4",
+            "description": "A new direction.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkxNGEwYzQtZjg1Zi00NTJlLTlmZjItMjA3MWY4Y2I1ZTkwXkEyXkFqcGc@._V1_QL75_UY281_CR86,0,500,281_.jpg"
+        },
+        {
+            "title": "Ribs",
+            "season": "5",
+            "episode_number": "4",
+            "ep_id": "tv/bear/0504.mp4",
+            "description": "Family meal.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDBlMjBmNWUtMWYwNS00ODc0LTlmMjYtNDM3ZjRhMzljMzMzXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+        },
+        {
+            "title": "Raspberries",
+            "season": "5",
+            "episode_number": "5",
+            "ep_id": "tv/bear/0505.mp4",
+            "description": "A traffic jam.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGFkMmM4Y2YtNTA0NC00MmYwLThiMGYtYzE3OTJlODUwZmJlXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+        },
+        {
+            "title": "Focaccia",
+            "season": "5",
+            "episode_number": "6",
+            "ep_id": "tv/bear/0506.mp4",
+            "description": "A seating chart.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGIwZGNjODMtMzgwOC00MDMxLTg1ZDUtOTc1ZWI2NzMxYjg4XkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+        },
+        {
+            "title": "Caramel",
+            "season": "5",
+            "episode_number": "7",
+            "ep_id": "tv/bear/0507.mp4",
+            "description": "A hard service.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjQ2MGI5NTktOGQ3MC00ODkxLWI5YmQtMzc4Y2U4MDQ4MjIzXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+        },
+        {
+            "title": "The Original Beef of Chicagoland",
+            "season": "5",
+            "episode_number": "8",
+            "ep_id": "tv/bear/0508.mp4",
+            "description": "After service.",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ3NjE2MGYtZWVjYy00MDVlLWIyZTctNmU5YjZmYTljOGMxXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+        }
+    ]
+}
