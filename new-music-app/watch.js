@@ -6,7 +6,7 @@ let light;
 
 window.onload = function() {
 
-    v.src = "/Users/troyyauk/Downloads/music-videos/" + video.id;
+    v.src = "D:/peaktheatre/music/videos/" + video.id;
     v.play();
 
 }
