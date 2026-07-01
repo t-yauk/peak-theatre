@@ -1,4 +1,6 @@
 import jsonConfig from 'https://t-yauk.github.io/peak-theatre/lists/music.json' with {type: "json"};
+import jsonConfig2 from 'https://t-yauk.github.io/peak-theatre/lists/music-videos.json' with {type: "json"};
+import jsonConfig3 from 'https://t-yauk.github.io/peak-theatre/lists/artists.json' with {type: "json"};
 const container = (document.getElementsByClassName("library"))[0];
 const album = (document.getElementsByClassName("album"))[0];
 const player = (document.getElementsByClassName("player"))[0];
@@ -8,12 +10,15 @@ const aud = document.getElementById("audio");
 const pathway = "D:/peaktheatre/elements/music/";
 const trackPath = "D:\\peaktheatre\\music\\";
 const library = jsonConfig.music;
+const videos = jsonConfig2.music;
+const artists = jsonConfig3.artists;
 let k = 0;
 let a = 0;
-let action = "library";
+let action = "sidebar";
 let y = 0;
 let ay = 0;
 let c = 1;
+let m = 0;
 let inCount = 0;
 let trackCount;
 let theTrack;
@@ -42,10 +47,24 @@ function populate() {
         container.appendChild(newItem);
     }
 
-    setTimeout(function() {
-        syncLibrary();
-    }, 500);
+}
 
+function populate2() {
+    for(let i=0;i<videos.length;i++){
+        const newItem = document.createElement('div');
+        newItem.classList.add("library-item");
+        newItem.innerHTML = "<div class='artwork' style=\"background-image:url('" + pathway + artists[i].artwork + "')\"><div class='gradient'></div></div><div class='content'><span class='title'>" + artists[i].name + "</span></div>";
+        container.appendChild(newItem);
+    }
+}
+
+function populate3() {
+    for(let i=0;i<videos.length;i++){
+        const newItem = document.createElement('div');
+        newItem.classList.add("library-item");
+        newItem.innerHTML = "<div class='artwork' style=\"background-image:url('" + videos[i].thumbnail + "')\"><div class='gradient'></div></div><div class='content'><span class='title'>" + videos[i].name + "</span></div>";
+        container.appendChild(newItem);
+    }
 }
 
 function populateAlbum() {
@@ -139,6 +158,20 @@ function populatePlayer(){
 
 }
 
+function syncSidebar() {
+
+    const items = document.getElementsByClassName("menu-item");
+
+    for(let i=0;i<items.length;i++){
+        if(i == m){
+            items[i].classList.add("active");
+        }else{
+            items[i].classList.remove("active");
+        }
+    }
+
+}
+
 function syncAlbum() {
 
     const tracks = document.getElementsByClassName("track");
@@ -166,6 +199,39 @@ function syncControls() {
         }else{
             items[i].classList.remove("active");
         }
+    }
+
+}
+
+function sidebarListener(key){
+
+    const items = document.getElementsByClassName("menu-item");
+
+    if(event.key === 'ArrowDown'){
+        if(m < (items.length - 1)){
+            m = m + 1;
+            syncSidebar();
+        }
+    }else if(event.key === 'ArrowUp'){
+        if(m > 0){
+            m = m - 1;
+            syncSidebar();
+        }
+    }else if(event.key === 'Enter'){
+        if(m == 0){
+            container.innerHTML = "<h1 id='title'>Albums</h1>";
+            populate();
+        }else if(m == 1){
+            container.innerHTML = "<h1 id='title'>Artists</h1>";
+            populate2();
+        }else if(m == 2){
+            container.innerHTML = "<h1 id='title'>Music Videos</h1>";
+            populate3();
+        }
+        y = 0;
+        k = 0;
+        action = "library";
+        syncLibrary();
     }
 
 }
@@ -202,10 +268,25 @@ function libraryListener(key){
             y = y + 375;
             syncLibrary();
         }
+    }else if(key === 'm'){
+        action = "sidebar";
+        for(let i=0;i<items.length;i++){
+            items[i].classList.remove("active");
+        }
     }else if(key === 'Enter'){
 
-        action = "album";
-        populateAlbum();
+        if(m == 0){
+            action = "album";
+            populateAlbum();
+        }else if(m == 2){
+            localStorage.setItem('video_id', k);
+            light = "off";
+            localStorage.setItem('lights', 'off');
+            api.controlLights({
+                light
+            });
+            window.location.href = "watch-2.html";
+        }
 
     }
 
@@ -331,7 +412,9 @@ document.addEventListener('keydown', function(event) {
         window.location.href = "home.html";
     }
 
-    if(action == "library"){
+    if(action == "sidebar"){
+        sidebarListener(event.key);
+    }else if(action == "library"){
         libraryListener(event.key);
     }else if(action == "album"){
         albumListener(event.key);
