@@ -2,7 +2,7 @@ const container = (document.getElementsByClassName("menu"))[0];
 const items = document.getElementsByClassName("menu-item");
 let k = 0;
 let x = 0;
-let action;
+let light;
 
 window.onload = function() {
 
@@ -48,9 +48,9 @@ document.addEventListener('keydown', function(event) {
         if(k == 0){
             window.location.href = "home.html";
         }else if(k == 1){
-            action = "restart";
+            light = "restart";
             api.controlLights({
-                action
+                light
             });
         }
     }
