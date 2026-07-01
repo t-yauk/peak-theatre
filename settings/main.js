@@ -52,6 +52,11 @@ document.addEventListener('keydown', function(event) {
             api.controlLights({
                 light
             });
+        }else if(k == 2){
+            light = "shutdown";
+            api.controlLights({
+                light
+            });
         }
     }
 
