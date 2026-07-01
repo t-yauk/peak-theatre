@@ -5,7 +5,7 @@ const player = (document.getElementsByClassName("player"))[0];
 const timeline = (document.getElementsByClassName("timeline"))[0];
 const timespot = (document.getElementsByClassName("timespot"))[0];
 const aud = document.getElementById("audio");
-const pathway = "'D:\\peaktheatre\\elements\\music\\";
+const pathway = "D:/peaktheatre/elements/music/";
 const trackPath = "D:\\peaktheatre\\music\\";
 const library = jsonConfig.music;
 let k = 0;
@@ -13,14 +13,21 @@ let a = 0;
 let action = "library";
 let y = 0;
 let ay = 0;
+let c = 1;
+let inCount = 0;
 let trackCount;
 let theTrack;
 let theAlbum;
 let interval1;
 let interval2;
+let controls = false;
+let previous;
+let light;
 console.log(library);
 
 window.onload = function() {
+
+    console.log(window.innerWidth)
 
     populate();
 
@@ -55,11 +62,11 @@ function populateAlbum() {
     document.getElementById("the-artist").innerHTML = library[k].artist;
 
     if((library[k].title).length >= 15){
-        document.getElementById("album-title").style.fontSize = "5rem";
+        document.getElementById("album-title").style.fontSize = "4vw";
     }else if((library[k].title).length >= 12){
-        document.getElementById("album-title").style.fontSize = "6rem";
+        document.getElementById("album-title").style.fontSize = "5vw";
     }else{
-        document.getElementById("album-title").style.fontSize = "7rem";
+        document.getElementById("album-title").style.fontSize = "5.8vw";
     }
 
     const topHeight = top.getBoundingClientRect().height;
@@ -108,7 +115,7 @@ function populatePlayer(){
 
     aud.src = trackPath + theAlbum.id + "/" + theAlbum.tracks[theTrack].id;
 
-    //player.style.backgroundImage = "url('" + pathway + theAlbum.artwork + "')";
+    player.style.backgroundImage = "url('" + pathway + theAlbum.artwork + "')";
     artwork.src = pathway + theAlbum.artwork;
     document.getElementById("the-album-title").innerHTML = theAlbum.tracks[theTrack].title;
     document.getElementById("details").innerHTML = theAlbum.title + " <span style='font-size:0.7em'>•</span> " + theAlbum.artist;
@@ -123,6 +130,12 @@ function populatePlayer(){
 
     interval1 = setInterval(updateTimeline, 300);
     interval2 = setInterval(seconds, 1000);
+
+    light = "dim";
+    localStorage.setItem('lights', 'off');
+    api.controlLights({
+        light
+    });
 
 }
 
@@ -143,6 +156,20 @@ function syncAlbum() {
     
 }
 
+function syncControls() {
+
+    const items = document.getElementsByClassName("control-item");
+
+    for(let i=0;i<items.length;i++){
+        if(c == i){
+            items[i].classList.add("active");
+        }else{
+            items[i].classList.remove("active");
+        }
+    }
+
+}
+
 function libraryListener(key){
 
     const items = document.getElementsByClassName("library-item");
@@ -151,7 +178,7 @@ function libraryListener(key){
         if(k < (items.length - 1)){
             k = k + 1;
             if(k % 4 === 0){
-                y = y - 500;
+                y = y - 375;
             }
             syncLibrary();
         }
@@ -159,20 +186,20 @@ function libraryListener(key){
         if(k > 0){
             k = k - 1;
             if((k + 1) % 4 === 0){
-                y = y + 500;
+                y = y + 375;
             }
             syncLibrary();
         }
     }else if(key === 'ArrowDown'){
         if((k + 4) < (library.length)){
             k = k + 4;
-            y = y - 500;
+            y = y - 375;
             syncLibrary();
         }
     }else if(key === 'ArrowUp'){
         if(k > 3){
             k = k - 4;
-            y = y + 500;
+            y = y + 375;
             syncLibrary();
         }
     }else if(key === 'Enter'){
@@ -192,7 +219,7 @@ function albumListener(key){
         if(a < (trackCount - 1)){
             a = a + 1;
             if(a > 1){
-                ay = ay - 65;
+                ay = ay - 44.5;
             }
             syncAlbum();
         }
@@ -200,7 +227,7 @@ function albumListener(key){
         if(a > 0){
             a = a - 1;
             if(a > 0){
-                ay = ay + 65;
+                ay = ay + 44.5;
             }
             syncAlbum();
         }
@@ -212,6 +239,7 @@ function albumListener(key){
         ay = 0;
         tracks.style.transform = "translateY(" + ay + "px)";
     }else if(key === 'Enter'){
+        previous = action;
         action = "player";
         theAlbum = library[k];
         theTrack = a;
@@ -222,16 +250,82 @@ function albumListener(key){
 
 function playerListener(key) {
 
-    if(key === 'ArrowRight'){
-        aud.currentTime += 10;
-    }else if(key === 'ArrowLeft'){
-        aud.currentTime -= 10;
+    const items = document.getElementsByClassName("control-item");
+
+    if(key === 'Backspace'){
+        action = previous;
+        player.classList.remove("active");
+        light = "on";
+        localStorage.setItem('lights', 'on');
+        api.controlLights({
+            light
+        });
+    }
+
+    if(controls == true){
+        if(key === 'ArrowRight'){
+            if(c < 2){
+                c = c + 1;
+                syncControls();
+            }
+        }else if(key === 'ArrowLeft'){
+            if(c > 0){
+                c = c - 1;
+                syncControls();
+            }
+        }else if(key === 'ArrowDown'){
+            for(let i=0;i<items.length;i++){
+                items[i].classList.remove("active");
+            }
+            controls = false;
+        }else if(key === 'Enter'){
+            if(c == 0){
+                if(aud.currentTime > 3){
+                    aud.currentTime = 0;
+                }else{
+                    theTrack = theTrack - 1;
+                    aud.src = trackPath + theAlbum.id + "/" + theAlbum.tracks[theTrack].id;
+                    document.getElementById("the-album-title").innerHTML = theAlbum.tracks[theTrack].title;
+                    aud.play();
+                    for(let i=0;i<items.length;i++){
+                        items[i].classList.remove("active");
+                    }
+                    controls = false;
+                }
+            }else if(c == 1){
+                if(aud.paused){
+                    aud.play();
+                }else{
+                    aud.pause();
+                }
+            }else if(c == 2){
+                theTrack = theTrack + 1;
+                aud.src = trackPath + theAlbum.id + "/" + theAlbum.tracks[theTrack].id;
+                document.getElementById("the-album-title").innerHTML = theAlbum.tracks[theTrack].title;
+                aud.play();
+                for(let i=0;i<items.length;i++){
+                    items[i].classList.remove("active");
+                }
+                controls = false;
+            }
+        }
+    }else{
+        if(key === 'ArrowRight'){
+            aud.currentTime += 10;
+        }else if(key === 'ArrowLeft'){
+            aud.currentTime -= 10;
+        }else if(key === 'ArrowUp'){
+            controls = true;
+            syncControls();
+        }
     }
 
 }
 
 
 document.addEventListener('keydown', function(event) {
+
+    inCount = 0;
 
     if(event.key === "h"){
         window.location.href = "home.html";
@@ -253,8 +347,8 @@ document.addEventListener('keydown', function(event) {
 function updateTimeline() {
     const perc = (aud.currentTime / aud.duration) * 100;
 
-    //timeline.style.width = perc + "%";
-    timeline.style.transform = `scaleX(${perc / 100})`;
+    timeline.style.width = perc + "%";
+    //timeline.style.transform = `scaleX(${perc / 100})`;
     timespot.style.left = perc + "%";
 
     requestAnimationFrame(updateTimeline);
@@ -274,8 +368,33 @@ function seconds() {
             //window.location.href = "album-2.html";
         }*/
         aud.src = trackPath + theAlbum.id + "/" + theAlbum.tracks[theTrack].id;
-        document.getElementById("title").innerHTML = theAlbum.tracks[theTrack].title;
+        document.getElementById("the-album-title").innerHTML = theAlbum.tracks[theTrack].title;
         aud.play();
+    }
+
+    const isPlaying = !aud.paused && !aud.ended && aud.currentTime > 0;
+    const isPaused = aud.paused;
+
+    if(isPaused){
+        const control = (document.getElementsByClassName("control-item"))[1];
+        control.innerHTML = "<span class='fa-solid fa-play'></span>"
+    }else{
+        const control = (document.getElementsByClassName("control-item"))[1];
+        control.innerHTML = "<span class='fa-solid fa-pause'></span>"
+    }
+
+    if(action !== "player" && isPlaying){
+        inCount += 1;
+        if(inCount > 30){
+            player.classList.add("active");
+            previous = action;
+            action = "player";
+            light = "dim";
+            localStorage.setItem('lights', 'off');
+            api.controlLights({
+                light
+            });
+        }
     }
 }
 
