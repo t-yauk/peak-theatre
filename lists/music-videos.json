@@ -1,0 +1,74 @@
+{
+    "music": [
+        {
+            "name": "All Is Full Of Love",
+            "thumbnail": "https://images.mubicdn.net/images/film/42391/cache-32031-1745490365/image-w1280.jpg",
+            "id": "all-is-love.webm"
+        },
+        {
+            "name": "APT. ",
+            "thumbnail": "https://i.ytimg.com/vi/ekr2nIex040/hq720.jpg",
+            "id": "apt.webm"
+        },
+        {
+            "name": "Dancing in The Street",
+            "thumbnail": "https://i.ytimg.com/vi/Oxt2-FXMX6I/maxresdefault.jpg",
+            "id": "dancing-street.mp4"
+        },
+        {
+            "name": "Don't Let The Sun Go Down On Me",
+            "thumbnail": "https://i.ytimg.com/vi/T_MmY5d1Yo0/maxresdefault.jpg",
+            "id": "dont-let-the-sun.mp4"
+        },
+        {
+            "name": "Everybody (Backstreet's Back)",
+            "thumbnail": "https://i.ytimg.com/vi/6M6samPEMpM/maxresdefault.jpg",
+            "id": "everybody.mp4"
+        },
+        {
+            "name": "Everybody Wants To Rule The World",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjA3MGU4MTQtOGY3NS00MWVmLTgwN2YtZDcwZTUyNWQ0MGZjXkEyXkFqcGc@._V1_.jpg",
+            "id": "everybody-wants-to-rule-the-world.mp4"
+        },
+        {
+            "name": "Head Over Heels",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWFkMzFjMTgtZGNkNC00OWU0LThjMDItYTcxY2RhZGNjMzU3XkEyXkFqcGc@._V1_.jpg",
+            "id": "head-over-heels.mp4"
+        },
+        {
+            "name": "Hotel California",
+            "thumbnail": "https://madlyodd.com/wp-content/uploads/2024/03/030424_Eagles_Hotel_California_Live.webp",
+            "id": "hotel-california.mp4"
+        },
+        {
+            "name": "Larger Than Life",
+            "thumbnail": "https://i.ytimg.com/vi/MEb2CecR11I/maxresdefault.jpg",
+            "id": "larger-than-life.mp4"
+        },
+        {
+            "name": "Opposites Attract",
+            "thumbnail": "https://i.ytimg.com/vi/wJA9qc8a4x4/maxresdefault.jpg",
+            "id": "opposites-attract.mp4"
+        },
+        {
+            "name": "Remember The Time",
+            "thumbnail": "https://i.ytimg.com/vi/LeiFF0gvqcc/maxresdefault.jpg",
+            "id": "remember-the-time.webm"
+        },
+        {
+            "name": "Rocky Mountain Way",
+            "thumbnail": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/music-elements/images.jpeg",
+            "id": "rocky-mountain-way.mp4"
+        },
+        {
+            "name": "Speed Demon",
+            "thumbnail": "https://images.mubicdn.net/images/film/298152/cache-656517-1745498233/image-w1280.jpg",
+            "id": "speed-demon.webm"
+        },
+        {
+            "name": "Virtual Insanity",
+            "thumbnail": "https://cdn.kqed.org/wp-content/uploads/sites/12/2016/09/ScreenShot2016-03-18at2.45.44PM-e1473207043599.png",
+            "id": "virtual-insanity.webm"
+        }
+    ]
+}
