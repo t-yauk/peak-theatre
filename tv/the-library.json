@@ -1,34 +1,44 @@
 {
 	"shows": [
 		{
-			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/bear.json"
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/bear.json",
+			"image": "the-bear.jpg"
 		},
 		{
-			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/monte-cristo.json"
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/monte-cristo.json",
+			"image": "the-count-of-monte-cristo.jpg"
 		},
 		{
-			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/euphoria.json"
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/euphoria.json",
+			"image": "euphoria.jpg"
 		},
 		{
-			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/hitch-hikers.json"
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/hitch-hikers.json",
+			"image": "hitchhikers-guide-to-the-galaxy.jpg"
 		},
 		{
-			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/pluribus.json"
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/pluribus.json",
+			"image": "pluribus.jpg"
 		},
 		{
-			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/severance.json"
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/severance.json",
+			"image": "severance.jpg"
 		},
 		{
-			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/star-trek.json"
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/star-trek.json",
+			"image": "star-trek.jpg"
 		},
 		{
-			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/star-trek-2.json"
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/star-trek-2.json",
+			"image": "star-trek-2.png"
 		},
 		{
-			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/twilight-zone.json"
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/twilight-zone.json",
+			"image": "twilight-zone.png"
 		},
 		{
-			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/west-wing.json"
+			"url": "https://t-yauk.github.io/peak-theatre/tv/shows/west-wing.json",
+			"image": "the-west-wing.jpg"
 		}
 	]
 }
