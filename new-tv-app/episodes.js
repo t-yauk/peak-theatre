@@ -131,7 +131,7 @@ function episodeListner(key){
         if(k < (episodes.length - 1)){
             k = k + 1;
             if(dynamic == true){
-                epX = epX - 27.825;
+                epX = epX - 24.5;
             }else{
                 dynamic = true;
             }
@@ -141,7 +141,7 @@ function episodeListner(key){
         if(k > 0){
             k = k - 1;
             if(k > 0){
-                epX = epX + 27.825;
+                epX = epX + 24.5;
             }
             syncEpisodes();
         }
