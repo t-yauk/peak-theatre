@@ -69,6 +69,10 @@ async function populateHero(){
 
 document.addEventListener('keydown', function(event) {
 
+    if(event.key === 'Backspace' || event.key === 'h'){
+        window.location.href = "home.html";
+    }
+
     if(event.key === 'ArrowRight'){
         if(k < (library.length - 1)){
             k = k + 1;
