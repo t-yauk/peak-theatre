@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: "Poppins",  sans-serif;
+}
+
+body{
+    background: #192329;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    cursor: none;
+}
+
+#episodes{
+    display: flex;
+    justify-content: center;
+}
+
+.hero{
+    position: absolute;
+    display: flex;
+    left: 0;
+    top: 0;
+    align-items: flex-end;
+    width: 100%;
+    height: 70vh;
+    background-size: cover;
+    background-position: center 25%;
+    transform: translateY(0px);
+    transition: 1s;
+}
+
+.hero-wrapper{
+    position: relative;
+    display: block;
+    max-width: 50vw;
+    padding: 50px;
+    z-index: 2;
+}
+
+#logo{
+    display: block;
+    width: 75%;
+    height: 22vh;
+    background-size: contain;
+    background-position: left bottom;
+    background-repeat: no-repeat;
+}
+
+#description{
+    display: block;
+    font-size: 1.5rem;
+    line-height: 1.4;
+    color: white;
+}
+
+.library{
+    position: absolute;
+    left: 0;
+    top: 68vh;
+    width: 20000px;
+    transform: translateX(0vw);
+    transition: 0.5s;
+}
+
+.library-item{
+    position: relative;
+    display: inline-block;
+    width: 18vw;
+    aspect-ratio: 1/1;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-size: cover;
+    background-position: center;
+    transform: scale(1.0);
+    transition: 0.3s;
+    vertical-align: middle;
+}
+
+.library-item .gradient{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    opacity: 0;
+    background-image: linear-gradient(to top, rgba(255,255,255,0.3), rgba(255,255,255,0));
+    transition: 0.3s;
+}
+
+.library-item.active{
+    transform: scale(1.05);
+}
+
+.library-item.active .gradient{
+    opacity: 1;
+}
+
+.blur{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background: black;
+    backdrop-filter: blur(50px);
+    transition: 1.5s;
+}
+
+.episode-wrapper{
+    position: absolute;
+    bottom: 7%;
+    width: 90%;
+    height: 590px;
+    border-radius: 30px;
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(10px);
+    overflow: hidden;
+}
+
+.season-wrapper{
+    position: absolute;
+    top: 31%;
+    width: 90%;
+    height: 75px;
+    border-radius: 30px;
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(10px);
+}
+
+.episode-container{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100000px;
+    height: 100%;
+    transform: translateX(0vw);
+    transition: 0.5s;
+}
+
+.episode{
+    display: inline-block;
+    height: 30.7vw;
+    aspect-ratio: 1/1.15;
+    border-radius: 20px;
+    background: rgba(255,255,255,0.2);
+    backdrop-filter: blur(15px);
+    margin: 20px;
+    margin-right: 0px;
+    vertical-align: top;
+}
+
+.episode.active{
+    background: white;
+}
+
+.episode .thumbnail{
+    width: 100%;
+    aspect-ratio: 16/10;
+    object-fit: cover;
+    border-radius: 20px 20px 0px 0px;
+    opacity: 0.5;
+}
+
+.episode.active .thumbnail{
+    opacity: 1;
+}
+
+.episode .content{
+    display: block;
+    padding: 20px 30px 30px 30px;
+    opacity: 0.5;
+}
+
+.episode.active .content{
+    opacity: 1;
+}
+
+.episode .title{
+    display: block;
+    font-size: 1.7rem;
+    line-height: 1;
+    font-weight: 500;
+    margin-bottom: -5px;
+}
+
+.season-item{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 55px;
+    margin: 10px;
+    margin-right: 0px;
+    padding: 0px 40px;
+    font-size: 1.75rem;
+    line-height: 1;
+    font-weight: 500;
+    text-transform: uppercase;
+    border-radius: 20px;
+    transition: padding 0.5s;
+}
+
+.season-item{
+    background: rgba(255,255,255,0.3);
+}
+
+.season-item.active{
+    background: white;
+}
+
+.season-item.selected{
+    background-image: linear-gradient(to top, rgb(27, 72, 162), rgb(44,112,244));
+    color: white;
+    padding: 0px 75px;
+}
