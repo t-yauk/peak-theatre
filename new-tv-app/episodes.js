@@ -208,7 +208,7 @@ function seasonListener(key){
 document.addEventListener('keydown', function(event) {
 
     if(event.key === 'Backspace'){
-        window.location.href = "index.html";
+        window.location.href = "tv.html";
     }
 
     if(action == "episodes"){
