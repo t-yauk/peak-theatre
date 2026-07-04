@@ -181,14 +181,14 @@ body{
 
 .episode .title{
     display: block;
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     line-height: 1;
     font-weight: 500;
     margin-bottom: -5px;
 }
 
 .episode p{
-    font-size: 1.25rem;
+    font-size: 1.15rem;
     line-height: 1.4;
 }
 
