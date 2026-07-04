@@ -58,7 +58,7 @@ body{
 .library{
     position: absolute;
     left: 0;
-    top: 68vh;
+    top: 66vh;
     width: 20000px;
     transform: translateX(0vw);
     transition: 0.5s;
