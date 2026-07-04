@@ -131,7 +131,7 @@ function episodeListner(key){
         if(k < (episodes.length - 1)){
             k = k + 1;
             if(dynamic == true){
-                epX = epX - 25;
+                epX = epX - 25.5;
             }else{
                 dynamic = true;
             }
@@ -141,7 +141,7 @@ function episodeListner(key){
         if(k > 0){
             k = k - 1;
             if(k > 0){
-                epX = epX + 25;
+                epX = epX + 25.5;
             }
             syncEpisodes();
         }
@@ -193,7 +193,7 @@ function seasonListener(key){
             }
         }
         k = firstEp;
-        epX = 0 - (25 * k);
+        epX = 0 - (25.5 * k);
         action = "episodes";
         for(let i=0;i<items.length;i++){
             items[i].classList.remove("selected");
@@ -209,6 +209,8 @@ document.addEventListener('keydown', function(event) {
 
     if(event.key === 'Backspace'){
         window.location.href = "tv.html";
+    }else if(event.key === 'h'){
+        window.location.href = "home.html";
     }
 
     if(action == "episodes"){
