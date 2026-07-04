@@ -24,7 +24,7 @@ document.addEventListener('keydown', function(event) {
         api.controlLights({
             light
         });
-        window.location.href = "index.html";
+        window.location.href = "music.html";
     }
 
 });
