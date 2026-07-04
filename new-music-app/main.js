@@ -413,12 +413,16 @@ document.addEventListener('keydown', function(event) {
     }
 
     if(action == "sidebar"){
+        inCount = 0;
         sidebarListener(event.key);
     }else if(action == "library"){
+        inCount = 0;
         libraryListener(event.key);
     }else if(action == "album"){
+        inCount = 0;
         albumListener(event.key);
     }else if(action == "player"){
+        inCount = 0;
         playerListener(event.key);
     }
 
