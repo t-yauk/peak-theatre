@@ -114,7 +114,7 @@ body{
     position: absolute;
     bottom: 7%;
     width: 90%;
-    height: 590px;
+    height: calc(28vw + 40px);
     border-radius: 30px;
     background: rgba(255,255,255,0.1);
     backdrop-filter: blur(10px);
