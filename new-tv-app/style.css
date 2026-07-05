@@ -87,7 +87,7 @@ body{
     height: 100%;
     border-radius: 20px;
     opacity: 0;
-    background-image: linear-gradient(to top, rgba(255,255,255,0.3), rgba(255,255,255,0));
+    background-image: linear-gradient(to top, rgba(255,255,255,0.6), rgba(255,255,255,0));
     transition: 0.3s;
 }
 
