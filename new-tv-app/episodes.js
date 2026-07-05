@@ -13,6 +13,7 @@ let curS;
 let limited;
 let light;
 
+
 window.onload = function() {
 
     light = "movies-on";
