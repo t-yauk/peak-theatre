@@ -372,6 +372,7 @@ function playerListener(key) {
                         items[i].classList.remove("active");
                     }
                     controls = false;
+                    c = 1;
                 }
             }else if(c == 1){
                 if(aud.paused){
@@ -388,6 +389,7 @@ function playerListener(key) {
                     items[i].classList.remove("active");
                 }
                 controls = false;
+                c = 1;
             }
         }
     }else{
