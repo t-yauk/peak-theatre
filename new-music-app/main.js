@@ -485,6 +485,8 @@ function seconds() {
                 light
             });
         }
+    }else{
+        inCount = 0;
     }
 }
 
