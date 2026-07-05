@@ -7,6 +7,7 @@ const container = (document.getElementsByClassName("library"))[0];
 const hero = (document.getElementsByClassName("hero"))[0];
 let k = 0;
 let x = 0;
+let light;
 
 window.onload = function() {
 
