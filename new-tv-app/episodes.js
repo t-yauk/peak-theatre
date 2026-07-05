@@ -148,7 +148,7 @@ function episodeListner(key){
         if(k > 0){
             k = k - 1;
             if(k > 0){
-                epX = epX + 25.25;
+                epX = epX + 25.250;
             }
             syncEpisodes();
         }
