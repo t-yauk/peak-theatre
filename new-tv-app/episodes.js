@@ -11,8 +11,15 @@ let dynamic = false;
 const seasons = [];
 let curS;
 let limited;
+let light;
 
 window.onload = function() {
+
+    light = "movies-on";
+    localStorage.setItem('lights', 'on');
+    api.controlLights({
+        light
+    });
 
     getJSON();
 
@@ -157,6 +164,11 @@ function episodeListner(key){
             syncSeasons();
         }
     }else if(key === 'Enter'){
+        light = "off";
+        localStorage.setItem('lights', 'off');
+        api.controlLights({
+            light
+        });
         sendEpisode();
     }
 
