@@ -336,6 +336,7 @@ function playerListener(key) {
     if(key === 'Backspace'){
         action = previous;
         player.classList.remove("active");
+        inCount = 0;
         light = "fifty";
         localStorage.setItem('lights', 'on');
         api.controlLights({
