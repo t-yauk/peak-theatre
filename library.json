@@ -1539,6 +1539,22 @@
             "endTime": "7"
         },
         {
+            "title": "The Grapes of Wrath",
+            "director": "John Ford",
+            "year": "1940",
+            "duration": "2h 9m",
+            "image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/349/2025/10/27091223/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+            "previewImage": "https://images.squarespace-cdn.com/content/v1/5f31bc474aca4d274cb00b59/1601513831649-YQ3HKAFI00LG67XDOZIW/The+Grapes+of+Wrath+-+Tom+and+Ma+in+the+truck.jpg",
+            "description": "An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Drama"
+            ],
+            "id": "grapes-of-wrath.mp4",
+            "endTime": "44"
+        },
+        {
             "title": "Grease",
             "director": "Randal Kleiser",
             "year": "1978",
