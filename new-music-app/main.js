@@ -36,6 +36,12 @@ window.onload = function() {
 
     populate();
 
+    light = "fifty";
+    localStorage.setItem('lights', 'on');
+    api.controlLights({
+        light
+    });
+
 }
 
 function populate() {
