@@ -642,11 +642,41 @@
             ],
             "id": "blue-moon.mkv",
             "trailer_id": "blue-moon.mp4",
-            "endTime": "186",
-            "oscars": [
-                "actor",
-                "original"
-            ]
+            "endTime": "186"
+        },
+        {
+            "title": "The Boys in the Band",
+            "director": "William Friedkin",
+            "year": "1970",
+            "duration": "2h",
+            "image_url": "https://image.tmdb.org/t/p/original/zgPdZZkM2EVOFlw3e7qEmZv6Po8.jpg",
+            "previewImage": "https://cinemafaith.com/wp-content/uploads/2018/07/boys-final.jpg",
+            "description": "Tempers fray and true selves are revealed when a heterosexual accidentally intrudes on a homosexual party.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Drama",
+                "LGBTQ"
+            ],
+            "id": "boys-in-the-band-1.mp4",
+            "endTime": "93"
+        },
+        {
+            "title": "The Boys in the Band",
+            "director": "Joe Mantello",
+            "year": "2020",
+            "duration": "2h 1m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BODFkOTU5ZDEtY2I1My00NWQyLWJmYTItZjgxZjAxZTU3MjM1XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://occ-0-8407-116.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYHFYAAaDS9Wvmv3-nwt4iUoKn8sRTUnB1qF1ovabjZFjLSXB6UoX7kUtBMl8joLED49H5_saoxj1lyLhpSPXsj743oOwbTI4YLD.jpg",
+            "description": "At a birthday party in 1968 New York, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Drama",
+                "LGBTQ"
+            ],
+            "id": "boys-in-the-band-2.mp4",
+            "endTime": "350"
         },
         {
             "title": "Brazil",
@@ -850,6 +880,40 @@
             "id": "charade.mp4",
             "trailer_id": "charade.webm",
             "endTime": "10"
+        },
+        {
+            "title": "Che: Part One",
+            "director": "Steven Soderbergh",
+            "year": "2008",
+            "duration": "2h 14m",
+            "image_url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24125107/ndxoK8RZF1nfHvZzQ3f2sNlkkzg.jpg",
+            "previewImage": "https://m.media-amazon.com/images/S/pv-target-images/583336b31ba5835f07bb82ecc6e1d3398956fa6122acb6d0eaa5d92fad6b1ad3.jpg",
+            "description": "In 1956, Ernesto 'Che' Guevara and a band of Castro-led Cuban exiles mobilize an army to topple the regime of dictator Fulgencio Batista.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "War"
+            ],
+            "id": "che-1.mkv",
+            "subtitle_id": "che-1.vtt",
+            "endTime": "443"
+        },
+        {
+            "title": "Che: Part Two",
+            "director": "Steven Soderbergh",
+            "year": "2008",
+            "duration": "2h 15m",
+            "image_url": "https://images.squarespace-cdn.com/content/v1/5a7dcf69d7bdce185884a6b5/1575301900975-RR4ZRNI6VLJ2NZCEHMQW/j8RuX6n7qZUapE8g9HcgkA99LSZ.jpg",
+            "previewImage": "https://d32qys9a6wm9no.cloudfront.net/images/movies/backdrop/b0/619a2f108b7ec6c864a7cd0b06135780_1920x1080.jpg?t=1636156573",
+            "description": "In 1967, Ernesto 'Che' Guevara leads a small partisan army to fight an ill-fated revolutionary guerrilla war in Bolivia, South America.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "War"
+            ],
+            "id": "che-2.mkv",
+            "subtitle_id": "che-2.vtt",
+            "endTime": "482"
         },
         {
             "title": "Cinderella",
