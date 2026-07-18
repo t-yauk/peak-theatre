@@ -478,13 +478,17 @@ function profileListener(key){
         p = 0;
         pw.classList.remove("active");
     }else if(key === 'Enter'){
+        let yearVar;
         if(p == 0){
             if(profType == "features"){
                 title = featured[fK].title;
+                yearVar = featured[fK].year;
             }else if(profType == "library"){
                 title = catalog[k].title;
+                yearVar = catalog[k].year;
             }
             localStorage.setItem('the_title', title);
+            localStorage.setItem('the_year', yearVar);
             light = "off";
             light;
             localStorage.setItem('lights', 'off');
