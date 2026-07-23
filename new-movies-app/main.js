@@ -178,9 +178,9 @@ function populateProfile() {
 function populateVideo() {
 
     if(profType == "features"){
-        v.src = "D:\\peaktheatre\\movies\\trailers\\" + featured[fK].trailer_id;
+        v.src = "C:\\Users\\peaktheatre\\Videos\\trailers\\" + featured[fK].trailer_id;
     }else{
-        v.src = "D:\\peaktheatre\\movies\\trailers\\" + catalog[k].trailer_id;
+        v.src = "C:\\Users\\peaktheatre\\Videos\\trailers\\" + catalog[k].trailer_id;
     }
 
     pw.classList.remove("active");
