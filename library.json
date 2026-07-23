@@ -810,6 +810,23 @@
             "endTime": "71"
         },
         {
+            "title": "Carrie",
+            "director": "Brian De Palma",
+            "year": "1976",
+            "duration": "1h 38m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYmJiNjBhNDItNGFkYy00MGVlLThiZmUtMzBmYWZmMTM3MzAyXkEyXkFqcGc@._V1_.jpg",
+            "description": "Carrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "id": "carrie.mkv",
+            "endTime": "80"
+        },
+        {
             "title": "Casablanca",
             "director": "Michael Curtiz",
             "year": "1942",
@@ -1073,6 +1090,40 @@
             "id": "deliverance.mp4",
             "trailer_id": "deliverance.webm",
             "endTime": "41"
+        },
+        {
+            "title": "The Devil Wears Prada",
+            "director": "David Frankel",
+            "year": "2006",
+            "duration": "1h 49m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOWM3NTI3YWEtYjJmMy00M2U5LWI1NzEtZWM3ZDY2ZWNjOGRiXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://lovelace-media.imgix.net/uploads/859/cc532e50-153f-0134-e772-0a315da82319.jpg",
+            "description": "Andy, a smart but sensible young journalist, starts working as an assistant to the cynical high fashion magazine editor Miranda Priestly.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Fashion"
+            ],
+            "id": "devil-wears-prada.mkv",
+            "endTime": "241"
+        },
+        {
+            "title": "The Devil Wears Prada 2",
+            "director": "David Frankel",
+            "year": "2026",
+            "duration": "1h 59m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOGNkZjUyYjQtYTY3Yy00YTI2LWI0NDUtY2E2ODU1MmEwZjA1XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMWI1NjcxZjctOGRkZi00N2E3LTg1YjYtZjJkZGI5NDUwMGI1XkEyXkFqcGc@._V1_.jpg",
+            "description": "Andy Sachs reunites with Miranda Priestly as they navigate their careers amid the decline of traditional magazine publishing.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Fashion"
+            ],
+            "id": "devil-wears-prada-2.mkv",
+            "endTime": "433"
         },
         {
             "title": "Die My Love",
@@ -2536,6 +2587,24 @@
             "endTime": "32"
         },
         {
+            "title": "The Mandalorian and Grogu",
+            "subtitle": "Star Wars",
+            "director": "Jon Favreau",
+            "year": "2026",
+            "duration": "2h 12m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZDA3MzY5ZGMtODlmOS00ZjJlLWJkZTMtMWI2ODcwNmZiMjJkXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYjgxNzQ5NGEtNmI1NS00MjBhLWEwMmUtMDIwZmIyMTIyNDYwXkEyXkFqcGc@._V1_.jpg",
+            "description": "Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Fantasy"
+            ],
+            "id": "mandalorian.mkv",
+            "endTime": "393"
+        },
+        {
             "title": "Marty Supreme",
             "director": "Josh Safdie",
             "year": "2025",
@@ -2740,6 +2809,23 @@
             ],
             "id": "metropolis.mkv",
             "endTime": "130"
+        },
+        {
+            "title": "Midsommar",
+            "director": "Ari Aster",
+            "year": "2019",
+            "duration": "2h 50m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNzNjOGM2NGUtNzgyOS00NDUyLTk3YWItYTRhYTE0ZTM5Y2QyXkEyXkFqcGc@._V1_.jpg",
+            "description": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "id": "midsommar.mkv",
+            "endTime": "263"
         },
         {
             "title": "Michael",
@@ -3915,6 +4001,23 @@
             "id": "seventh-seal.mkv",
             "subtitle_id": "seventh-seal.vtt",
             "endTime": "9999"
+        },
+        {
+            "title": "The Sheep Detectives",
+            "director": "Kyle Balda",
+            "year": "2026",
+            "duration": "1h 49m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNTFmZWI4YmMtNmQ0ZC00ZGQwLTk1OWEtZjAyZmIzOGY0MGFiXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BM2YzNDNiMzgtOWZiNC00ODAzLWFkNDktMzY1N2JhOGQzYjBlXkEyXkFqcGc@._V1_.jpg",
+            "description": "Every night a shepherd reads aloud a murder mystery, pretending his sheep can understand. When he is found dead, the sheep realize at once that it was a murder and think they know everything about how to go about solving it.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Mystery"
+            ],
+            "id": "the-sheep-detectives.mkv",
+            "endTime": "772"
         },
         {
             "title": "The Silence of the Lambs",
