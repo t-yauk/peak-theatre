@@ -985,6 +985,23 @@
             "endTime": "58"
         },
         {
+            "title": "City Lights",
+            "director": "Charles Chaplin",
+            "year": "1931",
+            "duration": "1h 27m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/c4/bd/21/c4bd2187-2635-ed66-1fbe-cb8c3288afae/pr_source.png/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/S/pv-target-images/917de04cc87f9d1805f218afa8940ce40246f70c8465f6c79a3b2cb2463faa6f.jpg",
+            "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a blind flower girl accumulates money to be able to help her medically.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "id": "city-lights.mp4",
+            "endTime": "67"
+        },
+        {
             "title": "Original Cast Album: Company",
             "director": "D. A. Pennebaker",
             "year": "1970",
@@ -1626,6 +1643,23 @@
             "endTime": "241"
         },
         {
+            "title": "The Gold Rush",
+            "director": "Charles Chaplin",
+            "year": "1925",
+            "duration": "1h 35m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/c6/45/b9/c645b932-fa7e-6dbe-d295-625d54053a2c/mza_5118131826589984329.jpg/1400x2100CA.TVA23C01.jpg",
+            "previewImage": "https://silentfilm.org/wp-content/uploads/2020/01/Gold-Rush.4_Lib.jpg",
+            "description": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Comedy"
+            ],
+            "id": "gold-rush.mp4",
+            "endTime": "13"
+        },
+        {
             "title": "GoodFellas",
             "director": "Martin Scorsese",
             "year": "1990",
@@ -1691,6 +1725,23 @@
             ],
             "id": "grapes-of-wrath.mp4",
             "endTime": "44"
+        },
+        {
+            "title": "The Great Dictator",
+            "director": "Charles Chaplin",
+            "year": "1940",
+            "duration": "2h 5m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/1e/97/99/mzi.nhqbsfoq.jpg/1600x2400CA.TVA23C01.jpg",
+            "previewImage": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2016/12/the-great-dictator_1280x720.jpg",
+            "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "War"
+            ],
+            "id": "the-great-dictator.mp4",
+            "endTime": "10"
         },
         {
             "title": "Grease",
@@ -2225,6 +2276,23 @@
             "id": "jules-jim.mp4",
             "subtitle_id": "jules-jim.vtt",
             "endTime": "11"
+        },
+        {
+            "title": "The Kid",
+            "director": "Charles Chaplin",
+            "year": "1921",
+            "duration": "1h 8m",
+            "image_url": "https://s3.amazonaws.com/criterion-production/films/d79522ba6149f7c670b6f69a58f78d36/FWOWQZvfsMCAgUYwCQ6K5lBQrLR3XH_large.jpg",
+            "previewImage": "https://assets.mubicdn.net/images/film/1442/image-w1280.jpg?1745489528",
+            "description": "The Tramp cares for an abandoned child, but events put their relationship in jeopardy.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Family"
+            ],
+            "id": "the-kid.mp4",
+            "endTime": "9"
         },
         {
             "title": "Kill Bill: Vol. 1",
@@ -2978,6 +3046,23 @@
             ],
             "id": "modern-romance.mp4",
             "endTime": "133"
+        },
+        {
+            "title": "Modern Times",
+            "director": "Charles Chaplin",
+            "year": "1936",
+            "duration": "1h 27m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/9e/35/33/mzi.dgscgmqr.jpg/1600x2400CA.TVA23C01.jpg",
+            "previewImage": "https://celebratestorytelling.com/wp-content/uploads/2021/07/moderntimes-chaplin.jpg",
+            "description": "Albert Brooks directs himself as a successful film editor with far too many issues that affects the relationship between him and his remarkably patient girlfriend.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Family"
+            ],
+            "id": "modern-times.mp4",
+            "endTime": "21"
         },
         {
             "title": "Monty Python and the Holy Grail",
