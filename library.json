@@ -1144,6 +1144,23 @@
             "endTime": "362"
         },
         {
+            "title": "Disclosure Day",
+            "director": "Steven Spielberg",
+            "year": "2026",
+            "duration": "2h 25m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZjlkMTg3YjMtM2U1OC00MGM4LTg2MGEtNWQ1MGRjMzE0ZjZmXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://images.hdqwalls.com/wallpapers/disclosure-day-2026-vj.jpg",
+            "description": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Fantasy"
+            ],
+            "id": "disclosure-day.mkv",
+            "endTime": "521"
+        },
+        {
             "title": "Django Unchained",
             "director": "Quentin Tarantino",
             "year": "2012",
