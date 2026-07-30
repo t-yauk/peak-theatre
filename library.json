@@ -4804,6 +4804,23 @@
             "endTime": "348"
         },
         {
+            "title": "Troy",
+            "director": "Wolfgang Petersen",
+            "year": "2004",
+            "duration": "3h 16m",
+            "image_url": "https://image.tmdb.org/t/p/original/51auXjXepW1zblzhaN7CAhwvf5i.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMzQ1MDU4MTA4NF5BMl5BanBnXkFtZTcwNzg5MTQyMw@@._V1_FMjpg_UX2048_.jpg",
+            "description": "An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "War"
+            ],
+            "id": "troy.mkv",
+            "endTime": "649"
+        },
+        {
             "title": "True Romance",
             "director": "Tony Scott",
             "year": "1993",
