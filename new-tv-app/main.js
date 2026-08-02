@@ -1,17 +1,15 @@
 import jsonConfig from 'https://t-yauk.github.io/peak-theatre/tv/the-library.json' with {type: "json"};
-const library = jsonConfig.shows;
-const pathway = "D:/peaktheatre/elements/tv/thumbnails/";
-const heroPath = "D:/peaktheatre/elements/tv/artwork/";
-const logoPath = "D:/peaktheatre/elements/tv/logos/";
-const container = (document.getElementsByClassName("library"))[0];
-const hero = (document.getElementsByClassName("hero"))[0];
+const container = document.getElementById("library");
+const wrapper = (document.getElementsByClassName("library-wrapper"))[0];
+const b = (document.getElementsByClassName("blur"))[0];
+const data = jsonConfig.shows;
+let library = [];
 let k = 0;
-let x = 0;
+let xOffset = 20.8;
+let disabled = true;
 let light;
 
 window.onload = function() {
-
-    populate();
 
     light = "movies-on";
     localStorage.setItem('lights', 'on');
@@ -19,97 +17,135 @@ window.onload = function() {
         light
     });
 
+    populateLibrary();
+
+    setTimeout(function() {
+
+        b.classList.remove("active");
+
+        const items = document.getElementsByClassName("library-item-position");
+        wrapper.style.backgroundImage = `url("D:/peaktheatre/elements/tv/artwork/${library[k].image_url}")`;
+
+        const iD = items.length * 1250;
+
+        for(let i=0;i<items.length;i++){
+            const delay = (i * 250);
+            setTimeout(function() {
+                items[i].style.transform = "translateY(0px)";
+            }, delay);
+        }
+
+    }, 500);
+
 }
 
-function populate(){
+async function populateLibrary() {
+
+    for(let i=0;i<data.length;i++){
+        const requestURL = data[i].url;
+        const request = new Request(requestURL);
+
+        const response = await fetch(request);
+        const rawJSON = await response.json();
+
+        library.push(rawJSON);
+    }
+
+    populate();
+
+}
+
+async function populate() {
 
     for(let i=0;i<library.length;i++){
-        const item = document.createElement('div');
-        item.classList.add("library-item");
-        item.style.backgroundImage = "url('" + pathway + library[i].image + "')";
-        item.innerHTML = "<div class='gradient'></div>";
-        container.appendChild(item);
+        const newItem = document.createElement('div');
+        newItem.classList.add("library-item");
+        newItem.classList.add("library-item-position");
+        newItem.innerHTML = `<img src="D:/peaktheatre/elements/tv/thumbnails/${data[i].image}"><div class="gradient-overlay"></div>`
+        container.appendChild(newItem);
     }
 
     setTimeout(function() {
-        syncLibrary();
-    }, 1000);
+        disabled = false;
+        activeItem();
+    }, 3000);
 
 }
 
-async function syncLibrary(){
+function activeItem() {
 
     const items = document.getElementsByClassName("library-item");
 
+    wrapper.style.backgroundImage = `url("D:/peaktheatre/elements/tv/artwork/${library[k].image_url}")`;
+
+    const x = ((xOffset * (k - 1) + (k * 1))) * -1;
+    
+    if(k == (library.length - 3)){
+        container.style.transform = `translateX(${x+7.8}vw)`;
+    }else if((k < (library.length - 2))){
+        if((k > 1)){
+            container.style.transform = `translateX(${x}vw)`;
+        }else{
+            container.style.transform = `translateX(0vw)`;
+        }
+    }
+
     for(let i=0;i<items.length;i++){
         if(i == k){
-            items[i].classList.add("active");
+            if(i == 0){
+                items[i].classList.add("origin-active");
+            }else{
+                items[i].classList.add("active");
+            }
         }else{
+            items[i].classList.remove("origin-active");
             items[i].classList.remove("active");
         }
     }
 
-    container.style.transform = "translateX(" + x + "vw)";
-
-    populateHero();
-
 }
 
-async function populateHero(){
 
-    const requestURL = library[k].url;
-  	const request = new Request(requestURL);
 
-  	const response = await fetch(request);
-  	const rawJSON = await response.json();
-    const image = rawJSON.image_url;
-    const logo = rawJSON.logo;
-    const desc = rawJSON.description;
-    
-    hero.style.backgroundImage = "url('" + heroPath + image + "')";
-    document.getElementById("logo").style.backgroundImage = "url('" + logoPath + logo + "')";
-    document.getElementById("description").innerHTML = desc;
 
-}
+
+
+
 
 
 
 document.addEventListener('keydown', function(event) {
 
-    if(event.key === 'Backspace' || event.key === 'h'){
-        window.location.href = "home.html";
-    }
-
-    if(event.key === 'ArrowRight'){
-        if(k < (library.length - 1)){
-            k = k + 1;
-            if(k > 1){
-                x = x - 20.25;
+    if(disabled == false){
+        if(event.key === 'ArrowRight'){
+            if(k < (data.length - 1)){
+                k = k + 1;
+                activeItem();
             }
-            syncLibrary();
-        }
-    }else if(event.key === 'ArrowLeft'){
-        if(k > 0){
-            k = k - 1;
+        }else if(event.key === 'ArrowLeft'){
             if(k > 0){
-                x = x + 20.25;
+                k = k - 1;
+                activeItem();
             }
-            syncLibrary();
+        }else if(event.key === 'h'){
+            window.location.href = "home.html";
+        }else if(event.key === 'Enter'){
+            localStorage.setItem('showID', k);
+            localStorage.setItem('the_episode', '0');
+            b.classList.add("active");
+            const items = document.getElementsByClassName("library-item-position");
+
+            for(let i=0;i<items.length;i++){
+                const delay = (i * 100);
+                setTimeout(function() {
+                    items[i].style.transform = "translateY(800px)";
+                }, delay);
+            }
+
+            setTimeout(function() {
+                window.location.href = "episodes.html";
+            }, 3000);
         }
-    }else if(event.key === 'Enter'){
-        container.style.transition = "2s";
-        hero.style.transition = "2s";
-        container.style.top = "102vh";
-        hero.style.transform = "translateY(-70vh)";
-        document.body.style.transition = "3s";
-        document.body.style.background = "black";
-
-        localStorage.setItem('series_url', library[k].url);
-        localStorage.setItem('show_id', k);
-
-        setTimeout(function() {
-            window.location.href = "episodes.html";
-        }, 3500);
     }
 
-});
+})
