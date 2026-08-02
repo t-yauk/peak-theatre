@@ -62,10 +62,6 @@ body {
     transition: 0.7s;
 }
 
-.library-item-position{
-    transform: translateY(41.6vw);
-}
-
 .library-item:first-child{
     margin-left: 3.125vw;
 }
