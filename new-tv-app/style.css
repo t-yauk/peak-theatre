@@ -92,6 +92,7 @@ body {
 
 .library-item.origin-active{
     transform: scale(1.1);
+    margin-right: 2.6vw;
     margin-left: 3.125vw;
 }
 
@@ -196,7 +197,7 @@ body {
     width: 20.8vw;
     height: 20.8vw;
     margin-right: 1vw;
-    opacity: 0.05;
+    opacity: 0.25;
     vertical-align: top;
     transition: 0.5s;
 }
@@ -207,7 +208,7 @@ body {
 }
 
 .episode-item.a1{
-    opacity: 0.25;
+    opacity: 0.4;
     transition: 0.5s;
 
 }
