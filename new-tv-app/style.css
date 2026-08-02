@@ -48,7 +48,7 @@ body {
     bottom: 5%;
     width: 420vw;
     transform: translateX(0px);
-    transition: 1s;
+    transition: 0s;
 }
 
 .library-item{
