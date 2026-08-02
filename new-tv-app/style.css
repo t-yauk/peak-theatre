@@ -89,11 +89,13 @@ body {
 }
 
 .library-item.active{
-    width: 22.88vw;
+    transform: scale(1.1);
+    margin-right: 2.6vw;
+    margin-left: 1.56vw;
 }
 
 .library-item.origin-active{
-    width: 22.88vw;
+    transform: scale(1.1);
     margin-left: 3.125vw;
 }
 
