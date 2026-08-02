@@ -4,7 +4,7 @@ const wrapper = (document.getElementsByClassName("library-wrapper"))[0];
 const b = (document.getElementsByClassName("blur"))[0];
 const data = jsonConfig.shows;
 let library = [];
-let k = 0;
+let k = Number(localStorage.getItem('showID'));
 let xOffset = 20.8;
 let disabled = false;
 let light;
@@ -23,6 +23,7 @@ window.onload = function() {
 
         b.classList.remove("active");
         wrapper.style.backgroundImage = `url("D:/peaktheatre/elements/tv/artwork/${library[k].image_url}")`;
+        container.style.transition = "1s";
 
     }, 500);
 
@@ -52,6 +53,18 @@ async function populate() {
         newItem.classList.add("library-item-position");
         newItem.innerHTML = `<img src="D:/peaktheatre/elements/tv/thumbnails/${data[i].image}"><div class="gradient-overlay"></div>`
         container.appendChild(newItem);
+    }
+
+    const x = ((xOffset * (k - 1) + (k * 1))) * -1;
+    
+    if(k == (library.length - 3)){
+        container.style.transform = `translateX(${x+7.8}vw)`;
+    }else if((k < (library.length - 2))){
+        if((k > 1)){
+            container.style.transform = `translateX(${x}vw)`;
+        }else{
+            container.style.transform = `translateX(0vw)`;
+        }
     }
 
     setTimeout(function() {
