@@ -22,18 +22,7 @@ window.onload = function() {
     setTimeout(function() {
 
         b.classList.remove("active");
-
-        const items = document.getElementsByClassName("library-item-position");
         wrapper.style.backgroundImage = `url("D:/peaktheatre/elements/tv/artwork/${library[k].image_url}")`;
-
-        const iD = items.length * 1250;
-
-        for(let i=0;i<items.length;i++){
-            const delay = (i * 250);
-            setTimeout(function() {
-                items[i].style.transform = "translateY(0px)";
-            }, delay);
-        }
 
     }, 500);
 
@@ -133,14 +122,6 @@ document.addEventListener('keydown', function(event) {
             localStorage.setItem('showID', k);
             localStorage.setItem('the_episode', '0');
             b.classList.add("active");
-            const items = document.getElementsByClassName("library-item-position");
-
-            for(let i=0;i<items.length;i++){
-                const delay = (i * 100);
-                setTimeout(function() {
-                    items[i].style.transform = "translateY(800px)";
-                }, delay);
-            }
 
             setTimeout(function() {
                 window.location.href = "episodes.html";
