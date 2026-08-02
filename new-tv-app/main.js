@@ -6,7 +6,7 @@ const data = jsonConfig.shows;
 let library = [];
 let k = 0;
 let xOffset = 20.8;
-let disabled = true;
+let disabled = false;
 let light;
 
 window.onload = function() {
@@ -55,9 +55,8 @@ async function populate() {
     }
 
     setTimeout(function() {
-        disabled = false;
         activeItem();
-    }, 3000);
+    }, 500);
 
 }
 
@@ -121,11 +120,7 @@ document.addEventListener('keydown', function(event) {
         }else if(event.key === 'Enter'){
             localStorage.setItem('showID', k);
             localStorage.setItem('the_episode', '0');
-            b.classList.add("active");
-
-            setTimeout(function() {
-                window.location.href = "episodes.html";
-            }, 3000);
+            window.location.href = "episodes.html";
         }
     }
 
