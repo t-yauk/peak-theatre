@@ -235,7 +235,7 @@ function seasonListener(key) {
 
 
 function sendEpisode() {
-    localStorage.setItem('the_episode', k);
+    localStorage.setItem('the_episode', e);
     window.location.href = "watch-tv.html";
 }
 
