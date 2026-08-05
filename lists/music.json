@@ -1306,6 +1306,92 @@
             ]
         },
         {
+            "title": "The Outsiders - A New Musical",
+            "id": "outsiders",
+            "artist": "Various Artists",
+            "year": "2024",
+            "genre": "Musical",
+            "artwork": "196874259337.jpg",
+            "tracks": [
+                {
+                    "id": "1.mp3",
+                    "title": "Tulsa '67"
+                },
+                {
+                    "id": "2.mp3",
+                    "title": "Grease Got a Hold"
+                },
+                {
+                    "id": "3.mp3",
+                    "title": "Runs in the Family"
+                },
+                {
+                    "id": "4.mp3",
+                    "title": "Great Expectations"
+                },
+                {
+                    "id": "5.mp3",
+                    "title": "Friday at the Drive-In"
+                },
+                {
+                    "id": "6.mp3",
+                    "title": "I Could Talk to You All Night"
+                },
+                {
+                    "id": "7.mp3",
+                    "title": "Runs in the Family (Reprise)"
+                },
+                {
+                    "id": "8.mp3",
+                    "title": "Far Away From Tulsa"
+                },
+                {
+                    "id": "9.mp3",
+                    "title": "Run Run Brother"
+                },
+                {
+                    "id": "10.mp3",
+                    "title": "Justice for Tulsa"
+                },
+                {
+                    "id": "11.mp3",
+                    "title": "Death's at My Door"
+                },
+                {
+                    "id": "12.mp3",
+                    "title": "Throwing in the Towel"
+                },
+                {
+                    "id": "13.mp3",
+                    "title": "Soda's Letter"
+                },
+                {
+                    "id": "14.mp3",
+                    "title": "Hoods Turned Heroes"
+                },
+                {
+                    "id": "15.mp3",
+                    "title": "Hopeless War"
+                },
+                {
+                    "id": "16.mp3",
+                    "title": "Trouble"
+                },
+                {
+                    "id": "17.mp3",
+                    "title": "Little Brother"
+                },
+                {
+                    "id": "18.mp3",
+                    "title": "Stay Gold"
+                },
+                {
+                    "id": "19.mp3",
+                    "title": "Finale (Tulsa '67)"
+                }
+            ]
+        },
+        {
             "title": "Purple Rain",
             "id": "purple-rain",
             "artist": "Prince",
