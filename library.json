@@ -37,6 +37,23 @@
             "endTime": "45"
         },
         {
+            "title": "49th Parallel",
+            "director": "Michael Powell",
+            "year": "1941",
+            "duration": "2h 3m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video1/v4/0f/93/1b/0f931b6f-f01e-39dc-b36f-2c41a88490de/49TH_PARALLEL.jpg/1600x2400CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNTY0YmRiNDUtNjJhNy00ODdlLTlhNGMtNzEwOWYwMDk3YjkyXkEyXkFqcGc@._V1_FMjpg_UX1920_.jpg",
+            "description": "Early in WW2 the crew of a destroyed submarine become stranded in Canada and must make their way south to the United States, at that time still neutral.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "War",
+                "Thriller"
+            ],
+            "id": "49th-parallel.mp4",
+            "endTime": "57"
+        },
+        {
             "title": "The Adventures Of Ichabod And Mr. Toad",
             "director": "James Algar, Clyde Geronimi, Jack Kinney",
             "year": "1949",
@@ -810,6 +827,23 @@
             "endTime": "71"
         },
         {
+            "title": "A Canterbury Tale",
+            "director": "Michael Powell, Emeric Pressburger",
+            "year": "1944",
+            "duration": "2h 4m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/48/2b/14/482b140a-6e97-d916-aee9-c31e05ffd9cf/CANTERBURY_TALE.jpg/1400x2100CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYzgxYzU5ZjMtZDlmYi00OGM0LWE5ZWQtOTM2ZWM1NWU0ZjgwXkEyXkFqcGc@._V1_.jpg",
+            "description": "Three World War Two era pilgrims investigate a bizarre crime in a small UK town while on their way to Canterbury.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "War",
+                "Mystery"
+            ],
+            "id": "canterbury-tale.mp4",
+            "endTime": "88"
+        },
+        {
             "title": "Carrie",
             "director": "Brian De Palma",
             "year": "1976",
@@ -1211,6 +1245,23 @@
             ],
             "id": "do-the-right-thing.mkv",
             "endTime": "355"
+        },
+        {
+            "title": "Dogfight",
+            "director": "Nancy Savoca",
+            "year": "1991",
+            "duration": "1h 34m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/33/3a/f3/mzi.gfajglpi.jpg/800x1200CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZjk3NzIyMTItOTU4Ny00MjcwLThmMTQtYzIzNzY4YjhjMjlmXkEyXkFqcGc@._V1_.jpg",
+            "description": "Before leaving to fight in Vietnam, a group of teenagers play a game where they try to seduce the ugliest girl they can find.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Romance",
+                "Comedy"
+            ],
+            "id": "dogfight.mp4",
+            "endTime": "164"
         },
         {
             "title": "Bram Stoker's Dracula",
@@ -1862,6 +1913,23 @@
             ],
             "id": "hot-dog.mp4",
             "endTime": "214"
+        },
+        {
+            "title": "I Know Where I'm Going!",
+            "director": "Michael Powell, Emeric Pressburger",
+            "year": "1945",
+            "duration": "1h 27m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/51/af/65/51af6556-94f5-782e-6421-6b1ae194a9f5/633_I_KNOW_WHERE_IM_GOING_iTunesPoster_2000x3000.jpg/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTBkZGU4NDgtOTA2My00NjE4LWEzM2YtZWRhZDRlNDY3OGNiXkEyXkFqcGc@._V1_.jpg",
+            "description": "A 33-year-old Englishwoman goes to the Hebrides to marry her older, wealthier fiancé, but when the weather keeps them apart from each other on separate islands, she begins to have second thoughts.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Romance",
+                "Comedy"
+            ],
+            "id": "I-know-where-going.mp4",
+            "endTime": "97"
         },
         {
             "title": "If I Had Legs I'd Kick You",
@@ -3284,6 +3352,23 @@
             ],
             "id": "the-naked-gun-2.mkv",
             "endTime": "295"
+        },
+        {
+            "title": "Network",
+            "director": "Sidney Lumet",
+            "year": "1976",
+            "duration": "2h 1m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/17/be/88/17be8829-3f56-0896-e647-9cdf57e1a2d5/ticket.xtvwaans.jpg/1600x2400CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTYyOTg2NTUzMF5BMl5BanBnXkFtZTcwMDI5NjMyNA@@._V1_.jpg",
+            "description": "A television network cynically exploits a deranged former anchor's ravings and revelations about mass media for its own profit, but finds that his message may be difficult to control.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Drama"
+            ],
+            "id": "network.mp4",
+            "endTime": "105"
         },
         {
             "title": "The New World",
@@ -5081,6 +5166,23 @@
             ],
             "id": "the-wiz.mkv",
             "endTime": "172"
+        },
+        {
+            "title": "Won't You Be My Neighbor?",
+            "director": "Morgan Neville",
+            "year": "2018",
+            "duration": "1h 35m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjM1NDg1MjUzNF5BMl5BanBnXkFtZTgwNTAxNjIzNTM@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNjExMmJiOTMtZWQ0Yi00YjllLWJkYWItYTU0YTYyMjY0ZTY1XkEyXkFqcGc@._V1_.jpg",
+            "description": "An exploration of the life, lessons, and legacy of iconic children's television host Fred Rogers.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Documentary"
+            ],
+            "id": "wont-you-be-my-neighbor.mp4",
+            "trailer_id": "wont-you-be-my-neighbor-trailer.mp4",
+            "endTime": "110"
         },
         {
             "title": "Wuthering Heights",
