@@ -2021,6 +2021,22 @@
             "endTime": "76"
         },
         {
+            "title": "The Invite",
+            "director": "Olivia Wilde",
+            "year": "2026",
+            "duration": "1h 47m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BN2NiYTY0ZWMtNWQyNC00YTIyLThkM2QtYjc5NjcxYzBkNDNhXkEyXkFqcGc@._V1_.jpg",
+            "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy"
+            ],
+            "id": "the-invite.mkv",
+            "endTime": "172"
+        },
+        {
             "title": "The Island Of Dr. Moreau",
             "director": "Don Taylor",
             "year": "1977",
@@ -2196,6 +2212,23 @@
             "id": "jackass-4-2.mkv",
             "trailer_id": "jackass-4.mp4",
             "endTime": "436"
+        },
+        {
+            "title": "Jackass: Best and Last",
+            "director": "Jeff Tremaine",
+            "year": "2026",
+            "duration": "1h 32m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTk3YWFmZWMtNmVjNS00OWE0LTg1ZTgtNDM1NTZiYTFjNzIzXkEyXkFqcGc@._V1_.jpg",
+            "description": "Follows the Jackass crew as they perform their final series of dangerous stunts and pranks, marking the end of the franchise.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy"
+            ],
+            "collection": "jackass",
+            "id": "jackass-5.mkv",
+            "endTime": "789"
         },
         {
             "title": "Casino Royale",
