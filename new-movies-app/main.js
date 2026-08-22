@@ -388,7 +388,7 @@ function menuListener(key){
         action = "features";
         hero.classList.remove("active");
         syncFeatures();
-    }else if(key === 'ArrowDown'){
+    }else if(key === 'ArrowDown' || key === 'Enter'){
         for(let i=0;i<items.length;i++){
             items[i].classList.remove("active");
         }
