@@ -57,7 +57,7 @@ async function populate() {
 
     const x = ((xOffset * (k - 1) + (k * 1))) * -1;
     
-    if(k == (library.length - 3)){
+    if(k > (library.length - 2)){
         container.style.transform = `translateX(${x+7.8}vw)`;
     }else if((k < (library.length - 2))){
         if((k > 1)){
