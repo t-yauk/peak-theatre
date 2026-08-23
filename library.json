@@ -89,6 +89,23 @@
             "endTime": "284"
         },
         {
+            "title": "Alice in Wonderland",
+            "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+            "year": "1951",
+            "duration": "1h 15m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyMjM2NTAxMF5BMl5BanBnXkFtZTgwNjU1NDc2MTE@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTg5Mjc2NzMyNV5BMl5BanBnXkFtZTcwNjg4NDg1NA@@._V1_.jpg",
+            "description": "Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen of Hearts has her way.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Fantasy"
+            ],
+            "id": "alice-in-wonderland.mp4",
+            "endTime": "57"
+        },
+        {
             "title": "All That Jazz",
             "director": "Bob Fosse",
             "year": "1979",
@@ -303,6 +320,23 @@
             "id": "badlands.mp4",
             "trailer_id": "badlands.mp4",
             "endTime": "172"
+        },
+        {
+            "title": "Bambi",
+            "director": "James Algar, Samuel Armstrong, David Hand",
+            "year": "1942",
+            "duration": "1h 9m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTIyZDk5NDItZmU5Yy00N2Y5LWI2ZDItMzEyZDhiYjI3MDdmXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYzRiOWRmMjUtOGFjOS00Y2RiLThmZDktMmE0N2RmNWFiNDc0XkEyXkFqcGc@._V1_.jpg",
+            "description": "The story of a young deer growing up in the forest.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Fantasy"
+            ],
+            "id": "bambi.mp4",
+            "endTime": "16"
         },
         {
             "title": "Barry Lyndon",
@@ -1295,6 +1329,23 @@
             ],
             "id": "the-drama.mkv",
             "endTime": "205"
+        },
+        {
+            "title": "Dumbo",
+            "director": "Samuel Armstrong, Norman Ferguson, Wilfred Jackson",
+            "year": "1941",
+            "duration": "1h 4m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNzIzZWZmM2ItNGMzOC00MGFiLTgxODgtNTQ2Mzk3ZWE1MzYxXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjAxMTEzMTc5OF5BMl5BanBnXkFtZTcwNzEwNTQ5Ng@@._V1_.jpg",
+            "description": "Ridiculed because of his enormous ears, a young circus elephant is assisted by a mouse to achieve his full potential.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Musical"
+            ],
+            "id": "dumbo.mp4",
+            "endTime": "16"
         },
         {
             "title": "Dungeons & Dragons: Honor Among Thieves",
@@ -2515,6 +2566,23 @@
             "id": "la-haine.mkv",
             "subtitle_id": "la-haine.vtt",
             "endTime": "37"
+        },
+        {
+            "title": "Lady and the Tramp",
+            "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+            "year": "1955",
+            "duration": "1h 16m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjA1NmQ2MTYtNzU0NC00NzBiLWJmZmQtM2FlNDViODk4OWEwXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTU1NTY0NDA5Ml5BMl5BanBnXkFtZTcwNzUxMDIyNw@@._V1_.jpg",
+            "description": "The romantic tale of a sheltered uptown Cocker Spaniel dog and a streetwise downtown Mutt.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Romance"
+            ],
+            "id": "lady-and-the-tramp.mp4",
+            "endTime": "41"
         },
         {
             "title": "The Last of the Mohicans",
@@ -3794,6 +3862,23 @@
             "endTime": "10"
         },
         {
+            "title": "Peter Pan",
+            "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+            "year": "1953",
+            "duration": "1h 17m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOGUwNjg5MWItNTc5OC00MTNkLWEwNzYtYzA1M2Y4MWU3NmQwXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjE3NTczOTY5M15BMl5BanBnXkFtZTgwNDI3NzgxMzE@._V1_.jpg",
+            "description": "Wendy and her brothers are whisked away to the magical world of Neverland with the hero of their stories, Peter Pan.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Fantasy"
+            ],
+            "id": "peter-pan.mp4",
+            "endTime": "19"
+        },
+        {
             "title": "Phantom Of The Paradise",
             "director": "Brian De Palma",
             "year": "1974",
@@ -3844,6 +3929,23 @@
             "id": "pierrot-le-fou.mp4",
             "subtitle_id": "pierrot-le-fou.vtt",
             "endTime": "26"
+        },
+        {
+            "title": "Pinocchio",
+            "director": "Norman Ferguson, T. Hee, Wilfred Jackson",
+            "year": "1940",
+            "duration": "1h 28m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZGU3MTE3NjYtMGU1Zi00NjBmLTg4MzItZjg0OGZmNjZiYjQwXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTY5ODY0NTY4NF5BMl5BanBnXkFtZTcwODcyMTIyNw@@._V1_.jpg",
+            "description": "A living puppet, with the help of a cricket as his conscience, must prove himself worthy to become a real boy.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Fantasy"
+            ],
+            "id": "pinnochio.mp4",
+            "endTime": "23"
         },
         {
             "title": "Pirates of The Caribbean: The Curse of The Black Pearl",
@@ -4298,6 +4400,23 @@
             "endTime": "197"
         },
         {
+            "title": "Sleeping Beauty",
+            "director": "Les Clark, Clyde Geronimi, Eric Larson",
+            "year": "1959",
+            "duration": "1h 15m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYjVjNjZkNTQtOTRhZi00NTVhLThkMzktYzY4YjIwZWRhZjA0XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjExNDY0OTMzMl5BMl5BanBnXkFtZTcwNTE0MjIyNw@@._V1_.jpg",
+            "description": "After being snubbed by the royal family, a malevolent fairy places a curse on a princess which only a prince can break, along with the help of three good fairies.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Fantasy"
+            ],
+            "id": "sleeping-beauty.mp4",
+            "endTime": "15"
+        },
+        {
             "title": "The Smashing Machine",
             "director": "Benny Safdie",
             "year": "2025",
@@ -4331,6 +4450,23 @@
             ],
             "id": "sneakers.mkv",
             "endTime": "223"
+        },
+        {
+            "title": "Snow White and the Seven Dwarfs",
+            "director": "William Cottrell, David Hand, Wilfred Jackson",
+            "year": "1937",
+            "duration": "1h 23m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwMzE2Mzc4M15BMl5BanBnXkFtZTcwMTE4NTc1Nw@@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQ5MDgyNzg1N15BMl5BanBnXkFtZTgwOTgyODQ3NzE@._V1_.jpg",
+            "description": "Exiled into the dangerous forest by her wicked stepmother, a princess is rescued by seven dwarf miners who make her part of their household.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Fantasy"
+            ],
+            "id": "snow-white.mkv",
+            "endTime": "17"
         },
         {
             "title": "Sorcerer",
