@@ -57,6 +57,11 @@ document.addEventListener('keydown', function(event) {
             api.controlLights({
                 light
             });
+        }else if(k == 3){
+            light = "studio";
+            api.controlLights({
+                light
+            });
         }
     }
 
