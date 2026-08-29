@@ -3031,6 +3031,23 @@
             "endTime": "11"
         },
         {
+            "title": "The Menu",
+            "director": "Mark Mylod",
+            "year": "2022",
+            "duration": "1h 47m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BN2Q0YWE1MjktODJlMi00NTRiLWI2ZTctZTAxNjkyODVjM2EyXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMzNiYTFhMzAtYmMzNy00ODEwLWE4MGQtODg3N2ZhMjgwY2U2XkEyXkFqcGc@._V1_.jpg",
+            "description": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Comedy"
+            ],
+            "id": "the-menu.mkv",
+            "endTime": "411"
+        },
+        {
             "title": "Merrily We Roll Along",
             "director": "Maria Friedman",
             "year": "2025",
