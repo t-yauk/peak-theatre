@@ -7,6 +7,22 @@
 			"intermission": "4287",
 			"entract": ["4270", "4212"],
 			"credits": "91"
+		},
+		{
+			"name": "The Sound Of Music",
+			"theme": "229,171,38",
+			"overture": ["99999", "10482"],
+			"intermission": "4332",
+			"entract": ["4318", "4196"],
+			"credits": "40"
+		},
+		{
+			"name": "Spartacus",
+			"theme": "233,51,62",
+			"overture": ["11795", "11555"],
+			"intermission": "5343",
+			"entract": ["5320", "5182"],
+			"credits": "179"
 		}
 	]
 }
