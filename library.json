@@ -3433,7 +3433,8 @@
                 "10189"
             ],
             "colour": "pink",
-            "endTime": "90"
+            "endTime": "90",
+            "roadshow": "true"
         },
         {
             "title": "The Naked Gun",
