@@ -4390,15 +4390,7 @@
                 "Horror"
             ],
             "id": "sinners.mkv",
-            "endTime": "387",
-            "oscars": [
-                "picture",
-                "director",
-                "actor",
-                "supporting-actress",
-                "supporting-actor",
-                "original"
-            ]
+            "endTime": "387"
         },
         {
             "title": "Ski School",
@@ -4524,7 +4516,8 @@
                 "4196"
             ],
             "endTime": "40",
-            "trailer_id": "the-sound-of-music.mp4"
+            "trailer_id": "the-sound-of-music.mp4",
+            "roadshow": "true"
         },
         {
             "title": "Spartacus",
@@ -4541,7 +4534,8 @@
                 "War"
             ],
             "id": "spartacus.mkv",
-            "endTime": "174"
+            "endTime": "174",
+            "roadshow": "true"
         },
         {
             "title": "Splitsville",
