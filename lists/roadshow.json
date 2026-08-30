@@ -19,9 +19,9 @@
 		{
 			"name": "Spartacus",
 			"theme": "233,51,62",
-			"overture": ["11795", "11555"],
+			"overture": ["11795", "11565"],
 			"intermission": "5343",
-			"entract": ["5320", "5182"],
+			"entract": ["5320", "5192"],
 			"credits": "179"
 		}
 	]
