@@ -53,7 +53,7 @@ function get_info(){
 	document.getElementById("movie-image").src = library[id].previewImage;
 
 	document.getElementById("title").innerHTML = library[id].title + " <span class='year'>(" + library[id].year + ")</span>";
-	document.getElementById("description").innerHTML = library[id].description;
+	document.getElementById("description").innerHTML = `${library[id].description}<span style="display:block;margin-top:30px;">${id}</span>`;
 
 	genre[0].innerHTML = library[id].genre[0];
 
