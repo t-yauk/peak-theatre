@@ -1070,6 +1070,23 @@
             "endTime": "67"
         },
         {
+            "title": "Clue",
+            "director": "Jonathan Lynn",
+            "year": "1985",
+            "duration": "1h 34m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/36/82/cb/3682cbd6-e316-91d5-08aa-df2f79c52f31/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMDg1ZGU3ZDctZTcwOS00OGY5LWI0MjUtYjdkYTA3YjYwZDExXkEyXkFqcGc@._V1_.jpg",
+            "description": "Six guests are anonymously invited to a strange mansion for dinner, but after their host is killed, they must cooperate with the staff to identify the murderer as the bodies pile up.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Mystery"
+            ],
+            "id": "clue.mkv",
+            "endTime": "213"
+        },
+        {
             "title": "Original Cast Album: Company",
             "director": "D. A. Pennebaker",
             "year": "1970",
@@ -1121,6 +1138,23 @@
             "id": "the-cotton-club.mp4",
             "trailer_id": "cotton-club.mp4",
             "endTime": "326"
+        },
+        {
+            "title": "Cronos",
+            "director": "Guillermo del Toro",
+            "year": "1992",
+            "duration": "1h 34m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/1e/76/98/mzi.srprusqm.jpg/1600x2400CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZTUyZDE0YzUtM2Y3My00NzMwLTkyM2QtNTI5OTIwZDI4YzdkXkEyXkFqcGc@._V1_.jpg",
+            "description": "A mysterious device designed to provide its owner with eternal life resurfaces after four hundred years, leaving a trail of destruction in its path.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Horror",
+                "Drama"
+            ],
+            "id": "cronos.mp4",
+            "endTime": "335"
         },
         {
             "title": "Dangerous Liaisons",
@@ -1175,6 +1209,24 @@
             "id": "deliverance.mp4",
             "trailer_id": "deliverance.webm",
             "endTime": "41"
+        },
+        {
+            "title": "The Devil's Backbone",
+            "director": "Guillermo del Toro",
+            "year": "2001",
+            "duration": "1h 46m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/1e/63/2a/1e632af7-a260-947b-3081-a891300ab09b/SPE_Devils_BACKBONE_THE_2001_TH_XBOX_WW_ARTWORK_EN_2000x3000_QLEB20000030Q.jpg/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjEwNDk5NzMwNl5BMl5BanBnXkFtZTgwNzIwOTUyMDI@._V1_.jpg",
+            "description": "After Carlos - a 12-year-old whose father has died in the Spanish Civil War - arrives at an ominous boys' orphanage, he discovers the school is haunted and has many dark secrets which he must uncover.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Horror",
+                "Drama"
+            ],
+            "id": "the-devils-backbone.mp4",
+            "subtitle_id": "the-devils-backbone.vtt",
+            "endTime": "226"
         },
         {
             "title": "The Devil Wears Prada",
@@ -1998,10 +2050,23 @@
             ],
             "id": "if-i-had-legs-id-kick-you.mkv",
             "trailer_id": "if-i-had-legs-id-kick-you.mp4",
-            "endTime": "363",
-            "oscars": [
-                "actress"
-            ]
+            "endTime": "363"
+        },
+        {
+            "title": "Ikiru",
+            "director": "Akira Kurosawa",
+            "year": "1952",
+            "duration": "2h 23m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/e1/27/d4/e127d490-21da-7ad5-40af-318a33a1e979/pr_source.jpg/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTY5OTYyOTg5Ml5BMl5BanBnXkFtZTcwNzc0MTc4Ng@@._V1_.jpg",
+            "description": "An aging Tokyo bureaucrat, shaken by a grave diagnosis, breaks from his hollow routine and searches for meaning, connection, and one worthwhile act.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Drama"
+            ],
+            "id": "ikiru.mkv",
+            "endTime": "17"
         },
         {
             "title": "Inglourious Basterds",
@@ -2633,6 +2698,22 @@
             ],
             "id": "lawrence-of-arabia.mkv",
             "endTime": "208"
+        },
+        {
+            "title": "The Leopard",
+            "director": "Luchino Visconti",
+            "year": "1963",
+            "duration": "3h 6m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BODNiYThjOGMtOTZlYy00Y2Q0LTk5MjQtYTRkNzU2OTA2OWQ1XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYjFmMGQzZWQtMDA2NC00ZWI1LTlmYzktMmM1NjM0ZDlkMDhhXkEyXkFqcGc@._V1_.jpg",
+            "description": "The Prince of Salina, a noble aristocrat of impeccable integrity, tries to preserve his family and class amid the tumultuous social upheavals of 1860s Sicily.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Drama"
+            ],
+            "id": "the-leopard.mp4",
+            "endTime": "34"
         },
         {
             "title": "Licorice Pizza",
@@ -3776,6 +3857,24 @@
             "endTime": "259"
         },
         {
+            "title": "Onibaba",
+            "director": "Kaneto Shindō",
+            "year": "1964",
+            "duration": "1h 43m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/71/61/de/7161dea3-dc16-a003-8f2c-e3ad8746f207/665_ONIBABA_iTunesPoster_2000x3000.jpg/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BODQxNjM0M2ItZDRhYS00YjBhLWE3MjEtYWRlZDAyOGQ4MTIzXkEyXkFqcGc@._V1_.jpg",
+            "description": "Two women kill samurai and sell their belongings for a living. While one of them is having an affair with their neighbor, the other woman meets a mysterious samurai wearing a bizarre mask.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Horror",
+                "Fantasy"
+            ],
+            "id": "onibaba.mp4",
+            "subtitle_id": "onibaba.vtt",
+            "endTime": "7"
+        },
+        {
             "title": "Oppenheimer",
             "director": "Christopher Nolan",
             "year": "2023",
@@ -3964,6 +4063,23 @@
             ],
             "id": "pinnochio.mp4",
             "endTime": "23"
+        },
+        {
+            "title": "Guillermo del Toro's Pinocchio",
+            "director": "Guillermo del Toro, Mark Gustafson",
+            "year": "2022",
+            "duration": "1h 57m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/l75sEFRmmT827d-DySEeGg/960x1440CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYWJkMTE5YzktYzg4OS00Yzg1LTllNjItOGUyZTZlZGIyYjAzXkEyXkFqcGc@._V1_.jpg",
+            "description": "A father's wish magically brings a wooden boy to life in Italy, giving him a chance to care for the child.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Fantasy"
+            ],
+            "id": "pinocchio.mkv",
+            "endTime": "743"
         },
         {
             "title": "Pirates of The Caribbean: The Curse of The Black Pearl",
@@ -4206,6 +4322,23 @@
             "endTime": "319"
         },
         {
+            "title": "Roman Holiday",
+            "director": "William Wyler",
+            "year": "1953",
+            "duration": "1h 58m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video71/v4/31/83/38/318338ca-1cac-a1a6-1435-003d6307814c/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://images.squarespace-cdn.com/content/v1/58e925b6f5e231a18a473080/1595474905802-316NOWOC947RC7I64EEV/Roman%2BHoliday%2B1.jpg",
+            "description": "A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "id": "roman-holiday.mkv",
+            "endTime": "11"
+        },
+        {
             "title": "Rope",
             "director": "Alfred Hitchcock",
             "year": "1948",
@@ -4255,6 +4388,23 @@
             ],
             "id": "rumble-fish.mp4",
             "endTime": "290"
+        },
+        {
+            "title": "Salesman",
+            "director": "Albert Maysles, David Maysles, Charlotte Zwerin",
+            "year": "1969",
+            "duration": "1h 31m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/77/be/09/77be0912-c3cb-2086-c137-1d050b949231/pr_source.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjE1MDAwNDQ3M15BMl5BanBnXkFtZTcwNzQzMTMwNw@@._V1_.jpg",
+            "description": "Four dogged door-to-door Bible salesmen travel from Boston to Florida on a seemingly futile quest to sell luxury editions of the Good Book to working-class Catholics.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Documentary",
+                "Drama"
+            ],
+            "id": "salesman.mp4",
+            "endTime": "43"
         },
         {
             "title": "Scanners",
@@ -5002,6 +5152,24 @@
             "endTime": "181"
         },
         {
+            "title": "Throne of Blood",
+            "director": "Akira Kurosawa",
+            "year": "1957",
+            "duration": "1h 50m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/d0/82/f8/d082f8ae-2b47-3e29-d80e-4f288db40876/THRONE_OF_BLOOD.jpg/1400x2100CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTc3ODE4NDUyOF5BMl5BanBnXkFtZTcwMTE3Njk5Ng@@._V1_.jpg",
+            "description": "A war-hardened general, egged on by his ambitious wife, works to fulfill a prophecy that he would become lord of Spider's Web Castle.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Action",
+                "War"
+            ],
+            "id": "throne-of-blood.mkv",
+            "subtitle_id": "throne-of-blood.vtt",
+            "endTime": "20"
+        },
+        {
             "title": "Time Bandits",
             "director": "Terry Gilliam",
             "year": "1981",
@@ -5067,6 +5235,23 @@
             ],
             "id": "total-recall.mkv",
             "endTime": "233"
+        },
+        {
+            "title": "Toy Story 5",
+            "director": "Andrew Stanton",
+            "year": "2026",
+            "duration": "1h 42m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1f/35/97/1f35974a-983b-f14b-acf5-ebe2e76d3385/DIS_TOY_STORY_5_TH_ITUNES_WW_ARTWORK_EN_2000x3000_5H9HF800000DYA.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BODM0MzJlNjgtZmFkNy00ZDc1LWE4ZGYtYmRiMGJmZTg4NThmXkEyXkFqcGc@._V1_.jpg",
+            "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Comedy"
+            ],
+            "id": "toy-story-5.mkv",
+            "endTime": "616"
         },
         {
             "title": "The Tragedy Of Macbeth",
@@ -5448,6 +5633,24 @@
             ],
             "id": "xanadu.mkv",
             "endTime": "158"
+        },
+        {
+            "title": "Yojimbo",
+            "director": "Akira Kurosawa",
+            "year": "1961",
+            "duration": "1h 50m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/b4/19/a2/mzi.uwbgtgej.jpg/1600x2400CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTc0NTk1Mjc0OF5BMl5BanBnXkFtZTcwOTU0MTc4Ng@@._V1_.jpg",
+            "description": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "id": "yojimbo.mkv",
+            "subtitle_id": "yojimbo.vtt",
+            "endTime": "12"
         },
         {
             "title": "Young Frankenstein",
