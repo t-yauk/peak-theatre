@@ -22,7 +22,7 @@ window.onload = function() {
     setTimeout(function() {
 
         b.classList.remove("active");
-        wrapper.style.backgroundImage = `url("Z:\\elements\\tv\\artwork\\${library[k].image_url}")`;
+        wrapper.style.backgroundImage = `url("Z:/elements/tv/artwork/${library[k].image_url}")`;
         container.style.transition = "1s";
 
     }, 500);
@@ -51,7 +51,7 @@ async function populate() {
         const newItem = document.createElement('div');
         newItem.classList.add("library-item");
         newItem.classList.add("library-item-position");
-        newItem.innerHTML = `<img src="Z:\\elements\\tv\\thumbnails\\${data[i].image}"><div class="gradient-overlay"></div>`
+        newItem.innerHTML = `<img src="Z:/elements/tv/thumbnails/${data[i].image}"><div class="gradient-overlay"></div>`
         container.appendChild(newItem);
     }
 
@@ -77,7 +77,7 @@ function activeItem() {
 
     const items = document.getElementsByClassName("library-item");
 
-    wrapper.style.backgroundImage = `url("Z:\\elements\\tv\\artwork\\${library[k].image_url}")`;
+    wrapper.style.backgroundImage = `url("Z:/elements/tv/artwork/${library[k].image_url}")`;
 
     const x = ((xOffset * (k - 1) + (k * 1))) * -1;
     
