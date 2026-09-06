@@ -63,7 +63,7 @@ async function showDetails() {
 
 async function populate() {
 
-    document.getElementById("poster").src = `D:/peaktheatre/elements/tv/thumbnails/${data[id].image}`;
+    document.getElementById("poster").src = `Z:\\elements\\tv\\thumbnails\\${data[id].image}`;
     document.getElementById("show-description").innerHTML = library.description;
     
     const sw = document.getElementById("seasons");
