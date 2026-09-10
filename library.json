@@ -3298,6 +3298,23 @@
             "endTime": "292"
         },
         {
+            "title": "Moana",
+            "director": "Thomas Kail",
+            "year": "2026",
+            "duration": "1h 55m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZjc1ZDgwYmQtZjljNy00NDU5LWIxNzUtMzlmNTk3Zjk1YWJhXkEyXkFqcGc@._V1_.jpg",
+            "description": "A brave teenager named Moana leaves her island for the first time and sails with a shape-shifting demigod named Maui to fix a dangerous curse.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Musical"
+            ],
+            "id": "moana.mkv",
+            "endTime": "579"
+        },
+        {
             "title": "Modern Romance",
             "director": "Albert Brooks",
             "year": "1981",
