@@ -5271,6 +5271,23 @@
             "endTime": "616"
         },
         {
+            "title": "Trading Places",
+            "director": "John Landis",
+            "year": "1983",
+            "duration": "1h 56m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/fd/6d/3c/fd6d3c12-9f86-4639-017a-e06d5044105e/TradingPlaces_EN_2000x3000.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BM2RlOGY3NDktZWI3OS00YzU1LWEyMzctNWJmNTkzZGY3OWQwXkEyXkFqcGc@._V1_.jpg",
+            "description": "A snobbish Wall Street commodities broker and a wily street hustler find their positions reversed as part of a bet by two callous millionaire brothers who run a brokerage house.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Drama"
+            ],
+            "id": "trading-places.mkv",
+            "endTime": "218"
+        },
+        {
             "title": "The Tragedy Of Macbeth",
             "director": "Joel Coen",
             "year": "2021",
