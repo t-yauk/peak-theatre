@@ -765,6 +765,23 @@
             "endTime": "222"
         },
         {
+            "title": "The Breakfast Club",
+            "director": "John Hughes",
+            "year": "1985",
+            "duration": "1h 37m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/68/68/e5/6868e559-e8b7-3bad-c98f-105385af2e91/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQ0MDQ3OTYwNV5BMl5BanBnXkFtZTcwNDYxNTI5Mw@@._V1_.jpg",
+            "description": "Five high school students meet in Saturday detention and discover how they have a great deal more in common than they thought.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Drama"
+            ],
+            "id": "breakfast-club.mp4",
+            "endTime": "119"
+        },
+        {
             "title": "Breathless",
             "director": "Jean-Luc Godard",
             "year": "1960",
@@ -1655,6 +1672,22 @@
             ],
             "id": "fear-and-loathing-in-las-vegas.mkv",
             "endTime": "342"
+        },
+        {
+            "title": "Ferris Bueller's Day Off",
+            "director": "John Hughes",
+            "year": "1986",
+            "duration": "1h 43m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/IwfvBrLn5IZsXAotR_ceUQ/1400x2100CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTA0ODI0MzQ2NzBeQTJeQWpwZ15BbWU3MDU2MzkyNjk@._V1_.jpg",
+            "description": "A brash, cocky high school senior, tired of skipping school to spend a boring day at home, is determined to enjoy an epic day roaring around his favorite Chicago sites, enlisting his best friend and girlfriend to join him on the adventure.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy"
+            ],
+            "id": "ferris-bueller.mkv",
+            "endTime": "238"
         },
         {
             "title": "A Fistful of Dollars",
@@ -4184,6 +4217,23 @@
             "endTime": "580"
         },
         {
+            "title": "Planes, Trains & Automobiles",
+            "director": "John Hughes",
+            "year": "1987",
+            "duration": "1h 33m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOWJhY2Y1Y2YtNjA0NC00ZjNkLTg2NWMtMjhhY2JiZDJhYTdmXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZGViOTY4MWQtYWQyYy00MTA2LWIyYTMtZTBjNWI2NjhkNWEwXkEyXkFqcGc@._V1_.jpg",
+            "description": "A Chicago advertising man must struggle to travel home from New York for Thanksgiving, with a lovable oaf of a shower-curtain-ring salesman as his only companion.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Drama"
+            ],
+            "id": "planes-trains-automobiles.mkv",
+            "endTime": "323"
+        },
+        {
             "title": "The Prince of Egypt",
             "director": "Brenda Chapman, Steve Hickner, Simon Wells",
             "year": "1998",
@@ -4626,6 +4676,23 @@
             ],
             "id": "sinners.mkv",
             "endTime": "387"
+        },
+        {
+            "title": "Sixteen Candles",
+            "director": "John Hughes",
+            "year": "1984",
+            "duration": "1h 33m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/25/23/5a/25235a8e-a362-80b9-4f25-b9a54d38f005/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTY4NDU1NTA0NF5BMl5BanBnXkFtZTcwMDYxNTI5Mw@@._V1_.jpg",
+            "description": "A high school girl's sixteenth birthday is anything but special, her family forgets about it while preparing for her older sister's wedding, the boy she has a crush on has a girlfriend, and she suffers from multitude of embarrassments.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "id": "sixteen-candles.mp4",
+            "endTime": "194"
         },
         {
             "title": "Ski School",
