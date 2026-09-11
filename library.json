@@ -230,6 +230,23 @@
             "endTime": "368"
         },
         {
+            "title": "Arrival",
+            "director": "Denis Villeneuve",
+            "year": "2016",
+            "duration": "1h 56m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/b4/b1/17/b4b11703-78b0-6f14-32d5-9f8003a13999/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjA1MDY4NTUxMV5BMl5BanBnXkFtZTgwODA0NDQ1MDI@._V1_.jpg",
+            "description": "Linguist Louise Banks leads a team of investigators when gigantic spaceships touch down around the world. As nations teeter on the verge of global war, Banks and her crew must find a way to communicate with the extraterrestrial visitors.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "id": "arrival.mkv",
+            "endTime": "336"
+        },
+        {
             "title": "A.I. Artificial Intelligence",
             "director": "Steven Spielberg",
             "year": "2001",
@@ -1450,6 +1467,23 @@
             "id": "ella-mccay.mkv",
             "trailer_id": "ella-mccay.webm",
             "endTime": "448"
+        },
+        {
+            "title": "Enemy",
+            "director": "Denis Villeneuve",
+            "year": "2013",
+            "duration": "1h 41m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZDMzODQxODctZTY5Zi00ZWExLWFiYTItYWYzZDk5YmUwZTgzXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNzc4MDY3MGYtYzdkNi00YWVhLWE4OGYtZGM2YzMzMGNjMzJkXkEyXkFqcGc@._V1_.jpg",
+            "description": "A mild-mannered college professor investigates the life of an actor who looks exactly like him.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Thriller",
+                "Mystery"
+            ],
+            "id": "enemy.mp4",
+            "endTime": "243"
         },
         {
             "title": "Enter The Dragon",
@@ -4167,6 +4201,23 @@
             "endTime": "433"
         },
         {
+            "title": "Prisoners",
+            "director": "Denis Villeneuve",
+            "year": "2013",
+            "duration": "2h 33m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video18/v4/b0/10/bb/b010bb01-8089-e2a7-5002-1ac6811385cd/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTM4MzcwNjk5MV5BMl5BanBnXkFtZTgwNTA1MjcxMDE@._V1_.jpg",
+            "description": "A desperate father takes the law into his own hands after police fail to find two kidnapped girls.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Thriller",
+                "Crime"
+            ],
+            "id": "prisoners.mp4",
+            "endTime": "431"
+        },
+        {
             "title": "Project Hail Mary",
             "director": "Phil Lord, Christopher Miller",
             "year": "2026",
@@ -4525,6 +4576,23 @@
             ],
             "id": "the-sheep-detectives.mkv",
             "endTime": "772"
+        },
+        {
+            "title": "Sicario",
+            "director": "Denis Villeneuve",
+            "year": "2015",
+            "duration": "2h 1m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/07/69/28/076928d6-091d-538c-8786-0978857c93e2/pr_source.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNmM1YzgxYmItYTdmZS00ODk5LWE0ZjYtNDZjNzIwZjJlZGFjXkEyXkFqcGc@._V1_.jpg",
+            "description": "An FBI agent joins a covert DoD task force targeting a Mexican cartel. Operating outside legal boundaries with a CIA handler and a mysterious fixer, she discovers the mission's true purpose goes far beyond what she was told.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Crime",
+                "Action"
+            ],
+            "id": "sicario.mkv",
+            "endTime": "361"
         },
         {
             "title": "The Silence of the Lambs",
