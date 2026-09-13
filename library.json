@@ -554,6 +554,23 @@
             "endTime": "477"
         },
         {
+            "title": "The Birds",
+            "director": "Alfred Hitchcock",
+            "year": "1963",
+            "duration": "1h 59m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/cb/89/37/cb893745-0331-e4c7-568f-c1b99bd582dd/contsched.zbvthyeb.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNjc2MjI1MzgwN15BMl5BanBnXkFtZTgwMDcwMDg5MTE@._V1_.jpg",
+            "description": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "id": "birds.mkv",
+            "endTime": "999999"
+        },
+        {
             "title": "The Birdcage",
             "director": "Mike Nichols",
             "year": "1996",
@@ -1297,6 +1314,23 @@
             "endTime": "433"
         },
         {
+            "title": "Dial M for Murder",
+            "director": "Alfred Hitchcock",
+            "year": "1954",
+            "duration": "1h 45m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZmYzNDgzYjgtNmU3Ny00YzUxLWE3OWUtMjIxZmNkYTVhNDZmXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQxNTY3NjA1Nl5BMl5BanBnXkFtZTcwNzQyODMwOQ@@._V1_.jpg",
+            "description": "A jealous former tennis player plots the perfect murder of his wealthy wife in their London flat, triggering a tense trap of betrayal and evidence.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Thriller",
+                "Mystery"
+            ],
+            "id": "dial-murder.mp4",
+            "endTime": "13"
+        },
+        {
             "title": "Die My Love",
             "director": "Lynne Ramsay",
             "year": "2025",
@@ -1776,6 +1810,23 @@
             ],
             "id": "four-weddings-and-a-funeral.mp4",
             "endTime": "175"
+        },
+        {
+            "title": "Foreign Correspondent",
+            "director": "Alfred Hitchcock",
+            "year": "1940",
+            "duration": "2 hours",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/58/98/52/58985232-2bd1-2635-c8d2-69a7de008687/mza_1814186205037538175.jpg/1400x2100CA.TVA23C01.jpg",
+            "previewImage": "https://static01.nyt.com/images/2014/03/09/arts/09HOBERMAN_SPAN/09HOBERMAN_SPAN-superJumbo-v2.jpg",
+            "description": "On the eve of World War II, a young American reporter tries to expose enemy agents in London.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "War",
+                "Mystery"
+            ],
+            "id": "foreign-correspondent.mp4",
+            "endTime": "41"
         },
         {
             "title": "Frankenstein",
@@ -3863,6 +3914,23 @@
             "endTime": "414"
         },
         {
+            "title": "Notorious",
+            "director": "Alfred Hitchcock",
+            "year": "1946",
+            "duration": "1h 42m",
+            "image_url": "https://s3.amazonaws.com/criterion-production/films/e97a91bf3391ed51fafd378e198e61ab/JPKjYXvzfvIPG3IAPXcfraP20IiWhV_large.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTY0NjgyNDM1NV5BMl5BanBnXkFtZTgwOTg2NTIwMjE@._V1_.jpg",
+            "description": "The daughter of a convicted German spy is asked by American agents to gather information on a ring of German scientists in South America. How far will she have to go to ingratiate herself with them?",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Thriller",
+                "Noir"
+            ],
+            "id": "notorious.mp4",
+            "endTime": "25"
+        },
+        {
             "title": "Nouvelle Vague",
             "director": "Richard Linklater",
             "year": "2025",
@@ -4286,6 +4354,23 @@
             "endTime": "328"
         },
         {
+            "title": "Psycho",
+            "director": "Alfred Hitchcock",
+            "year": "1960",
+            "duration": "1h 49m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/07/56/7a/07567a3d-5778-c9fc-63e1-6e94b220f72f/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMzk5MDRlMDgtNTNlOC00MjI1LWJmMWMtMGE5MmNkYmMzNDIyXkEyXkFqcGc@._V1_.jpg",
+            "description": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "id": "psycho.mkv",
+            "endTime": "999999"
+        },
+        {
             "title": "Purple Rain",
             "director": "Albert Magnoli",
             "year": "1984",
@@ -4325,7 +4410,7 @@
             "year": "1985",
             "duration": "2h 40m",
             "image_url": "https://m.media-amazon.com/images/M/MV5BZDk2NDY5YjktMjEyMC00OTJhLTkzM2EtY2Q4Y2RjYzc2Yjk4XkEyXkFqcGc@._V1_FMjpg_UY2883_.jpg",
-            "previewImage": "https://cdn.theasc.com/Ran-Featured.jpg",
+            "previewImage": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/movie-elements/810075.jpg",
             "description": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
             "featured": "false",
             "theatre_optimized": "true",
@@ -4353,6 +4438,23 @@
             ],
             "id": "ratatouille.mkv",
             "endTime": "491"
+        },
+        {
+            "title": "Rear Window",
+            "director": "Alfred Hitchcock",
+            "year": "1954",
+            "duration": "1h 52m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/e9/dc/c0/e9dcc09f-558f-a1d6-5a04-61c7500bdd48/UNI_REAR_WIN_WW_ARTWORK_EN-US_2000x3000_2ED9FI000000H3.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYzY1YTA3NzItZGQ5Yi00ODhiLWI5MzMtYjBlNDA0OTYxOGE0XkEyXkFqcGc@._V1_.jpg",
+            "description": "A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Thriller",
+                "Mystery"
+            ],
+            "id": "rear-window.mkv",
+            "endTime": "999999"
         },
         {
             "title": "Reservoir Dogs",
@@ -5607,6 +5709,23 @@
             "id": "uncut-gems.mkv",
             "trailer_id": "uncut-gems.mp4",
             "endTime": "275"
+        },
+        {
+            "title": "Vertigo",
+            "director": "Alfred Hitchcock",
+            "year": "1958",
+            "duration": "2h 8m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/cc/c1/95/ccc195c8-86b3-e851-8188-166ea548fe60/UNI_VERTIGO_WW_ARTWORK_EN_2000x3000_2ED9GV000000NY.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTUyNDM3NjYwNV5BMl5BanBnXkFtZTcwODYzMjAyNw@@._V1_.jpg",
+            "description": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Thriller",
+                "Mystery"
+            ],
+            "id": "vertigo.mkv",
+            "endTime": "20"
         },
         {
             "title": "Videodrome",
