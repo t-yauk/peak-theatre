@@ -54,6 +54,23 @@
             "endTime": "57"
         },
         {
+            "title": "2001: A Space Odyssey",
+            "director": "Stanley Kubrick",
+            "year": "1968",
+            "duration": "2h 29m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/75/ab/94/75ab9441-7794-cf8b-0582-b5f9993c9143/pr_source.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNTIxNDcwNjE0N15BMl5BanBnXkFtZTcwNDMwMTgyMw@@._V1_.jpg",
+            "description": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two scientists and one supercomputer is dispatched to Jupiter to find its origins.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ],
+            "id": "2001-space-odyssey.mkv",
+            "endTime": "496"
+        },
+        {
             "title": "The Adventures Of Ichabod And Mr. Toad",
             "director": "James Algar, Clyde Geronimi, Jack Kinney",
             "year": "1949",
@@ -1121,6 +1138,23 @@
             "endTime": "67"
         },
         {
+            "title": "A Clockwork Orange",
+            "director": "Stanley Kubrick",
+            "year": "1971",
+            "duration": "2h 16m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video22/v4/ef/49/de/ef49de27-5a84-9dc2-80be-d51560ae8d68/mzm.tcjamxoj.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYWY1OGY4NTEtOWNkZS00ZWYxLTg0MmYtODQwM2M4NTE3ZTQxXkEyXkFqcGc@._V1_.jpg",
+            "description": "Alex DeLarge and his droogs barbarize a decaying near-future.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Crime",
+                "Sci-Fi"
+            ],
+            "id": "clockwork-orange.mkv",
+            "endTime": "158"
+        },
+        {
             "title": "Clue",
             "director": "Jonathan Lynn",
             "year": "1985",
@@ -1416,6 +1450,24 @@
             ],
             "id": "dogfight.mp4",
             "endTime": "164"
+        },
+        {
+            "title": "Dr. Strangelove",
+            "subtitle": "Or How I Learned to Stop Worrying and Love the Bomb",
+            "director": "Stanley Kubrick",
+            "year": "1964",
+            "duration": "1h 35m",
+            "image_url": "https://s3.amazonaws.com/criterion-production/films/0a9d8cafec1031c98436007b77553d6f/8RnJTFRJr7Ho5oNBlduI3C9erCpY1t_large.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZDJlMmQ0N2QtZWFkNy00MTE4LTlkMTctN2Q3MjJlMDExMzc5XkEyXkFqcGc@._V1_.jpg",
+            "description": "After a rogue U.S. general orders an unauthorized nuclear attack on the Soviet Union, leaders in the War Room race to prevent global catastrophe.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "War"
+            ],
+            "id": "dr-strangelove.mkv",
+            "endTime": "14"
         },
         {
             "title": "Bram Stoker's Dracula",
@@ -1863,6 +1915,23 @@
             "id": "friendship.mkv",
             "trailer_id": "friendship.mp4",
             "endTime": "334"
+        },
+        {
+            "title": "Full Metal Jacket",
+            "director": "Stanley Kubrick",
+            "year": "1987",
+            "duration": "1h 56m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/2a/fb/9c/2afb9cbe-6d65-ea30-2774-2aa24d68adfa/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYTNmZjcyZGItMmVkNi00NjBhLTg1Y2ItYjA0MjlhNGY5ZWYwXkEyXkFqcGc@._V1_.jpg",
+            "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "War",
+                "Action"
+            ],
+            "id": "full-metal-jacket.mkv",
+            "endTime": "206"
         },
         {
             "title": "The Gate",
@@ -2681,6 +2750,23 @@
             "subtitle_id": "killers-of-the-flower-moon.vtt",
             "trailer_id": "killers-of-the-flower-moon.mp4",
             "endTime": "570"
+        },
+        {
+            "title": "The Killing",
+            "director": "Stanley Kubrick",
+            "year": "1956",
+            "duration": "1h 24m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/ea/94/30/mzi.bwhjtmph.jpg/1600x2400CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYTdjM2FhOTMtZjk1NC00YThkLTk5NTEtODAwNzFlN2U0OTg0XkEyXkFqcGc@._V1_.jpg",
+            "description": "Crook Johnny Clay assembles a five-man team to plan and execute a daring racetrack robbery.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Noir",
+                "Crime"
+            ],
+            "id": "the-killing.mkv",
+            "endTime": "999999"
         },
         {
             "title": "King Kong",
@@ -4083,7 +4169,7 @@
             "director": "Stanley Kubrick",
             "year": "1957",
             "duration": "1h 28m",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_FMjpg_UX1045_.jpg",
+            "image_url": "https://s3.amazonaws.com/criterion-production/films/4da269635a13e714b4021c37b5757fc9/N9wFOGE7IhMyxv0TF5tvzn9bXA6hJ1_large.jpg",
             "previewImage": "https://wallpapers.com/images/hd/kirk-douglas-in-paths-of-glory-ifwyqhpbye3b3b9x.jpg",
             "description": "A colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack.",
             "featured": "false",
@@ -4728,6 +4814,23 @@
             ],
             "id": "the-sheep-detectives.mkv",
             "endTime": "772"
+        },
+        {
+            "title": "The Shining",
+            "director": "Stanley Kubrick",
+            "year": "1980",
+            "duration": "2h 26m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/9f/3c/92/9f3c9206-d766-b190-9afd-dcb4a0518c8f/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNWQ2YjgxMTgtYWEzOC00ZTNkLWIxNTctYmRlOTJkNzNjMDQxXkEyXkFqcGc@._V1_.jpg",
+            "description": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "id": "the-shining.mkv",
+            "endTime": "140"
         },
         {
             "title": "Sicario",
