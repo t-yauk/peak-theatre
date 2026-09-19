@@ -68,7 +68,8 @@
                 "Adventure"
             ],
             "id": "2001-space-odyssey.mkv",
-            "endTime": "496"
+            "endTime": "496",
+            "roadshow": "true"
         },
         {
             "title": "The Adventures Of Ichabod And Mr. Toad",
