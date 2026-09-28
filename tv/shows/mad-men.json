@@ -1,0 +1,632 @@
+{
+    "title": "Mad Men",
+    "logo": "mad-men.png",
+    "description": "A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
+    "image_url": "mad-men.jpg",
+    "episodes": [
+        {
+            "title": "Smoke Gets in Your Eyes",
+            "season": "1",
+            "episode_number": "1",
+            "ep_id": "tv/mad-men/0101.mkv",
+            "description": "In 1960 New York City - the high-powered and glamorous \"Golden Age\" of advertising - Don Draper, the biggest ad man in the business, struggles to stay a step ahead of the rapidly changing times and the young executives nipping at his heels.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xh1DKBFk3kCNK3dH8gNdMJH2hqj.jpg"
+        },
+        {
+            "title": "Ladies Room",
+            "season": "1",
+            "episode_number": "2",
+            "ep_id": "tv/mad-men/0102.mkv",
+            "description": "Don continues to conceal his increasingly complicated personal life, even in the face of Roger Sterling's invitation to open up. Meanwhile, Peggy pines for the absent Pete  still on his honeymoon  while fending off the advances of several of the men of Sterling Cooper.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qhbmjMHfcLCCXKdXmLeCiYAfXnr.jpg"
+        },
+        {
+            "title": "Marriage of Figaro",
+            "season": "1",
+            "episode_number": "3",
+            "ep_id": "tv/mad-men/0103.mkv",
+            "description": "Pete returns from his honeymoon, excited about his new marriage, but conflicted about his past encounter with Peggy. After his business relationship with Rachel takes an unforeseen turn, Don attends a party which further illuminates his increasing dissatisfaction with his present life.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/blVeSX5rfCgy5rCjj3BgDKbW0WT.jpg"
+        },
+        {
+            "title": "New Amsterdam",
+            "season": "1",
+            "episode_number": "4",
+            "ep_id": "tv/mad-men/0104.mkv",
+            "description": "Pete's professional and personal lives become more complicated as he struggles to assert power in both. While facing pressure from his wife regarding a new apartment, he further alienates Don and endangers his own position at Sterling Cooper.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/yBn02tVwxgqlDJzoNUmUmecRm5M.jpg"
+        },
+        {
+            "title": "5G",
+            "season": "1",
+            "episode_number": "5",
+            "ep_id": "tv/mad-men/0105.mkv",
+            "description": "After Don wins an award, his photo is featured in Advertising Age. Don must deal with the fallout as the photo brings back a past he isnt ready to confront. Ken gets a short story published in The Atlantic Monthly, inciting jealousy among his colleagues and driving Pete to make an unorthodox request of his wife. Peggy overhears a startling conversation in the office and shares the secret with Joan.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/9Mf3X8LrR9FQPkkiYaWH703Apih.jpg"
+        },
+        {
+            "title": "Babylon",
+            "season": "1",
+            "episode_number": "6",
+            "ep_id": "tv/mad-men/0106.mkv",
+            "description": "A taboo office romance is revealed. At a brainstorming session, Peggy proves to be more than a secretary, opening up new opportunities for her at Sterling Cooper. Meanwhile, Rachel faces her conflicted feelings for Don after he seeks out her advice on a new campaign.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/qwQVIrgweLsPiBPpj4o3hqyqMP4.jpg"
+        },
+        {
+            "title": "Red in the Face",
+            "season": "1",
+            "episode_number": "7",
+            "ep_id": "tv/mad-men/0107.mkv",
+            "description": "Roger joins Don for an evening of dinner and drinking, during which Roger's behavior leads to a rift in their friendship. Though Don accepts his apology, there are further consequences for Roger. Pete faces trouble at home as he continues to struggle with the demands of his new marriage.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/q3sKVC4aDFgSmfs2OQvFjiK3Uhs.jpg"
+        },
+        {
+            "title": "The Hobo Code",
+            "season": "1",
+            "episode_number": "8",
+            "ep_id": "tv/mad-men/0108.mkv",
+            "description": "Don is tormented as pieces of his secretive past begin to haunt him. Peggy's new success at work, and resulting boost in confidence, threaten her office relationship. Salvatore Romano gets a little too close with a client.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/g1O1jh2IoME4KcTeLWAOauZBj6c.jpg"
+        },
+        {
+            "title": "Shoot",
+            "season": "1",
+            "episode_number": "9",
+            "ep_id": "tv/mad-men/0109.mkv",
+            "description": "A rival ad agency courts Don, involving Betty in their attempt to lure him from Sterling Cooper. As the presidential campaign heats up, the agency looks for new ways to counter the latest Kennedy ads. Tempers flare over Peggy.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rgevPtL8Se929doBH7zOY6Fx54s.jpg"
+        },
+        {
+            "title": "Long Weekend",
+            "season": "1",
+            "episode_number": "10",
+            "ep_id": "tv/mad-men/0110.mkv",
+            "description": "Don loses an account. Roger, stuck in the city for Labor Day weekend, attempts to cheer him up. Meanwhile, Joan has a night out on the town with her roommate.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hFN69GxXmvAkx5W5G3GdI5fiLd4.jpg"
+        },
+        {
+            "title": "Indian Summer",
+            "season": "1",
+            "episode_number": "11",
+            "ep_id": "tv/mad-men/0111.mkv",
+            "description": "Peggy is given a difficult assignment. Roger's work problems provide new opportunities for Don, and Pete grows more frustrated. Betty finds a new outlet for her growing dissatisfaction.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/ngohcjAnzX10VpJZWryWyvQpoGL.jpg"
+        },
+        {
+            "title": "Nixon vs. Kennedy",
+            "season": "1",
+            "episode_number": "12",
+            "ep_id": "tv/mad-men/0112.mkv",
+            "description": "On election night, the Sterling Cooper staff pulls a rowdy all-nighter while watching the returns. Pete's ambitions cause him to directly challenge Don. Don remembers his past as a soldier in the Korean War.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/kjikZvCRLwlWVE6ArcRkewHMBUf.jpg"
+        },
+        {
+            "title": "The Wheel",
+            "season": "1",
+            "episode_number": "13",
+            "ep_id": "tv/mad-men/0113.mkv",
+            "description": "As Thanksgiving approaches, Don's work responsibilities interfere with his domestic life. Peggy is given a new opportunity, provoking the ire of some of her colleagues. Betty makes a startling discovery.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2WTwvoDMJg614eOHXSqQ2CISWfn.jpg"
+        },
+        {
+            "title": "For Those Who Think Young",
+            "season": "2",
+            "episode_number": "1",
+            "ep_id": "tv/mad-men/0201.mkv",
+            "description": "It\u2019s Valentine\u2019s Day, and the Sterling Cooper advertising agency is hustling to stay on top of its game and buzzing over the newest office equipment. Don and Duck find themselves at odds over an account. Betty reconnects with an old friend and once again finds herself struggling with car trouble.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/mBqSKwUdiVkpXr5XCGzLmfmorkt.jpg"
+        },
+        {
+            "title": "Flight 1",
+            "season": "2",
+            "episode_number": "2",
+            "ep_id": "tv/mad-men/0202.mkv",
+            "description": "Paul hosts a party at his apartment and introduces someone special to his Sterling Cooper colleagues. Peggy visits her family for dinner. Despite a conflict of interest, the Sterling Cooper agency aggressively pursues an airline account and Duck attempts to appeal to the client using an unorthodox approach.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/9DdmLNkQfAI9lZ54mENVnFyNxqz.jpg"
+        },
+        {
+            "title": "The Benefactor",
+            "season": "2",
+            "episode_number": "3",
+            "ep_id": "tv/mad-men/0203.mkv",
+            "description": "Trouble arises on the set of a commercial; Harry tries to gather support for a controversial sponsorship; Betty and Don try to appease a client with a friendly dinner.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/mEWOMeaYVBfcq78XLTqzDLEO7Kt.jpg"
+        },
+        {
+            "title": "Three Sundays",
+            "season": "2",
+            "episode_number": "4",
+            "ep_id": "tv/mad-men/0204.mkv",
+            "description": "Peggy's family hosts a lunch for their church's new priest; Don and Betty enjoy a weekend together; Pete and Ken take a client out to lunch; the staff works to prepare for a last minute pitch meeting.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/hGbNZ6sGJoVJQt0Jy7pm67J5oar.jpg"
+        },
+        {
+            "title": "The New Girl",
+            "season": "2",
+            "episode_number": "5",
+            "ep_id": "tv/mad-men/0205.mkv",
+            "description": "Don has to deal with issues between a TV comedian and his wife; Joan finds Don the perfect secretary.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/alSzQhC13DRAap81bDSjCFIr9YU.jpg"
+        },
+        {
+            "title": "Maidenform",
+            "season": "2",
+            "episode_number": "6",
+            "ep_id": "tv/mad-men/0206.mkv",
+            "description": "Don and Duck try to make peace; Peggy tries to get into the executive's after-hours meetings; Duck deals with a family visit.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/k41acpFNrDGDXoNHeZCdjQzSzu8.jpg"
+        },
+        {
+            "title": "The Gold Violin",
+            "season": "2",
+            "episode_number": "7",
+            "ep_id": "tv/mad-men/0207.mkv",
+            "description": "Don buys a new car; Pete, Harry and Ken strategize to attract new business; Don's secretary makes a grave error; Cooper has a new piece of art in his office.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/r9wC2frHCVMtaX6dTVjtX2XaM1I.jpg"
+        },
+        {
+            "title": "A Night to Remember",
+            "season": "2",
+            "episode_number": "8",
+            "ep_id": "tv/mad-men/0208.mkv",
+            "description": "Peggy contributes on a church project; Duck and Don try to create market appeal for a foreign beer brand; Harry recruits assistance to help with the workload in his department.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/m0sBYPwvNFBSaXMa0k1cqOynNwb.jpg"
+        },
+        {
+            "title": "Six Month Leave",
+            "season": "2",
+            "episode_number": "9",
+            "ep_id": "tv/mad-men/0209.mkv",
+            "description": "Freddy Rumsen disappoints his team during a pitch. Pete finds an opportunity at the office to exploit while Don proves his loyalty to an old friend. Betty finds a welcome distraction in Sara Beth.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/nh3AmyU0UV2AKdu3BDIjKE8qAV2.jpg"
+        },
+        {
+            "title": "The Inheritance",
+            "season": "2",
+            "episode_number": "10",
+            "ep_id": "tv/mad-men/0210.mkv",
+            "description": "Betty visits her father; Paul's girlfriend tries to convince him to prioritize his duties; Pete's mother disapproves of his and Trudy's idea.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/wjIIn7FEDnjz1VMfIEWjMnU3H6e.jpg"
+        },
+        {
+            "title": "The Jet Set",
+            "season": "2",
+            "episode_number": "11",
+            "ep_id": "tv/mad-men/0211.mkv",
+            "description": "Don makes some new friends on his trip to Los Angeles; Peggy looks for romance; Duck ponders the future of Sterling Cooper.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/18UeOtE7gaYS8ih1mOFhp48CTc4.jpg"
+        },
+        {
+            "title": "The Mountain King",
+            "season": "2",
+            "episode_number": "12",
+            "ep_id": "tv/mad-men/0212.mkv",
+            "description": "Don meets up with an old friend; Pete's personal life presents problems; Joan brings her boyfriend to the office.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/8OOttiVUFzXL9gp4tsvCtKu3obA.jpg"
+        },
+        {
+            "title": "Meditations in an Emergency",
+            "season": "2",
+            "episode_number": "13",
+            "ep_id": "tv/mad-men/0213.mkv",
+            "description": "The office scrambles without Don; Betty learns some disconcerting news.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/p7d2S4eCHsBmqrynNpJyrLOKuh6.jpg"
+        },
+        {
+            "title": "Out of Town",
+            "season": "3",
+            "episode_number": "1",
+            "ep_id": "tv/mad-men/0301.mkv",
+            "description": "In the third-season opener, Salvatore and Don take a business trip out of town. Pete Campbell and Ken Cosgrove worry about the changes at Sterling-Cooper and how the changes will impact them.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/pN9lKpFD67HYVxcZR0sLXtuom0G.jpg"
+        },
+        {
+            "title": "Love Among the Ruins",
+            "season": "3",
+            "episode_number": "2",
+            "ep_id": "tv/mad-men/0302.mkv",
+            "description": "Don's father-in-law pays a visit to his daughter's family. Peggy works hard on a campaign while the firm tries to decide if they will accommodate an unusual request from a client. Elsewhere, Roger plans a wedding.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rgpny4jrBzWuOZeweDE02Ui0L6Y.jpg"
+        },
+        {
+            "title": "My Old Kentucky Home",
+            "season": "3",
+            "episode_number": "3",
+            "ep_id": "tv/mad-men/0303.mkv",
+            "description": "The writers make an attempt to stave off late-night boredom during a mandatory overtime session. Roger throws a party as Joan and Greg host their own party. Sally has a run-in with Grandpa.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/pqQwIQgiqtjQIVbRchQTCZ2OAwg.jpg"
+        },
+        {
+            "title": "The Arrangements",
+            "season": "3",
+            "episode_number": "4",
+            "ep_id": "tv/mad-men/0304.mkv",
+            "description": "Don and his father-in-law cross paths. Meanwhile, Peggy is in search of a new roommate; and a rich new client is excited to be doing business with the firm.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3Ply0bnV7ccUzFPAEeLONmdoGo7.jpg"
+        },
+        {
+            "title": "The Fog",
+            "season": "3",
+            "episode_number": "5",
+            "ep_id": "tv/mad-men/0305.mkv",
+            "description": "Sally's behavior causes concern for Don and Betty. Betty has an eye-opening dream that has a strange effect on her. Pete tries to work a new business angle in his dealings.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/blvnhuaxEovD8BvNuamv3scPUK8.jpg"
+        },
+        {
+            "title": "Guy Walks Into an Advertising Agency",
+            "season": "3",
+            "episode_number": "6",
+            "ep_id": "tv/mad-men/0306.mkv",
+            "description": "Sterling Cooper receives a surprise visitor; Sally has been spooked by something (or someone); and Joan receives some shocking news.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7Iwe5THascP35sW3bvfSgtdNnJ8.jpg"
+        },
+        {
+            "title": "Seven Twenty Three",
+            "season": "3",
+            "episode_number": "7",
+            "ep_id": "tv/mad-men/0307.mkv",
+            "description": "Betty tries her hand at local politics. Don is forced into thinking about the future. Peggy receives a luxurious gift.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/r2drgP2FvQRXYuMwLv5oWigY8w6.jpg"
+        },
+        {
+            "title": "Souvenir",
+            "season": "3",
+            "episode_number": "8",
+            "ep_id": "tv/mad-men/0308.mkv",
+            "description": "Don decides to include Betty on a company business trip. Pete lends a hand to a neighbor in his apartment building.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2NBuaDHuW9Se1MVHS6ZSSQN7eN9.jpg"
+        },
+        {
+            "title": "Wee Small Hours",
+            "season": "3",
+            "episode_number": "9",
+            "ep_id": "tv/mad-men/0309.mkv",
+            "description": "There is trouble for Don and Sal in giving their clients what they ask for. Meanwhile, Betty hosts a fundraiser.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/gaRTvTPn3U1czXlTpZAytUZwt6b.jpg"
+        },
+        {
+            "title": "The Color Blue",
+            "season": "3",
+            "episode_number": "10",
+            "ep_id": "tv/mad-men/0310.mkv",
+            "description": "The firm celebrates as they hit a milestone. Peggy and Paul compete to secure the same account.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/fyhPtUVohYfgA3UfNku7OuHP6gQ.jpg"
+        },
+        {
+            "title": "The Gypsy and the Hobo",
+            "season": "3",
+            "episode_number": "11",
+            "ep_id": "tv/mad-men/0311.mkv",
+            "description": "A former client makes a return; Betty and her kids go on a trip; and Joan and Greg make plans for their future.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xwMX0iAfboX3LnM1zPHwqwwVGP4.jpg"
+        },
+        {
+            "title": "The Grown-Ups",
+            "season": "3",
+            "episode_number": "12",
+            "ep_id": "tv/mad-men/0312.mkv",
+            "description": "Peggy's taste in men proves questionable. Pete has to make a big decision about his career and a candidate makes a big impression on Don.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/19ECaM4nidYFEbECvJomhNHklIB.jpg"
+        },
+        {
+            "title": "Shut the Door. Have a Seat",
+            "season": "3",
+            "episode_number": "13",
+            "ep_id": "tv/mad-men/0313.mkv",
+            "description": "Don has a big meeting with Connie about their future relationship. Betty is the beneficiary of some interesting advice and Pete has a serious sit-down with some clients.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/yfW4uwvzwd6APHSiSqwUbmDg0ja.jpg"
+        },
+        {
+            "title": "Public Relations",
+            "season": "4",
+            "episode_number": "1",
+            "ep_id": "tv/mad-men/0401.mkv",
+            "description": "Don deals with a trade-paper interview but doesn't want to talk about himself. A manufacturer of a \"wholesome\" two-piece bathing suit wants to hire the firm but doesn't want anything too risque. Pete and Peggy try to secure more money for the firm.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/7PFbko8FHALH8SVtLQNkzp3sWMq.jpg"
+        },
+        {
+            "title": "Christmas Comes But Once a Year",
+            "season": "4",
+            "episode_number": "2",
+            "ep_id": "tv/mad-men/0402.mkv",
+            "description": "The agency's Christmas party is nearly spoiled by the late arrival of a surprise and not-so-welcome visitor.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/sX53bIGHEcmCFCD3MvbHioj1Kdx.jpg"
+        },
+        {
+            "title": "The Good News",
+            "season": "4",
+            "episode_number": "3",
+            "ep_id": "tv/mad-men/0403.mkv",
+            "description": "Don takes a trip. Joan has scheduling problems. Don and Lane get to know each other a little better.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/wEUexLo2OS6cfc5QopN5zwS7utz.jpg"
+        },
+        {
+            "title": "The Rejected",
+            "season": "4",
+            "episode_number": "4",
+            "ep_id": "tv/mad-men/0404.mkv",
+            "description": "An edict from Roger and Lane puts Pete in a personal dilemma.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/g4YXoyQRuiz0wLqbrJqZ58caEgO.jpg"
+        },
+        {
+            "title": "The Chrysanthemum and the Sword",
+            "season": "4",
+            "episode_number": "5",
+            "ep_id": "tv/mad-men/0405.mkv",
+            "description": "Don and Pete disregard Roger's plans in order to land a new client.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/o3iQtiN5SzeO7ohOUDk3W9UbtWH.jpg"
+        },
+        {
+            "title": "Waldorf Stories",
+            "season": "4",
+            "episode_number": "6",
+            "ep_id": "tv/mad-men/0406.mkv",
+            "description": "Peggy clashes with her new creative partner; Don pitches under unusual circumstances.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/kiQ7ziznDrncEFgXMTP6XQquzWM.jpg"
+        },
+        {
+            "title": "The Suitcase",
+            "season": "4",
+            "episode_number": "7",
+            "ep_id": "tv/mad-men/0407.mkv",
+            "description": "A deadline disrupts Sterling Cooper Draper Pryce.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/g9Umc0P72RM6aumFVSDIozUMeNn.jpg"
+        },
+        {
+            "title": "The Summer Man",
+            "season": "4",
+            "episode_number": "8",
+            "ep_id": "tv/mad-men/0408.mkv",
+            "description": "Joan and Peggy deal with high-jinx in the office.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/71f6PyUgvlukolkElUP8J1M8h4p.jpg"
+        },
+        {
+            "title": "The Beautiful Girls",
+            "season": "4",
+            "episode_number": "9",
+            "ep_id": "tv/mad-men/0409.mkv",
+            "description": "Peggy is forced to face some unpleasant facts about a client's discriminatory business practices. Don and Faye's burgeoning relationship is tested when Sally runs away from home and turns up at the office. Roger tries to rekindle his affair with Joan.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/v1my0jju6JRpoQ9hS8PODOATToo.jpg"
+        },
+        {
+            "title": "Hands and Knees",
+            "season": "4",
+            "episode_number": "10",
+            "ep_id": "tv/mad-men/0410.mkv",
+            "description": "An unannounced visitor at the Francis home rattles Betty.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/h9dgE3CQLAujRfW87qAfcNKNe99.jpg"
+        },
+        {
+            "title": "Chinese Wall",
+            "season": "4",
+            "episode_number": "11",
+            "ep_id": "tv/mad-men/0411.mkv",
+            "description": "Sterling Cooper Draper Price employees resort to scuttlebutt after an agency wide meeting is called.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/xFOA45YLaZQBn3hKvmJ5sQ223NM.jpg"
+        },
+        {
+            "title": "Blowing Smoke",
+            "season": "4",
+            "episode_number": "12",
+            "ep_id": "tv/mad-men/0412.mkv",
+            "description": "In the midst of a crisis, Don runs into an old friend.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/jAGV0IrdlocsrCmg6Sxe3u1kBbE.jpg"
+        },
+        {
+            "title": "Tomorrowland",
+            "season": "4",
+            "episode_number": "13",
+            "ep_id": "tv/mad-men/0413.mkv",
+            "description": "Don and Peggy are faced with life-altering decisions.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/yXCdJ4GBclbjHonL6s9bxtNPeqK.jpg"
+        },
+        {
+            "title": "A Little Kiss (1)",
+            "season": "5",
+            "episode_number": "1",
+            "ep_id": "tv/mad-men/0501.mkv",
+            "description": "Megan throws Don a surprise birthday party and new mother Joan begins to wonder if she still has a job when she's ready to come back.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3YR7gMvU6Mn7zqP0VAxBU7x8vEW.jpg"
+        },
+        {
+            "title": "A Little Kiss (2)",
+            "season": "5",
+            "episode_number": "2",
+            "ep_id": "tv/mad-men/0501.mkv",
+            "description": "Don and Megan work out some of their issues, Roger and Pete butt heads, and Joan has a run-in with a house guest.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/9sNaWdSSGbTz11lFdecmxPQXbuq.jpg"
+        },
+        {
+            "title": "Tea Leaves",
+            "season": "5",
+            "episode_number": "3",
+            "ep_id": "tv/mad-men/0503.mkv",
+            "description": "As Sterling Cooper Draper Pryce tries to build upon its current business, Peggy is given new responsibility. Don and Harry indulge a client. Betty contemplates her mortality after seeing a doctor.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rcRLIKko3qCnqs7dGdpMQEJEkUq.jpg"
+        },
+        {
+            "title": "Mystery Date",
+            "season": "5",
+            "episode_number": "4",
+            "ep_id": "tv/mad-men/0504.mkv",
+            "description": "Don has an encounter with someone from the past. Meanwhile, Roger increases Peggy's workload, and Joan comes to a momentous decision.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/fKxzsA1uQQkYzptPfgShazJUJwB.jpg"
+        },
+        {
+            "title": "Signal 30",
+            "season": "5",
+            "episode_number": "5",
+            "ep_id": "tv/mad-men/0505.mkv",
+            "description": "Lane attempts to land an account with Jaguar Cars, leading to a altercation with Pete. Pete and Trudy host a dinner party in the suburbs.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/tMlY8h9jO1nNTo9vbKuoKIcWl1w.jpg"
+        },
+        {
+            "title": "Far Away Places",
+            "season": "5",
+            "episode_number": "6",
+            "ep_id": "tv/mad-men/0506.mkv",
+            "description": "Peggy has a tough time during a particularly formidable pitch. Don calls on a potential client. Roger and Jane have an experience with LSD.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/o1GfhTIiny2AuBKoiZI3OB6b9Yk.jpg"
+        },
+        {
+            "title": "At the Codfish Ball",
+            "season": "5",
+            "episode_number": "7",
+            "ep_id": "tv/mad-men/0507.mkv",
+            "description": "Don is honored at a banquet for the American Cancer Society, but finds his professional reputation has been damaged. Sally lends a hand to a relative. Megan's parents come to visit from Canada.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/87wr4MujoIZNf9xJ0rswlPtDqqe.jpg"
+        },
+        {
+            "title": "Lady Lazarus",
+            "season": "5",
+            "episode_number": "8",
+            "ep_id": "tv/mad-men/0508.mkv",
+            "description": "Megan has second thoughts about her future at Sterling, Cooper, Draper, Pryce. Peggy lashes out when she's inadvertently put in the uncomfortable position of having to lie. Pete's effort to protect an acquaintance doesn't turn out quite like he expected.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/gpDaSjvIyxqYzTQL0s9B5Cugs6.jpg"
+        },
+        {
+            "title": "Dark Shadows",
+            "season": "5",
+            "episode_number": "9",
+            "ep_id": "tv/mad-men/0509.mkv",
+            "description": "Don attempts to regain his creative spark, but undermines a member of his staff while doing so. Roger pursues some new clients, and in the process, hurts Jane. Betty displays her pettiness when she reveals a distressing secret to Sally.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/wkobnMFZgt4Ce7jvnuj3f4b6MKT.jpg"
+        },
+        {
+            "title": "Christmas Waltz",
+            "season": "5",
+            "episode_number": "10",
+            "ep_id": "tv/mad-men/0510.mkv",
+            "description": "Harry finds himself in an uncomfortable position after reconnecting with Paul Kinsey who has joined the Hare Krishnas. Lane takes drastic and unethical measures to get out of financial trouble. Don spends an afternoon with Joan to get her mind off her marital problems.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/3p8pAha6cSEcrnvJNtV8izkAWPe.jpg"
+        },
+        {
+            "title": "The Other Woman",
+            "season": "5",
+            "episode_number": "11",
+            "ep_id": "tv/mad-men/0511.mkv",
+            "description": "Pete asks Joan to make a personal and moral sacrifice to ensure the company lands the Jaguar account. Don becomes furious after learning of the impact Megan's new profession will have on their life. Feeling unappreciated, Peggy attends lunch with Freddy Rumsen, who encourages her to make a move.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/oM1Pi5sJUeele5gqDye5doq9DEU.jpg"
+        },
+        {
+            "title": "Commissions and Fees",
+            "season": "5",
+            "episode_number": "12",
+            "ep_id": "tv/mad-men/0512.mkv",
+            "description": "Lane's shameful secret comes to the surface with dire consequences. Don recaptures his hunger for success, and Sally experiences a major milestone.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/byKurVJseCm1yTIfw4W1VlBzwDm.jpg"
+        },
+        {
+            "title": "The Phantom",
+            "season": "5",
+            "episode_number": "13",
+            "ep_id": "tv/mad-men/0513.mkv",
+            "description": "Roger seeks to expand his affair with Megan's mother. Pete has a \"last\" encounter with Beth with lasting repercussions. Megan struggles to find acting work and asks for Don's help getting an audition. Peggy still seeks Don's approval.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/Appo0ePfLYmmlTTfMfljzSikNUu.jpg"
+        },
+        {
+            "title": "The Doorway (1)",
+            "season": "6",
+            "episode_number": "1",
+            "ep_id": "tv/mad-men/0601.mkv",
+            "description": "Don and Megan take a trip to Hawaii for the holidays, Sally's friend visits the Francis family, a comedian torpedoes Peggy's Super Bowl ad campaign, and Roger gets some bad news about his mother.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/6keu46pIMFmRLK2csKiLNlXxaiO.jpg"
+        },
+        {
+            "title": "The Doorway (2)",
+            "season": "6",
+            "episode_number": "2",
+            "ep_id": "tv/mad-men/0601.mkv",
+            "description": "Don strikes up a friendship with the surgeon in his building, Peggy tries to save her campaign, Roger makes a scene at his mother's funeral, and Betty goes to Manhattan to find Sally's friend.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4eEe1baUoWXFZGL82ybwEoFdGVp.jpg"
+        },
+        {
+            "title": "Collaborators",
+            "season": "6",
+            "episode_number": "3",
+            "ep_id": "tv/mad-men/0603.mkv",
+            "description": "While Don continues his affair with Sylvia, Pete's latest infidelity threatens his marriage. Meanwhile, Peggy's icy relationship with her new staff continues, but she also gets an unlikely tip on a potential new client.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/mqYh1nfMkwqZxRwrwP7UTY1CGUZ.jpg"
+        },
+        {
+            "title": "To Have and to Hold",
+            "season": "6",
+            "episode_number": "4",
+            "ep_id": "tv/mad-men/0604.mkv",
+            "description": "Don works in secret on a Heinz ketchup campaign while Megan gets a love scene on the set of her soap opera. Meanwhile, Harry makes his power play while Joan has more trouble with the secretaries.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/zErnI13dWaiRi47leKF16wdwW7i.jpg"
+        },
+        {
+            "title": "The Flood",
+            "season": "6",
+            "episode_number": "5",
+            "ep_id": "tv/mad-men/0605.mkv",
+            "description": "Set among the events surrounding Martin Luther King's assassination, Peggy tries to get a new apartment, Ginsberg is set up on a date, and Don has a revelation during his weekend with the kids.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/yBBml2l1INgzfC4yvbiirha0hyD.jpg"
+        },
+        {
+            "title": "For Immediate Release",
+            "season": "6",
+            "episode_number": "6",
+            "ep_id": "tv/mad-men/0606.mkv",
+            "description": "As the firm prepares to go public, Don and Pete's actions cause them to lose two huge clients. However, Roger uses a new connection to put them in position to gain their biggest client ever.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/yb3VNwNlpRALlxbpuvHCStuJKu9.jpg"
+        },
+        {
+            "title": "Man With a Plan",
+            "season": "6",
+            "episode_number": "7",
+            "ep_id": "tv/mad-men/0607.mkv",
+            "description": "Things quickly become awkward after the two firms merge, Don asserts his dominance over Sylvia, Pete has to deal with his ailing mother, and Bob Benson helps out a sick Joan.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/zinA7VnchrnPcoPz1tMR6CQUkJ9.jpg"
+        },
+        {
+            "title": "The Crash",
+            "season": "6",
+            "episode_number": "8",
+            "ep_id": "tv/mad-men/0608.mkv",
+            "description": "The creative department has a wild, drug-influenced weekend as they work on the Chevy account, Don has trouble letting go of Sylvia, and Sally walks in on an unwelcome intruder.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/2MjwJw9G8ARJa6ZWDVjhP2Nn5R9.jpg"
+        },
+        {
+            "title": "The Better Half",
+            "season": "6",
+            "episode_number": "9",
+            "ep_id": "tv/mad-men/0609.mkv",
+            "description": "Peggy becomes unsatisfied with her apartment and with Abe, Don has an eventful weekend with Betty while Megan has problems on the set, Roger has time with his grandson, and Pete begins exploring his options outside the firm.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/yb0NggCxRuQPO292mo1vMHZgbkU.jpg"
+        },
+        {
+            "title": "A Tale of Two Cities",
+            "season": "6",
+            "episode_number": "10",
+            "ep_id": "tv/mad-men/0610.mkv",
+            "description": "Cutler and Chaough prepare to make radical changes to the firm while Sterling and Draper are visiting a client in Los Angeles. Joan's decision to go after a new account on her own leaves Pete furious and frustrated.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/pfjnQuFu2mgVvMNvILnPLZYlqmj.jpg"
+        },
+        {
+            "title": "Favors",
+            "season": "6",
+            "episode_number": "11",
+            "ep_id": "tv/mad-men/0611.mkv",
+            "description": "Don is preoccupied with keeping Sylvia's son from being drafted, Peggy has a rat in her apartment, Don and Ted bury the hatchet, Pete has a problem with his mother's new nurse, and Sally makes an accidental discovery about her father.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/iUMkqQvt4680kYfgEO7IcL4n7h5.jpg"
+        },
+        {
+            "title": "The Quality of Mercy",
+            "season": "6",
+            "episode_number": "12",
+            "ep_id": "tv/mad-men/0612.mkv",
+            "description": "Don renews his battle with Ted after seeing his relationship with Peggy, Sally interviews at a boarding school, and Pete discovers Bob Benson's background.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/4HZOAnmNvoMEsIYfxBOqiH4FMkn.jpg"
+        },
+        {
+            "title": "In Care Of",
+            "season": "6",
+            "episode_number": "13",
+            "ep_id": "tv/mad-men/0613.mkv",
+            "description": "With his personal and professional life crumbling around him, Don positions himself for a change of scenery. Meanwhile, Pete's life is falling apart as well, thanks to the meddling of Bob Benson.",
+            "thumbnail": "https://image.tmdb.org/t/p/w500/rikuAPsl5urWlGblvbbkMBm258r.jpg"
+        }
+    ]
+}
