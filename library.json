@@ -90,6 +90,23 @@
             "endTime": "12"
         },
         {
+            "title": "The Adventures of Tintin",
+            "director": "Steven Spielberg",
+            "year": "2011",
+            "duration": "1h 47m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/e4/50/d1/e450d152-a563-7f4a-2dc2-1825ce5f9096/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://images.squarespace-cdn.com/content/v1/59e512ddf43b55c29c71b996/1543783629146-7W1GBBNF6MD88CE91N39/adventuresoftintin.jpg",
+            "description": "Intrepid reporter Tintin and Captain Haddock set off on a treasure hunt for a sunken ship commanded by Haddock's ancestor.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Adventure"
+            ],
+            "id": "tintin.mp4",
+            "endTime": "380"
+        },
+        {
             "title": "Airplane!",
             "director": "David Zucker, Jim Abrahams, Jerry Zucker",
             "year": "1980",
@@ -1156,6 +1173,23 @@
             "endTime": "158"
         },
         {
+            "title": "Close Encounters of the Third Kind",
+            "director": "Steven Spielberg",
+            "year": "1977",
+            "duration": "2h 18m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/65/25/4b/65254b46-9a4c-3c07-c0ac-c079fd06363a/CLOSE_ENCOUNTERS_OF_THE_THIRD_KIND_DIRECTORS_CUT_1977_HE_DC_MLF-WW-artwork.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://media.wired.com/photos/61f3570c14ec8fbe076335f4/3:2/w_2560%2Cc_limit/Culture_Close%2520Encounters%2520Still_MCDCLEN_EC009.jpg",
+            "description": "An Indiana electric lineman finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "id": "close-encounters.mkv",
+            "endTime": "195"
+        },
+        {
             "title": "Clue",
             "director": "Jonathan Lynn",
             "year": "1985",
@@ -1171,6 +1205,22 @@
             ],
             "id": "clue.mkv",
             "endTime": "213"
+        },
+        {
+            "title": "The Color Purple",
+            "director": "Steven Spielberg",
+            "year": "1985",
+            "duration": "2h 34m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/a0/56/dc/a056dc16-0c26-c53f-faae-f8272c6fff3d/f8269ca0-6ef5-4df2-823f-28257426df28_ColorPurple_4K_V_DD_KA_TT_2000x3000_300dpi_EN-srgb.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://media.vanityfair.com/photos/657205c7d3946842dc3c4235/master/pass/The-Color-Purple-2023.png",
+            "description": "A tale spanning forty years in the life of Celie, an African-American woman living in the South who survives incredible abuse and bigotry.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Drama"
+            ],
+            "id": "color-purple.mp4",
+            "endTime": "271"
         },
         {
             "title": "Original Cast Album: Company",
@@ -1573,6 +1623,23 @@
             "endTime": "448"
         },
         {
+            "title": "Empire of the Sun",
+            "director": "Steven Spielberg",
+            "year": "1987",
+            "duration": "2h 33m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMWY2NjdkYzEtYWZhZS00YTdhLWJhMGQtZjkxZjZkODQyYWY5XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNjAzY2JhMzEtMjM0Mi00NzE4LTg2ODMtNTA5NmE4NWM5MDBmXkEyXkFqcGc@._V1_.jpg",
+            "description": "A teenage English boy struggles to survive with his fellow captives under Japanese occupation of China during World War II.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "War",
+                "Action"
+            ],
+            "id": "empire-of-sun.mp4",
+            "endTime": "389"
+        },
+        {
             "title": "Enemy",
             "director": "Denis Villeneuve",
             "year": "2013",
@@ -1725,6 +1792,22 @@
             ],
             "id": "exorcist.mkv",
             "endTime": "245"
+        },
+        {
+            "title": "The Fabelmans",
+            "director": "Steven Spielberg",
+            "year": "2022",
+            "duration": "2h 31m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/a8/33/fb/a833fb57-4ab4-4b7d-742e-e6a46cab1014/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://pyxis.nymag.com/v1/imgs/491/57f/c7020c8e72e5ed2fa5a3d55a419985b319-fabelmans.2x.rsocial.w600.jpg",
+            "description": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Drama"
+            ],
+            "id": "fablemans.mkv",
+            "endTime": "414"
         },
         {
             "title": "Fargo",
@@ -1899,6 +1982,23 @@
             "trailer_id": "frankenstein.mp4",
             "subtitle_id": "frankenstein.vtt",
             "endTime": "639"
+        },
+        {
+            "title": "The French Connection",
+            "director": "William Friedkin",
+            "year": "1971",
+            "duration": "1h 44m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video19/v4/13/96/95/139695b3-cebe-62c0-9cb0-209a84152305/mzm.yqbttjzn.jpg/800x1200CA.TVA23C01.jpg",
+            "previewImage": "https://i.guim.co.uk/img/media/3a01331bcd40e28747b9324075124e6f01dd80a8/0_92_2845_1707/master/2845.jpg?width=1200&quality=85&auto=format&fit=max&s=b24b1f6eed896eb01482e707cbef01be",
+            "description": "A pair of NYPD detectives in the Narcotics Bureau stumble onto a heroin smuggling ring based in Marseilles, but stopping them and capturing their leaders proves an elusive goal.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Action",
+                "Crime"
+            ],
+            "id": "french-connection.mp4",
+            "endTime": "71"
         },
         {
             "title": "Friendship",
@@ -2255,6 +2355,75 @@
             ],
             "id": "ikiru.mkv",
             "endTime": "17"
+        },
+        {
+            "title": "Raiders of the Lost Ark",
+            "subtitle": "Indiana Jones",
+            "director": "Steven Spielberg",
+            "year": "1981",
+            "duration": "1h 55m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/18/4d/4e/184d4e5b-e526-b7d5-71f3-5c249e379f34/IndianaJonesAndTheRaidersOfTheLostArk_EN_2000x3000__U00281_U0029.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://cdn.britannica.com/63/194563-050-3FB9EB6B/Harrison-Ford-Raiders-of-the-Lost-Ark.jpg",
+            "description": "In 1936, archaeologist Indiana Jones is tasked by Army Intelligence to help locate a legendary ancient power, the Ark of Covenant, before the Nazis get it first.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "indiana-jones-1.mkv",
+            "endTime": "256"
+        },
+        {
+            "title": "Indiana Jones and the Temple of Doom",
+            "director": "Steven Spielberg",
+            "year": "1984",
+            "duration": "1h 58m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/52/18/4f/52184f11-46a4-68c4-0718-db59d39b6c1c/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://i.guim.co.uk/img/media/b9352096be2b74bb0afca7236d92dd8cd92ed726/0_0_2976_1786/master/2976.jpg?width=1200&quality=85&auto=format&fit=max&s=b4137b5a95f07735bbf72440ea723445",
+            "description": "In 1935, Indiana Jones is tasked by Indian villagers with reclaiming a sacred stone stolen from them by a secret cult.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "indiana-jones-2.mkv",
+            "endTime": "314"
+        },
+        {
+            "title": "Indiana Jones and the Last Crusade",
+            "director": "Steven Spielberg",
+            "year": "1989",
+            "duration": "2h 7m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/4f/82/02/4f8202d9-9624-d3e7-017f-deaf2a47a4dc/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABbmITVuHtY1DS9wyYjYDb1ZSBnVA6vJmsRFELACdQf0p0x6HG30kYUWbGZ8OcIdwxWrvt-XLRHOwRrRlF8wJehqcXRkPYQFxcSZBl-S2uJBrrH7zRphdWo3rZQ.jpg?r=856",
+            "description": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "indiana-jones-3.mkv",
+            "endTime": "375"
+        },
+        {
+            "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+            "director": "Steven Spielberg",
+            "year": "2008",
+            "duration": "2h 2m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video49/v4/cb/d6/7b/cbd67b5c-7fec-8ca4-e9b6-5ebc0eef4ad9/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/S/pv-target-images/4139ef67ff411a6f0f4d422c5b63abf1814f5c1a994566e2d2f59b0b02438ae9._SX1080_FMjpg_.jpg",
+            "description": "In 1957, Indiana Jones is called back into action when he becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "indiana-jones-4.mkv",
+            "endTime": "367"
         },
         {
             "title": "Inglourious Basterds",
@@ -2683,6 +2852,41 @@
             "endTime": "11"
         },
         {
+            "title": "Jurassic Park",
+            "director": "Steven Spielberg",
+            "year": "1993",
+            "duration": "2h 7m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/9b/4c/15/9b4c1561-5ed2-aa67-96d2-f706598a16a8/pr_source.jpg/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://ew.com/thmb/nkhTiFxABZj0kDXP_BmARzZq9eM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mcdjupa_ec032-2000-54a5fd57a2a94d38b6fb28dc3fe47d2b.jpg",
+            "description": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Adventure",
+                "Sci-fi"
+            ],
+            "id": "jurassic-park-1.mkv",
+            "endTime": "378"
+        },
+        {
+            "title": "The Lost World",
+            "subtitle": "Jurassic Park",
+            "director": "Steven Spielberg",
+            "year": "1997",
+            "duration": "2h 9m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/1b/0d/56/1b0d56e8-11ab-e009-4d7d-e44b7c13410d/pr_source.jpg/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://thelegacyofjohnwilliams.com/wp-content/uploads/2023/09/tlw_04.jpg",
+            "description": "A research team is sent to the Jurassic Park Site B island to study the dinosaurs there, while an InGen team approaches with another agenda.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Adventure",
+                "Sci-fi"
+            ],
+            "id": "jurassic-park-2.mkv",
+            "endTime": "401"
+        },
+        {
             "title": "The Kid",
             "director": "Charles Chaplin",
             "year": "1921",
@@ -2971,6 +3175,23 @@
             "id": "lighthouse.mkv",
             "trailer_id": "lighthouse.mp4",
             "endTime": "171"
+        },
+        {
+            "title": "Lincoln",
+            "director": "Steven Spielberg",
+            "year": "2012",
+            "duration": "2h 30m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/46/21/62/46216296-fbbd-3347-faaf-34f4a40588af/Lincoln-Apple_Mexico.jpg/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://blog.cinemaautopsy.com/wp-content/uploads/2013/02/i2-l-003302.jpg",
+            "description": "As the Civil War rages on, U.S President Abraham Lincoln struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on his decision to emancipate the slaves.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "War",
+                "Drama"
+            ],
+            "id": "lincoln.mp4",
+            "endTime": "512"
         },
         {
             "title": "The Lost Boys",
@@ -3624,6 +3845,23 @@
             ],
             "id": "mr-smith-goes-to-washington.mkv",
             "endTime": "36"
+        },
+        {
+            "title": "Munich",
+            "director": "Steven Spielberg",
+            "year": "2005",
+            "duration": "2h 44m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video1/v4/38/4e/18/384e18a8-85ce-c576-b918-b1a1f578942b/02328_MLNA_Munich_1400x2100.jpg/1400x2100CA.TVA23C01.jpg",
+            "previewImage": "https://amblin.com/wp-content/uploads/2019/03/munich_2005_photo_hero-1920x1080.jpg",
+            "description": "After the Black September capture and massacre of Israeli athletes at the 1972 Olympics, five men are chosen to eliminate the people responsible for that fateful day.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Thriller",
+                "Action"
+            ],
+            "id": "munich.mp4",
+            "endTime": "439"
         },
         {
             "title": "The Muppet Movie",
@@ -4527,6 +4765,23 @@
             "endTime": "491"
         },
         {
+            "title": "Ready Player One",
+            "director": "Steven Spielberg",
+            "year": "2018",
+            "duration": "2h 20m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/e2/76/58/e2765818-c896-277b-f0a2-de1a00014737/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://ucsdguardian.org/wp-content/uploads/2018/04/ready-player-one-1.jpg",
+            "description": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Action"
+            ],
+            "id": "ready-player-one.mkv",
+            "endTime": "639"
+        },
+        {
             "title": "Rear Window",
             "director": "Alfred Hitchcock",
             "year": "1954",
@@ -4714,6 +4969,23 @@
             "endTime": "43"
         },
         {
+            "title": "Saving Private Ryan",
+            "director": "Steven Spielberg",
+            "year": "1998",
+            "duration": "2h 49m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video2/v4/98/dc/a7/98dca7d3-7fbf-ead6-9d48-f369308c6170/33310EU001.jpg/1400x2100CA.TVA23C01.jpg",
+            "previewImage": "https://imageio.forbes.com/blogs-images/johnarcher/files/2018/05/SavingPrivateRyanHanks.jpg",
+            "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "War",
+                "Action"
+            ],
+            "id": "saving-private-ryan.mkv",
+            "endTime": "402"
+        },
+        {
             "title": "Scanners",
             "director": "David Cronenberg",
             "year": "1981",
@@ -4729,6 +5001,23 @@
             ],
             "id": "scanners.mp4",
             "endTime": "224"
+        },
+        {
+            "title": "Schindler's List",
+            "director": "Steven Spielberg",
+            "year": "1993",
+            "duration": "3h 16m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/8b/56/74/8b567419-bee7-1f7a-3e6d-1118262fe3b7/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://www.rogerebert.com/wp-content/uploads/2024/07/The-List-is-Life-On-the-30th-Anniversary-of-Schindlers-List.jpg",
+            "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "War",
+                "Drama"
+            ],
+            "id": "schindlers-list.mkv",
+            "endTime": "373"
         },
         {
             "title": "Seven Samurai",
@@ -5357,6 +5646,23 @@
             "endTime": "166"
         },
         {
+            "title": "The Terminal",
+            "director": "Steven Spielberg",
+            "year": "2004",
+            "duration": "2h 8m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/57/3c/3b/573c3b38-989d-52fc-5004-785a0aff438c/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjA3NTc3NzMxMV5BMl5BanBnXkFtZTcwODIxMjQyMw@@._V1_.jpg",
+            "description": "An Eastern European tourist unexpectedly finds himself stranded at JFK airport and must take up temporary residence there.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "id": "terminal.mkv",
+            "endTime": "429"
+        },
+        {
             "title": "The Terminator",
             "director": "James Cameron",
             "year": "1984",
@@ -5957,6 +6263,23 @@
             "oscars": [
                 "supporting-actress"
             ]
+        },
+        {
+            "title": "West Side Story",
+            "director": "Steven Spielberg",
+            "year": "2021",
+            "duration": "2h 36m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/98/a3/6a/98a36a4f-21eb-e28e-72fb-5fec1cfea94d/FOX_WEST_SIDE_STORY_TH_ITUNES-KEY-ART_WW_ARTWORK_EN_2000x3000_35OW3F0000028V.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://ohtorch.com/wp-content/uploads/2021/05/West-Side-Story-2021-Remake-Cast-Everything-You-Need-to-Know-900x480-1.jpg",
+            "description": "When young Tony and Maria fall in love in 1957 New York City, their romance helps to fuel the fire between the warring Jets and Sharks, two rival gangs vying for control of the streets.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Musical",
+                "Romance"
+            ],
+            "id": "west-side-story.mkv",
+            "endTime": "542"
         },
         {
             "title": "The Wiz",
