@@ -1,6 +1,7 @@
 import jsonConfig from 'https://t-yauk.github.io/peak-theatre/library.json' with {type: "json"};
 import jsonConfig2 from 'https://t-yauk.github.io/peak-theatre/lists/features.json' with {type: "json"};
 import jsonConfig3 from 'https://t-yauk.github.io/peak-theatre/directors.json' with {type: "json"};
+import trailers from 'https://t-yauk.github.io/peak-theatre/lists/trailers.json' with {type: "json"}
 const data = jsonConfig.movies;
 const features = jsonConfig2.movies;
 const directors = jsonConfig3.directors;
@@ -177,11 +178,25 @@ function populateProfile() {
 
 function populateVideo() {
 
+    let filename;
+
     if(profType == "features"){
-        v.src = "C:\\Users\\peaktheatre\\Videos\\trailers\\" + featured[fK].trailer_id;
+        for(let i=0;i<trailers.length;i++){
+            if(featured[fK].title == trailers[i][0] && featured[fK].year == trailers[i][1]){
+                filename = trailers[i][2];
+                break;
+            }
+        }
     }else{
-        v.src = "C:\\Users\\peaktheatre\\Videos\\trailers\\" + catalog[k].trailer_id;
+        for(let i=0;i<trailers.length;i++){
+            if(catalog[k].title == trailers[i][0] && catalog[k].year == trailers[i][1]){
+                filename = trailers[i][2];
+                break;
+            }
+        }
     }
+
+    v.src = "Z:/trailers/" + filename;
 
     pw.classList.remove("active");
     vw.classList.add("active");
@@ -195,9 +210,31 @@ function populateVideo() {
     setTimeout(function() {
         v.play();
         v.volume = 0.25;
+        const videoInterval = setInterval(seconds, 1000);
     }, 500);
 
 }
+
+function closeVideo() {
+    light = "movies-on";
+    localStorage.setItem('lights', 'on');
+    api.controlLights({
+        light
+    });
+    v.pause();
+    vw.classList.remove("active");
+    pw.classList.add("active");
+    action = "profile";
+}
+
+
+
+
+
+
+
+
+
 
 function syncFeatures(){
 
@@ -562,15 +599,7 @@ function videoListener(key){
     }else if(key === 'ArrowLeft'){
         v.currentTime -= 10;
     }else if(key === 'Backspace'){
-        light = "movies-on";
-        localStorage.setItem('lights', 'on');
-        api.controlLights({
-            light
-        });
-        v.pause();
-        vw.classList.remove("active");
-        pw.classList.add("active");
-        action = "profile";
+        closeVideo();
     }
 
 }
@@ -688,5 +717,18 @@ function actionSidebar() {
     }
 
     action = "menu";
+
+}
+
+
+function seconds() {
+
+    const remaining = v.duration - v.currentTime;
+
+    if(remaining < 1){
+        setTimeout(function() {
+            closeVideo();
+        }, 1000);
+    }
 
 }
