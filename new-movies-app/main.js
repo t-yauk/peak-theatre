@@ -224,6 +224,7 @@ function closeVideo() {
     v.pause();
     vw.classList.remove("active");
     pw.classList.add("active");
+    v.currentTime = 0;
     action = "profile";
 }
 
