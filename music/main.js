@@ -117,7 +117,7 @@ function populatePlayer() {
     audio.play();
 
     const audioTimecode = setInterval(timecode, 1000);
-    const timelineInterval = setInterval(timeline, 10);
+    const timelineInterval = setInterval(timeline, 300);
 
     player.classList.add("active");
 
@@ -383,6 +383,10 @@ document.addEventListener('keydown', function(event) {
 
     clearInterval(staticInterval);
     staticInterval = setInterval(inactivity, 30000);
+
+    if(event.key === 'h'){
+        window.location.href = "home.html";
+    }
 
     if(action == "library"){
         libraryListener(event.key);
