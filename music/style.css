@@ -1,0 +1,342 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background: #192329;
+    overflow: hidden;
+    cursor: none;
+    color: white;
+}
+
+.main-wrapper{
+    display: block;
+    width: 100%;
+}
+
+.menu{
+    display: block;
+    width: calc(100% - 3.34vw);
+    padding: 1.67vw;
+}
+
+.menu-item{
+    display: inline-block;
+    font-size: 4.43vw;
+    line-height: 1;
+    font-weight: 550;
+    text-transform: uppercase;
+    margin-right: 1.67vw;
+    transition: opacity 1s ease;
+}
+
+.menu-item:first-child{
+    opacity: 0.4;
+}
+
+.menu-item:nth-child(2){
+    opacity: 0.3;
+}
+
+.menu-item:nth-child(3){
+    opacity: 0.2;
+}
+
+.menu-item:last-child{
+    opacity: 0.1;
+}
+
+.menu-item.active{
+    opacity: 1;
+}
+
+.library-wrapper{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 35vh;
+    overflow-x: hidden;
+}
+
+#library{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50000px;
+    height: 100%;
+    transform: translateX(0px);
+    transition: transform 1s ease;
+}
+
+.library-item{
+    position: relative;
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    height: 35vh;
+    aspect-ratio: 1/1;
+    transform: translateX(100vw);
+    transition: transform 1s ease;
+}
+
+.library-item img{
+    height: 95%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 1.4vw;
+    filter: drop-shadow(0 0 0.4rem rgba(0,0,0,0.25));
+    transition: filter 1s ease;
+}
+
+.library-item .overlay{
+    position: absolute;
+    height: 95%;
+    aspect-ratio: 1/1;
+    border-radius: 1.4vw;
+    background-image: linear-gradient(to top, rgba(255,255,255,0.75), rgba(255,255,255,0));
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.library-item.active{
+    filter: drop-shadow(0 0 0.4rem rgba(0,0,0,0.5));
+}
+
+.library-item.active .overlay{
+    opacity: 1;
+}
+
+.album-wrapper{
+    position: fixed;
+    display: none;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0,0,0,0.25);
+    backdrop-filter: blur(15px);
+    z-index: 20;
+}
+
+.album-wrapper.active{
+    display: block;
+}
+
+.container{
+    position: absolute;
+    display: flex;
+    top: 0;
+    align-items: center;
+    width: calc(50vw - 1.4vw);
+    height: 100vh;
+}
+
+.container:first-child{
+    left: 0;
+    justify-content: right;
+    padding-right: 1.4vw;
+}
+
+.container:last-child{
+    right: 0;
+    justify-content: left;
+    padding-right: 1.4vw;
+}
+
+.album-wrapper #artwork{
+    width: 45vw;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 50px;
+    filter: drop-shadow(0 0 0.4rem rgba(0,0,0,0.5));
+}
+
+.album-content{
+    display: block;
+    width: 45vw;
+    filter: drop-shadow(0 0 0.4rem rgba(0,0,0,0.5));
+}
+
+.album-content #title{
+    display: block;
+    font-size: 5.8vw;
+    line-height: 1;
+    font-weight: 550;
+    text-transform: capitalize;
+}
+
+.album-content #artist{
+    display: block;
+    font-size: 2.68vw;
+    line-height: 1;
+    font-weight: 550;
+    text-transform: uppercase;
+    padding-top: 0.67vw;
+    padding-bottom: 0.67vw;
+}
+
+.album-content .track-wrapper{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 0px;
+    border-radius: 1.4vw;
+    background: #27363f;
+    overflow: hidden;
+    transition: height 1s ease;
+}
+
+.album-content .track-wrapper .track-item{
+    display: block;
+    padding: 1.67vw;
+    font-size: 1.34vw;
+    line-height: 1;
+    font-weight: 550;
+}
+
+.album-content .track-wrapper .track-item:nth-child(even){
+    background: rgba(255,255,255,0.1);
+}
+
+.album-content .track-wrapper .track-item.active{
+    background: white;
+    color: #27363f;
+}
+
+#tracks{
+    position: relative;
+    transform: translateY(0px);
+    transition: transform 0.5s ease;
+}
+
+.player{
+    position: fixed;
+    display: none;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center top;
+    z-index: 100;
+}
+
+.player.active{
+    display: flex;
+}
+
+.player .overlay{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0,0,0,0.5);
+    backdrop-filter: blur(20px);
+    z-index: -1;
+}
+
+.player img{
+    position: absolute;
+    top: 3vh;
+    height: 73vh;
+    border-radius: 2.78vw;
+}
+
+.track-details-wrapper{
+    position: absolute;
+    text-align: center;
+    top: 78vh;
+    width: 78vh;
+    height: 2.78vw;
+}
+
+.track-details-wrapper #track-title{
+    display: block;
+    font-size: 2.23vw;
+    line-height: 1;
+}
+
+#track-details{
+    display: inline-flex;
+    align-items: center;
+    font-size: 1.2vw;
+    line-height: 1;
+    text-transform: uppercase;
+    margin-top: 1.12vw;
+}
+
+.timeline-wrapper{
+    position: absolute;
+    display: flex;
+    top: 92vh;
+    align-items: center;
+    width: 75vw;
+    height: 0.83vw;
+    border-radius: 0.83vw;
+    background: rgba(255,255,255,0.2);
+    backdrop-filter: blur(10px);
+}
+
+#timeline{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0%;
+    height: 100%;
+    border-radius: 0.83vw 0px 0px 0.83vw;
+    background: rgb(44,112,244);
+    transition: width 0.3s;
+}
+
+#timeline-position{
+    position: absolute;
+    left: 0;
+    width: 0.39vw;
+    height: 1.67vw;
+    border-radius: 0.39vw;
+    background: white;
+    transition: left 0.3s;
+}
+
+#timecode{
+    position: absolute;
+    top: 95vh;
+}
+
+.control-menu{
+    position: absolute;
+    display: block;
+    text-align: center;
+    top: 86.25vh;
+    width: 11.16vw;
+}
+
+.control-item{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5vw;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    background: rgba(255,255,255,0.25);
+    backdrop-filter: blur(10px);
+    color: black;
+    vertical-align: top;
+}
+
+.control-item:nth-child(2){
+    margin-left: 0.28vw;
+    margin-right: 0.28vw;
+}
+
+.control-item.active{
+    background: white;
+    color: #27363f;
+}
