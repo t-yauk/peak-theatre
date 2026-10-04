@@ -29,7 +29,7 @@ body{
 
 .menu-item{
     display: inline-block;
-    font-size: 4.43vw;
+    font-size: 4.4vw;
     line-height: 1;
     font-weight: 550;
     text-transform: uppercase;
@@ -307,6 +307,7 @@ body{
 
 #timecode{
     position: absolute;
+    font-size: 0.89vw;
     top: 95vh;
 }
 
@@ -323,6 +324,7 @@ body{
     align-items: center;
     justify-content: center;
     width: 2.5vw;
+    font-size: 0.89vw;
     aspect-ratio: 1/1;
     border-radius: 100%;
     background: rgba(255,255,255,0.25);
