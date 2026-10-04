@@ -292,7 +292,7 @@ body{
     height: 100%;
     border-radius: 0.83vw 0px 0px 0.83vw;
     background: rgb(44,112,244);
-    transition: width 0.3s;
+    transition: 0.3s;
 }
 
 #timeline-position{
@@ -302,7 +302,7 @@ body{
     height: 1.67vw;
     border-radius: 0.39vw;
     background: white;
-    transition: left 0.3s;
+    transition: 0.3s;
 }
 
 #timecode{
@@ -315,7 +315,7 @@ body{
     position: absolute;
     display: block;
     text-align: center;
-    top: 86.25vh;
+    top: 86.5vh;
     width: 11.16vw;
 }
 
@@ -323,8 +323,8 @@ body{
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 2.5vw;
-    font-size: 0.89vw;
+    width: 2.25vw;
+    font-size: 0.8vw;
     aspect-ratio: 1/1;
     border-radius: 100%;
     background: rgba(255,255,255,0.25);
