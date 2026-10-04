@@ -190,7 +190,6 @@ body{
     border-radius: 1.4vw;
     background: #27363f;
     overflow: hidden;
-    transition: height 1s ease;
 }
 
 .album-content .track-wrapper .track-item{
@@ -245,14 +244,14 @@ body{
 .player img{
     position: absolute;
     top: 3vh;
-    height: 73vh;
+    height: 72vh;
     border-radius: 2.78vw;
 }
 
 .track-details-wrapper{
     position: absolute;
     text-align: center;
-    top: 78vh;
+    top: 77.5vh;
     width: 78vh;
     height: 2.78vw;
 }
