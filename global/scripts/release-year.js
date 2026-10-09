@@ -23,7 +23,7 @@ yearItem.forEach(element => {
 	element.addEventListener('click', function(event) {
 		year = this.innerHTML;
 		localStorage.setItem("timeframe", year);
-		if(year !== "2025"){
+		if(year !== "2026"){
 			year = year.slice(0,3);
 		}
 		console.log(year);
