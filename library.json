@@ -5353,6 +5353,23 @@
             "roadshow": "true"
         },
         {
+            "title": "Spider-Man: Brand New Day",
+            "director": "Destin Daniel Cretton",
+            "year": "2026",
+            "duration": "2h 25m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYzQyYWM3ZWEtNWUxNi00MWI2LWIwYzktYWRkNzQ3Y2M2MGUwXkEyXkFqcGc@._V1_.jpg",
+            "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "spiderman-9.mkv",
+            "endTime": "567"
+        },
+        {
             "title": "Splitsville",
             "director": "Michael Angelo Covino",
             "year": "2025",
