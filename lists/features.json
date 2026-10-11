@@ -1,6 +1,9 @@
 {
     "movies": [
         {
+            "name": Spider-Man: Brand New Day
+        },
+        {
             "name": "Disclosure Day"
         },
         {
@@ -11,9 +14,6 @@
         },
         {
             "name": "Nirvanna: The Band - The Show - The Movie"
-        },
-        {
-            "name": "The Sheep Detectives"
         }
     ]
 }
