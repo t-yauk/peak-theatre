@@ -2306,6 +2306,23 @@
             "endTime": "214"
         },
         {
+            "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "director": "Francis Lawrence",
+            "year": "2023",
+            "duration": "2h 37m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/5e/05/a9/5e05a98f-1a69-cb03-38d7-30560cb5d566/THG_BSS_iTunes_Transactional-Movies-Cover.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYzRhMGQ1NjAtYTkwMS00NzZkLTk1M2EtOTRmNDM1ZGQ3YzlmXkEyXkFqcGc@._V1_.jpg",
+            "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "hunger-games-5.mkv",
+            "endTime": "581"
+        },
+        {
             "title": "I Know Where I'm Going!",
             "director": "Michael Powell, Emeric Pressburger",
             "year": "1945",
@@ -5867,6 +5884,23 @@
             "id": "throne-of-blood.mkv",
             "subtitle_id": "throne-of-blood.vtt",
             "endTime": "20"
+        },
+        {
+            "title": "Thunderbolts*",
+            "director": "Jake Schreier",
+            "year": "2025",
+            "duration": "2h 7m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNzJkMjcxNDgtOTUwOS00ZDAzLThmZjktYTg1ZDQ2OWM1MmRkXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNDQyYWQ3MTQtYWJiNy00MzYyLWFhNzctMjc5ZjFkZWUyNWJjXkEyXkFqcGc@._V1_.jpg",
+            "description": "After finding themselves ensnared in a death trap, an unconventional team of antiheroes must go on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ],
+            "id": "thunderbolts.mkv",
+            "endTime": "765"
         },
         {
             "title": "Time Bandits",
