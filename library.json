@@ -825,12 +825,12 @@
             "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQ0MDQ3OTYwNV5BMl5BanBnXkFtZTcwNDYxNTI5Mw@@._V1_.jpg",
             "description": "Five high school students meet in Saturday detention and discover how they have a great deal more in common than they thought.",
             "featured": "false",
-            "theatre_optimized": "false",
+            "theatre_optimized": "true",
             "genre": [
                 "Comedy",
                 "Drama"
             ],
-            "id": "breakfast-club.mp4",
+            "id": "breakfast-club.mkv",
             "endTime": "119"
         },
         {
