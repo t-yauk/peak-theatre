@@ -4351,6 +4351,22 @@
             "endTime": "259"
         },
         {
+            "title": "One Flew Over the Cuckoo's Nest",
+            "director": "Miloš Forman",
+            "year": "1975",
+            "duration": "2h 13m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/6a/b0/86/6ab08607-c9b6-2526-f823-6d2dee1aa2ee/One_Flew_Over_Cuckoos_Nest_4K_V_KA_TT_2000x3000_EN.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYzcwZGZkZGItZmRjNy00NzNjLTlkOTYtMTBjZTllMWNmZjA1XkEyXkFqcGc@._V1_.jpg",
+            "description": "A rebellious convict is sent to a psychiatric hospital for evaluation in 1963 Oregon, and encourages his docile companions to take more control of their lives and defy the tyrannical head nurse.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Drama"
+            ],
+            "id": "one-flew-over-cuckoos-nest.mkv",
+            "endTime": "128"
+        },
+        {
             "title": "Onibaba",
             "director": "Kaneto Shindō",
             "year": "1964",
