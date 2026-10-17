@@ -526,6 +526,136 @@
             ]
         },
         {
+            "title": "Evita: The Full Album",
+            "id": "evita",
+            "artist": "Various Artists",
+            "year": "2026",
+            "genre": "Soundtrack",
+            "artwork": "199538949544.jpg",
+            "tracks": [
+                {
+                    "id": "1.flac",
+                    "title": "Requiem"
+                },
+                {
+                    "id": "2.flac",
+                    "title": "Oh What a Circus"
+                },
+                {
+                    "id": "3.flac",
+                    "title": "On This Night of a Thousand Stars"
+                },
+                {
+                    "id": "4.flac",
+                    "title": "Eva, Beware of the City"
+                },
+                {
+                    "id": "5.flac",
+                    "title": "Buenos Aires"
+                },
+                {
+                    "id": "6.flac",
+                    "title": "Goodnight and Thank You"
+                },
+                {
+                    "id": "7.flac",
+                    "title": "The Art of the Possible"
+                },
+                {
+                    "id": "8.flac",
+                    "title": "Charity Concert"
+                },
+                {
+                    "id": "9.flac",
+                    "title": "I'd Be Surprisingly Good for You"
+                },
+                {
+                    "id": "10.flac",
+                    "title": "Hello and Goodbye"
+                },
+                {
+                    "id": "11.flac",
+                    "title": "Another Suitcase in Another Hall"
+                },
+                {
+                    "id": "12.flac",
+                    "title": "Peron's Latest Flame"
+                },
+                {
+                    "id": "13.flac",
+                    "title": "Dice are Rolling, Pt. 1"
+                },
+                {
+                    "id": "14.flac",
+                    "title": "A New Argentina"
+                },
+                {
+                    "id": "15.flac",
+                    "title": "On the Balcony of the Casa Rosada, Pt. 1"
+                },
+                {
+                    "id": "16.flac",
+                    "title": "Don't Cry For Me Argentina"
+                },
+                {
+                    "id": "17.flac",
+                    "title": "On the Balcony of the Casa Rosada, Pt. 2"
+                },
+                {
+                    "id": "18.flac",
+                    "title": "High Flying, Adored"
+                },
+                {
+                    "id": "19.flac",
+                    "title": "Rainbow High"
+                },
+                {
+                    "id": "20.flac",
+                    "title": "Rainbow Tour"
+                },
+                {
+                    "id": "21.flac",
+                    "title": "The Actress Hasn't Learned The Lines"
+                },
+                {
+                    "id": "22.flac",
+                    "title": "And the Money Kept Rolling In"
+                },
+                {
+                    "id": "23.flac",
+                    "title": "Santa Evita"
+                },
+                {
+                    "id": "24.flac",
+                    "title": "Waltz for Eva and Che"
+                },
+                {
+                    "id": "25.flac",
+                    "title": "She is a Diamond"
+                },
+                {
+                    "id": "26.flac",
+                    "title": "Dice are Rolling, Pt. 2"
+                },
+                {
+                    "id": "27.flac",
+                    "title": "You Must Love Me"
+                },
+                {
+                    "id": "28.flac",
+                    "title": "Eva's Final Broadcast"
+                },
+                {
+                    "id": "29.flac",
+                    "title": "Montage"
+                },
+                {
+                    "id": "30.flac",
+                    "title": "Lament"
+                }
+            ]
+        },
+        {
             "title": "Dangerous",
             "id": "dangerous",
             "artist": "Michael Jackson",
