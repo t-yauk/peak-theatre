@@ -6,7 +6,7 @@ let light;
 
 window.onload = function() {
 
-    v.src = "D:/peaktheatre/music/videos/" + video.id;
+    v.src = "Z:/music/videos/" + video.id;
     v.play();
 
 }
