@@ -3486,6 +3486,23 @@
             "endTime": "673"
         },
         {
+            "title": "MaXXXine",
+            "director": "Ti West",
+            "year": "2024",
+            "duration": "1h 43m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9f/c4/45/9fc4453d-f070-cfa5-fbd6-cfd7d08ddfc1/A24-Maxxxine-ATV-2000x3000-PosterArt-srgb.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZTVkY2IzN2MtZTg4OS00NmZlLThmYjAtMDUwNWIwNWI1NzY5XkEyXkFqcGc@._V1_.jpg",
+            "description": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "id": "maxxxine.mkv",
+            "endTime": "504"
+        },
+        {
             "title": "Mean Streets",
             "director": "Martin Scorsese",
             "year": "1973",
@@ -4289,6 +4306,23 @@
             ],
             "id": "of-mice-and-men.mp4",
             "endTime": "30"
+        },
+        {
+            "title": "On the Waterfront",
+            "director": "Elia Kazan",
+            "year": "1954",
+            "duration": "1h 48m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/f5/9f/19/f59f1974-b905-ee3a-c358-548289f4f369/ON_THE_WATERFRONT_1954_MLF-artwork.jpg/800x1200CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMmRjNzVlMzgtMjc5YS00YmMxLTk2ZmUtYzg0MGYyNDM1NTg0XkEyXkFqcGc@._V1_.jpg",
+            "description": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Thriller",
+                "Crime"
+            ],
+            "id": "on-the-waterfront.mkv",
+            "endTime": "15"
         },
         {
             "title": "One Battle After Another",
@@ -5536,6 +5570,22 @@
             ],
             "id": "stop-that-train.mkv",
             "endTime": "248"
+        },
+        {
+            "title": "A Streetcar Named Desire",
+            "director": "Elia Kazan",
+            "year": "1951",
+            "duration": "2h 2m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/ae/73/d2/ae73d212-21ae-93fe-f27e-639c6bc696db/pr_source.jpg/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQ2NDc0OTMzN15BMl5BanBnXkFtZTgwMDU0NDMwMjE@._V1_.jpg",
+            "description": "Middle-aged, emotionally disturbed Blanche DuBois moves in with her younger sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Drama"
+            ],
+            "id": "streetcar-named-desire.mp4",
+            "endTime": "28"
         },
         {
             "title": "Summer Stock",
