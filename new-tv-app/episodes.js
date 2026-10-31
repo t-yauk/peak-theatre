@@ -250,6 +250,6 @@ document.addEventListener('keydown', function(event) {
 
 
 function sendEpisode() {
-    localStorage.setItem('the_episode', e);
+    localStorage.setItem('the_episode', k);
     window.location.href = "watch-tv.html";
 }
