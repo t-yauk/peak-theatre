@@ -2340,6 +2340,91 @@
             "endTime": "214"
         },
         {
+            "title": "The Hunger Games",
+            "director": "Gary Ross",
+            "year": "2012",
+            "duration": "2h 22m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a6/f7/0b/a6f70b6f-4633-1fdb-826c-6a14236ea505/HungerGamesThe_iTunes_Transactional-Movies-Cover.jpg/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNTk4OTg0Mzg4NV5BMl5BanBnXkFtZTcwMDAzODMwNw@@._V1_.jpg",
+            "description": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "hunger-games-1.mkv",
+            "endTime": "543"
+        },
+        {
+            "title": "The Hunger Games: Catching Fire",
+            "director": "Francis Lawrence",
+            "year": "2013",
+            "duration": "2h 26m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2d/44/f3/2d44f38b-fe5d-b50e-23ee-20d6f0260613/THG_CatchingFire_iTunes_Transactional-Movies-Cover.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQ5NjYyOTY3N15BMl5BanBnXkFtZTgwMzE3NzY2MDE@._V1_.jpg",
+            "description": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "hunger-games-2.mkv",
+            "endTime": "619"
+        },
+        {
+            "title": "The Hunger Games: Mockingjay - Part 1",
+            "director": "Francis Lawrence",
+            "year": "2013",
+            "duration": "2h 3m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/57/ec/11/57ec1118-77ea-de78-a792-d20d2648a5d9/THG_Mockingjay-Pt1_iTunes_Transactional-Movies-Cover.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjA0NzM2MDk1OV5BMl5BanBnXkFtZTgwODEwMzkxMzE@._V1_.jpg",
+            "description": "Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "hunger-games-3.mkv",
+            "endTime": "713"
+        },
+        {
+            "title": "The Hunger Games: Mockingjay - Part 2",
+            "director": "Francis Lawrence",
+            "year": "2015",
+            "duration": "2h 17m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b2/81/6d/b2816df7-5427-dadb-037c-1995a6539b66/THG_Mockingjay-Pt2_iTunes_Transactional-Movies-Cover.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTYwMDk2ODY4OV5BMl5BanBnXkFtZTgwMzM1OTM5NTE@._V1_.jpg",
+            "description": "Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "hunger-games-4.mkv",
+            "endTime": "671"
+        },
+        {
+            "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "director": "Francis Lawrence",
+            "year": "2023",
+            "duration": "2h 37m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/5e/05/a9/5e05a98f-1a69-cb03-38d7-30560cb5d566/THG_BSS_iTunes_Transactional-Movies-Cover.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://ew.com/thmb/fREljR8Stwmj-Es5SQLNe_7R8ag=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ballad-of-Songbirds-and-Snakes-081622-1779683c55f842219ad98cbb76bba1a3.jpg",
+            "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "id": "hunger-games-5.mkv",
+            "endTime": "581"
+        },
+        {
             "title": "I Know Where I'm Going!",
             "director": "Michael Powell, Emeric Pressburger",
             "year": "1945",
