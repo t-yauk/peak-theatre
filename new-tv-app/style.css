@@ -1,52 +1,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-@import url("https://use.typekit.net/qbc2iub.css");
 
 * {
     font-family: "Poppins", sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    background: #192329;
+    cursor: none;
     color: white;
 }
 
-body {
-    margin: 0;
-    background: #192329;
-    overflow: hidden;
-    cursor: none;
+.background{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to top, #000000, #192329);
 }
 
 .library-wrapper{
-    position: fixed;
+    position: relative;
     display: flex;
-    left: 0;
-    top: 0;
-    align-items: flex-end;
+    align-items: center;
     width: 100%;
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
-    transition: 1s;
+    height: 70vh;
+    overflow-x: hidden;
 }
 
-.library-wrapper .blur{
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100vh;
-    background: rgba(0,0,0,0.1);
-    backdrop-filter: blur(10px);
-    transition: 3s;
-}
-
-.library-wrapper .blur.active{
-    background: black;
-    backdrop-filter: blur(30px);
-}
-
-.library-wrapper #library{
+#library{
     position: absolute;
+    display: flex;
+    flex-wrap: wrap;
     left: 0;
-    bottom: 5%;
-    width: 420vw;
+    top: 0;
+    align-items: center;
+    width: 20000px;
+    height: 100%;
     transform: translateX(0px);
     transition: 0s;
 }
@@ -54,212 +47,186 @@ body {
 .library-item{
     position: relative;
     display: inline-block;
-    width: 20.8vw;
-    margin-right: 1vw;
-    vertical-align: bottom;
-    transform-origin: bottom center; 
+    height: 95%;
+    aspect-ratio: 1/1.5;
+    border-radius: 1.56vw;
+    margin-left: 1.3vw;
+    margin-right: 1.3vw;
+    overflow: hidden;
+    opacity: 0.1;
     transform: scale(1.0);
-    transition: 0.7s;
-}
-
-.library-item:first-child{
-    margin-left: 3.125vw;
+    transition: 0.5s ease;
 }
 
 .library-item img{
-    position: relative;
-    width: 100%;
-    border-radius: 1vw;
-}
-
-.library-item .gradient-overlay{
     position: absolute;
     left: 0;
     top: 0;
     width: 100%;
     height: 100%;
-    border-radius: 1vw;
-    background-image: linear-gradient(to top, rgba(255,255,255,0.5), rgba(255,255,255,0));
-    opacity: 0;
-    transition: 0.7s;
+    object-fit: cover;
 }
 
 .library-item.active{
-    transform: scale(1.1);
-    margin-right: 2.6vw;
-    margin-left: 1.56vw;
-}
-
-.library-item.origin-active{
-    transform: scale(1.1);
-    margin-right: 2.6vw;
-    margin-left: 3.125vw;
-}
-
-.library-item.active .gradient-overlay{
     opacity: 1;
+    transform: scale(1.05);
+}
+
+.library-item.nearby{
+    opacity: 0.5;
 }
 
 
-
-
-
-
-
-
-
-
-#show{
-    display: flex;
-    align-items: center;
-    height: 100vh;
-}
-
-#poster{
-    height: 100vh;
-    z-index: 100;
-}
-
-.content{
-    position: relative;
-    width: 100%;
-    margin-left: 1.5625vw;
-    margin-right: 1.5625vw;
-    transform: translateY(-10.4vw);    
-}
-
-#show-description{
-    display: block;
-    font-family: "articulat-cf", sans-serif;
-    font-size: 1.66vw;
-    line-height: 1.4;
-}
-
-.seasons-wrapper, .episode-wrapper{
-    position: relative;
-    display: block;
-    width: 100%;
-    margin-top: 2.6vw;
-}
 
 .episode-wrapper{
-    margin-top: 1.56vw;
-}
-
-.seasons-wrapper h2{
-    font-size: 2.5vw;
-    font-weight: 550;
-    margin: 0;
-}
-
-#seasons{
-    display: flex;
-    width: 100%;
-    margin-top: 0.26vw;
-}
-
-.season-item{
-    display: block;
-    padding: 0.52vw 0.78vw;
-    border: solid 0.16vw white;
-    border-radius: 0.625vw;
-    font-size: 1.125vw;
-    line-height: 1;
-    font-weight: 500;
-    text-transform: uppercase;
-    margin-right: 0.78vw;
-    transition: padding 0.5s;
-}
-
-.season-item.active{
-    background: white;
-    color: #192329;
-}
-
-.season-item.focus{
-    padding: 0.52vw 1.8vw;
-    background: rgb(44,112,244);
-    border: solid 0.16vw rgb(44,112,244);
-    color: white;
-}
-
-.episode-container{
     position: absolute;
-    width: 20000px;
-    height: 20.8vw;
-    transform: translateX(0px);
-    transition: 0s;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 52vh;
     overflow: hidden;
 }
 
+#episodes{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 90000px;
+    height: 100%;
+    transform: translateX(0px);
+    transition: 0s;
+}
+
 .episode-item{
-    display: inline-block;
-    width: 20.8vw;
-    height: 20.8vw;
-    margin-right: 1vw;
-    opacity: 0.25;
+    position: relative;
+    display: inline-flex;
+    align-items: flex-end;
+    height: calc(100% - 30px);
+    aspect-ratio: 1/1;
+    border-radius: 30px;
+    margin: 15px;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    overflow: hidden;
     vertical-align: top;
-    transition: 0.5s;
+    opacity: 0.3;
+    transition: 0.5s ease;
+}
+
+.episode-item:first-child{
+    margin-left: 30px;
+}
+
+.episode-item img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.episode-item .overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to top, rgba(0,0,0,0.7), rgba(0,0,0,0));
+    z-index: 2;
+    opacity: 0;
+    transition: 0.5s ease;
+}
+
+.episode-item .title{
+    position: relative;
+    display: block;
+    padding: 30px;
+    font-size: 2.5rem;
+    line-height: 1;
+    font-weight: 550;
+    color: white;
+    filter: drop-shadow(0 0 0.4rem rgba(0,0,0,0.3));
+    z-index: 3;
+    opacity: 0;
+    transition: 0.5s ease;
 }
 
 .episode-item.active{
     opacity: 1;
-    transition: 0s;
 }
 
-.episode-item.a1{
-    opacity: 0.4;
-    transition: 0.5s;
-
+.episode-item.active .overlay{
+    opacity: 1;
 }
 
-.episode-item.previous{
-    opacity: 0;
-    transition: 0.5s;
+.episode-item.active .title{
+    opacity: 1;
 }
 
-.episode-item img{
-    display: block;
-    width: 100%;
-    height: 11.7vw;
-    object-fit: cover;
-    border-radius: 0.78vw 0.78vw 0px 0px;
-}
-
-.episode-item .details{
-    display: block;
-    padding: 1vw 1.56vw 1.56vw 1.56vw;
-    height: 6.5vw;
-    background: white;
-    border-radius: 0px 0px 0.78vw 0.78vw;
-}
-
-.episode-item .details .title{
-    display: block;
-    font-size: 1.08vw;
-    line-height: 1;
-    font-weight: bold;
-    color: black;
-}
-
-.episode-item .details .description{
-    color: black;
-    font-size: 0.66vw;
-}
-
-.cover{
-    position: fixed;
+#seasons{
+    position: absolute;
+    display: flex;
     left: 0;
-    top: 0;
+    bottom: 54vh;
     width: 100%;
-    height: 100vh;
-    background: rgba(0,0,0,0);
-    backdrop-filter: blur(0px);
-    transition: 3s;
-    z-index: 200;
+    height: 7vh;
+    overflow: hidden;
 }
 
-.cover.active{
-    background: rgba(0,0,0,1);
-    backdrop-filter: blur(30px);
+.season-item{
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+    padding: 0px 50px;
+    border-radius: 20px;
+    background: #959ca3;
+    color: #192329;
+    font-size: 2rem;
+    font-weight: 550;
+    text-transform: uppercase;
+    margin-right: 15px;
+    opacity: 0.3;
+    transition: 0.5s ease;
+}
+
+.season-item:first-child{
+    margin-left: 30px;
+}
+
+.season-item.active{
+    opacity: 1;
+}
+
+#seasons.active .season-item.active{
+    background: #f9f8ff;
+}
+
+
+.bio-wrapper{
+    position: absolute;
+    display: flex;
+    top: 5vh;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 32vh;
+}
+
+.bio-wrapper img{
+    display: inline-block;
+    width: 28.4vw;
+    height: 100%;
+    margin-right: 1.3vw;
+    object-fit: contain;
+}
+
+.bio-wrapper p{
+    display: inline-block;
+    width: 58.1vw;
+    margin-left: 1.3vw;
+    font-size: 1.1875rem;
+    line-height: 1.825rem;
+    letter-spacing: .2px;
 }
