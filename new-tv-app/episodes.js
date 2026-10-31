@@ -234,7 +234,7 @@ function seasonListener(key) {
 document.addEventListener('keydown', function(event) {
 
     if(event.key === 'Backspace'){
-        window.location.href = "index.html";
+        window.location.href = "tv.html";
     }else if(event.key === 'h'){
         window.location.href = "home.html";
     }
