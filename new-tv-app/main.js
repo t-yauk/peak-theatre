@@ -1,13 +1,13 @@
 import jsonConfig from 'https://t-yauk.github.io/peak-theatre/tv/the-library.json' with {type: "json"};
-const container = document.getElementById("library");
-const wrapper = (document.getElementsByClassName("library-wrapper"))[0];
-const b = (document.getElementsByClassName("blur"))[0];
 const data = jsonConfig.shows;
-let library = [];
-let k = Number(localStorage.getItem('showID'));
-let xOffset = 20.8;
-let disabled = false;
+const library = [];
 let light;
+
+const container = document.getElementById("library");
+const pathway = "Z:/elements/tv/thumbnails";
+
+let i;
+let k = Number(localStorage.getItem('showID'));
 
 window.onload = function() {
 
@@ -17,99 +17,55 @@ window.onload = function() {
         light
     });
 
-    populateLibrary();
+    populate();
 
     setTimeout(function() {
-
-        b.classList.remove("active");
-        wrapper.style.backgroundImage = `url("Z:/elements/tv/artwork/${library[k].image_url}")`;
-        container.style.transition = "1s";
-
+        container.style.transition = "transform 1s ease";
     }, 500);
 
 }
 
-async function populateLibrary() {
+function populate() {
 
-    for(let i=0;i<data.length;i++){
-        const requestURL = data[i].url;
-        const request = new Request(requestURL);
-
-        const response = await fetch(request);
-        const rawJSON = await response.json();
-
-        library.push(rawJSON);
-    }
-
-    populate();
-
-}
-
-async function populate() {
-
-    for(let i=0;i<library.length;i++){
+    for(i=0;i<data.length;i++){
         const newItem = document.createElement('div');
         newItem.classList.add("library-item");
-        newItem.classList.add("library-item-position");
-        newItem.innerHTML = `<img src="Z:/elements/tv/thumbnails/${data[i].image}"><div class="gradient-overlay"></div>`
+        newItem.innerHTML = `<img src="${pathway}/${data[i].image}">`;
         container.appendChild(newItem);
     }
 
-    const x = ((xOffset * (k - 1) + (k * 1))) * -1;
-    
-    if(k > (library.length - 2)){
-        container.style.transform = `translateX(${x+7.8}vw)`;
-    }else if((k < (library.length - 2))){
-        if((k > 1)){
-            container.style.transform = `translateX(${x}vw)`;
-        }else{
-            container.style.transform = `translateX(0vw)`;
-        }
-    }
-
-    setTimeout(function() {
-        activeItem();
-    }, 500);
+    syncLibrary();
 
 }
 
-function activeItem() {
+function syncLibrary() {
 
     const items = document.getElementsByClassName("library-item");
 
-    wrapper.style.backgroundImage = `url("Z:/elements/tv/artwork/${library[k].image_url}")`;
-
-    const x = ((xOffset * (k - 1) + (k * 1))) * -1;
-    
-    if(k == (library.length - 3)){
-        container.style.transform = `translateX(${x+7.8}vw)`;
-    }else if((k < (library.length - 2))){
-        if((k > 1)){
-            container.style.transform = `translateX(${x}vw)`;
-        }else{
-            container.style.transform = `translateX(0vw)`;
+    for(i=0;i<items.length;i++){
+        if(i == k){
+            items[i].classList.add("active");
+            items[i].classList.remove("nearby");
+        } else if((i == (k+1)) || (i == (k-1))) {
+            items[i].classList.remove("active");
+            items[i].classList.add("nearby");
+        } else {
+            items[i].classList.remove("active");
+            items[i].classList.remove("nearby");
         }
     }
 
-    for(let i=0;i<items.length;i++){
-        if(i == k){
-            if(i == 0){
-                items[i].classList.add("origin-active");
-            }else{
-                items[i].classList.add("active");
-            }
-        }else{
-            items[i].classList.remove("origin-active");
-            items[i].classList.remove("active");
-        }
+    const width = items[0].offsetWidth;
+    
+    const offset = (((width + 50) * (k - 1)) * -1);
+
+    if(k > 0){
+        container.style.transform = `translateX(${offset}px)`;
+    } else {
+        container.style.transform = `translateX(0px)`;
     }
 
 }
-
-
-
-
-
 
 
 
@@ -117,24 +73,24 @@ function activeItem() {
 
 document.addEventListener('keydown', function(event) {
 
-    if(disabled == false){
-        if(event.key === 'ArrowRight'){
-            if(k < (data.length - 1)){
-                k = k + 1;
-                activeItem();
-            }
-        }else if(event.key === 'ArrowLeft'){
-            if(k > 0){
-                k = k - 1;
-                activeItem();
-            }
-        }else if(event.key === 'h'){
-            window.location.href = "home.html";
-        }else if(event.key === 'Enter'){
-            localStorage.setItem('showID', k);
-            localStorage.setItem('the_episode', '0');
-            window.location.href = "episodes.html";
-        }
+    if(event.key === 'Backspace' || event.key === 'h'){
+        window.location.href = "home.html";
     }
 
-})
+    if(event.key === 'ArrowRight'){
+        if(k < (data.length - 1)){
+            k = k + 1;
+            syncLibrary();
+        }
+    }else if(event.key === 'ArrowLeft'){
+        if(k > 0){
+            k = k - 1;
+            syncLibrary();
+        }
+    }else if(event.key === 'Enter'){
+        localStorage.setItem('showID', k);
+        localStorage.setItem('the_episode', '0');
+        window.location.href = "episodes.html";
+    }
+
+});
