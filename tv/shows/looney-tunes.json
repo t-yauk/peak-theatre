@@ -1,0 +1,1058 @@
+{
+    "title": "Looney Tunes",
+    "logo": "looney-tunes-logo.png",
+    "description": "The gang's all here! All your favorite animated stars, from every Looney Tunes and Merrie Melodies cartoon, are here to make you howl with laughter!",
+    "image_url": "looney-tunes.png",
+    "episodes": [
+        {
+            "title": "Hare Tonic",
+            "season": "1",
+            "episode_number": "1",
+            "ep_id": "tv/looney-tunes/0101.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Baseball Bugs",
+            "season": "1",
+            "episode_number": "2",
+            "ep_id": "tv/looney-tunes/0102.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Buccaneer Bunny",
+            "season": "1",
+            "episode_number": "3",
+            "ep_id": "tv/looney-tunes/0103.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Old Grey Hare",
+            "season": "1",
+            "episode_number": "4",
+            "ep_id": "tv/looney-tunes/0104.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Rabbit Hood",
+            "season": "1",
+            "episode_number": "5",
+            "ep_id": "tv/looney-tunes/0105.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "8 Ball Bunny",
+            "season": "1",
+            "episode_number": "6",
+            "ep_id": "tv/looney-tunes/0106.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Rabbit of Seville",
+            "season": "1",
+            "episode_number": "7",
+            "ep_id": "tv/looney-tunes/0107.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "What's Opera, Doc",
+            "season": "1",
+            "episode_number": "8",
+            "ep_id": "tv/looney-tunes/0108.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Great Piggy Bank Robbery",
+            "season": "1",
+            "episode_number": "9",
+            "ep_id": "tv/looney-tunes/0109.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A Pest in the House",
+            "season": "1",
+            "episode_number": "1",
+            "ep_id": "tv/looney-tunes/0110.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Scarlet Pumpernickel",
+            "season": "1",
+            "episode_number": "11",
+            "ep_id": "tv/looney-tunes/0111.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Duck Amuck",
+            "season": "1",
+            "episode_number": "12",
+            "ep_id": "tv/looney-tunes/0112.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Robin Hood Daffy",
+            "season": "1",
+            "episode_number": "13",
+            "ep_id": "tv/looney-tunes/0113.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Baby Bottleneck",
+            "season": "1",
+            "episode_number": "14",
+            "ep_id": "tv/looney-tunes/0114.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Kitty Kornered",
+            "season": "1",
+            "episode_number": "15",
+            "ep_id": "tv/looney-tunes/0115.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Scaredy Cat",
+            "season": "1",
+            "episode_number": "16",
+            "ep_id": "tv/looney-tunes/0116.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Porky Chops",
+            "season": "1",
+            "episode_number": "17",
+            "ep_id": "tv/looney-tunes/0117.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Old Glory",
+            "season": "1",
+            "episode_number": "18",
+            "ep_id": "tv/looney-tunes/0118.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A Tale of Two Kitties",
+            "season": "1",
+            "episode_number": "19",
+            "ep_id": "tv/looney-tunes/0119.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Tweetie Pie",
+            "season": "1",
+            "episode_number": "2",
+            "ep_id": "tv/looney-tunes/0120.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Fast and Furry-Ous",
+            "season": "1",
+            "episode_number": "21",
+            "ep_id": "tv/looney-tunes/0121.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Beep, Beep",
+            "season": "1",
+            "episode_number": "22",
+            "ep_id": "tv/looney-tunes/0122.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Lovelorn Leghorn",
+            "season": "1",
+            "episode_number": "23",
+            "ep_id": "tv/looney-tunes/0123.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "For Scent-Imental Reasons",
+            "season": "1",
+            "episode_number": "24",
+            "ep_id": "tv/looney-tunes/0124.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Speedy Gonzales",
+            "season": "1",
+            "episode_number": "25",
+            "ep_id": "tv/looney-tunes/0125.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "One Froggy Evening",
+            "season": "1",
+            "episode_number": "26",
+            "ep_id": "tv/looney-tunes/0126.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Three Little Bops",
+            "season": "1",
+            "episode_number": "27",
+            "ep_id": "tv/looney-tunes/0127.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "I Love to Singa",
+            "season": "1",
+            "episode_number": "28",
+            "ep_id": "tv/looney-tunes/0128.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Katnip Kollege",
+            "season": "1",
+            "episode_number": "29",
+            "ep_id": "tv/looney-tunes/0129.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Dover Boys at Pimento University",
+            "season": "1",
+            "episode_number": "3",
+            "ep_id": "tv/looney-tunes/0130.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Chow Hound",
+            "season": "1",
+            "episode_number": "31",
+            "ep_id": "tv/looney-tunes/0131.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "",
+            "season": "1",
+            "episode_number": "32",
+            "ep_id": "tv/looney-tunes/0132.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Hasty Hare",
+            "season": "1",
+            "episode_number": "33",
+            "ep_id": "tv/looney-tunes/0133.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Duck Dodgers in the 24\u00bdth Century",
+            "season": "1",
+            "episode_number": "34",
+            "ep_id": "tv/looney-tunes/0134.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Hare-Way to the Stars",
+            "season": "1",
+            "episode_number": "35",
+            "ep_id": "tv/looney-tunes/0135.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Mad as a Mars Hare",
+            "season": "1",
+            "episode_number": "36",
+            "ep_id": "tv/looney-tunes/0136.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Devil May Hare",
+            "season": "1",
+            "episode_number": "37",
+            "ep_id": "tv/looney-tunes/0137.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Bedevilled Rabbit",
+            "season": "1",
+            "episode_number": "38",
+            "ep_id": "tv/looney-tunes/0138.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Ducking the Devil",
+            "season": "1",
+            "episode_number": "39",
+            "ep_id": "tv/looney-tunes/0139.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Bill of Hare",
+            "season": "1",
+            "episode_number": "4",
+            "ep_id": "tv/looney-tunes/0140.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Dr. Devil and Mr. Hare",
+            "season": "1",
+            "episode_number": "41",
+            "ep_id": "tv/looney-tunes/0141.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Bewitched Bunny",
+            "season": "1",
+            "episode_number": "42",
+            "ep_id": "tv/looney-tunes/0142.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Broom-Stick Bunny",
+            "season": "1",
+            "episode_number": "43",
+            "ep_id": "tv/looney-tunes/0143.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A Witch's Tangled Hare",
+            "season": "1",
+            "episode_number": "44",
+            "ep_id": "tv/looney-tunes/0144.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A-Haunting We Will Go",
+            "season": "1",
+            "episode_number": "45",
+            "ep_id": "tv/looney-tunes/0145.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Feed the Kitty",
+            "season": "1",
+            "episode_number": "46",
+            "ep_id": "tv/looney-tunes/0146.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Kiss Me Kat",
+            "season": "1",
+            "episode_number": "47",
+            "ep_id": "tv/looney-tunes/0147.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Feline Frame-Up",
+            "season": "1",
+            "episode_number": "48",
+            "ep_id": "tv/looney-tunes/0148.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "From A to Z-Z-Z-Z",
+            "season": "1",
+            "episode_number": "49",
+            "ep_id": "tv/looney-tunes/0149.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Boyhood Daze",
+            "season": "1",
+            "episode_number": "5",
+            "ep_id": "tv/looney-tunes/0150.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A Wild Hare",
+            "season": "2",
+            "episode_number": "1",
+            "ep_id": "tv/looney-tunes/0201.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Buckaroo Bugs",
+            "season": "2",
+            "episode_number": "2",
+            "ep_id": "tv/looney-tunes/0202.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Long-Haired Hare",
+            "season": "2",
+            "episode_number": "3",
+            "ep_id": "tv/looney-tunes/0203.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Ali Baba Bunny",
+            "season": "2",
+            "episode_number": "4",
+            "ep_id": "tv/looney-tunes/0204.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Show Biz Bugs",
+            "season": "2",
+            "episode_number": "5",
+            "ep_id": "tv/looney-tunes/0205.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Wise Quacking Duck",
+            "season": "2",
+            "episode_number": "6",
+            "ep_id": "tv/looney-tunes/0206.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "What Makes Daffy Duck",
+            "season": "2",
+            "episode_number": "7",
+            "ep_id": "tv/looney-tunes/0207.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Book Revue",
+            "season": "2",
+            "episode_number": "8",
+            "ep_id": "tv/looney-tunes/0208.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Deduce, You Say",
+            "season": "2",
+            "episode_number": "9",
+            "ep_id": "tv/looney-tunes/0209.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Porky in Wackyland Porky",
+            "season": "2",
+            "episode_number": "1",
+            "ep_id": "tv/looney-tunes/0210.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "You Ought to Be in Pictures",
+            "season": "2",
+            "episode_number": "11",
+            "ep_id": "tv/looney-tunes/0211.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Porky in Egypt",
+            "season": "2",
+            "episode_number": "12",
+            "ep_id": "tv/looney-tunes/0212.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Back Alley Oproar",
+            "season": "2",
+            "episode_number": "13",
+            "ep_id": "tv/looney-tunes/0213.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Little Red Rodent Hood",
+            "season": "2",
+            "episode_number": "14",
+            "ep_id": "tv/looney-tunes/0214.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Canned Feud",
+            "season": "2",
+            "episode_number": "15",
+            "ep_id": "tv/looney-tunes/0215.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Gift Wrapped",
+            "season": "2",
+            "episode_number": "16",
+            "ep_id": "tv/looney-tunes/0216.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Birdy and the Beast",
+            "season": "2",
+            "episode_number": "17",
+            "ep_id": "tv/looney-tunes/0217.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Home Tweet Home",
+            "season": "2",
+            "episode_number": "18",
+            "ep_id": "tv/looney-tunes/0218.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Going! Going! Gosh!",
+            "season": "2",
+            "episode_number": "19",
+            "ep_id": "tv/looney-tunes/0219.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Zipping Along",
+            "season": "2",
+            "episode_number": "2",
+            "ep_id": "tv/looney-tunes/0220.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Scent-imental Romeo",
+            "season": "2",
+            "episode_number": "21",
+            "ep_id": "tv/looney-tunes/0221.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Foghorn Leghorn",
+            "season": "2",
+            "episode_number": "22",
+            "ep_id": "tv/looney-tunes/0222.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The High and the Flighty",
+            "season": "2",
+            "episode_number": "23",
+            "ep_id": "tv/looney-tunes/0223.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Tabasco Road",
+            "season": "2",
+            "episode_number": "24",
+            "ep_id": "tv/looney-tunes/0224.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Mexicali Shmoes",
+            "season": "2",
+            "episode_number": "25",
+            "ep_id": "tv/looney-tunes/0225.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Wabbit Twouble",
+            "season": "2",
+            "episode_number": "26",
+            "ep_id": "tv/looney-tunes/0226.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Rabbit Fire",
+            "season": "2",
+            "episode_number": "27",
+            "ep_id": "tv/looney-tunes/0227.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Rabbit Seasoning",
+            "season": "2",
+            "episode_number": "28",
+            "ep_id": "tv/looney-tunes/0228.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Duck! Rabbit, Duck!",
+            "season": "2",
+            "episode_number": "29",
+            "ep_id": "tv/looney-tunes/0229.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Drip-Along Daffy",
+            "season": "2",
+            "episode_number": "3",
+            "ep_id": "tv/looney-tunes/0230.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "My Little Duckaroo",
+            "season": "2",
+            "episode_number": "31",
+            "ep_id": "tv/looney-tunes/0231.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Barbary Coast Bunny",
+            "season": "2",
+            "episode_number": "32",
+            "ep_id": "tv/looney-tunes/0232.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Tortoise Beats Hare",
+            "season": "2",
+            "episode_number": "33",
+            "ep_id": "tv/looney-tunes/0233.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Tortoise Wins by a Hare",
+            "season": "2",
+            "episode_number": "34",
+            "ep_id": "tv/looney-tunes/0234.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Rabbit Transit",
+            "season": "2",
+            "episode_number": "35",
+            "ep_id": "tv/looney-tunes/0235.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Porky's Hare Hunt",
+            "season": "2",
+            "episode_number": "36",
+            "ep_id": "tv/looney-tunes/0236.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Hare-um Scare-um",
+            "season": "2",
+            "episode_number": "37",
+            "ep_id": "tv/looney-tunes/0237.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Prest-O Change-O",
+            "season": "2",
+            "episode_number": "38",
+            "ep_id": "tv/looney-tunes/0238.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Elmer's Candid Camera",
+            "season": "2",
+            "episode_number": "39",
+            "ep_id": "tv/looney-tunes/0239.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Bugs Bunny Gets the Boid",
+            "season": "2",
+            "episode_number": "4",
+            "ep_id": "tv/looney-tunes/0240.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Bashful Buzzard",
+            "season": "2",
+            "episode_number": "41",
+            "ep_id": "tv/looney-tunes/0241.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Lion's Busy",
+            "season": "2",
+            "episode_number": "42",
+            "ep_id": "tv/looney-tunes/0242.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Strife with Father",
+            "season": "2",
+            "episode_number": "43",
+            "ep_id": "tv/looney-tunes/0243.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "An Itch in Time",
+            "season": "2",
+            "episode_number": "44",
+            "ep_id": "tv/looney-tunes/0244.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A Horse Fly Fleas",
+            "season": "2",
+            "episode_number": "45",
+            "ep_id": "tv/looney-tunes/0245.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Hollywood Steps Out",
+            "season": "2",
+            "episode_number": "46",
+            "ep_id": "tv/looney-tunes/0246.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Page Miss Glory",
+            "season": "2",
+            "episode_number": "47",
+            "ep_id": "tv/looney-tunes/0247.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Rocket-Bye Baby",
+            "season": "2",
+            "episode_number": "48",
+            "ep_id": "tv/looney-tunes/0248.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Russian Rhapsody",
+            "season": "2",
+            "episode_number": "49",
+            "ep_id": "tv/looney-tunes/0249.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Dough Ray Me-ow",
+            "season": "2",
+            "episode_number": "5",
+            "ep_id": "tv/looney-tunes/0250.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Hiawatha's Rabbit Hunt",
+            "season": "3",
+            "episode_number": "1",
+            "ep_id": "tv/looney-tunes/0301.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A Corny Concerto",
+            "season": "3",
+            "episode_number": "2",
+            "ep_id": "tv/looney-tunes/0302.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Falling Hare",
+            "season": "3",
+            "episode_number": "3",
+            "ep_id": "tv/looney-tunes/0303.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Little Red Riding Rabbit",
+            "season": "3",
+            "episode_number": "4",
+            "ep_id": "tv/looney-tunes/0304.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Hair-Raising Hare",
+            "season": "3",
+            "episode_number": "5",
+            "ep_id": "tv/looney-tunes/0305.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Acrobatty Bunny",
+            "season": "3",
+            "episode_number": "6",
+            "ep_id": "tv/looney-tunes/0306.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Big Snooze",
+            "season": "3",
+            "episode_number": "7",
+            "ep_id": "tv/looney-tunes/0307.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A Hare Grows in Manhattan",
+            "season": "3",
+            "episode_number": "8",
+            "ep_id": "tv/looney-tunes/0308.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Easter Yeggs",
+            "season": "3",
+            "episode_number": "9",
+            "ep_id": "tv/looney-tunes/0309.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Slick Hare",
+            "season": "3",
+            "episode_number": "1",
+            "ep_id": "tv/looney-tunes/0310.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Gorilla My Dreams",
+            "season": "3",
+            "episode_number": "11",
+            "ep_id": "tv/looney-tunes/0311.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "High Diving Hare",
+            "season": "3",
+            "episode_number": "12",
+            "ep_id": "tv/looney-tunes/0312.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Hillbilly Hare",
+            "season": "3",
+            "episode_number": "13",
+            "ep_id": "tv/looney-tunes/0313.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Bunny Hugged",
+            "season": "3",
+            "episode_number": "14",
+            "ep_id": "tv/looney-tunes/0314.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Operation Rabbit",
+            "season": "3",
+            "episode_number": "15",
+            "ep_id": "tv/looney-tunes/0315.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Bully for Bugs",
+            "season": "3",
+            "episode_number": "16",
+            "ep_id": "tv/looney-tunes/0316.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Bugs and Thugs",
+            "season": "3",
+            "episode_number": "17",
+            "ep_id": "tv/looney-tunes/0317.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Knighty Knight",
+            "season": "3",
+            "episode_number": "18",
+            "ep_id": "tv/looney-tunes/0318.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Honey's Money",
+            "season": "3",
+            "episode_number": "19",
+            "ep_id": "tv/looney-tunes/0319.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Hep Cat",
+            "season": "3",
+            "episode_number": "2",
+            "ep_id": "tv/looney-tunes/0320.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Pigs in a Polka",
+            "season": "3",
+            "episode_number": "21",
+            "ep_id": "tv/looney-tunes/0321.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A Ham in a Role",
+            "season": "3",
+            "episode_number": "22",
+            "ep_id": "tv/looney-tunes/0322.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Dog Gone South",
+            "season": "3",
+            "episode_number": "23",
+            "ep_id": "tv/looney-tunes/0323.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A Bear for Punishment",
+            "season": "3",
+            "episode_number": "24",
+            "ep_id": "tv/looney-tunes/0324.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Steal Wool",
+            "season": "3",
+            "episode_number": "25",
+            "ep_id": "tv/looney-tunes/0325.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Porky Pig's Feat",
+            "season": "3",
+            "episode_number": "26",
+            "ep_id": "tv/looney-tunes/0326.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Scrap Happy Daffy",
+            "season": "3",
+            "episode_number": "27",
+            "ep_id": "tv/looney-tunes/0327.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Plane Daffy",
+            "season": "3",
+            "episode_number": "28",
+            "ep_id": "tv/looney-tunes/0328.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Stupid Cupid",
+            "season": "3",
+            "episode_number": "29",
+            "ep_id": "tv/looney-tunes/0329.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Draftee Daffy",
+            "season": "3",
+            "episode_number": "3",
+            "ep_id": "tv/looney-tunes/0330.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Nasty Quacks",
+            "season": "3",
+            "episode_number": "31",
+            "ep_id": "tv/looney-tunes/0331.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Stupor Salesman",
+            "season": "3",
+            "episode_number": "32",
+            "ep_id": "tv/looney-tunes/0332.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Wholly Smoke Porky",
+            "season": "3",
+            "episode_number": "33",
+            "ep_id": "tv/looney-tunes/0333.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Swooner Crooner",
+            "season": "3",
+            "episode_number": "34",
+            "ep_id": "tv/looney-tunes/0334.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Life with Feathers",
+            "season": "3",
+            "episode_number": "35",
+            "ep_id": "tv/looney-tunes/0335.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Canary Row",
+            "season": "3",
+            "episode_number": "36",
+            "ep_id": "tv/looney-tunes/0336.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Tree for Two",
+            "season": "3",
+            "episode_number": "37",
+            "ep_id": "tv/looney-tunes/0337.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Sandy Claws",
+            "season": "3",
+            "episode_number": "38",
+            "ep_id": "tv/looney-tunes/0338.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Dog Pounded",
+            "season": "3",
+            "episode_number": "39",
+            "ep_id": "tv/looney-tunes/0339.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Satan's Waitin'",
+            "season": "3",
+            "episode_number": "4",
+            "ep_id": "tv/looney-tunes/0340.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Birds Anonymous",
+            "season": "3",
+            "episode_number": "41",
+            "ep_id": "tv/looney-tunes/0341.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Mouse and Garden",
+            "season": "3",
+            "episode_number": "42",
+            "ep_id": "tv/looney-tunes/0342.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "The Pied Piper of Guadalupe",
+            "season": "3",
+            "episode_number": "43",
+            "ep_id": "tv/looney-tunes/0343.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "A Gruesome Twosome",
+            "season": "3",
+            "episode_number": "44",
+            "ep_id": "tv/looney-tunes/0344.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Guided Muscle",
+            "season": "3",
+            "episode_number": "45",
+            "ep_id": "tv/looney-tunes/0345.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Beep Prepared",
+            "season": "3",
+            "episode_number": "46",
+            "ep_id": "tv/looney-tunes/0346.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Walky Talky Hawky",
+            "season": "3",
+            "episode_number": "47",
+            "ep_id": "tv/looney-tunes/0347.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Rhapsody in Rivets",
+            "season": "3",
+            "episode_number": "48",
+            "ep_id": "tv/looney-tunes/0348.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "High Note",
+            "season": "3",
+            "episode_number": "49",
+            "ep_id": "tv/looney-tunes/0349.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        },
+        {
+            "title": "Nelly's Folly",
+            "season": "3",
+            "episode_number": "5",
+            "ep_id": "tv/looney-tunes/0350.mkv",
+            "thumbnail": "https://i.pinimg.com/736x/7d/23/87/7d23871d0dbefd87695dbf911acd3069.jpg"
+        }
+    ]
+}
