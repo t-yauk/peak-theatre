@@ -1811,6 +1811,23 @@
             "endTime": "245"
         },
         {
+            "title": "Eyes Wide Shut",
+            "director": "Stanley Kubrick",
+            "year": "1999",
+            "duration": "2h 39m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video69/v4/99/85/01/99850167-aa97-975b-7ee0-e2321217420a/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMzc1ZjBlOWMtNzAxMi00NzNlLTlmZDYtZmE2YzBkMzU1OTdlXkEyXkFqcGc@._V1_.jpg",
+            "description": "A Manhattan doctor embarks on a bizarre, night-long odyssey after his wife's admission of unfulfilled longing.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Thriller",
+                "Mystery"
+            ],
+            "id": "eyes-wide-shut.mkv",
+            "endTime": "320"
+        },
+        {
             "title": "The Fabelmans",
             "director": "Steven Spielberg",
             "year": "2022",
@@ -4538,6 +4555,23 @@
             "endTime": "368"
         },
         {
+            "title": "Osmosis Jones",
+            "director": "Bobby Farrelly, Peter Farrelly",
+            "year": "2001",
+            "duration": "1h 35m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video6/v4/d2/27/68/d2276874-019e-db45-75c6-f6183c12849b/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjE1MzkzMzE0OF5BMl5BanBnXkFtZTcwNzU5OTQyNw@@._V1_.jpg",
+            "description": "A policeman white blood cell, with the help of a cold pill, must stop a deadly virus from destroying Frank, the person they live in.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Family",
+                "Comedy"
+            ],
+            "id": "osmosis-jones.mp4",
+            "endTime": "426"
+        },
+        {
             "title": "The Outsiders",
             "director": "Francis Ford Coppola",
             "year": "1983",
@@ -5502,6 +5536,23 @@
             "endTime": "40",
             "trailer_id": "the-sound-of-music.mp4",
             "roadshow": "true"
+        },
+        {
+            "title": "Space Jam",
+            "director": "Joe Pytka",
+            "year": "1996",
+            "duration": "1h 28m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/45/bd/77/45bd77b7-a3a5-5694-c60c-e7056c2a7218/pr_source.jpg/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNzZlMWU4NDAtODBjZC00OWM2LWE4N2MtNDExYjU1YTJiY2I5XkEyXkFqcGc@._V1_.jpg",
+            "description": "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired NBA star Michael Jordan.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Sport"
+            ],
+            "id": "space-jam.mkv",
+            "endTime": "503"
         },
         {
             "title": "Spartacus",
