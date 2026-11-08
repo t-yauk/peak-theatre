@@ -3949,6 +3949,22 @@
             "endTime": "165"
         },
         {
+            "title": "Monty Python's Life of Brian",
+            "director": "Terry Jones",
+            "year": "1979",
+            "duration": "1h 34m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNDMzY2E4NjEtMTJiZC00Y2UzLWFiM2MtZWVhNTg5OGQxNjk1XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BOGQyYjE2ZTAtM2NlOC00NjEzLTkwNzctMGZhM2MyMTgyYjNiXkEyXkFqcGc@._V1_.jpg",
+            "description": "Born on the original Christmas day in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for the messiah.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Comedy"
+            ],
+            "id": "life-of-brian.mkv",
+            "endTime": "72"
+        },
+        {
             "title": "Monty Python's The Meaning of Life",
             "director": "Terry Jones",
             "year": "1983",
@@ -4848,6 +4864,23 @@
             "endTime": "323"
         },
         {
+            "title": "Primetime",
+            "director": "Lance Oppenheim",
+            "year": "2026",
+            "duration": "1h 49m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQ3OTU3MjMtMTUyYi00NjIzLWFmYzAtYzhhOTA4ZGYzMmQ0XkEyXkFqcGc@._V1_.jpg",
+            "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Drama",
+                "Thriller"
+            ],
+            "id": "primetime.mkv",
+            "endTime": "410"
+        },
+        {
             "title": "The Prince of Egypt",
             "director": "Brenda Chapman, Steve Hickner, Simon Wells",
             "year": "1998",
@@ -5035,6 +5068,22 @@
             ],
             "id": "reservoir-dogs.mkv",
             "endTime": "231"
+        },
+        {
+            "title": "Resident Evil",
+            "director": "Zach Cregger",
+            "year": "2026",
+            "duration": "1h 34m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BODIwYTk4MWYtMGUxYS00OWUzLTg5MDYtNzg5MmYyNzcyNThkXkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYmQzMWMxMGYtMTg0OS00NmUyLWFjNzctZTY1ZmFkNDI3MWVmXkEyXkFqcGc@._V1_.jpg",
+            "description": "A hapless courier is tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Horror"
+            ],
+            "id": "resident-evil.mkv",
+            "endTime": "438"
         },
         {
             "title": "Rocky",
