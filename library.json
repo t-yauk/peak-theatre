@@ -6633,6 +6633,23 @@
             "endTime": "360"
         },
         {
+            "title": "The Warriors",
+            "director": "Walter Hill",
+            "year": "1979",
+            "duration": "1h 33m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/bb/84/37/bb8437e7-ae48-aa52-7aee-e0b9a24da1fc/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMmVlZWFkMzAtZDQxZC00MjAyLWE1NzAtZGU1ZjBlMmQ4M2MwXkEyXkFqcGc@._V1_.jpg",
+            "description": "Members of a street gang known as the Warriors must fight their way from the Bronx to their home turf on Coney Island when they are falsely accused of assassinating a respected gang leader.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "id": "warriors.mkv",
+            "endTime": "172"
+        },
+        {
             "title": "Weapons",
             "director": "Zach Cregger",
             "year": "2025",
