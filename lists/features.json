@@ -1,19 +1,19 @@
 {
     "movies": [
         {
+            "name": "The Odyssey"
+        },
+        {
+            "name": "Resident Evil"
+        },
+        {
+            "name": "Primetime"
+        },
+        {
             "name": "Spider-Man: Brand New Day"
         },
         {
             "name": "Disclosure Day"
-        },
-        {
-            "name": "The Mandalorian and Grogu"
-        },
-        {
-            "name": "The Devil Wears Prada 2"
-        },
-        {
-            "name": "Nirvanna: The Band - The Show - The Movie"
         }
     ]
 }
