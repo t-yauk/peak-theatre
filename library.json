@@ -4443,6 +4443,23 @@
             "endTime": "195"
         },
         {
+            "title": "The Odyssey",
+            "director": "Christopher Nolan",
+            "year": "2026",
+            "duration": "2h 52m",
+            "image_url": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/movie-elements/MV5BNDQ0MGE5MTQtODk5Ny00NTI5LTk4MDUtZDQzNDhhOTI2Yzc5XkEyXkFqcGc@.png",
+            "previewImage": "https://raw.githubusercontent.com/t-yauk/peak-theatre/main/media/movie-elements/1410224.jpg",
+            "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Fantasy"
+            ],
+            "id": "the-odyssey.mkv",
+            "endTime": "405"
+        },
+        {
             "title": "Of Mice and Men",
             "director": "Lewis Milestone",
             "year": "1939",
