@@ -465,6 +465,11 @@
         "empire-of-the-sun.mkv"
     ],
     [
+        "The End of Oak Street",
+        "2026",
+        "the-end-of-oak-street.mkv"
+    ],
+    [
         "Enemy",
         "2013",
         "enemy.mkv"
@@ -508,6 +513,11 @@
         "The Exorcist",
         "1973",
         "the-exorcist.mkv"
+    ],
+    [
+        "Eyes Wide Shut",
+        "1999",
+        "eyes-wide-shut.mkv"
     ],
     [
         "The Fabelmans",
@@ -640,6 +650,11 @@
         "hearts-of-darkness.mkv"
     ],
     [
+        "Hello, Dolly!",
+        "1969",
+        "hello-dolly.mkv"
+    ],
+    [
         "Highest 2 Lowest",
         "2025",
         "highest-2-lowest.mkv"
@@ -658,6 +673,31 @@
         "Hot Dog...The Movie",
         "1984",
         "hot-dogthe-movie.mkv"
+    ],
+    [
+        "The Hunger Games",
+        "2012",
+        "the-hunger-games.mkv"
+    ],
+    [
+        "The Hunger Games: Catching Fire",
+        "2013",
+        "the-hunger-games-catching-fire.mkv"
+    ],
+    [
+        "The Hunger Games: Mockingjay - Part 1",
+        "2013",
+        "the-hunger-games-mockingjay---part-1.mkv"
+    ],
+    [
+        "The Hunger Games: Mockingjay - Part 2",
+        "2015",
+        "the-hunger-games-mockingjay---part-2.mkv"
+    ],
+    [
+        "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "2023",
+        "the-hunger-games-the-ballad-of-songbirds-snakes.mkv"
     ],
     [
         "I Know Where I'm Going!",
@@ -1000,6 +1040,11 @@
         "the-matrix-resurrections.mkv"
     ],
     [
+        "MaXXXine",
+        "2024",
+        "maxxxine.mkv"
+    ],
+    [
         "Mean Streets",
         "1973",
         "mean-streets.mkv"
@@ -1088,6 +1133,11 @@
         "Monty Python and the Holy Grail",
         "1975",
         "monty-python-and-the-holy-grail.mkv"
+    ],
+    [
+        "Monty Python's Life of Brian",
+        "1979",
+        "monty-pythons-life-of-brian.mkv"
     ],
     [
         "Monty Python's The Meaning of Life",
@@ -1225,9 +1275,19 @@
         "nouvelle-vague.mkv"
     ],
     [
+        "The Odyssey",
+        "2026",
+        "the-odyssey.mkv"
+    ],
+    [
         "Of Mice and Men",
         "1939",
         "of-mice-and-men.mkv"
+    ],
+    [
+        "On the Waterfront",
+        "1954",
+        "on-the-waterfront.mkv"
     ],
     [
         "One Battle After Another",
@@ -1240,6 +1300,11 @@
         "once-upon-a-time-in-america.mkv"
     ],
     [
+        "One Flew Over the Cuckoo's Nest",
+        "1975",
+        "one-flew-over-the-cuckoos-nest.mkv"
+    ],
+    [
         "Onibaba",
         "1964",
         "onibaba.mkv"
@@ -1250,6 +1315,11 @@
         "oppenheimer.mkv"
     ],
     [
+        "Osmosis Jones",
+        "2001",
+        "osmosis-jones.mkv"
+    ],
+    [
         "The Outsiders",
         "1983",
         "the-outsiders.mkv"
@@ -1258,6 +1328,11 @@
         "Pan's Labyrinth",
         "2006",
         "pans-labyrinth.mkv"
+    ],
+    [
+        "Parasite",
+        "2019",
+        "parasite.mkv"
     ],
     [
         "Paths Of Glory",
@@ -1325,6 +1400,11 @@
         "planes-trains-automobiles.mkv"
     ],
     [
+        "Primetime",
+        "2026",
+        "primetime.mkv"
+    ],
+    [
         "The Prince of Egypt",
         "1998",
         "the-prince-of-egypt.mkv"
@@ -1378,6 +1458,11 @@
         "Reservoir Dogs",
         "1992",
         "reservoir-dogs.mkv"
+    ],
+    [
+        "Resident Evil",
+        "2026",
+        "resident-evil.mkv"
     ],
     [
         "Rocky",
@@ -1525,9 +1610,19 @@
         "the-sound-of-music.mkv"
     ],
     [
+        "Space Jam",
+        "1996",
+        "space-jam.mkv"
+    ],
+    [
         "Spartacus",
         "1960",
         "spartacus.mkv"
+    ],
+    [
+        "Spider-Man: Brand New Day",
+        "2026",
+        "spider-man-brand-new-day.mkv"
     ],
     [
         "Splitsville",
@@ -1575,6 +1670,11 @@
         "stop-that-train.mkv"
     ],
     [
+        "A Streetcar Named Desire",
+        "1951",
+        "a-streetcar-named-desire.mkv"
+    ],
+    [
         "Summer Stock",
         "1950",
         "summer-stock.mkv"
@@ -1618,6 +1718,11 @@
         "Tampopo",
         "1985",
         "tampopo.mkv"
+    ],
+    [
+        "Tenzing",
+        "2026",
+        "tenzing.mkv"
     ],
     [
         "The Terminal",
@@ -1673,6 +1778,11 @@
         "Throne of Blood",
         "1957",
         "throne-of-blood.mkv"
+    ],
+    [
+        "Thunderbolts*",
+        "2025",
+        "thunderbolts.mkv"
     ],
     [
         "Time Bandits",
@@ -1795,9 +1905,19 @@
         "walk-hard.mkv"
     ],
     [
+        "WALL\u00b7E",
+        "2008",
+        "walle.mkv"
+    ],
+    [
         "Wallace & Gromit",
         "2005",
         "wallace-gromit.mkv"
+    ],
+    [
+        "The Warriors",
+        "1979",
+        "the-warriors.mkv"
     ],
     [
         "Weapons",
