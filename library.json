@@ -409,6 +409,57 @@
             "endTime": "206"
         },
         {
+            "title": "Batman Begins",
+            "director": "Christopher Nolan",
+            "year": "2005",
+            "duration": "2h 20m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/78/49/41/784941ac-43c4-e3ee-204c-6dd87de283e6/contsched.deqkhkxo.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZGQ4YzMwNzItMmFlYS00M2FjLTkzNTAtZTY5ZGI3MDFmNzUyXkEyXkFqcGc@._V1_.jpg",
+            "description": "After witnessing his parents' death, billionaire Bruce Wayne learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Crime"
+            ],
+            "id": "batman-begins.mkv",
+            "endTime": "540"
+        },
+        {
+            "title": "The Dark Knight",
+            "director": "Christopher Nolan",
+            "year": "2008",
+            "duration": "2h 32m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video18/v4/7e/44/af/7e44aff2-1470-c0e5-4766-74da5520c2ee/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTkyNTI0NDM5NF5BMl5BanBnXkFtZTcwMDkzMTk2Mw@@._V1_.jpg",
+            "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Crime"
+            ],
+            "id": "the-dark-knight.mkv",
+            "endTime": "459"
+        },
+        {
+            "title": "The Dark Knight Rises",
+            "director": "Christopher Nolan",
+            "year": "2012",
+            "duration": "2h 44m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/2e/93/f2/2e93f2e1-bc37-e323-1bbc-eec20ce59e8b/contsched.bbfxjsow.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTk3MDY1MTAyOF5BMl5BanBnXkFtZTcwMzYwMzQxOA@@._V1_.jpg",
+            "description": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Crime"
+            ],
+            "id": "the-dark-knight-rises.mkv",
+            "endTime": "456"
+        },
+        {
             "title": "The Batman",
             "director": "Matt Reeves",
             "year": "2022",
@@ -2510,6 +2561,23 @@
             "endTime": "17"
         },
         {
+            "title": "Inception",
+            "director": "Christopher Nolan",
+            "year": "2010",
+            "duration": "2h 28m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video4/v4/86/ac/14/86ac14f2-8c9b-2a5a-80be-49b8ee402228/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BNTQ5NzI5ODUyOV5BMl5BanBnXkFtZTcwMzU0OTk1Mw@@._V1_.jpg",
+            "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Sci-Fi",
+                "Action"
+            ],
+            "id": "inception.mkv",
+            "endTime": "426"
+        },
+        {
             "title": "Raiders of the Lost Ark",
             "subtitle": "Indiana Jones",
             "director": "Steven Spielberg",
@@ -3708,6 +3776,23 @@
             "endTime": "11"
         },
         {
+            "title": "Memento",
+            "director": "Christopher Nolan",
+            "year": "2000",
+            "duration": "1h 53m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/b6/fe/e3/b6fee306-60e5-7583-372d-81251a8a5bd5/contsched.dnecormb.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMTQyNzU3MDU0OF5BMl5BanBnXkFtZTcwMzY0NzY2NA@@._V1_.jpg",
+            "description": "A former insurance investigator who now suffers from anterograde amnesia uses notes and tattoos to hunt down his wife's murderer.",
+            "featured": "false",
+            "theatre_optimized": "false",
+            "genre": [
+                "Thriller",
+                "Crime"
+            ],
+            "id": "memento.mp4",
+            "endTime": "178"
+        },
+        {
             "title": "The Menu",
             "director": "Mark Mylod",
             "year": "2022",
@@ -4474,7 +4559,7 @@
                 "Fantasy"
             ],
             "id": "the-odyssey.mkv",
-            "endTime": "405"
+            "endTime": "408"
         },
         {
             "title": "Of Mice and Men",
@@ -4896,6 +4981,23 @@
             ],
             "id": "planes-trains-automobiles.mkv",
             "endTime": "323"
+        },
+        {
+            "title": "The Prestige",
+            "director": "Christopher Nolan",
+            "year": "2006",
+            "duration": "2h 10m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/20/81/53/20815308-4a00-633d-d104-513b989c2e78/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjExMzYwODQzMF5BMl5BanBnXkFtZTcwMTcyNDMyMw@@._V1_.jpg",
+            "description": "Two magicians dismantle their lives to outmaneuver each other following a shared tragedy. They chase the ultimate illusion across Victorian London, sacrificing sanity and safety to master a teleportation feat that defies all logic.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Thriller",
+                "Sci-Fi"
+            ],
+            "id": "the-prestige.mkv",
+            "endTime": "315"
         },
         {
             "title": "Primetime",
@@ -5998,6 +6100,23 @@
             "id": "tampopo.mp4",
             "subtitle_id": "tampopo.vtt",
             "endTime": "166"
+        },
+        {
+            "title": "Tenet",
+            "director": "Christopher Nolan",
+            "year": "2020",
+            "duration": "2h 30m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/1b/40/3d/1b403d93-e7dd-3816-a5f3-d8632186b9d3/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BZGI2NDQzMDQtYmQyZC00ZTQxLTk3MDQtNDI0N2U4Y2U1NTk4XkEyXkFqcGc@._V1_.jpg",
+            "description": "Armed with only the word \"Tenet,\" and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ],
+            "id": "tenet.mkv",
+            "endTime": "404"
         },
         {
             "title": "Tenzing",
