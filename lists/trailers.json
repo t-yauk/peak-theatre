@@ -115,6 +115,21 @@
         "barry-lyndon.mkv"
     ],
     [
+        "Batman Begins",
+        "2005",
+        "batman-begins.mkv"
+    ],
+    [
+        "The Dark Knight",
+        "2008",
+        "the-dark-knight.mkv"
+    ],
+    [
+        "The Dark Knight Rises",
+        "2012",
+        "the-dark-knight-rises.mkv"
+    ],
+    [
         "The Batman",
         "2022",
         "the-batman.mkv"
@@ -450,6 +465,11 @@
         "dungeons-dragons-honor-among-thieves.mkv"
     ],
     [
+        "Dunkirk",
+        "2017",
+        "dunkirk.mkv"
+    ],
+    [
         "Edward Scissorhands",
         "1990",
         "edward-scissorhands.mkv"
@@ -713,6 +733,11 @@
         "Ikiru",
         "1952",
         "ikiru.mkv"
+    ],
+    [
+        "Inception",
+        "2010",
+        "inception.mkv"
     ],
     [
         "Raiders of the Lost Ark",
@@ -1060,6 +1085,11 @@
         "melody-time.mkv"
     ],
     [
+        "Memento",
+        "2000",
+        "memento.mkv"
+    ],
+    [
         "The Menu",
         "2022",
         "the-menu.mkv"
@@ -1400,6 +1430,11 @@
         "planes-trains-automobiles.mkv"
     ],
     [
+        "The Prestige",
+        "2006",
+        "the-prestige.mkv"
+    ],
+    [
         "Primetime",
         "2026",
         "primetime.mkv"
@@ -1720,6 +1755,11 @@
         "tampopo.mkv"
     ],
     [
+        "Tenet",
+        "2020",
+        "tenet.mkv"
+    ],
+    [
         "Tenzing",
         "2026",
         "tenzing.mkv"
@@ -1905,7 +1945,7 @@
         "walk-hard.mkv"
     ],
     [
-        "WALL\u00b7E",
+        "WALL·E",
         "2008",
         "walle.mkv"
     ],
