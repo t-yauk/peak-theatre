@@ -4724,6 +4724,57 @@
             "endTime": "315"
         },
         {
+            "title": "Paddington",
+            "director": "Paul King",
+            "year": "2014",
+            "duration": "1h 35m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/77/14/ff/7714ff99-a6bc-3d5c-6539-ddca35eb9ed6/Paddington_iTunesStore-Movies-Cover.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjI2NTg3MzMxNF5BMl5BanBnXkFtZTgwNjQ2MTEwNDE@._V1_.jpg",
+            "description": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Comedy"
+            ],
+            "id": "paddington-1.mkv",
+            "endTime": "450"
+        },
+        {
+            "title": "Paddington 2",
+            "director": "Paul King",
+            "year": "2017",
+            "duration": "1h 44m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/cb/a3/4c/cba34c58-a3a9-e865-8daa-ea8076e44f0a/pr_source.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjExODEyMDQ2Ml5BMl5BanBnXkFtZTgwNTY4MTkwNDI@._V1_.jpg",
+            "description": "Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday, only for the gift to be stolen.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Comedy"
+            ],
+            "id": "paddington-2.mkv",
+            "endTime": "383"
+        },
+        {
+            "title": "Paddington in Peru",
+            "director": "Dougal Wilson",
+            "year": "2024",
+            "duration": "1h 46m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f0/ea/53/f0ea53da-bb98-7577-ef9f-da4158d806ef/SPE_PADDINGTON_IN_PERU_TH_ITUNES_WW_ARTWORK_2000x3000_EN-US_3U6QFC000008NB.lsr/2000x3000CA.TVA23C01.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMGRkMzhlZDAtMTgwMS00YjczLTkzY2YtZjY4NmZkMGJiMjE0XkEyXkFqcGc@._V1_.jpg",
+            "description": "Paddington returns to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Family",
+                "Comedy"
+            ],
+            "id": "paddington-3.mkv",
+            "endTime": "519"
+        },
+        {
             "title": "Pan's Labyrinth",
             "director": "Guillermo del Toro",
             "year": "2006",
