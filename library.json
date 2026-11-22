@@ -1077,6 +1077,7 @@
             "description": "Tashi, a former tennis prodigy turned coach, transformed her husband into a champion. But to overcome a recent losing streak and redeem himself, he'll need to face off against his former best friend and Tashi's ex-boyfriend.",
             "featured": "false",
             "theatre_optimized": "true",
+            "lightMode": "true",
             "genre": [
                 "Sport",
                 "Romance"
