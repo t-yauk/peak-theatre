@@ -2018,6 +2018,23 @@
             "endTime": "36"
         },
         {
+            "title": "Fjord",
+            "director": "Cristian Mungiu",
+            "year": "2026",
+            "duration": "2h 26m",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/cc/ea/d0/ccead0ce-773b-c543-8b25-d96392b50116/Neon_Fjord_Poster_2000x3000.png/2000x3000CA.TVA23C01.png",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BYTlmZDE1ZTYtNDA1Zi00YTQzLTk3YzctNGM3MDM2ZjMyODNiXkEyXkFqcGc@._V1_.jpg",
+            "description": "An immigrant Romanian family living in Norway is subject to an investigation and faces the scrutiny of the local judicial system.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Drama"
+            ],
+            "id": "fjord.mkv",
+            "subtitle_id": "fjord.vtt",
+            "endTime": "146"
+        },
+        {
             "title": "The Fly",
             "director": "David Cronenberg",
             "year": "1986",
