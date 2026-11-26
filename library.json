@@ -6998,6 +6998,22 @@
             "endTime": "12"
         },
         {
+            "title": "You Can See Everything",
+            "director": "Nathan Fielder, Lance Oppenheim",
+            "year": "2026",
+            "duration": "2h 54m",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_.jpg",
+            "previewImage": "https://m.media-amazon.com/images/M/MV5BMjNiM2I4NjUtNzA3OC00N2VlLWIyYjEtOWM0MzQwNTMyYzlkXkEyXkFqcGc@._V1_.jpg",
+            "description": "Thirty-four days before she's sent to prison, notorious Theranos founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait becomes a mind-bending three-year journey.",
+            "featured": "false",
+            "theatre_optimized": "true",
+            "genre": [
+                "Documentary"
+            ],
+            "id": "you-can-see-everything.mkv",
+            "endTime": "183"
+        },
+        {
             "title": "Young Frankenstein",
             "director": "Mel Brooks",
             "year": "1974",
